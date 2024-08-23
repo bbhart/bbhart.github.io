@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    
+    <!-- Oculus-specific meta tags -->
+    <meta name="oculus:enable-dynamic-resolution" content="true">
+    <meta name="oculus:foveation-level" content="2">
+    <meta name="oculus:background-color" content="#000000">
+    
+    <!-- 360-degree content specific meta tag -->
+    <meta name="360" content="true">
+    
+    <!-- Optional: for better mobile performance -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <title>360-Degree Image Viewer</title>
+
+    <!-- A-Frame library -->
+    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+
+    <style>
+        body { margin: 0; padding: 0; }
+    </style>
+</head>
+<body>
+    <a-scene>
+        <a-sky src="https://bh-dist.s3.amazonaws.com/waterfall.JPG" rotation="0 -90 0"></a-sky>
+    </a-scene>
+</body>
+</html>
