@@ -1,3 +1,6 @@
+---
+---
+{% include head.html %}
 
 Brian Hart's Pages
 ==================
