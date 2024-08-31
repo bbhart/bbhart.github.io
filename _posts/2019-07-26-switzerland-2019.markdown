@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Switzerland Travels 2019"
+subtitle: "Travels to Geneva, Chamonix (France), and Interlaken
 date:   2024-08-28 09:05:28 -0400
 categories: travels
 background: '/assets/interlaken-harder-kulm.jpg'

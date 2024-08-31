@@ -67,5 +67,5 @@ jekyll_analytics:
     id: G-4MLY9HZJ50
     anonymizeIp: false
 
-paginate: 5
+paginate: 25
 paginate_path: "/posts/page:num/"
