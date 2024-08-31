@@ -30,7 +30,7 @@ linkedin_username: bhart
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-clean-blog
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 # Docs for theme: https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll
 
 plugins:
