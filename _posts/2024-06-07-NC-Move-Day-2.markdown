@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "NC Move Day 2"
+subtitle: 
+date:   2020-06-07 12:00:00 -0400
+categories: 
+background: '/assets/2020-move-day-2.jpg'
+---
+
+My car disappointed me in two ways today.
+
+The first instance: The car transport guys were picking up our vehicles today and I wanted to send mine off with a full charge. On my way back from Supercharging at the Sunnyvale Target, around 8:15am, a two car accident happened directly in front of me. I was waiting to turn left and a plumbing truck blew through the light at Hollenbeck and El Camino, slamming into some sort of white crossover vehicle. I was looking down so I didn’t see the strike but I heard the crash and looked up immediately to see cars bouncing off each other and debris flying everywhere. The plumbing truck practically exploded in PVC connectors of varying shapes and sizes.
+
+Did my dashcam get it? My dashcam that had a completely unobstructed view of the accident? No. For some reason, it decided not to work at that moment. This is a system designed to record every moment of your drive, and at the moment it could’ve provided valuable footage of an accident, it failed. I had to unplug and replug the USB flash drive twice before it decided to start working. For some reason, I was beyond pissed off; technology failing when it’s needed most has been a theme lately.
+
+Both drivers appeared shaken up but fine; they were both able to exit their vehicles and survey the damage (which was significant). As a bonus, the Sunnyvale police department headquarters is one block away, so officers arrived within about a minute.
+
+The second instance: My car has location tracking and mobile data, so I was looking forward to tracking it as it crossed the country. Problem is, it was showing as sitting around the corner all day today. Did the drivers disable GPS for some reason? No. Some Googling around suggests the car only reports location when it’s being driven. I can connect to the car (and honk the horn or open the trunk or flash the lights), but it won’t tell me where it’s located. Amazing job, Tesla. Truly excellent engineering.
+
+The auto transporter guys, who do this for a living, assured me this is fine and the metal is very strong and that I shouldn’t worry. We talked briefly about how the car is unusually heavy due to the battery and they doubled-down on the fineness of this setup. The guys were picking up two more cars here in the Bay Area and then bee-lining it cross-country. They were very keen to give me the cars mid-day Tuesday, but after some confusion and translating, I conveyed that I was flying to NC that day so that me (and my money) wouldn’t be available until Tuesday night at the earliest. Overall this is good, as they can meet us at a shopping center near our hotel (vs trying to navigate the residential streets of 12 Oaks) and we get to avoid renting a car at the airport.
