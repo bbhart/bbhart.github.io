@@ -1,0 +1,33 @@
+---
+layout: post
+title: Jan 11 2018
+description: >-
+  This is the first post in what is my delayed response to a new year resolution
+  to write more. It’ll mostly be random fragments of…
+date: '2019-01-11T22:54:38.924Z'
+categories: []
+keywords: []
+slug: /@bbhart_ca/jan-11-2018-e321bcb424e5
+---
+
+This is the first post in what is my delayed response to a new year resolution to write more. It’ll mostly be random fragments of whatever’s on my mind. (Bits and pieces of these may be coalesced into single topic posts later, so you get to see some sausage-making). Having the date as the subject commits me to publishing by end of day regardless of polish. Here we go!
+
+Back in September I spent two days at Oculus Connect 5, Facebook’s annual Oculus developer conference, in San Jose. I don’t work in the VR industry anymore — I suppose that officially ended when I left Jaunt — so when asked what I’m working on or why I was at the conference, I simply said I was an enthusiast.
+
+Because I’m not in the industry, I feel like a poseur at these VR events. There’s so much talent in the room, _and I don’t even work in VR_, so why am I there? I attend for the same reasons I went to a blockchain summit, a sysadmin meetup, an Engineering Leaders meetup: it makes me the good kind of uncomfortable, it broadens my horizons, provides a way to meet people operating near the top of their industry, and lets me sample new technologies and explore industries I may be want to work in down the road. I pay for these out of my pocket and I usually I get more out than I put in, so that’s a good investment.
+
+I missed out on the [Oculus Kickstarter](https://www.kickstarter.com/projects/1523379957/oculus-rift-step-into-the-game). I was definitely aware of it and excited; I can’t remember what I was thinking at the time, but it should’ve been a no-brainer for me. Months later, in March 2013, backers started receiving their kits and posting videos and I had to have one.
+
+![](/assets/1__JQStN0TxiWB__7tLqcGQpBw.png)
+
+During the waiting, I was reasonable about not checking status _every_ day.
+
+![](/assets/1__4xL__ce__eDErkxwyq__8x__yw.png)
+
+On May 28, I received an email that my order was _about_ to ship, but no actual ship notice until July 2. A few days later it was on my face.
+
+I downloaded any and every demo I could get my hands on, and was excited to show off to whoever was even remotely interested. You don’t really “get” VR until you experience it. [Riftcoaster](https://youtu.be/niq-8QWszkc) was my go-to demo for first-timers, with something more interactive like [Qbeh](https://www.youtube.com/watch?v=wCAHY_SK79g) or even [Lunar Flight](https://www.youtube.com/watch?v=jEwVlvBlNyw) if my test subjects’ stomachs were holding up.
+
+With the family in Canada for the summer and me still in Florida, I had lots of time to geek out. I wanted to learn everything I could. I read [Road to VR](https://roadtovr.com), watched countless YouTube videos, started poking around with Unity and UE4, and learning more about the developers who were crafting these early experiences. VR was something new and amazing that nobody around me knew anything about.
+
+The next month, in August 2013, I moved to Silicon Valley.

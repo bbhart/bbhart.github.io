@@ -1,0 +1,37 @@
+---
+layout: post
+title: MacBook Air
+description: I bought myself a MacBook Air yesterday.
+date: '2011-10-19T02:26:32.000Z'
+categories: []
+keywords: []
+slug: /@bbhart_ca/macbook-air-96a22324091a
+---
+
+**_Update: Nov 1, 2018:_** _my wife still uses this MacBook Air as her primary home computer. We did a battery replacement last year, which was relatively painless, and this laptop still meets our needs. Amazing._
+
+—
+
+I bought myself a MacBook Air yesterday.
+
+Before I get into my thoughts on the computer itself, let me type at you for a minute about the Apple Store experience.
+
+I do not like it.
+
+I need order, not chaos. I need to know where to find my product, and where to pay for it. Instead, engaging someone to ask questions of or, more importantly, to **give money to**, is something closer to checking in at a busy foreign airport.
+
+Backing up a little bit, I’d decided last week that I needed a new laptop. Work provides one, but it’s mostly inadequate. The virus checker runs almost non-stop, which kills performance. When the virus checker isn’t chugging, Outlook is doing God-knows-what; I can open Task Manager and watch it writing, writing, writing. The battery lasts about an hour, probably because of the virus checking and Outlook activity. It’s heavy and bulky and I’m not crazy about the keyboard and Outlook freezes every day or so when trying to do things like, you know, receive email, and… and… and… it’s enough already. Windows is still mostly unsatisfying, though Windows 7 is their best OS yet and I don’t mind it _that_ much. But it’s still not the computing experience I expect. I’m still fighting my PC.
+
+So I’d decided I was buying myself a Mac laptop, but hadn’t decided between a 13" MacBook Pro and a 15" MacBook Pro. I needed to go to the store and poke and prod them. Since I’d done a fair amount of research online before hitting the store, I didn’t need to spend a lot of time comparing specs, but felt I needed to lay on hands to see what felt right. And after all the touch tests, the Air became the clear winner for what I needed. The weight different between a 13" Air (2.96lbs) and a 13" Pro (4.5lbs) is surprising. You wouldn’t think 1.5 lbs would make a big difference, but it does. I picked the Air up and it just felt right. The intention was to buy a laptop for email, communications (Lync, Skype), web browsing, development, and documents. No heavy gaming or video editing, no 200GB media library. When I took all that into consideration, the choice was simple.
+
+Now I’m in the Apple Store and I’ve decided which laptop I want. I’m ready to give someone money. But I can’t find someone to take my money. There’s a 1:8 ratio of Blue Shirts to customers, everyone occupied. The storefront greeter person says they have a new system, called iQueue (and why not?). He walks me over to the nearest laptop and hits a button on the iPad next to it, which is supposed to place me in a queue for a blue shirt. But it posts an error. Try again, error. Aha! After the 7th time, it says I’m in a queue. I’m instructed to wait by my designated iPad and wait for a blue shirt. For grins I start the Timer app on my phone to see how long it takes. Then I proceed to spend the next 10 minutes and 37 seconds standing like a tool waiting for someone to come by, all while (unsuccessfully) trying to flag down someone _else_ that can help me before that. Remember, this is me basically trying my best to hand someone $1383.
+
+There’s a psychology and/or industrial design lesson in here somewhere. So yes, I’m not a fan of the Apple Retail experience.
+
+The problem is, it doesn’t much matter in the end. If I’d said screw it after 8 minutes of waiting, I still would’ve gone home and bought it from the online store, where the margins are even meatier. Apple wins either way.
+
+But now I have the laptop, and the memories of how I acquired it are starting to fade. It’s a beautiful product. The screen is the right size for me. The exterior feels solid despite the light weight. The keyboard is a pleasure. The solid state drive is zippy and the 128GB capacity shouldn’t be a problem since most of my stuff is stored “in the cloud” or on our home NAS. I’ve been sitting on the couch typing for 100 minutes now and it just occurred to me to check the battery life. Oh, still 65% left. I rebooted once yesterday when upgrading to OSX 7.2 and some other updates, and not because of a crash. Outlook for Mac 2011 is on here and isn’t the complete disaster that Entourage was. Skype, Chrome, and Dropbox all work fine. The touchpad is by far the best pointing device I’ve used on any laptop so far, even including ThinkPad’s eraser-nub stick. I’d love to complain about something, but I can’t yet. Perhaps since I came into this relationship with such low standards I can’t see the flaws under the surface and I’ll have a monster blog post in a few weeks railing on all the problems I’m having.
+
+Oddly, this is only the second Apple computer I’ve ever bought, despite having used Apples for 27 years or so now.
+
+_Originally published at_ [_bbhart.com_](https://bbhart.com/macbook-air-46a8b3ab6ace) _on October 19, 2011._

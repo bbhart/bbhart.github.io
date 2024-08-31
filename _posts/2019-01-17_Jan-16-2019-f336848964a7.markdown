@@ -1,0 +1,17 @@
+---
+layout: post
+title: Jan 16 2019
+description: >-
+  Oculus Go is good but not great. It caters to an audience that isn’t me, is
+  all. A friend at work uses his to watch movies in his bed while…
+date: '2019-01-17T05:45:18.951Z'
+categories: []
+keywords: []
+slug: /@bbhart_ca/jan-16-2019-f336848964a7
+---
+
+[Oculus Go](https://www.oculus.com/go/) is good but not great. It caters to an audience that isn’t me, is all. A friend at work uses his to watch movies in his bed while his wife watches the TV, and that seems to work well. For me, I watched a show in Oculus Venues — but that **requires** a Facebook login so I couldn’t enjoy it with my Go-owner friend who doesn’t want to create a Facebook account just for that (which I understand). I’ve tinkered with a few games and I like being able to pop it on my head and look at my 360 photos, but otherwise I don’t have a compelling use for it.
+
+The [Quest](https://www.oculus.com/quest/), on the other hand, will be a game changer. Low friction to getting started (pop it on your head and go), none of the wires mucky-muck, and [6DOF](https://en.wikipedia.org/wiki/Six_degrees_of_freedom) tracking of head and hands are all very exciting. I can’t wait to get mine and play around with some of the possibilities inside-out tracking enables.It’s even motivated me to make a serious effort in learning the basics of a game engine (I chose UE4). With hard work, I hope to be able to show something I’ve created.
+
+Leaving tomorrow for India. I’m hoping to keep the writing going during the trip. As mentioned previously, many (most?) days the writing will be disjointed… my goal is to put **_something_** down and then try to improve over time.

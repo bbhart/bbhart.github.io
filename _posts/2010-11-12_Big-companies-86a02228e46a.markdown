@@ -1,0 +1,27 @@
+---
+layout: post
+title: Big companies
+description: Here’s a fairly typical Big Company problem.
+date: '2010-11-12T17:46:36.000Z'
+categories: []
+keywords: []
+slug: /@bbhart_ca/big-companies-86a02228e46a
+---
+
+Here’s a fairly typical Big Company problem.
+
+![](/assets/0__IaB0wjHPfTZvYu3z.png)
+
+Normally I would’ve received this email sometime in mid-October, and then turned around and paid it right away. I’m good like that. But in this case I received the bill two days after it was due. And since it was for a credit card, Citi happily tacked on a late fee and interest.
+
+Now, I say it’s a typical Big Company problem not because of the delayed e-Bill, but because of what it took to fix it.
+
+20 minutes total on the phone with Bank of America, about 17 of which was sitting in a queue. Bank of America only received the bill from Citi on 11/10, so I need to talk to Citi. Call to Citi, phone answered in less than a minute. What’s my password? What do you mean “password”? Evidently it starts with a J and I set it up when I filled out the application years ago. I’ll have to transfer you to Fraud Detection. The Fraud Detection people, “What’s your password?”. That’s why I’m here. Let’s reset it. Ok, send me back to customer service. CSR didn’t seem to understand what e-Billing is. Sigh. I ask him to look at my account, look at the fact I pay every statement within a few days of receiving it, and remove the late fees and interest. He says he’ll make a note on my file for his bosses to review. I should know whether they came off next month.
+
+The whole thing took about an hour and a half, from me seeing that I had late fees, to figuring out it was a late e-Bill, to hanging up with the Citi CSR.
+
+What bothers me is not that there was a mistake. It happens. It’s that I just **_know_** the Citi CSR didn’t believe me; he probably thinks I received the bill and forgot to pay it, and now I’m raising a stink because I don’t want to be out $31. The Big Company part of this issue is that the IT guys must know there was a Citi<=>BOA data exchange that kicked off three weeks late, but have no way to get that to the front-line people so when customers like me call they don’t have to try to move heaven & earth to get it wiped from the account.
+
+Shame on me for trusting e-Bills. Who’d have thought that paying someone to bring me my own personal printed-out version of my bill, writing Citi an IOU (in the form of a check) for the balance, and then paying someone to hand-deliver that IOU to Columbus, OH, would be more reliable than electronic statements and payments.
+
+_Originally published at_ [_bbhart.com_](https://bbhart.com/big-companies-49c12176af0c) _on November 12, 2010._

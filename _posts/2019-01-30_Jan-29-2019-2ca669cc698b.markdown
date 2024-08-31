@@ -1,0 +1,25 @@
+---
+layout: post
+title: Jan 29 2019
+description: >-
+  After posting last night I started the Architectural Imagination course. I’m
+  either jet lag punchy or not wired for the deeply intangible…
+date: '2019-01-30T07:59:13.224Z'
+categories: []
+keywords: []
+slug: /@bbhart_ca/jan-29-2019-2ca669cc698b
+---
+
+After posting last night I started the [Architectural Imagination course](https://courses.edx.org/courses/course-v1:HarvardX+GSD1x+1T2019/course/). I’m either jet lag punchy or not wired for the deeply abstract, but half the lecture went right over my head. Or did it? I don’t know. Perception feeds the imagination which allows understanding? I think? Regardless, I gleaned enough to start to be able to critique architectural styles, and I have homework to draw and submit a plan of a space of my choosing. It’s a rocky start so far.
+
+Facebook has been paying teens and adults $20/mo for them to install software on their phone (looks like a Device Management Profile, which can provide a lot of access) that then sends a wide swath of local data up for analysis. Since the profile provides OS-level access to the device, they’re able to pull info like call logs, private messages, chat messages (including attachments), emails, location info…
+
+I guess you **_can_** put a price on all your private data.
+
+Every so often I check the job market for software engineering managers here in Silicon Valley. More specifically, I’m scanning job description to see what skills are being sought.
+
+Great engineers recognize we’re on a treadmill of keeping up with constantly changing technologies. When I started my career (and the rest of this sentence will date me greatly), Novell was the ruling LAN OS, token ring had a material deployment footprint, and if you were using Ethernet instead you _might_ be able to find 100Mbit here and there. Since then I’ve tried to learn new skills to stay relevant: server OS’s (Windows 2000+, several Linux flavors), switching, routing, DNS, VM’s, (very) basic scripting in Perl/shell/Ruby/Python, and more recently AWS, Azure, and containers.
+
+I’d say a good 9 out of 10 JD’s for software engineering managers are looking for significant previous coding experience. More than hacking together quick tools here and there as needed. The obvious presumption here is that the best qualified _managers_ of software engineers are previous SWE’s who moved over to the management track. Or, put another way, understanding how to put together software isn’t enough; time spent coding software for a few years must also be there. There’s logic in that, sure, but it could lead to passing on a manager who is strong in the “softer” skills that make for an effective leader. You may end up, instead, with a brilliant architect nobody wants to report to.
+
+Where does that leave me? While I’m not necessarily looking to leave LinkedIn, the treadmill is still running, and I don’t want to fall off the back. If most of the companies around here want a manager who’s been a heads-down coder in the past, then that gap in my experience limits my opportunities. I ponder this daily.

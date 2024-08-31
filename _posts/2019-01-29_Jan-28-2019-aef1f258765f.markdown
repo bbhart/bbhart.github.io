@@ -1,0 +1,25 @@
+---
+layout: post
+title: Jan 28 2019
+description: >-
+  Dealing with the mental fog of wicked jet lag today. My CPAP machine reports 6
+  1/2 hours of sleep last night (which would be the second…
+date: '2019-01-29T02:10:16.115Z'
+categories: []
+keywords: []
+slug: /@bbhart_ca/jan-28-2019-aef1f258765f
+---
+
+Dealing with the mental fog of wicked jet lag today. My CPAP machine reports 6 1/2 hours of sleep last night (which would be the second best night for the last 10 days or so) but I’m still fuzzy and moving in slow motion.
+
+This was the third time I’ve visited India and our Bangalore office. I feel like I have my travel routine mostly figured out now, but there are still a few takeaways or areas I could improve:
+
+*   Still a fan of stopping in Dubai for an overnight. Next time I would try to arrange an entire day on the ground in order to visit around some and start to adjust to the time difference.
+*   The Airbnb presented a few challenges but I’d still strongly consider it for next time. Three of us were able to stay together in the same space (but without being crowded) while still saving money compared separate rooms. The [view from the room](https://photos.app.goo.gl/E4ecVs8xwKuZnJ8j6) was phenomenal. We had issues finding the building, and again getting buzzed in downstairs and dealing with building security, but we got over them, and I can’t say they’re unusual when dealing with an Airbnb setup. Mostly we were hampered by my not having data access to pull up the check-in instructions.
+*   Forgot nail clippers.
+*   It’s weird being naked at the airport, but showering there is 💯. Game-changer.
+*   Try to visit for two weeks. Being away from family and being unable to help with the kids for that long is difficult, but a longer stay takes better advantage of the physical and financial cost of the trip. Staying at the Marriott next to the office would cut down on one of the biggest issues I have with India: traffic. Weekend could be spent visiting Mysore, or The Maldives as a stretch goal.
+
+I started a Harvard online course called [The Architectural Imagination](https://online-learning.harvard.edu/course/architectural-imagination) this evening. Perhaps by my declaring it here, you’ll keep me accountable to actually finishing it?
+
+Cryptocurrency prices are dipping again after a brief respite the past few weeks. I’m only checking prices daily now, down from every 10 minutes this time last year. I still have holdings in Cardano (ADA), Ethereum (ETH), Ethereum Classic (ETC) (got this from holding ETH pre-fork), KIN, Bitcoin (BTC), and Nano. I’d like to spend some time with [Plutus](https://testnet.iohkdev.io/plutus/), Cardano’s functional contract platform, but face a significant uphill battle getting my head around functional programming. The reasons for favoring functional over object-oriented for certain applications make sense to me, but I’m not a strong coder to begin with (I’m more hack & slash bash or Python) and I’m bad at thinking about recursion, so… yeah. I need to figure out the best way to program my brain for FP.
