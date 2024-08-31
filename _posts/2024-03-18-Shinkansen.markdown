@@ -2,6 +2,7 @@
 layout: post
 title: Shinkansen
 subtitle: 
+background: '/assets/2024-shinkansen-arriving-in-station.png'
 date: 2024-03-18 13:53:09 -0400
 categories: travel japan
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blockbuster files for Chapter 11
-description: 'News: The Washington Post: Blockbuster seeks Chapter 11 protection'
+subtitle: 'News: The Washington Post: Blockbuster seeks Chapter 11 protection'
 date: '2010-09-24T14:29:12.000Z'
 categories: []
 keywords: []

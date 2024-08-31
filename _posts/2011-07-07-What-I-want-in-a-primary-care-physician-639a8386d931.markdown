@@ -1,9 +1,6 @@
 ---
 layout: post
 title: What I want in a primary care physician
-description: >-
-  My recent head pressure issue has made me more aware of how a portion of our
-  healthcare system works, how I work, and how out-of-sync we…
 date: '2011-07-07T20:46:42.000Z'
 categories: []
 keywords: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Japan Trip Days 1 and 2
-subtitle: 
+subtitle: The travel over and jet lag
 date: 2024-02-15 20:22:49 -0400
 categories: travel japan
 ---

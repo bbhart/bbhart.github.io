@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Jan 28 2019
-description: >-
-  Dealing with the mental fog of wicked jet lag today. My CPAP machine reports 6
-  1/2 hours of sleep last night (which would be the second…
+title: End of third trip to India
+subtitle: Jet lag and mental fog
 date: '2019-01-29T02:10:16.115Z'
 categories: []
 keywords: []

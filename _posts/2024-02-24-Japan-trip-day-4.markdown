@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Japan trip day 4
-subtitle: 
+subtitle: Tokyo
 date: 2024-02-24 16:38:51 -0400
 categories: travel japan
 ---

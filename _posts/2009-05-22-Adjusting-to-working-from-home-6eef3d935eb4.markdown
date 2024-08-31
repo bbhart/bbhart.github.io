@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Adjusting to working from home
-description: >-
-  This is day three of me working from home. I’m settling in pretty well,
-  working hard to develop discipline.
+subtitle: Routine is the key for my working from home
 date: '2009-05-22T18:30:12.000Z'
 categories: []
 keywords: []

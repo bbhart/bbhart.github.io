@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MacBook Air
-description: I bought myself a MacBook Air yesterday.
+subtitle: The best laptop I've ever owned
 date: '2011-10-19T02:26:32.000Z'
 categories: []
 keywords: []
@@ -10,7 +10,7 @@ slug: /@bbhart_ca/macbook-air-96a22324091a
 
 **_Update: Nov 1, 2018:_** _my wife still uses this MacBook Air as her primary home computer. We did a battery replacement last year, which was relatively painless, and this laptop still meets our needs. Amazing._
 
-—
+***
 
 I bought myself a MacBook Air yesterday.
 
@@ -33,5 +33,3 @@ The problem is, it doesn’t much matter in the end. If I’d said screw it afte
 But now I have the laptop, and the memories of how I acquired it are starting to fade. It’s a beautiful product. The screen is the right size for me. The exterior feels solid despite the light weight. The keyboard is a pleasure. The solid state drive is zippy and the 128GB capacity shouldn’t be a problem since most of my stuff is stored “in the cloud” or on our home NAS. I’ve been sitting on the couch typing for 100 minutes now and it just occurred to me to check the battery life. Oh, still 65% left. I rebooted once yesterday when upgrading to OSX 7.2 and some other updates, and not because of a crash. Outlook for Mac 2011 is on here and isn’t the complete disaster that Entourage was. Skype, Chrome, and Dropbox all work fine. The touchpad is by far the best pointing device I’ve used on any laptop so far, even including ThinkPad’s eraser-nub stick. I’d love to complain about something, but I can’t yet. Perhaps since I came into this relationship with such low standards I can’t see the flaws under the surface and I’ll have a monster blog post in a few weeks railing on all the problems I’m having.
 
 Oddly, this is only the second Apple computer I’ve ever bought, despite having used Apples for 27 years or so now.
-
-_Originally published at_ [_bbhart.com_](https://bbhart.com/macbook-air-46a8b3ab6ace) _on October 19, 2011._

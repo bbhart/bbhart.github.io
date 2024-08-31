@@ -1,9 +1,7 @@
 ---
 layout: post
-title: California — the first day
-description: >-
-  I’ve been in California for six days now. Let me try to exhausingly recap my
-  schedule first, and then I’ll add thoughts and impressions…
+title: Living in California - the beginning
+subtitle: The first six days of living in Sunnyvale
 date: '2013-08-30T03:20:06.000Z'
 categories: []
 keywords: []

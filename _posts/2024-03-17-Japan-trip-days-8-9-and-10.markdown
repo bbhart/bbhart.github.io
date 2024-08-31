@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Japan trip days 8, 9, and 10
-subtitle: 
+subtitle: Kyoto
 date: 2024-03-17 14:48:56 -0400
 categories: travel japan
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I might have to give up on OSX
-description: 'Originally published at bbhart.com on June 24, 2008.'
+subtitle: OSX is weird
 date: '2008-06-24T15:55:35.000Z'
 categories: []
 keywords: []

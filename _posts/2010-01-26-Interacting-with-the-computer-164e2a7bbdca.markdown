@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Interacting with the computer
-description: >-
-  How much time do you spend every day walking your PC through the steps
-  necessary to turn your intentions into actions?
+subtitle: Human-computer interaction still has a long way to go
 date: '2010-01-26T20:39:42.000Z'
 categories: []
 keywords: []

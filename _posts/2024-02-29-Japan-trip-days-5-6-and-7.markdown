@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Japan trip days 5, 6, and 7
-subtitle: 
+subtitle: Kamakura
 date: 2024-02-29 14:12:03 -0400
 categories: travel japan
 ---

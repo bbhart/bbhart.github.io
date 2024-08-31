@@ -1,9 +1,7 @@
 ---
 layout: post
 title: The move to 1111 Indigo
-description: >-
-  By this time next week, our move will be done and we’ll have spent our first
-  night in our new house.
+subtitle: Our first Celebration house
 date: '2010-02-04T00:11:08.000Z'
 categories: []
 keywords: []

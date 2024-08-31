@@ -1,14 +1,12 @@
 ---
 layout: post
 title: Bad baby day
-description: 'Note: this is from Sept 23, 2009, when son was ~6 weeks old.'
+subtitle: Adventures with our six week old
 date: '2009-09-23T23:14:20.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/bad-baby-day-4646fb797827
 ---
-
-_Note: this is from Sept 23, 2009, when son was ~6 weeks old._
 
 Today was our first overall bad day with the baby. He was fussy all day. You’d feed him, burp him, and set him down, and he’d start crying or making like he was still hungry. He needed LOTS of attention. Thankfully he’s resting now, but it’s 7:15p now and we’re anxious about the evening and overnight.
 

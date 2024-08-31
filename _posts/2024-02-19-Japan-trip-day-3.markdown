@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Japan trip day 3
-subtitle: 
+subtitle: First explorations in Tokyo
 date: 2024-02-19 16:02:34 -0400
 categories: travel japan
 ---

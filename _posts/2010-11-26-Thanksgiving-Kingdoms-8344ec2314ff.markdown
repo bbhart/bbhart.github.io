@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Thanksgiving Kingdoms
-description: >-
-  Thanksgiving 2010 was chock full of activity for the Celebration Harts this
-  year. Rowan’s nap schedule kept us in the Orlando area this…
 date: '2010-11-26T06:14:18.000Z'
 categories: []
 keywords: []

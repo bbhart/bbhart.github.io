@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day 1 at The Red House
-description: 'Everything’s here. The garage is full, there are boxes everywhere, but:'
+subtitle: Settling in to our second Celebration house
 date: '2010-02-10T03:11:53.000Z'
 categories: []
 keywords: []

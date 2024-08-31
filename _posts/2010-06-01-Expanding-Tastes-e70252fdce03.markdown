@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Expanding Tastes
-description: I like more kinds of food now than I did in the past. Why is that?
+subtitle: I like more kinds of food now than I did in the past. Why is that?
 date: '2010-06-01T03:40:15.000Z'
 categories: []
 keywords: []

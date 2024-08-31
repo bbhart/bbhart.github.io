@@ -1,11 +1,8 @@
 ---
 layout: post
-title: Jan 22 2019
-description: >-
-  Foggy. Damp and cold. That clammy cold which finds its way through clothes and
-  sticks to your skin. Bangalore feels unusually chilly this…
+title: India day 2
 date: '2019-01-22T17:25:24.017Z'
-categories: []
+categories: travel india
 keywords: []
 slug: /@bbhart_ca/jan-22-2019-253e7bce1806
 ---

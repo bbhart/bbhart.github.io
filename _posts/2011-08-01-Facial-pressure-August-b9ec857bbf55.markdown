@@ -31,5 +31,3 @@ The summary I’d give the doc at this point would be:
 *   I still have all of my wisdom teeth but the dentist didn’t believe it was a root cause here
 
 We’ll see what the doctor says on Wednesday.
-
-_Originally published at_ [_bbhart.com_](https://bbhart.com/facial-pressure-august-23292310edbf) _on August 1, 2011._

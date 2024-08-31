@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 12 days left in Pennsylvania
-description: 'Twelve more days left in Pennsylvania. To bring you up to speed, we:'
+description: Sold our house and are moving to Celebration
 date: '2009-05-02T00:14:23.000Z'
 categories: []
 keywords: []

@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Random catch-up
-description: >-
-  I’ve ignored this blog for the most part. Life has gotten in the way at the
-  same time that the “blogosphere” (man, I hate that word)…
 date: '2011-04-03T03:06:00.000Z'
 categories: []
 keywords: []
@@ -23,5 +20,3 @@ I’m typing this on an iPad v2. It arrived on Thursday and we’re getting to k
 My new hobby is stock research and stock options. I started reading stock option books, then realized that those only help if you’re somewhat adept at choosing underlying stocks. Not that the stocks have to be amazing companies, only that the shares need to trade somewhat predictably — up, down, or sideways. So after learning about vertical and calendar spreads, butterflies and iron condors, I took a step back to put more time into learning how to do proper research. I’m still selling covered calls on a monthly basis on shares I already own, and I’ve sold puts on a stock I’d like to pick up, but otherwise I’m holding off until I can develop a sound, explainable stock investment strategy. It’s likely I’ll have more to say about this in the near future.
 
 That’s it for now.
-
-_Originally published at_ [_bbhart.com_](https://bbhart.com/random-catch-up-8ce67bd40804) _on April 3, 2011._

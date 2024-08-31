@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Social media overload
-description: 'Alternately titled: The One Where Ross And Chandler Try To Quit The Gym'
+subtitle: a/k/a The One Where Ross And Chandler Try To Quit The Gym
 date: '2011-08-02T02:39:48.000Z'
 categories: []
 keywords: []
@@ -19,5 +19,3 @@ We’re not even talking about the amount of time spent on sites like Facebook, 
 All my thrashing around, back and forth, consuming data streams like a coked up coke monkey, has to have a cost. So I’m doing a few things. 1) I said bye-bye on Facebook, and adjusted my notification settings so it wouldn’t email me to let me know all the excitement I’m missing. 2) I’m making more use of Instapaper and my iPad for longer-form media like interesting blog entries, NY Times articles and the like. I’ll check Instapaper only a few times a day, and try to do it outside of my office for a mental breath mint. Content suggestions welcome, please. 3) Unfollow some Twitter people who are just trying to drive traffic towards social media. Instead, use Twitter to find compelling long-form media. 4) I’d like to write here some more. This entry is disjointed, yes, but writing is a muscle that needs to be flexed, like some sort of.. flexing… thing. The nature of this beast requires attention and organizing of one’s thoughts, _the very skills I’m trying to redevelop!_ What a happy coincidence. 5) Delete social media icons from browser toolbars. Simple one. Easily bypassed, but I’ll feel guilty the whole time I’m typing out my URL by hand.
 
 Those are the first steps. I don’t have checkpoints or metrics or anything else to help me measure success or failure in this endeavor, so I’ll have to figure it out as I go. Any other suggestions are appreciated.
-
-_Originally published at_ [_bbhart.com_](https://bbhart.com/social-media-overload-6f2cf91f5652) _on August 2, 2011._
