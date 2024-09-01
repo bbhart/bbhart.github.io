@@ -11,9 +11,11 @@ A 7am domestic flight means a 5am Uber which means a 4am wakeup time. On the oth
 
 <img src="/assets/20240803-lounge.jpg" width="50%">
 
+_(I had 2 United Club free passes expiring in a few days)_
+
 So we made it to Newark. 
 
-"Luckily" we could go directly to our hotel room at the [Hyatt House Jersey City](https://www.hyatt.com/hyatt-house/en-US/lgaxj-hyatt-house-jersey-city), since we'd already paid for it for last night. I'll tangent here for a moment and say that, despite it being 2024, hotels still can't figure out reliable digital keys. I don't know why I expected that ours would work. Also, this Hyatt's elevators are weird. Anyway.
+"Luckily" we could go directly to our hotel room at the [Hyatt House Jersey City](https://www.hyatt.com/hyatt-house/en-US/lgaxj-hyatt-house-jersey-city), since we'd already paid for it for last night. I'll tangent here for a moment and say that, despite it being 2024, hotels still can't figure out reliable digital keys. I don't know why I expected ours would work. Also, this Hyatt's elevators are weird. Anyway.
 
 We dropped our stuff, suncreened up, and hit the 10:10am ferry from Paulus Hook, about a two minute walk from our hotel, over to Brookfield Place in lower Manhattan. 
 
