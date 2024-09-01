@@ -4,7 +4,7 @@ title: Iceland Cruise Day 13
 subtitle: Akureyri, Iceland
 date:  2024-08-14
 categories: travel
-background: 
+background: '/assets/20240814-godafoss1.jpg'
 ---
 
 Akureyri is the second most populated city in Iceland behind Reykjavik. 
@@ -33,9 +33,9 @@ From [Laufás Heritage Site](https://www.akureyriguide.is/portfolio/laufas-herit
 
 <img src="/assets/20240814-godafoss1.jpg" width="100%">
 
-<img src="/assets/20240814-godafoss1.jpg" width="100%">
+<img src="/assets/20240814-godafoss2.jpg" width="100%">
 
-<img src="/assets/20240814-godafoss1.jpg" width="100%">
+<img src="/assets/20240814-godafoss3.jpg" width="100%">
 _(I was still pretty sick here)_
 
 ## [Akureyri Botanical Garden](https://www.lystigardur.akureyri.is/en)
@@ -61,6 +61,7 @@ There were a lot of trees here, too, which you can't take for granted in Iceland
 
 <img src="/assets/20240814-banner.jpg" width="100%">
 
+Tonight's sunset:
 
-
+<img src="/assets/20240814-sunset.jpg" width="100%">
 
