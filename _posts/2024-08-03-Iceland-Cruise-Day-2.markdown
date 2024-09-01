@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Iceland Cruise Day 2
-subtitle: First family visit to New York
+subtitle: An early morning flight and first family visit to New York
 date:  2024-08-03
-categories: travel
+categories: travel 2024icelandcruise
 background: '/assets/20240803-nyc-night-jerseycity.jpg'
 ---
 

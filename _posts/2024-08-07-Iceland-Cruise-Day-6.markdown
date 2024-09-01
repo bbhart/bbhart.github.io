@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Iceland Cruise Day 6
-subtitle: Sea day between Halifax and St. John's
+subtitle: Sea day between Halifax and St. John's, NL
 date:  2024-08-07
-categories: travel
+categories: travel 2024icelandcruise
 background: '/assets/20240807-sunset.jpg'
 ---
 

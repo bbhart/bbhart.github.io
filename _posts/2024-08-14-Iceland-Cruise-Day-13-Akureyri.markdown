@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Iceland Cruise Day 13
-subtitle: Akureyri, Iceland
+subtitle: The northern Iceland city Akureyri, and an educational shore excursion
 date:  2024-08-14
-categories: travel
+categories: travel 2024icelandcruise
 background: '/assets/20240814-godafoss1.jpg'
 ---
 

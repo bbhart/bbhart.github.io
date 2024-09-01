@@ -3,7 +3,7 @@ layout: post
 title: Iceland Cruise Day 14
 subtitle: Isafjordur, Iceland
 date:  2024-08-15
-categories: travel
+categories: travel 2024icelandcruise
 background: '/assets/20240815-isa3.jpg'
 ---
 

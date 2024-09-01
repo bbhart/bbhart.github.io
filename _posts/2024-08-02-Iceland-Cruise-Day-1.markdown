@@ -3,7 +3,7 @@ layout: post
 title: Iceland Cruise Day 1
 subtitle: When we almost leave for a vacation
 date:  2024-08-02
-categories: travel
+categories: travel 2024icelandcruise
 background: '/assets/20240802-delta.jpg'
 ---
 

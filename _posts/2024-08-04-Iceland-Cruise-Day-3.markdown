@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Iceland Cruise Day 3
-subtitle: Cruise embarkation, a stormy sail away
+subtitle: Celebrity cruise embarkation in Bayonne and a stormy sail away
 date:  2024-08-04
-categories: travel
+categories: travel 2024icelandcruise
 background: '/assets/20240804-harbor2.jpg'
 ---
 

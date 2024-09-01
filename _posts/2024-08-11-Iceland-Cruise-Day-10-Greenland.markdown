@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Iceland Cruise Day 10
-subtitle: Qarqortoq, Greenland
+subtitle: Drizzly day in Qarqortoq, Greenland
 date:  2024-08-11
-categories: travel
+categories: travel 2024icelandcruise
 background: '/assets/20240811-greenland2.jpg'
 ---
 

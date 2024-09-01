@@ -3,7 +3,7 @@ layout: post
 title: Iceland Cruise Day 8
 subtitle: Sea day 1 between St. John's and Greenland
 date:  2024-08-09
-categories: travel
+categories: travel 2024icelandcruise
 background: '/assets/20240809-sunset.jpg'
 ---
 

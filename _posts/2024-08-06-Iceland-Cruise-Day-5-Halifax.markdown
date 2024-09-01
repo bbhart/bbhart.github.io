@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Iceland Cruise Day 5
-subtitle: Halifax
+subtitle: A cloudy day in a familiar city, with lots of family
 date:  2024-08-06
-categories: travel
+categories: travel 2024icelandcruise
 background: '/assets/20240806-halifax-wide.jpg'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Iceland Cruise Day 7
 subtitle: St. John's, Newfoundland & Labrador
 date:  2024-08-08
-categories: travel
+categories: travel 2024icelandcruise
 background: '/assets/20240808-signalhill-wide.jpg'
 ---
 
