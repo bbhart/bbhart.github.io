@@ -9,7 +9,7 @@ background: '/assets/20240803-nyc-night-jerseycity.jpg'
 
 A 7am domestic flight means a 5am Uber which means a 4am wakeup time. On the other hand, 7am means improved chances of plane being there, crew being there, and weather not being a factor.
 
-<img src="/assets/20240803-lounge.jpg" width="50%">
+<img src="/assets/20240803-lounge.jpg" width="100%">
 
 _(I had 2 United Club free passes expiring in a few days)_
 
@@ -19,13 +19,13 @@ So we made it to Newark.
 
 We dropped our stuff, suncreened up, and hit the 10:10am ferry from Paulus Hook, about a two minute walk from our hotel, over to Brookfield Place in lower Manhattan. 
 
-<img src="/assets/20240803-ferry.jpg" width="50%">
+<img src="/assets/20240803-ferry.jpg" width="100%">
 
 The terminal is adjacent to Brookfield Place mall, so Sher and Siena grabbed crepes. We then sat outside the One World Trade Center entrance before our 11:30am reservation to go to the top. 
 
 They do a good job with the whole WTC experience. There's an interesting-ish queue in the basement for the elevators. 
 
-<img src="/assets/20240803-wtc-downstairs.jpg" width="50%">
+<img src="/assets/20240803-wtc-downstairs.jpg" width="100%">
 
 In the elevator itself, all the walls are displays that show what NYC would've looked like over time from its founding to current day. I'm sure there were discussions during the design phase about making glass elevators; I'm glad they went in this direction. Once at the top, they queue people into a shuttered room where they have a 3 minute presentation and then do a "reveal" of the view by raising the shades. It was a clear, sunny day, so the effect landed. After that you're free to move around 3 floors at the top at your leisure. They peer pressure you into taking a family photo, but this time we leaned into it since we don't do photos of all of us that often. The view is, of course, spectacular.
 
