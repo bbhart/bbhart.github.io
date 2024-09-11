@@ -3,7 +3,9 @@ layout: post
 title: Iceland Cruise Day 9
 subtitle: A special birthday sea day off the coast of Greenland!
 date:  2024-08-10
-categories: travel 2024icelandcruise
+categories: travel cruise iceland
+tags: [celebrity, celebrity eclipse]
+rollup_key: 2024icelandcruise
 background: '/assets/20240810-dinner3.jpg'
 ---
 

@@ -3,11 +3,11 @@ layout: post
 title: Our cruise voyage from New York to Iceland
 subtitle: A rugged, chilly vacation
 date:  2024-08-31
-categories: travel batchpost
+categories: travel rollup
 background: '/assets/20240831-stjohns-coast.jpg'
 ---
 
-{% assign sorted_posts = site.categories.2024icelandcruise | sort: 'date' %}
+{% assign sorted_posts = site.posts | where: "rollup_key", "2024icelandcruise" | sort: 'date' %}
 
 <h2>Contents</h2>
 <ul>

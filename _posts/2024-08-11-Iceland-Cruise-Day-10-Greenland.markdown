@@ -3,7 +3,9 @@ layout: post
 title: Iceland Cruise Day 10
 subtitle: Drizzly day in Qarqortoq, Greenland
 date:  2024-08-11
-categories: travel 2024icelandcruise
+categories: travel cruise iceland
+tags: [greenland, qaqortoq, celebrity, celebrityeclipse]
+rollup_key: 2024icelandcruise
 background: '/assets/20240811-greenland2.jpg'
 ---
 

@@ -3,7 +3,9 @@ layout: post
 title: Iceland Cruise Day 15
 subtitle: The end of the cruise, Reykjavik
 date:  2024-08-16
-categories: travel 2024icelandcruise
+categories: travel cruise iceland
+tags: [reykjavik, iceland, celebrity, celebrityeclipse]
+rollup_key: 2024icelandcruise
 background: 
 ---
 

@@ -3,7 +3,9 @@ layout: post
 title: Iceland Cruise Days 11 and 12
 subtitle: Rocky sea days between Greenland and Iceland
 date:  2024-08-12
-categories: travel 2024icelandcruise
+categories: travel cruise iceland
+tags: [celebrity, celebrity eclipse]
+rollup_key: 2024icelandcruise
 background: '/assets/20240812-sunset.jpg'
 ---
 

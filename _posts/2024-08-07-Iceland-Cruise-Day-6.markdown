@@ -3,7 +3,9 @@ layout: post
 title: Iceland Cruise Day 6
 subtitle: Sea day between Halifax and St. John's, NL
 date:  2024-08-07
-categories: travel 2024icelandcruise
+categories: travel cruise iceland
+tags: [celebrity, celebrity eclipse]
+rollup_key: 2024icelandcruise
 background: '/assets/20240807-sunset.jpg'
 ---
 

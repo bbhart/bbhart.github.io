@@ -69,3 +69,5 @@ jekyll_analytics:
 
 paginate: 25
 paginate_path: "/posts/page:num/"
+
+permalink: /:categories/:year/:title:output_ext

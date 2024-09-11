@@ -3,7 +3,9 @@ layout: post
 title: Iceland Cruise Day 14
 subtitle: Isafjordur, Iceland
 date:  2024-08-15
-categories: travel 2024icelandcruise
+categories: travel cruise iceland
+tags: [isafjordur, iceland, celebrity, celebrityeclipse]
+rollup_key: 2024icelandcruise
 background: '/assets/20240815-isa3.jpg'
 ---
 
