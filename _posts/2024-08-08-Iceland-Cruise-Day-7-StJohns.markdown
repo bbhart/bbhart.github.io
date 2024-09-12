@@ -7,6 +7,8 @@ categories: travel cruise iceland
 tags: [st johns, celebrity, celebrity eclipse]
 rollup_key: 2024icelandcruise
 background: '/assets/20240808-signalhill-wide.jpg'
+redirect_from:
+- /travel/cruise/iceland/2024/08/08/Iceland-Cruise-Day-7-StJohns.html
 ---
 
 <img src="/assets/20240808-harbor1.jpg" width="100%">

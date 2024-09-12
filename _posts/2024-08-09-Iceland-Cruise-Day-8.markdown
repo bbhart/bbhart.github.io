@@ -7,6 +7,8 @@ categories: travel cruise iceland
 tags: [celebrity, celebrity eclipse]
 rollup_key: 2024icelandcruise
 background: '/assets/20240809-sunset.jpg'
+redirect_from:
+- /travel/cruise/iceland/2024/08/09/Iceland-Cruise-Day-8.html
 ---
 
 Today's the first of two sea days between St. John's and Greenland. 

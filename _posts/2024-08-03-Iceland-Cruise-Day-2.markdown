@@ -7,6 +7,8 @@ categories: travel cruise iceland
 tags: [new york city, jersey city]
 rollup_key: 2024icelandcruise
 background: '/assets/20240803-nyc-night-jerseycity.jpg'
+redirect_from:
+- /travel/cruise/iceland/2024/08/03/Iceland-Cruise-Day-2.html
 ---
 
 A 7am domestic flight means a 5am Uber which means a 4am wakeup time. On the other hand, 7am means improved chances of plane being there, crew being there, and weather not being a factor.

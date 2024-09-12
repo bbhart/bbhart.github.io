@@ -7,6 +7,8 @@ categories: travel cruise iceland
 tags: [celebrity, celebrity eclipse]
 rollup_key: 2024icelandcruise
 background: '/assets/20240810-dinner3.jpg'
+redirect_from:
+- /travel/cruise/iceland/2024/08/10/Iceland-Cruise-Day-9.html
 ---
 
 Sea day 2 between St. John's and Greenland.

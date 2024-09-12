@@ -7,6 +7,8 @@ categories: travel cruise iceland
 tags: [isafjordur, iceland, celebrity, celebrityeclipse]
 rollup_key: 2024icelandcruise
 background: '/assets/20240815-isa3.jpg'
+redirect_from:
+- /travel/2024icelandcruise/2024/08/15/Iceland-Cruise-Day-14-Isafjordur.html
 ---
 
 We arrived at 8am to chilly temperatures and pouring rain. The town itself doesn't offer much unless you're embarking from here on a tour. It has a similar working town vibe to Qaqortoq. 

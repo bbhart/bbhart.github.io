@@ -7,6 +7,8 @@ categories: travel cruise iceland
 tags: [halifax, celebrity, celebrity eclipse]
 rollup_key: 2024icelandcruise
 background: '/assets/20240806-halifax-wide.jpg'
+redirect_from:
+- /travel/cruise/iceland/2024/08/05/Iceland-Cruise-Day-5-Halifax.html
 ---
 
 I was up by 5:30am or so to watch us come in to Halifax Harbor. The fog that's been following us for a few days was still present, however, and I still couldn't see more than 100 yards or so from the ship. Might as well grab some coffee.

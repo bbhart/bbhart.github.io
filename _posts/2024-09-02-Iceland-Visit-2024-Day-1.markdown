@@ -5,6 +5,8 @@ subtitle: South coast of Iceland
 date:  2024-09-03
 categories: travel 2024iceland
 background: '/assets/20240816-selja2.jpg'
+redirect_from:
+- /travel/2024iceland/2024/09/03/Iceland-Visit-2024-Day-1.html
 ---
 
 Documenting **August 16, 2024**.

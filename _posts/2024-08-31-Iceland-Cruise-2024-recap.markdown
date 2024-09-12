@@ -5,6 +5,8 @@ subtitle: A rugged, chilly vacation
 date:  2024-08-31
 categories: travel rollup
 background: '/assets/20240831-stjohns-coast.jpg'
+redirect_from:
+- /travel/batchpost/2024/08/31/Iceland-Cruise-2024-recap.html
 ---
 
 {% assign sorted_posts = site.posts | where: "rollup_key", "2024icelandcruise" | sort: 'date' %}

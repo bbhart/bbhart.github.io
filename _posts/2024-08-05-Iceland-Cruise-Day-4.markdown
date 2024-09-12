@@ -7,6 +7,8 @@ categories: travel cruise iceland
 tags: [celebrity, celebrity eclipse]
 rollup_key: 2024icelandcruise
 background: '/assets/20240804-fog.jpg'
+redirect_from:
+- /travel/cruise/iceland/2024/08/05/Iceland-Cruise-Day-4.html
 ---
 
 Sea day between NYC and Halifax. Nothing notable to report for today. It was foggy pretty much all day long, getting denser as the day progressed. The kids are, of course, racing around the ship and playing elevator tag.

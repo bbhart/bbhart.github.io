@@ -7,6 +7,8 @@ categories: travel cruise iceland
 tags: [greenland, qaqortoq, celebrity, celebrityeclipse]
 rollup_key: 2024icelandcruise
 background: '/assets/20240811-greenland2.jpg'
+redirect_from:
+- /travel/cruise/iceland/2024/08/11/Iceland-Cruise-Day-10-Greenland.html
 ---
 
 Something funny about the ship wifi: if you don't pay for a package, they still allow app notifications to leak through. I haven't decided yet whether this is a technical oversight (unlikely), clever bait, and/or a dark pattern. It means you end up with badges on many of your apps (e.g. 30 unread emails, 8 unread Facebook notifications, etc.), which can make a certain personality type anxious 🙄. They do allow for Google Maps updates to come through for free.

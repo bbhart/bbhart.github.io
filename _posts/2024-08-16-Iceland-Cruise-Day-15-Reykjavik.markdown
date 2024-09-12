@@ -7,6 +7,8 @@ categories: travel cruise iceland
 tags: [reykjavik, iceland, celebrity, celebrityeclipse]
 rollup_key: 2024icelandcruise
 background: 
+redirect_from:
+- /travel/2024icelandcruise/2024/08/16/Iceland-Cruise-Day-15-Reykjavik.html
 ---
 
 Our 12 night cruise from Bayonne, NJ, to Reykjavik, Iceland, comes to an end.

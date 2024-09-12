@@ -7,6 +7,8 @@ categories: travel cruise iceland
 tags: [akureyri, iceland, celebrity, celebrityeclipse]
 rollup_key: 2024icelandcruise
 background: '/assets/20240814-godafoss1.jpg'
+redirect_from:
+- /travel/2024icelandcruise/2024/08/14/Iceland-Cruise-Day-13-Akureyri.html
 ---
 
 Akureyri is the second most populated city in Iceland behind Reykjavik. 

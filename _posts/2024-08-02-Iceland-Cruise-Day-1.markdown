@@ -6,6 +6,8 @@ date:  2024-08-02
 categories: travel cruise iceland
 rollup_key: 2024icelandcruise
 background: '/assets/20240802-delta.jpg'
+redirect_from:
+- /travel/cruise/iceland/2024/08/01/Iceland-Cruise-Day-1.html
 ---
 
 Today is Friday and the cruise is on Sunday. We'll spend two nights in Jersey City, giving us a full day on Saturday to tour around New York City.

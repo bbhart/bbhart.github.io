@@ -7,6 +7,8 @@ categories: travel cruise iceland
 tags: [celebrity, celebrity eclipse]
 rollup_key: 2024icelandcruise
 background: '/assets/20240812-sunset.jpg'
+redirect_from:
+- /travel/cruise/iceland/2024/08/13/Iceland-Cruise-Day-11-and-12.html
 ---
 
 I'm lazy and combining August 12 and 13 (cruise days 11 and 12).

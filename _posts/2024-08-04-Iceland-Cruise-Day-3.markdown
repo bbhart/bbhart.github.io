@@ -4,9 +4,11 @@ title: Iceland Cruise Day 3
 subtitle: Celebrity cruise embarkation in Bayonne and a stormy sail away
 date:  2024-08-04
 categories: travel cruise iceland
-tags: [new york city, jersey city]
+tags: [new york city, jersey city, celebrity, celebrity eclipse]
 rollup_key: 2024icelandcruise
 background: '/assets/20240804-harbor2.jpg'
+redirect_from:
+- /travel/cruise/iceland/2024/08/04/Iceland-Cruise-Day-3.html
 ---
 
 Embark day! 

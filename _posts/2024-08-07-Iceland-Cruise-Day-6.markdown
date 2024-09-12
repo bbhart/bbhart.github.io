@@ -7,6 +7,8 @@ categories: travel cruise iceland
 tags: [celebrity, celebrity eclipse]
 rollup_key: 2024icelandcruise
 background: '/assets/20240807-sunset.jpg'
+redirect_from:
+- /travel/cruise/iceland/2024/08/07/Iceland-Cruise-Day-6.html
 ---
 
 Sea day == sleep in day
