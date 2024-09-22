@@ -31,4 +31,6 @@ In the evening Siena and I drove down to see a waterfall.
 
 We were scant on food, meaning I spent 45 minutes cooking bacon so we could have breakfast-dinner.
 
+With COVID going through the family and the fact we've been traveling for more than two weeks now, there's a feeling of travel weariness. We're all craving our own beds and a return to more familiar routines. 
+
 Tomorrow we check out of this Airbnb and head for Reykjavik.
