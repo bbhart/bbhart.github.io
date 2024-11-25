@@ -10,7 +10,7 @@ background:
 
 Documenting **August 19, 2024**.
 
-Today was say goodbye to our apartment and Iceland.
+Today we say goodbye to our apartment and Iceland.
 
 <img src="/assets/20240819-iceland-outside-apartment.jpg" width="100%">
 
