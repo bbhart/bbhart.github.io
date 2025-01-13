@@ -5,8 +5,7 @@ subtitle: Bonaire
 date:  2024-12-28
 categories: travel caribbean
 tags: [celebrity, cruise, dec2024]
-background: 
-published: false
+background: '/assets/20241228-bonaire-building.jpg'
 ---
 
 Bonaire is the last of the "ABC Islands" we'll visit. It's the smallest, both in term of land area and population, encompassing around 112 square miles[^1] and ~21,000 people. 
@@ -41,8 +40,8 @@ In the late afternoon, our 5:30pm departure was delayed by about an hour due to 
 
 After the ship departed Bonaire Sherri and I celebrated a milestone at Murano, the ship's premium French restaurant. I had the second best Dover sole I've ever had[^3]; the rest of the meal was fine for a premium dining experience. 
 
+**Footnotes**
 
-**Footnotes**:
 [^1]: Or a little less than 3x the size of the Walt Disney World property in Florida.
 [^2]: This is what the people who rent golf carts tell me.
 [^3]: The first being at the [Bull and Bear](https://bullandbearorlando.com/) Steakhouse at the Waldorf Astoria resort in Orlando.

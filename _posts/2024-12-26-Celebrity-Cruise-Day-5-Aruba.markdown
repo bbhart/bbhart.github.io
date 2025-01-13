@@ -6,12 +6,11 @@ date:  2024-12-26
 categories: travel caribbean
 tags: [celebrity, cruise, dec2024]
 background: '/assets/20241226-aruba-sign.jpg'
-published: false
 ---
 
 Today we are in Aruba. This is the first of our "ABC Islands": Aruba, Bonaire, and Curaçao. All three islands are constituent countries within the Kingdom of the Netherlands. It has its own government, led by a Prime Minister, but the King of the Netherlands serves as its head of state.
 
-Siena and I had the first of our scheduled shore excursions today, a sailing and snorkeling trip lasting around 3 hours. We had originally planned this for all four of us, then canceled when Rowan twisted his ankle. In hindsight he likely could have come and just not snorkeled. Live and learn.
+Siena and I had the first of our scheduled shore excursions today, a sailing and snorkeling trip lasting around 3 hours. We had originally planned this for all four of us, then canceled when Rowan twisted his ankle. 
 
 <img src="/assets/20241226-latigre.jpg" width="100%" />
 
@@ -21,8 +20,8 @@ Siena and I had the first of our scheduled shore excursions today, a sailing and
 
 <img src="/assets/20241226-aruba-sign.jpg" width="100%" />
 
-All was not lost as Rowan was able to make a new friend, Christopher, through their shared interest in Brawl Stars. 
+The snorkeling itself was... okay... but we enjoyed the boat ride there and back, at least. In hindsight my son likely could have come and just not snorkeled. Live and learn. All was not lost as he was able to make a new friend, Jonathan, through their shared interest in [Brawl Stars](https://supercell.com/en/games/brawlstars/). 
 
-**Footnotes**
+With the ship in port until 8:30pm I wanted to try to find dinner onshore with Sherri and Siena but ultimately it wasn't in the cards. I escorted them for awhile while they shopped, then we headed back onboard for main dining room dinner.
 
-[^1]: 
+Next stop: Curaçao!
