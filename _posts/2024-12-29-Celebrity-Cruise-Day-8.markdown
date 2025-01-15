@@ -5,8 +5,7 @@ subtitle: Sea day
 date:  2024-12-29
 categories: travel caribbean
 tags: [celebrity, cruise, dec2024]
-background: 
-published: false
+background: '/assets/20241229-croissant.jpg'
 ---
 
 Sea day travelling between Bonaire and San Juan, Puerto Rico. Not much to write about.
@@ -22,3 +21,4 @@ Room with a view.
 
 The first half of the cruise was fairly smooth but here heading toward Puerto Rico we're feeling a lot more motion. Not enough to make things uncomfortable.
 
+Tomorrow: San Juan, Puerto Rico!

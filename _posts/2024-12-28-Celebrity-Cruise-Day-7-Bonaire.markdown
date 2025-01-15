@@ -12,7 +12,7 @@ Bonaire is the last of the "ABC Islands" we'll visit. It's the smallest, both in
 
 The downtown Kralendijk piers appear to have space for one large cruise ship like ours and then _perhaps_ another one for much smaller ships a bit to the north. The effect of not having mass cruise ship traffic makes the island feel like it runs more at my speed when compared to places like Aruba, Curaçao, or San Juan. The entire island can be traveled by golf cart[^2]. Vehicle traffic through Kralendijk never seemed too bad. Electric scooters are easily found and available to use via a mobile app. Given the "vibe" here, in hindsight I wish I'd had the chance to thoroughly explore the island.
 
-Before my son's ankle injury we had a land sailing excursion planned. We canceled that for all four of us and didn't see any excursions to replace it with. RoHewan stayed onboard with his friend while the other three of us wandered through Kralendijk for awhile. 
+Before my son's ankle injury we had a land sailing excursion planned. We canceled that for all four of us and didn't see any excursions to replace it with. He stayed onboard with his friend while the other three of us wandered through Kralendijk for awhile. 
 
 <img src="/assets/20241228-bonaire-building.jpg" width="100%" />
 
