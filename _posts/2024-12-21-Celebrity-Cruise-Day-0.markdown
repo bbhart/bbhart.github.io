@@ -4,6 +4,7 @@ title: Celebrity Cruise Day 0
 subtitle: Heading to Fort Lauderdale
 date:  2024-12-21
 categories: travel caribbean
+rollup_key: 2024wintercaribbean
 tags: [celebrity, cruise, dec2024]
 background: /assets/2024-12-21-fortlauderdale-background.jpeg
 ---

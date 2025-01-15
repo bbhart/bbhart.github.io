@@ -4,6 +4,7 @@ title: Celebrity Cruise Day 7
 subtitle: Bonaire
 date:  2024-12-28
 categories: travel caribbean
+rollup_key: 2024wintercaribbean
 tags: [celebrity, cruise, dec2024]
 background: '/assets/20241228-bonaire-building.jpg'
 ---

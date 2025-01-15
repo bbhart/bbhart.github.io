@@ -4,6 +4,7 @@ title: Celebrity Cruise Day 8
 subtitle: Sea day
 date:  2024-12-29
 categories: travel caribbean
+rollup_key: 2024wintercaribbean
 tags: [celebrity, cruise, dec2024]
 background: '/assets/20241229-croissant.jpg'
 ---

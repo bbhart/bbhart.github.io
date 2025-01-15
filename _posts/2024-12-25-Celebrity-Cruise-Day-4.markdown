@@ -4,6 +4,7 @@ title: Celebrity Cruise Day 4
 subtitle: On the way to Aruba
 date:  2024-12-25
 categories: travel caribbean
+rollup_key: 2024wintercaribbean
 tags: [celebrity, cruise, dec2024]
 background: 
 published: false

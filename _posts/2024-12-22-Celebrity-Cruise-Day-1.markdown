@@ -4,6 +4,7 @@ title: Celebrity Cruise Day 1
 subtitle: Getting to the ship
 date:  2024-12-22
 categories: travel caribbean
+rollup_key: 2024wintercaribbean
 tags: [celebrity, cruise, dec2024]
 background: 
 ---

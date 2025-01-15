@@ -4,6 +4,7 @@ title: Celebrity Cruise Day 5
 subtitle: Aruba
 date:  2024-12-26
 categories: travel caribbean
+rollup_key: 2024wintercaribbean
 tags: [celebrity, cruise, dec2024]
 background: '/assets/20241226-aruba-sign.jpg'
 ---

@@ -4,6 +4,7 @@ title: Celebrity Cruise Day 10
 subtitle: Puerto Plata, Dominican Republic
 date:  2024-12-31
 categories: travel caribbean
+rollup_key: 2024wintercaribbean
 tags: [celebrity, cruise, dec2024]
 background: '/assets/20241231-lazyriver.jpg'
 ---

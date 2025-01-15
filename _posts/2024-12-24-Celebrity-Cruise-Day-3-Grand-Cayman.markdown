@@ -4,6 +4,7 @@ title: Celebrity Cruise Day 3
 subtitle: Grand Cayman
 date:  2024-12-24
 categories: travel caribbean
+rollup_key: 2024wintercaribbean
 tags: [celebrity, cruise, dec2024]
 background: 
 ---
