@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Our cruise voyage from New York to Iceland
-subtitle: Rollup of a rugged, chilly vacation
-date:  2024-08-31
+title: Brian's first trip to Japan
+subtitle: Rollup of Tokyo, Kamakura, and Kyoto
+date:  2024-03-19
 categories: travel rollup
-background: '/assets/20240831-stjohns-coast.jpg'
-redirect_from:
-- /travel/batchpost/2024/08/31/Iceland-Cruise-2024-recap.html
+background: '/assets/20240206-kamakura-sugimoto.jpg'
 ---
 
-{% assign sorted_posts = site.posts | where: "rollup_key", "2024icelandcruise" | sort: 'date' %}
+{% assign sorted_posts = site.posts | where: "rollup_key", "2024japan" | sort: 'date' %}
 
 <h2>Contents</h2>
 <ul>

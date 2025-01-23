@@ -2,6 +2,7 @@
 layout: post
 title: Japan Planning
 subtitle: Where Brian realizes he probably shouldn't try to YOLO a 12 day trip to Japan
+rollup_key: 2024japan
 date: 2024-01-23 12:31:47
 categories: travel japan
 ---

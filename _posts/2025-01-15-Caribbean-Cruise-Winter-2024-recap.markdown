@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Celebrity Eclipse Southern Caribbean Winter 2024
-subtitle: Cayman, The ABC Islands, Puerto Rico, and the DR
+subtitle: Rollup of Cayman, The ABC Islands, Puerto Rico, and the DR
 date:  2025-01-15
 categories: travel rollup
 background: '/assets/20241231-lazyriver.jpg'
