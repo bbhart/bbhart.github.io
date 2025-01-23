@@ -41,7 +41,6 @@ The next morning I made an early start to see Kiyomizu-dera before the crowds hi
 
 <img src="/assets/20240209-kyoto-temple.jpg" width="75%">
 <img src="/assets/2024-kiyo2.avif" width="75%">
-<img src="/assets/2024-kiyo3.avif" width="75%">
 
 On the walk back to the train station I spotted this good boy basking in the sun. 
 
