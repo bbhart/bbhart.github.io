@@ -39,6 +39,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-analytics
   - jekyll-paginate
+  - jekyll-sitemap
 
 
 # Exclude from processing.
