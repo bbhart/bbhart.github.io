@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /vendor/
+Disallow: /Gemfile
+Disallow: /Gemfile.lock
+Disallow: /node_modules/
+Disallow: /package.json
+Disallow: /package-lock.json
+Disallow: /README.md
+Disallow: /LICENSE
+Disallow: /_config.yml
+Disallow: /_site/
+
+Sitemap: https://bbhart.com/sitemap.xml
