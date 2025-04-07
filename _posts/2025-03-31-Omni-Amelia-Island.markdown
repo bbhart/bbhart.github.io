@@ -21,7 +21,7 @@ This won't be an exhaustive review. I feel like [this Tripadvisor review](https:
 * The sprawling grounds make the resort feel uncrowded.
 * There are so many beautiful trees! And excellent walking paths to get around, which are well-lit at night.
 * We enjoyed sitting by the fire pits on the pool deck, both during the day and at night. 
-* Nickel-and-diming. Self-parking is $25 a day (there are _plenty_ of spots). You have to rent chairs and umbrellas on the beach, none are provided. Drip coffee is more than $6. There's the customary $40/day "resort fee" that hotels love to charge these days. 
+* Nickel-and-diming. Self-parking is $25 a day (there are _plenty_ of spots). You have to rent chairs and umbrellas on the beach, none are provided. Drip coffee is more than $6. There's the customary $40/day "resort fee" that hotels love to charge these days. Mini-golf is $14pp for adults and $10pp for kids. Etc. 
 * Service in the Marché Burette was fast and friendly, both for lunch and dinner. Falcon's Nest service was much more hit-and-miss. 
 * Speaking of Falcon's Nest, a tip: it can get busy. They use OpenTable for queueing, so you can look at availability on that app and go ahead and get in line before you walk over from your room.
 
