@@ -1,0 +1,39 @@
+---
+layout: post
+title: Norway and Denmark Day 9
+subtitle: Oslo and the ferry
+date:  2025-05-16
+categories: travel norway denmark
+rollup_key: 2025norway
+tags: [may2025]
+#background: '/assets/20241231-lazyriver.jpg'
+published: false
+---
+
+Hello from Oslo! Truly, I had a _fantastic_ sleep at the Clarion Oslo (the one on Dronning Eufemias gate 15), nearish the water and train station. Even though my room looked out on a small courtyard, I still managed to be awakened by a leafblower. So it goes. 
+
+I'm catching a ferry at 2:30, so there's not a ton of time to waste. I tend not to be a churches-and-museums kind of guy, so I left the hotel without a firm plan for the day. When this happens, I switch into improv mode: let's start heading somewhere and make it up as we go. With that plan, I endeavored to figure out the light rail system. Turns out it's stupid easy. I downloaded the [Ruter](https://ruter.no/en/journey/the-ruter-app/) app, which lets you plan trips and buy tickets within Oslo. I'd heard someone recommend [Vigeland Park](https://vigeland.museum.no/en/vigelandpark), featuring 200+ sculptures representing Gustav Vigeland's life work, so I figured what the hell. I walked down to the train station and picked up the 15 train for about 20 minutes, which deposited me on the corner of the park. 
+
+Once I entered the park and saw a sign for a cafe, it occurred to be I was neither fed not caffeinated, so that would be the first stop. One chocolate croissant and Americano later, and I was ready to explore the park. I wandered aimlessly for a bit. There were _lots_ of tour groups here, likely shore excursions from the MSC cruise shop docked outside of town. It was a beautiful park but I didn't feel I was getting an Oslo experience. It was around an hour walk back to my hotel, so I set out walking back in that direction. The Royal Palace, being about halfway back, was a good first waypoint. It was a bright, warm, beautiful day, and I really enjoyed walking back through the city. The Palace itself was preparing for tomorrow's huge May 17th Constitution Day festivities. The 17th is a big deal throughout Norway but especially so in Oslo. 
+
+The second half of the walk was a lot of the same (not in a bad way). I stopped through two malls on the way back, remarkable on its own as I'm not a big Mall Guy. I even looked at a polo that caught my eye, but at ~110USD I decided I could live without it. The mall next to the main train station had the best sushi-to-go I've ever encountered ANYWHERE:
+
+<img src="/assets/20250516-sushi.jpg" alt="Sushi to go in Oslo, Norway">
+
+With still more than 2 hours to kill before my ferry, I slow-walked my way back to the hotel, sat out front in the sun for a bit, then grabbed my luggage and started the walk over to the ferry terminal.
+
+It was around a 25 minute walk from the hotel to the ferry terminal but it was super easy. My concern was I'd be walking through an industrial area, dodging cars and trucks hauling containers, but it wasn't that at all. The path was well-marked and well-paved and it was no trouble at all. 
+
+The ferry itself, the Nordic Crown, is older but still perfectly serviceable. 
+
+<img src="/assets/20250516-ferry1.jpg" alt="Exterior photo of the Nordic Crown cruise ferry">
+
+I opted for an outside stateroom with a window. The room is certainly small -- I think it's even smaller than my crew cabin on the Disney Wonder -- but will serve my needs fine. There are four beds, though I'm not sure I'd want to attempt that, even with people I like. 
+
+<img src="/assets/20250516-stateroom6132.jpg" alt="Photo of a small ferry stateroom with two sets of bunk beds">
+
+I've spent most of the ferry walking around and enjoying my last view (for now!) of the Norwegian fjords. I'm planning dinner at the buffet restaurant, and after that I'll likely enjoy the extended daylight offered by northern latitudes in the summer. 
+
+Oh, I seem to have lost my Kindle. My best guess is I left it at my Oslo hotel. Tomorrow we'll be exploring Copenhagen electronics stores!
+
+
