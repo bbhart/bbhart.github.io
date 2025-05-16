@@ -9,9 +9,13 @@ tags: [may2025]
 background: '/assets/20250508-flighttracker.jpg'
 ---
 
+This is the beginning of an 11 night trip to mostly Norway with a little bit of Denmark. I booked the flights for this trip mere weeks ago. At inception my trip plan is: 2 nights in Bergen, Norway; 2 nights in Balestrand, Norway; 2 nights in Voss, Norway; 2 nights in Oslo, Norway; and 1 night in Copenhagen. I'm leaving the house mid-morning on May 8 to head to the airport.
+
+---
+
 I'm mere minutes into the trip and I've already encountered my first travel hiccup. First, let me recap how I’m getting to Norway. From Raleigh-Durham I fly Southwest to Baltimore-Washington airport. I have a seven hour layover there, and then a 6 hour flight to Keflavik, Iceland. After a four hour layover there, I have another Icelandair flight, this one to Bergen, Norway. All of this was booked through Icelandair; they’re the ones that booked the first flight on Southwest for me.
 
-When checking my bag at the Southwest counter at the airport, the first luggage tag printed out had KEF as my final destination. The agent, with some authority/confidence, informed me that I would be claiming my bag there, passing through customs, and then re-checking my bag for the Norway flight. However, she accidentally printed a second boarding tag, and that boarding tag was for BGO (Bergen). That confidence disappears. Which one to use? She asked her supervisor, who wasn’t sure. The supervisor mentioned that there were some people from Icelandair that happened to be there and so he went to the back and was gone for about five minutes making his inquiries. When he returned, he said to use the Bergen tag. Well alright, let's give that a go.
+When checking my bag at the Southwest counter at the airport, the first luggage tag printed out had KEF as my final destination. The agent, with some authority/confidence, informed me that I would be claiming my bag there in Keflavik, passing through customs, and then re-checking my bag for the Norway flight. However, she accidentally printed a second luggage tag when trying to print me a boarding pass, and that luggage tag was for BGO (Bergen). That confidence disappears. Which one to use? She asked her supervisor, who wasn’t sure. The supervisor mentioned that there were some people from Icelandair that happened to be there and so he went to the back and was gone for about five minutes making his inquiries. When he returned, he said to use the Bergen tag. Well alright, let's give that a go.
 
 <img src="/assets/20250508-bagtag.jpg" alt="Luggage bag tag showing BGO Bergen as the final destination." />
 
