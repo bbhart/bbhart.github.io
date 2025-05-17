@@ -55,5 +55,5 @@ I ate my dinner and worked on my laptop, then went for a late evening walk aroun
 I wrapped my day around 12:30am. The seagulls, of course, never sleep. 
 
 [^1]: Ubers in Norway _seem_ to be regulated by the taxi commision, which _seems_ to dictate a ~$17 minimum fare regardless of time or distance. 
-[^2]: https://en.wikipedia.org/wiki/St._Olaf%27s_Church,_Balestrand
+[^2]: [https://en.wikipedia.org/wiki/St._Olaf%27s_Church,_Balestrand](https://en.wikipedia.org/wiki/St._Olaf%27s_Church,_Balestrand)
 
