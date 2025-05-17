@@ -54,3 +54,4 @@ I ended the day with some thin-noodles pad Thai near the hotel:
 
 <img src="/assets/20250509-padthai.jpg" alt="Dish of pad thai with thinner than average noodles." />
 
+Tomorrow's plan is to be in the old part of Bergen by 11am for a walking tour I intentionally booked a few days ago so I'd get my ass out of bed. For tonight I'll pray to the jet lag gods that I can bank some solid sack time.
