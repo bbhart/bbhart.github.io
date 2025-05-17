@@ -20,6 +20,8 @@ It's one of those situations where the bus picks you up at your plane and ferrie
 
 The Icelandic weather outside was wild, alternating between snow storms one minute and bright and sunny the next.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9NQFTj3AwG0?si=MTs4PoNMJxvrSHAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <img src="/assets/20250509-sunny-lounge.jpg" alt="Sunny weather showing through the windows at an airport." />
 
 I spend a little time on the world's most uncomfortable benches:
@@ -29,6 +31,12 @@ I spend a little time on the world's most uncomfortable benches:
 After close to 4 hours I board my flight for Bergen. This is my meal, which was surprisingly good. The dish on the left is just melted cheese, which I don't mind at all.
 
 <img src="/assets/20250509-flight-meal.jpg" alt="An airplane meal showing some sliced chicken and a dish with melted cheese." />
+
+Our flight was smooth, and how about this landing?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dlG-SSNBqiE?si=tyYhd_N4BP4e4nzN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+On the ground, I wonder if I'll see my luggage come out on the carousel. It does! Off we go.
 
 The light rail from Bergen airport to my stop, called Nonneseter, takes around 45 minutes, after which I have an 800m or so walk (the last 200m very uphill) to my hotel. This was the first of several hotels which would end up being cool about me checking in early.
 
