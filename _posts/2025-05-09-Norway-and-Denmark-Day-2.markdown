@@ -1,24 +1,24 @@
 ---
 layout: post
 title: Norway and Denmark Day 2
-subtitle: 24 hours of travel concludes
+subtitle: 24 hours of travel concludes, strolling around Bergen
 date:  2025-05-09
 categories: travel norway denmark
 rollup_key: 2025norway
 tags: [may2025]
-#background: '/assets/20241231-lazyriver.jpg'
-published: false
+background: '/assets/20250509-hike-bg.jpeg'
+
 ---
 
 Here's how **this** day started. Welcome to Keflavik, Iceland! Looking good, Billy Ray!
 
 <img src="/assets/20250509-offtheplane.jpg" alt="Me standing on the tarmac in front of an Icelandair plane looking haggard. Me, not the plane." />
 
-It's one of those situations where the bus picks you up at your plane and ferries you to the terminal, which is never fun. In our case they waited until the bus was completely full and then waited another 5 minutes until it was overflowing. Incredible service. Through passport control and collected another stamp:
+It's one of those situations where the bus picks you up at your plane and ferries you to the terminal, which is never fun. In our case they waited until the bus was completely full and then waited another 5 minutes until it was really fucking full. There were two buses right behind us ready for passengers. Incredible service. Anyway, passed through passport control and collected another stamp:
 
 <img src="/assets/20250509-passportstamp.jpg" alt="Passport showing several Iceland and Switzerland stamps from the past few years." />
 
-The Icelandic weather outside was wild, oscillating between snow storms one minute and bright and sunny the next.
+The Icelandic weather outside was wild, alternating between snow storms one minute and bright and sunny the next.
 
 <img src="/assets/20250509-sunny-lounge.jpg" alt="Sunny weather showing through the windows at an airport." />
 
@@ -38,7 +38,7 @@ The room is small but serviceable, a theme that would persist (by design) throug
 
 <img src="/assets/20250509-park-hotel-2.jpg" alt="Another angle of small hotel room, this image showing a closed bathroom door and a window." />
 
-Instead of succumbing to my jet lag, I decide to go to the top of a nearby mountain. The base of the Fløibanen funicular is right in downtown Bergen, an easy 20 walk from the hotel. I buy a one-way ticket, intending to walk down from the top. 
+Instead of succumbing to my jet lag, I decide to summit a nearby mountain. By which I mean I paid ~$7.50 for a train to take me to the top. The base of the funicular is right in downtown Bergen, an easy 20 walk from the hotel. 
 
 <img src="/assets/20250509-funicular.jpeg" alt="Fløibanen funicular train, showing the train traversing a steep hill." />
 
@@ -48,8 +48,9 @@ The hike down Fløyen is beautiful, and no photo I'm able to take captures it we
 
 <img src="/assets/20250509-hikedown.jpg" alt="Forested hiking trail." />
 
-It's around 300m of downhill, which my legs are not calibrated for. I do it, but the front of my quads and my shins are feeling it. Meanwhile, I had at least one guy jog past me going up and then pass me going back down, and multiple other hikers and runners going uphill dressed for a casual walk. Mountain people are built different.
+It's around 300m of downhill, which my legs are not calibrated for. I do it, but the front of my quads and my shins are feeling jelly-adjacent. Meanwhile, I had at least one guy jog past me going up and then pass me going back down, and multiple other hikers and runners going uphill dressed for a casual walk. Mountain people are built different.
 
 I ended the day with some thin-noodles pad Thai near the hotel:
 
 <img src="/assets/20250509-padthai.jpg" alt="Dish of pad thai with thinner than average noodles." />
+
