@@ -52,7 +52,7 @@ I ate my dinner and worked on my laptop, then went for a late evening walk aroun
 
 <img src="/assets/20250511-moon.jpg" alt="The image captures a serene evening or early night scene over a body of water, likely a fjord. The full moon is rising or hanging low in the sky above snow-capped mountains in the distance, casting a shimmering reflection across the calm, dark blue water. The sky is a rich twilight blue, with no visible clouds. On the left side, lights from a small settlement can be seen at the base of the mountains. The right edge of the image shows a dark, forested slope descending into the water. The overall atmosphere is peaceful and still." />
 
-I wrapped my day around 12:30am. The seagulls, of course, never sleep. 
+I tried to go to sleep around 12:30am. The seagulls, of course, never sleep. 
 
 [^1]: Ubers in Norway _seem_ to be regulated by the taxi commision, which _seems_ to dictate a ~$17 minimum fare regardless of time or distance. 
 [^2]: [https://en.wikipedia.org/wiki/St._Olaf%27s_Church,_Balestrand](https://en.wikipedia.org/wiki/St._Olaf%27s_Church,_Balestrand)
