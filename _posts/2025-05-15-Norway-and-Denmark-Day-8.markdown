@@ -10,6 +10,9 @@ tags: [may2025]
 published: false
 ---
 
+- **Start of day:** Voss, Norway ([Scandic Voss](https://www.scandichotels.com/en/hotels/scandic-voss))
+- **End of day:** Oslo, Norway ([Clarion Hotel Oslo](https://www.strawberry.no/hotell/norge/oslo/clarion-hotel-oslo))
+
 Today I'm taking the Bergensbanen train service that runs between Bergen and Oslo. In my case I'm picking it up about an hour and 15 minutes into its journey east out of Bergen, since I'm joining in Voss.
 
 The train wasn't until 1:03pm so I had some time to kill in the morning. I slept in late, checked out of the hotel around 11:45, then basically just chilled on the train platform. It was yet another in a series of beautiful days, with temps in the high 50's -- which, YES, seem like it would be chilly -- but with the sun out it was sublime. 

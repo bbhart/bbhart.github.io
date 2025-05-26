@@ -9,6 +9,8 @@ tags: [may2025]
 background: '/assets/20250514-hut-bg.jpg'
 
 ---
+- **Start of day:** Voss, Norway ([Scandic Voss](https://www.scandichotels.com/en/hotels/scandic-voss))
+- **End of day:** Voss, Norway ([Scandic Voss](https://www.scandichotels.com/en/hotels/scandic-voss))
 
 What a difference a good night's sleep makes! With conditioned air and without the company of seagulls I slept like a baby who sleeps through the night. 
 

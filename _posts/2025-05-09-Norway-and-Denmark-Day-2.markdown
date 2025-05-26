@@ -10,9 +10,10 @@ background: '/assets/20250509-hike-bg.jpeg'
 
 ---
 
-Here's how **this** day started. Welcome to Keflavik, Iceland! Looking good, Billy Ray!
+- **Start of day:** Over the North Atlantic somewhere?
+- **End of day:** Bergen, Norway ([Hotel Park](https://www.hotelpark.no/))
 
-<img src="/assets/20250509-offtheplane.jpg" alt="Me standing on the tarmac in front of an Icelandair plane looking haggard. Me, not the plane." />
+Days get a little fuzzy when you're doing an overnighter. 
 
 It's one of those situations where the bus picks you up at your plane and ferries you to the terminal, which is never fun. In our case they waited until the bus was completely full and then waited another 5 minutes until it was really fucking full. There were two buses right behind us ready for passengers. Incredible service. Anyway, passed through passport control and collected another stamp:
 

@@ -9,6 +9,9 @@ tags: [may2025]
 background: '/assets/20250513-voss-cemetary-bg.jpeg'
 ---
 
+- **Start of day:** Balestrand, Norway ([Kviknes Hotel](https://en.kviknes.no/))
+- **End of day:** Voss, Norway ([Scandic Voss](https://www.scandichotels.com/en/hotels/scandic-voss))
+
 Let me share something about where I'm staying in Balestrand. It has the **loudest** seagulls I've ever heard anywhere. I don't know if it's _everywhere_ around Balestrand, all around Norway, or maybe they've been hanging out at this hotel for generations upon generations. But there's a group of them, and every now and then they'll get real chatty, and its ear-piercing in a way our usual beach seagulls aren't.
 
 Related: it can be hit-or-miss whether a hotel room will have air conditioning in Norway, and other European countries I've visited. My hotel does not; nor did my Bergen hotel. With daytime temperatures in the high 50's or low 60's, it's not that much of a problem, but it does mean my options in the evening are to either leave my patio door open and get some fresh air, or bake under the heavy duvet all night. I opted for the open door. And here's where the birds enter the picture. All through the night they'd periodically have their loud, cawing conversations. Did I mention their calls are uniquely ear-piercing? 

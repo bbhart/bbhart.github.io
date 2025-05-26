@@ -9,13 +9,16 @@ tags: [may2025]
 background: '/assets/20250510-bergen-waterfront-bg.jpg'
 ---
 
+- **Start of day:** Bergen, Norway ([Hotel Park](https://www.hotelpark.no/))
+- **End of day:** Bergen, Norway ([Hotel Park](https://www.hotelpark.no/))
+
 I start the day after a **huge** sleep, logging almost 9 hours on the CPAP. One would like to believe my jet lag has been remedied and my internal clock has been reset. [Spoiler: nope.]
 
 As I mentioned at the end of yesterday, I intentionally booked a walking tour for this first full day in Bergen, to get me up and moving earlier than perhaps my body wanted to. I skipped hotel breakfast and casually made my way through downtown Bergen:
 
 <img src="/assets/20250510-bergen1.jpg" alt="The image shows a picturesque town square with cobblestone pavement, surrounded by colorful historic buildings with European architectural styles. In the center of the square is a statue of a person standing on a pedestal, enclosed by a decorative green fence. The buildings display signs for various businesses, including an optician ('Briller-Kontaktlinser') and other shops. In the background, there is a green, tree-covered hillside dotted with small houses. The sky is clear and blue, and a few people are walking in the square, along with a white van parked nearby. The scene is bright and sunny." />
 
-Arriving at over to the Bryggens Museum next to the waterfront for my scheduled tour:
+Arriving at over to the [Bryggens Museum](https://bymuseet.no/museum/bryggens-museum/?lang=en) next to the waterfront for my scheduled tour:
 
 <img src="/assets/20250510-bergen3.jpg" alt="The image shows the entrance to Bryggens Museum, a museum dedicated to medieval archaeological collections, as indicated by the large text on the building's exterior wall. The building is modern, with textured concrete walls and large windows. In front of the entrance, there are two display signs: one is a tall black pillar with museum information, and the other is a red sandwich board welcoming visitors in multiple languages, including Norwegian, English, French, Spanish, Italian, Arabic, and others. A small potted plant is placed near the glass entrance doors. The surrounding area is clean, with brick paving and some greenery in the background. The sky is clear and blue." />
 

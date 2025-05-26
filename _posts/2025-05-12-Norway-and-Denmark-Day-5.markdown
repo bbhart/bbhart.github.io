@@ -9,6 +9,10 @@ tags: [may2025]
 background: '/assets/20250512-hike7-bg.jpeg'
 ---
 
+- **Start of day:** Balestrand, Norway ([Kviknes Hotel](https://en.kviknes.no/))
+- **End of day:** Balestrand, Norway ([Kviknes Hotel](https://en.kviknes.no/))
+
+
 My stupid, **stupid** CPAP machine kept cutting out on me last night. I've had it since April 2018 and in all that time it's had this quirk where you have to get the plug _just right_ into the back of it, or else it's unpowered. Sometimes in the night you can accidentally move the CPAP a little and it'll stop working and start actively suffocating you. Last night was an epidemic of not being able to get it to stay plugged in right. _That's not super fun travel information, I know; it's more a reminder to myself to actually deal with the situation at some point._
 
 Today was my planned day for a Big Hike. Because of the sleep problems I was really dragging this morning. I managed to wander down to the grocery store at 10:30 and pick up a pastry for breakfast, along with a large water to take with me on the hike.[^1]

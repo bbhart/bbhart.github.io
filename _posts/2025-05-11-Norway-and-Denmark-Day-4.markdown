@@ -7,8 +7,10 @@ categories: travel norway denmark
 rollup_key: 2025norway
 tags: [may2025]
 background: '/assets/20250511-ferry-bg.jpg'
-
 ---
+
+- **Start of day:** Bergen, Norway ([Hotel Park](https://www.hotelpark.no/))
+- **End of day:** Balestrand, Norway ([Kviknes Hotel](https://en.kviknes.no/))
 
 This morning I woke up at 6am, beating my alarm clock by 45 minutes, after a night of broken sleep. This is the day I move from Bergen to Balestrand, still in Norway. 
 
@@ -26,7 +28,7 @@ There's no way for me to adequately describe how amazing the trip was. Even my v
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-D4g7_tVOEo?si=5u0RwWY9OfzaiCiZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**One note for future Express Ferry travelers:** when you're nearing the stop, be sure you're ready to leave! This means fetching your bag from the aft storage and making your way to the front of the ferry. They aren't wasting a lot of time at each stop! Unfortunately I got stuck behind someone whose approach to problem-solving was to stand in the aisle and hope that everything worked out. 
+**One note for future Express Ferry travelers:** when you're nearing the stop, be sure you're ready to leave! This means fetching your bag from the aft storage and making your way to the front of the ferry. They aren't wasting a lot of time at each stop! Unfortunately I got stuck behind someone whose approach to problem-solving was to stand in the aisle and hope that everything worked out. I had to play my Loud American card, which I do sparingly.
 
 Regardless, I made it off, barely, and made the 100m walk to the [Hotel Kviknes](https://www.kviknes.no/), my home for the next two nights. There are two sections to the Kviknes: the historic part, with 25 rooms, and the modern (1960's) part with 165 rooms. I'm in the modern part, with the main reason being I wanted a nice, affordable balcony. It is not an attractive building, though; it's at odds with its surroundings. Frankly, it looks like one of the budget accomodations you'd find somewhere like Daytona Beach. But the room itself is nice, the view from the balcony is undeniable, and the staff is friendly. I relax in my room for a bit, then set out around 2pm for some lunch.
 
