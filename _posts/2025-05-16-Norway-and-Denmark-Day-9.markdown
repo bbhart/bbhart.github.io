@@ -8,6 +8,7 @@ rollup_key: 2025norway
 tags: [may2025]
 background: '/assets/20250516-ship-bg.jpg'
 published: false
+
 ---
 
 Hello from Oslo! Truly, I had a _fantastic_ sleep at the Clarion Oslo (the one on Dronning Eufemias gate 15), nearish the water and train station. Even though my room looked out on a small courtyard, I still managed to be awakened by a leafblower. So it goes. 
