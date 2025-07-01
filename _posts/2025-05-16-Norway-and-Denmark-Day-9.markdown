@@ -30,7 +30,7 @@ The second half of the walk was a lot of the same (not in a bad way). I stopped 
 
 With still more than 2 hours to kill before my ferry, I meandered back to the hotel, sat out front in the sun and people-watched for a bit, then grabbed my luggage from bell services and started the walk over to the ferry terminal. It was around a 25 minute walk from the hotel to the ferry terminal but it was super easy. My concern was I'd be walking through an industrial area, dodging cars and trucks hauling containers, but it wasn't that at all. The path was well-marked and well-paved and it was no trouble at all. 
 
-The ferry itself, the Nordic Crown, is older but still perfectly serviceable. 
+The [DFDS ferry](https://www.dfds.com/en/passenger-ferries/ferry-crossings/ferry-to-norway/copenhagen-oslo) itself, the Nordic Crown, is older but still perfectly serviceable. 
 
 <img src="/assets/20250516-ferry1.jpg" alt="A large cruise ship named 'Nordic Crown' is docked at a port next to a mostly empty parking area. The ship has a white and teal hull with multiple decks, red lifeboats, and a red funnel with a white 'G' logo. A tour bus is parked nearby, and a few small buildings and trees line the edge of the port under a clear blue sky.">
 
