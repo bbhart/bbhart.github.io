@@ -6,7 +6,7 @@ date:  2025-05-19
 categories: travel norway denmark
 rollup_key: 2025norway
 tags: [may2025]
-#background: '/assets/20250517-copenhagen-bg.jpg'
+background: '/assets/20250519-icelandair-bg.jpg'
 ---
 
 - **Start of day:** [Copenhagen Strand](https://www.copenhagenstrand.com/) hotel, Copenhagen Denmark
