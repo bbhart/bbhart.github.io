@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Switzerland and Germany Day 
+title: Switzerland and Germany Day 13
 subtitle: 
 date:  2025-08-10
 categories: travel switzerland germany
