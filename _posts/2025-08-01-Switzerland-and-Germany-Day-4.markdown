@@ -25,7 +25,11 @@ We all met at the Wengen train station around 8:50 to start to make our way to Z
 
 <img src="/assets/20250801-zermatt-chairs.jpg" width="100%" />
 
-We arrived around 1:15 and our room wouldn't be ready 'til two. Exhausted, we were content to lounge in the hotel lobby with a ham sandwich we'd bought at the bakery down the street. Rowan and I did our own exploring until early evening when we met up with Joshua and Max for dinner at [Restaurant Pinte](https://www.hotelpollux.ch/en/gastronomy/pinte). Pinte did not have amazing signage but DID have good weinerschnitzel. We sat outside next to the menu board, which is always weird as people come and stand two feet next to you.
+We arrived around 1:15 and our room wouldn't be ready 'til two. Exhausted, we were content to lounge in the hotel lobby with a ham sandwich we'd bought at the bakery down the street. Once we got up to the room, we relaxed on our balcony and enjoyed the cool-but-not-cold fresh air.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7FSeDhMUNYA?si=2Gt7olpRU74Jp8NN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Later that afternoon, we did our own exploring until early evening when we met up with Joshua and Max for dinner at [Restaurant Pinte](https://www.hotelpollux.ch/en/gastronomy/pinte). Pinte did not have amazing signage but DID have good weinerschnitzel. We sat outside next to the menu board, which is always weird as people come and stand two feet next to you.
 
 It was Swiss National Day, which meant live music and other activities around town. Joshua and I caught the beginning of one act, who were GREAT!, but I was concerned about aggravating my tinnitus so I went on a photo walk instead. 
 
