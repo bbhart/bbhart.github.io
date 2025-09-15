@@ -13,7 +13,7 @@ background: '/assets/2024-switzerland-day7-topoftrail.jpg'
 - **Start of day:** Zermatt, Switzerland
 - **End of day:** Zermatt, Switzerland
 
-It was a big activity day for us in Zermatt! In the morning we hiked through [Gorner Gorge](https://zermatt.swiss/en/p/gorner-gorge-01tVj000005DonMIAS)[^1]. The trail from Zermatt to Gorner Gorge is known as the Gornerschluchtweg (Gorner Gorge Trail). If you're in town and follow the lefthand side of the river walking towards the Matterhorn, you should run right into the trail. The first part is paved road, then it becomes gravel road, then you need to be on your toes to catch the turnoff on the left into the gorge itself.  It's easy to miss it and to just mindlessly continue up the road (ask me how I know). You'll hike a bit through the gorge, then come to the booth where you pay, then continue on down more into the gorge. 
+It was a big activity day for us in Zermatt! In the morning we hiked through [Gorner Gorge](https://zermatt.swiss/en/p/gorner-gorge-01tVj000005DonMIAS)[^1] along the Gornerschluchtweg (Gorner Gorge Trail). If you're in town and follow the lefthand side of the river walking towards the Matterhorn, you should run right into the trail. The first part is paved road in town, then it becomes gravel road, then you need to be on your toes to catch the turnoff on the left into the gorge itself.  It's easy to miss it and to just mindlessly continue up the road (ask me how I know). You'll hike a bit through the gorge, then come to the booth where you pay, then continue on down more into the gorge. 
 
 By the way, Zermatt has a [stargate](https://en.wikipedia.org/wiki/Stargate_(device)) you'll pass along the way:
 <img src="/assets/20250802-zermatt-stargate.jpg" width="100%" />
