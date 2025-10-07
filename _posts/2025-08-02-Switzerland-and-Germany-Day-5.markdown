@@ -42,6 +42,8 @@ The afternoon was busy, as well. We took the [funicular up to Sunnegga](https://
 
 <img src="/assets/20250802-mountaincart.jpg" width="100%" alt="Four people wearing helmets sitting on metal mountaincarts with large wheels in a gondola station" />
 
+<img src="/assets/20250802-brian-mountaincart.jpg" width="100%" alt="The author sitting on a metal mountaincart smiling at the camera with a mountain vista behind him" />
+
 The mountaincart has to be one of the more dangerous things I've done in my life. It was a lot of fun, don't get me wrong, but at no point while I was in motion did I feel like I wasn't moments away from death. It lasted around 20 minutes and I managed to capture some video (see Mountaincarts and Kickbikes video below).
 
 The carts are turned in at Sunnegga, where we then stopped for a late lunch at [Buffet Bar Sunnegga](https://zermatt.swiss/en/p/buffet-bar-sunnegga-01tVj000005DoQjIAK). This is my second time eating here and have been pleased with the Bratwurst mit Rösti und Zwiebelsauce / Fried sausage with Rösti and onion gravy both times, so I can recommend. Even with some clouds obscuring, the views of the Matterhorn are worth the price of the food here. 
