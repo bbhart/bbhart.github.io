@@ -7,6 +7,39 @@ categories: travel norway denmark
 rollup_key: 2025chde
 tags: [july2025]
 background: '/assets/20250729-deltalounge-bg.jpg'
+
+# Location metadata
+locations:
+  - Holly Springs, NC
+  - Durham, NC
+  - Raleigh-Durham International Airport
+  - JFK Airport
+  - Zurich
+
+# Transport metadata
+flights:
+  - carrier: Delta
+    route: RDU → JFK → ZRH
+    departure_time: "2025-07-29T20:30:00"
+    layover_airport: JFK
+    layover_duration: "4.5 hours"
+
+# Travel companions
+travelers:
+  - son (age 15)
+
+# Trip metadata
+trip_type: transatlantic
+trip_stage: outbound
+trip_duration_days: 1
+countries_visited:
+  - United States
+
+# Activities
+activities:
+  - citizenship_ceremony
+  - airport_transit
+  - overnight_flight
 ---
 
 - **Start of day:** Holly Springs, North Carolina
@@ -15,12 +48,12 @@ background: '/assets/20250729-deltalounge-bg.jpg'
 When I'm traveling west to east, even if I'm somehow able to sleep on the plane, it still feels like one continuous day. This particular day was unusual, too. It started with an appointment in Durham at 8:00 for my wife to get her US citizenship. Then back home, finish last minute packing, then leave for the airport around noon. 
 
 RDU, the perfectly sized airport:
-<img src="/assets/20250729-rdu.jpg" width="100%" />
+<img src="/assets/20250729-rdu.jpg" alt="Raleigh-Durham International Airport terminal interior showing moving walkway, wooden beam ceiling, and travelers with INMOTION retail store visible" width="100%" />
 
 We're doing a split family trip this summer. My almost-16 year old son will come with me to Europe, while my wife and 14 year old daughter will head to Nova Scotia to spend time with family and friends there. Originally they were going to fly out the day before us. We rescheduled that around her citizenship interview time, which meant we all got to ride to the airport together. We were all even bound for the same city -- New York -- but with them going to LaGuardia and us through JFK.
 
 So close yet so far:
-<img src="/assets/20250729-ny-airports.jpg" width="100%" />
+<img src="/assets/20250729-ny-airports.jpg" alt="iPhone map screenshot showing New York area airports - LaGuardia Airport in Queens and JFK Airport in Queens/Brooklyn, with family member location markers" width="100%" />
 
 I'm happy to say all the travel was not much to write about. Our first flight was delayed half an hour departing, and our 4 1/2 hour layover in JFK cushioned that without blinking. Boarding was well-organized, our 8:30pm flight to Zurich left on time, it was a little bumpy but not unusually so, and... yeah, no real excitement. I'll take it.
 
