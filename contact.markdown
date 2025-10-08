@@ -6,6 +6,6 @@ background: '/assets/bg-matterhorn.jpg'
 ---
 
 Your best bets for reaching me are:
+- Email at [blogmail at bbhart.com](mailto:blogmail@bbhart.com)
 - InMail me on [LinkedIn](https://linkedin.com/in/bhart)
-- Threads at [@bbhart_insta](https://www.threads.net/@bbhart_insta)
-
+- Message me on Signal at `bbhart.04`
