@@ -29,7 +29,7 @@ What started as a gray day started to clear late afternoon and the beauty of the
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yBKXCLrdb_8?si=6xis8U8HV3HMKOS7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Having more time, I would take the ~17 minute train to [Wasserauen](https://www.ebenalp.ch/en/welcome) and then take the lift up. I might even consider staying at the [Aescher Inn](https://aescher.ch/en/) [(photo)](https://commons.wikimedia.org/wiki/Category:Aescher#/media/File:Aescher-Wildkirchli_20210528_01.jpg), the very Instagrammable hotel/restaurant built into a cliff, but that would need to be a backpack not rolly-suitcase trip.
+Having more time, I would take the ~17 minute train to [Wasserauen](https://www.ebenalp.ch/en/welcome) and then take the lift up. I might even consider staying at the [Aescher Inn](https://aescher.ch/en/) [(photo)](https://commons.wikimedia.org/wiki/Category:Aescher#/media/File:Aescher-Wildkirchli_20210528_01.jpg), the very Instagrammable hotel/restaurant built into a cliff, but that would need to be a backpack not rolling-suitcase trip.
 
 We walked up and down the main street and finally ate at [Café-Hotel Appenzell](https://www.hotel-appenzell.ch/en/home.html), where we both enjoyed the weinerschnitzel (not pictured) and fries.
 <img src="/assets/20250804-fries.jpg" width="100%" alt="Golden french fries served on a wooden board with a silver serving spoon">
