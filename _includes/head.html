@@ -20,4 +20,70 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
+  {% if page.layout == 'post' %}
+  <!-- Structured Data for Blog Posts -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "{{ page.title | escape }}",
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{{ page.date | date_to_xmlschema }}",
+    "author": {
+      "@type": "Person",
+      "name": "{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.title }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}{{ site.baseurl }}/img/logo.png"
+      }
+    },
+    "description": "{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"
+    {% if page.background %},
+    "image": "{{ site.url }}{{ page.background }}"
+    {% endif %}
+    {% if page.locations %},
+    "contentLocation": [
+      {% for location in page.locations %}
+      {
+        "@type": "Place",
+        "name": "{{ location.name }}"
+        {% if location.country %},
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "{{ location.country }}"
+        }
+        {% endif %}
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+    {% endif %}
+  }
+  </script>
+
+  {% if page.accommodation %}
+  <!-- Hotel/Accommodation Metadata -->
+  <meta property="og:type" content="article">
+  <meta name="accommodation" content="{{ page.accommodation.name }}, {{ page.accommodation.location }}">
+  {% endif %}
+
+  {% if page.activities %}
+  <!-- Activities Metadata -->
+  {% for activity in page.activities %}
+  <meta name="activity" content="{{ activity.type }}: {{ activity.name }}">
+  {% endfor %}
+  {% endif %}
+
+  {% if page.locations %}
+  <!-- Geographic Metadata -->
+  {% for location in page.locations %}
+  <meta name="geo.placename" content="{{ location.name }}, {{ location.country }}">
+  {% endfor %}
+  {% endif %}
+
+  {% endif %}
+
 </head>
