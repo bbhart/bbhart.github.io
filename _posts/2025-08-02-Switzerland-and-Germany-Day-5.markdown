@@ -5,7 +5,7 @@ subtitle: Hikes, bikes, and carts
 date:  2025-08-02
 categories: travel switzerland germany
 rollup_key: 2025chde
-tags: [july2025]
+tags: [august2025]
 background: '/assets/2024-switzerland-day7-topoftrail.jpg'
 author: Brian Hart
 description: A full day of adventure in Zermatt including hiking through Gorner Gorge, riding mountaincarts down from Blauherd, and kickbiking from Sunnegga back to town with views of the Matterhorn

@@ -5,7 +5,7 @@ subtitle: Fairytale castle and less-than-fairytail transit
 date:  2025-08-05
 categories: travel switzerland germany
 rollup_key: 2025chde
-tags: [july2025]
+tags: [august2025]
 background: '/assets/20250805-neuschwanstein-bg.jpg'
 
 ---
