@@ -7,6 +7,58 @@ categories: travel switzerland germany
 rollup_key: 2025chde
 tags: [august2025]
 background: '/assets/20250804-appenzell-bg.jpg'
+accommodation:
+  - name: Hotel Albatros
+    location: Zermatt, Switzerland
+    nights: 0
+    checkin: false
+    checkout: true
+  - name: Adler Hotel
+    location: Appenzell, Switzerland
+    nights: 1
+    checkin: true
+    checkout: false
+    url: https://www.adlerhotel.ch/en/home/
+    notes: Hotel restaurant closed during stay
+locations:
+  - name: Zermatt
+    country: Switzerland
+  - name: Appenzell
+    country: Switzerland
+  - name: Wasserauen
+    country: Switzerland
+    notes: Nearby destination mentioned for future visit
+activities:
+  - type: sightseeing
+    name: Walking tour of Appenzell town center
+    location: Appenzell
+  - type: shopping
+    name: Supermarket provisions
+    location: Appenzell
+transport:
+  - type: train
+    route: Zermatt to Appenzell
+    departure: 8:37am
+    duration: ~5.5hrs
+    notes: Multiple transfers required
+dining:
+  - name: Café-Hotel Appenzell
+    location: Appenzell
+    type: restaurant
+    cuisine: Swiss
+    url: https://www.hotel-appenzell.ch/en/home.html
+    dish: Weinerschnitzel and fries
+points_of_interest:
+  - name: Aescher Inn
+    location: Near Wasserauen
+    type: hotel-restaurant
+    url: https://aescher.ch/en/
+    notes: Cliff-side hotel for future consideration
+  - name: Ebenalp
+    location: Near Wasserauen
+    type: attraction
+    url: https://www.ebenalp.ch/en/welcome
+    notes: Cable car destination from Wasserauen (~17min from Appenzell)
 ---
 
 - **Start of day:** Zermatt, Switzerland

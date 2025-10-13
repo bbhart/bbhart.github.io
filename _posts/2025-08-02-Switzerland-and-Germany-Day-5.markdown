@@ -15,6 +15,57 @@ location:
   longitude: 7.7491
 image: '/assets/2024-switzerland-day7-topoftrail.jpg'
 keywords: [Zermatt, Gorner Gorge, mountaincart, kickbike, Sunnegga, Blauherd, Matterhorn, Switzerland hiking]
+accommodation:
+  name: Hotel Albatros
+  location: Zermatt, Switzerland
+  nights: 1
+locations:
+  - name: Zermatt
+    country: Switzerland
+  - name: Gorner Gorge
+    country: Switzerland
+  - name: Sunnegga
+    country: Switzerland
+  - name: Blauherd
+    country: Switzerland
+activities:
+  - type: hiking
+    name: Gorner Gorge hike
+    location: Gorner Gorge
+    url: https://zermatt.swiss/en/p/gorner-gorge-01tVj000005DonMIAS
+  - type: adventure
+    name: Mountaincart ride
+    location: Blauherd to Sunnegga
+    duration: ~20min
+  - type: adventure
+    name: Kickbike ride
+    location: Sunnegga to Zermatt
+transport:
+  - type: funicular
+    route: Zermatt to Sunnegga
+    url: https://www.matterhornparadise.ch/en/book/tickets/sunnegga
+  - type: gondola
+    route: Sunnegga to Blauherd
+  - type: mountaincart
+    route: Blauherd to Sunnegga
+  - type: kickbike
+    route: Sunnegga to Zermatt
+dining:
+  - name: Buffet Bar Sunnegga
+    location: Sunnegga
+    type: restaurant
+    cuisine: Swiss
+    url: https://zermatt.swiss/en/p/buffet-bar-sunnegga-01tVj000005DoQjIAK
+    dish: Bratwurst mit Rösti und Zwiebelsauce
+  - name: Restaurant Chalet Reid
+    location: Near Zermatt
+    type: restaurant
+    url: https://zermatt.swiss/en/p/restaurant-chalet-ried-01tVj000005DiWgIAK
+  - name: North Wall Bar
+    location: Zermatt
+    type: restaurant
+    cuisine: Pizza
+    url: https://zermatt.swiss/en/p/north-wall-bar-01tVj000005DjnkIAC
 
 ---
 

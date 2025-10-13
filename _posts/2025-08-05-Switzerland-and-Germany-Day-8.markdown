@@ -7,6 +7,98 @@ categories: travel switzerland germany
 rollup_key: 2025chde
 tags: [august2025]
 background: '/assets/20250805-neuschwanstein-bg.jpg'
+accommodation:
+  - name: Adler Hotel
+    location: Appenzell, Switzerland
+    nights: 0
+    checkin: false
+    checkout: true
+  - name: Best Western Plus Hotel Füssen
+    location: Füssen, Germany
+    nights: 1
+    checkin: true
+    checkout: false
+    url: https://www.bestwestern.com/en_US/book/hotels-in-fuessen/best-western-plus-hotel-fuessen/propertyCode.95509.html
+    notes: 15 minute walk from train station
+locations:
+  - name: Appenzell
+    country: Switzerland
+  - name: St. Gallen
+    country: Switzerland
+  - name: St. Margrethen SG
+    country: Switzerland
+  - name: Bregenz
+    country: Austria
+    notes: First visit to Austria
+  - name: Buchloe
+    country: Germany
+  - name: Füssen
+    country: Germany
+  - name: Schwangau
+    country: Germany
+  - name: Neuschwanstein Castle
+    country: Germany
+activities:
+  - type: sightseeing
+    name: Lake Constance visit
+    location: Bregenz, Austria
+  - type: cultural
+    name: Neuschwanstein Castle guided tour
+    location: Neuschwanstein Castle
+    time: 5:50pm
+    url: https://www.fuessen.de/en/culture/castles-museums/
+    notes: No photography allowed inside, tickets must be purchased in advance
+  - type: hiking
+    name: Walk up to Neuschwanstein
+    location: Neuschwanstein Castle
+    distance: ~1 mile
+    elevation_gain: 500ft
+transport:
+  - type: train
+    route: Appenzell to St. Gallen
+    operator: SBB
+  - type: train
+    route: St. Gallen to St. Margrethen SG
+    operator: SBB
+  - type: train
+    route: St. Margrethen to Bregenz
+    departure: 12:25pm
+    operator: ÖBB
+    notes: Seat reservations required
+  - type: train
+    route: Bregenz to Buchloe
+  - type: bus-train
+    route: Buchloe to Füssen
+    operator: DeutscheBahn
+    notes: Gas-powered vehicle on train tracks, limited luggage space
+  - type: walking
+    route: Füssen Bahnhof to Best Western Plus
+    duration: 15min
+  - type: bus
+    route: Füssen to Schwangau/Neuschwanstein
+    frequency: Every 30 minutes
+    notes: Signage and schedules could be improved
+  - type: walking
+    route: Parking area to Neuschwanstein Castle
+    duration: ~20min
+    distance: ~1 mile
+    elevation_gain: 500ft
+dining:
+  - name: Best Western Plus Restaurant
+    location: Füssen
+    type: hotel-restaurant
+points_of_interest:
+  - name: Bregenz Festspielhaus
+    location: Bregenz, Austria
+    type: cultural-venue
+  - name: Lake Constance
+    location: Bregenz, Austria
+    type: natural-attraction
+  - name: Hohenschwangau Castle
+    location: Schwangau, Germany
+    type: castle
+    url: https://www.fuessen.de/en/culture/castles-museums/
+    notes: Royal castle near Neuschwanstein
 
 ---
 

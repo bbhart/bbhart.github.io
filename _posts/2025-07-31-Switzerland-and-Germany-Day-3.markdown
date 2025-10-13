@@ -7,6 +7,42 @@ categories: travel switzerland germany
 rollup_key: 2025chde
 tags: [july2025]
 background: '/assets/20250731-wengen-bg.jpg'
+accommodation:
+  name: Hotel Bären
+  location: Wengen, Switzerland
+  nights: 1
+locations:
+  - name: Wengen
+    country: Switzerland
+  - name: Männlichen
+    country: Switzerland
+  - name: Kleine Scheidegg
+    country: Switzerland
+  - name: Lauterbrunnen
+    country: Switzerland
+activities:
+  - type: hiking
+    name: Männlichen to Kleine Scheidegg panorama walk
+    location: Männlichen-Kleine Scheidegg
+  - type: hiking
+    name: Royal Walk to the Crown
+    location: Männlichen
+  - type: sightseeing
+    name: Staubbach Falls
+    location: Lauterbrunnen
+transport:
+  - type: gondola
+    route: Wengen to Männlichen
+  - type: train
+    route: Kleine Scheidegg to Wengen
+  - type: train
+    route: Wengen to Lauterbrunnen
+dining:
+  - name: The Deck
+    location: Wengen
+    type: restaurant
+    cuisine: Swiss
+    url: https://jungfraublick.com/restaurant/?lang=en
 
 ---
 
