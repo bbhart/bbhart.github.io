@@ -18,7 +18,7 @@ If you can't determine the `prefix` or `markdownfile` arguments, exit with an er
 - For each of those files, create an html img tag:
     - If there's already an html img tag referencing that image, then skip that file. 
     - Append an html img tag to the bottom of `markdownfile` referencing that image 
-    in the 'assets/' subdirectory
+    in the '/assets/' subdirectory
     - Specify the width to be 100%, using the width attribute of the img tag.
     - Add suitable alt text based on the content of the image.
 
