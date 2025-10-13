@@ -107,6 +107,8 @@ points_of_interest:
 
 Today was probably the most complicated travel logistics day of the trip. We needed to rely on the transportation networks of SBB, DeutscheBahn, and whatever Füssen has going on.
 
+<img src="/assets/20250805-train-itinerary.png" width="100%" alt="Screenshot showing a train itinerary for the S3 to the IC191 to the RB77 trains." />
+
 ## Appenzell to Füssen
 
 We had two major milestones: we had to be at St. Margrethen SG station by 12:25pm in order to take the train I'd booked weeks before, and we had to be up to [Neuschwanstein Castle](https://en.wikipedia.org/wiki/Neuschwanstein_Castle) by 5:50pm in order to use the tickets I'd purchased months before. Funny enough, out of a 160 mile trip with multiple connections, the final 3 miles from Füssen to Neuschwanstein would be the most challenging. More on that below. 
