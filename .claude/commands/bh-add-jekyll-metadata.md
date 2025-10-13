@@ -11,7 +11,7 @@ Parse $ARGUMENTS to get the following values:
 
 ## Task
 
-Inspect the jekyll markdown file located at `filename` and suggest additional metadata entries
+Inspect the jekyll markdown file located at `filename` and edit the file to include additional metadata entries
 that will provide an optimized experience for an MCP server. This might include hotels, venues, transport, days at 
 location, activities, and so on. 
 
