@@ -75,7 +75,11 @@ The buses back to town ran every half hour or so. There was a light drizzle whil
 
 <img src="/assets/20250805-neuschwanstein-from-bus-stop.jpg" width="100%" alt="Neuschwanstein castle up on a hill in the late afternoon after a rainstorm" />
 
-Back in town we wandered up and down the main strip looking at the menu boards for dinner, only to end up at the restaurant at the Best Western instead, which was fine. After dinner we settled into our now-usual routine where I'd head downstairs to the lobby with laptop and work on this journal and son would game/Discord with friends. 
+Back in town we wandered up and down the main strip looking at the menu boards for dinner, only to end up at the restaurant at the Best Western instead, which was fine. 
+
+<img src="/assets/20250805-fussen-sticker.jpg" width="100%" alt="Sticker on wastebin says Push To Reset The World. I pushed it and it didn't work." />
+
+After dinner we settled into our now-usual routine where I'd head downstairs to the lobby with laptop and work on this journal and son would game/Discord with friends. 
 
 Tomorrow: more trains and buses, with another brief visit to Austria.
 
