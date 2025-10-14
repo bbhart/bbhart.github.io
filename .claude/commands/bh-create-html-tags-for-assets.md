@@ -16,8 +16,6 @@ argument-hint: Prefix | Markdown file
 
 ## Task
 
-If you can't determine the `prefix` or `markdown_file` arguments, exit with an error.
-
 - Look in the 'assets' subdirectory for filenames starting with `prefix`.
 - For each of those files, create an html img tag:
     - If there's already an html img tag referencing that image, then skip that file. 
