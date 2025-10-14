@@ -16,6 +16,7 @@ argument-hint: Prefix | Markdown file
 
 ## Task
 
+- Clear previous context. You don't need previous context for this, and it sometimes causes you problems.
 - Look in the 'assets' subdirectory for filenames starting with `prefix`.
 - For each of those files, create an html img tag:
     - If there's already an html img tag referencing that image, then skip that file. 
