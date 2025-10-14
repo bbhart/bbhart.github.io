@@ -7,6 +7,34 @@ categories: travel switzerland germany
 rollup_key: 2025chde
 tags: [august2025]
 background: '/assets/20250811-munich-airport-entrance-bg.jpg'
+location: Munich, Germany
+hotels:
+  - name: Mercure Hotel München Altstadt
+    status: checkout
+    location: Marienplatz, Munich
+  - name: Hilton Munich Airport
+    status: checkin
+    location: Munich Airport
+transport:
+  - type: S-bahn
+    route: Munich city center to Munich Airport
+activities:
+  - Shopping at REWE grocery store
+  - Finding EAT HAPPY sushi stall
+  - Walking around Munich Airport
+  - Dinner at Mountain Hub Gourmet restaurant
+venues:
+  - name: EAT HAPPY
+    type: restaurant
+    cuisine: sushi
+    location: REWE grocery store, Munich Airport
+    cost: 14 EUR
+  - name: Mountain Hub Gourmet
+    type: restaurant
+    location: Hilton Munich Airport
+    url: https://gourmet.mountainhub.de/en/
+days_at_location: 1
+travel_sentiment: tired, ready to go home
 
 ---
 
@@ -29,6 +57,6 @@ After checking in early, I spent the next 30 minutes trying to find a sushi spot
 
 The rest of the afternoon was pretty lazy.  Rowan played games in the room and I walked around the airport, half to kill time and get steps in, half to scope out where we'd check in tomorrow. In the early evening, we had an excellent final night meal at the [Mountain Hub Gourmet restaurant](https://gourmet.mountainhub.de/en/) in our Hilton.
 
-<img src="/assets/20250811-moo.jpg" width="100%" alt="Faux cow stands outside a busy hotel lobby." />
+<img src="/assets/20250811-moo.jpg" width="100%" alt="Life-sized decorative cow statue named Hilda wearing a black Hilton collar in Mountain Hub Gourmet restaurant lobby, with rustic Alpine-themed decor including birch tree trunks and hanging foliage in background"/>
 
 Tomorrow: we fly.
