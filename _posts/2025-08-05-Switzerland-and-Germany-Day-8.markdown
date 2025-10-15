@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Switzerland and Germany Day 8
-subtitle: Fairytale castle and less-than-fairytail transit
+subtitle: Füssen - a fairytale castle and less-than-fairytail transit
 date:  2025-08-05
 categories: travel switzerland germany
 rollup_key: 2025chde

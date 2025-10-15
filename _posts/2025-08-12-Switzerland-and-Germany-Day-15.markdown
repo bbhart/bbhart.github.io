@@ -2,7 +2,7 @@
 layout: post
 title: Switzerland and Germany Day 15
 subtitle: The trip home
-date:  2025-08-11
+date:  2025-08-12
 categories: travel switzerland germany
 rollup_key: 2025chde
 tags: [august2025]

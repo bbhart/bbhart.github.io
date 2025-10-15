@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Switzerland and Germany Day 5
-subtitle: Hikes, bikes, and carts
+subtitle: Hikes, bikes, and carts in Zermatt
 date:  2025-08-02
 categories: travel switzerland germany
 rollup_key: 2025chde

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Switzerland and Germany Day 6
-subtitle: Up to Gornergrat
+subtitle: Up to Gornergrat and its Matterhorn views above Zermatt
 date:  2025-08-03
 categories: travel switzerland germany
 rollup_key: 2025chde
