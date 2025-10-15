@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Brian's first trip to Japan
-subtitle: Rollup of Tokyo, Kamakura, and Kyoto
+title: Brian's first trip to Japan in 2024
+subtitle: Exploring Tokyo, Kamakura, and Kyoto
 date:  2024-03-19
 categories: travel rollup
 background: '/assets/20240206-kamakura-sugimoto.jpg'

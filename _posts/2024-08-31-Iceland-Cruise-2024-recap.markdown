@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Our cruise voyage from New York to Iceland
-subtitle: Rollup of a rugged, chilly vacation
+title: Our cruise voyage from New York to Iceland in 2024
+subtitle: A rugged, chilly vacation sailing from New York to Iceland via Canada and Greenland
 date:  2024-08-31
 categories: travel rollup
 background: '/assets/20240831-stjohns-coast.jpg'

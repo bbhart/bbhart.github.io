@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Celebrity Eclipse Southern Caribbean Winter 2024
-subtitle: Rollup of Cayman, The ABC Islands, Puerto Rico, and the DR
+title: Celebrity Eclipse Southern Caribbean in Winter 2024
+subtitle: A family trip to the Cayman Islands, Aruba, Curaçoa, Bonaire, Puerto Rico, and the DR aboard the Celebrity Eclipse
 date:  2025-01-15
 categories: travel rollup
 background: '/assets/20241231-lazyriver.jpg'

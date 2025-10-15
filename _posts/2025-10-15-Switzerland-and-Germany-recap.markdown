@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Switzerland and Germany 2025
+title: Switzerland and Germany in 2025
 subtitle: A summer 2025 trip to Switzerland and Germany with my 16 year old son
 date:  2025-10-15
 categories: travel rollup

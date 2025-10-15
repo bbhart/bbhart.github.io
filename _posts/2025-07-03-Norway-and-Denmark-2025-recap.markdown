@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Norway and Denmark 2025
-subtitle: Rollup of Bergen, Balestrand, Voss, Oslo, and Copenhagen 2025
+title: Norway and Denmark in 2025
+subtitle: Exploring Bergen, Balestrand, Voss, Oslo, and Copenhagen
 date:  2025-07-03
 categories: travel rollup
 background: '/assets/20250512-hike7-bg.jpeg'
