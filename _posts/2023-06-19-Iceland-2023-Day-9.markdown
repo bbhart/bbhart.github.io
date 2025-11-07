@@ -1,0 +1,58 @@
+---
+layout: post
+title: Iceland 2023 Day 9
+subtitle: Departure day and KEF airport chaos
+date: 2023-06-19
+categories: travel iceland
+rollup_key: 2023iceland
+tags: [june2023]
+published: false
+accommodation:
+  - name: Old Reykjavik Charm
+    location: Reykjavik, Iceland
+    nights: 2
+    checkin: false
+    checkout: true
+locations:
+  - name: Reykjavik
+    country: Iceland
+  - name: Keflavík International Airport (KEF)
+    country: Iceland
+activities:
+  - type: travel
+    name: Departure from Iceland
+    location: KEF
+    flight_time: 4:45pm
+    flight_duration: 6.5 hours
+    arrival_time: 7:30pm EDT
+transport:
+  - type: private-car
+    route: Old Reykjavik Charm to KEF
+    pickup: 11:00am
+    arrival: 11:45am
+  - type: flight
+    route: KEF to US
+    departure: 4:45pm
+    arrival: 7:30pm EDT
+    duration: 6.5 hours
+points_of_interest:
+  - name: KEF check-in area
+    notes: Self-service machines for boarding passes and bag tags, minimal staff presence
+  - name: KEF D Terminal
+    notes: US/Canada bound flights, located past Passport Control
+  - name: KEF gateside
+    notes: Multiple flights departing every 5 minutes, buses to tarmac
+---
+
+- **Start of day:** Old Reykjavik Charm, Reykjavik
+- **End of day:** Flight back to US
+
+Our private car to the airport picked us up right at 11, which was great.
+
+## The KEF airport experience
+
+The KEF airport experience is kind of a mess. Just inside where departures are dropped off there are maybe two dozen check-in machines, where you can get your boarding passes. No worker humans in sight. We needed bag tags, but when I went to the machine it said our flight was closed (??). We walk around like the idiot tourists we are for a few minutes and then huddle under some stairs… coincidentally right next to a poorly marked machine that prints luggage tags. Oh. Let's try this. Scan our boarding passes and four bag tags pop out. Put our tags on our bags and then go over to another area (still no humans in the picture here) and then use self-service to scan our bag tags and submit our bags into the machine.
+
+Note the 'D Terminal' part of KEF is on the other side of Passport Control, so if you're US/Canada bound, don't hang out in the main part of the airport… even if the screens say your gate will be announced later, go ahead and head to the D part of the airport so that you don't get caught up by Passport Control.
+
+The actual gateside was a shit show. Flights leaving every five minutes requiring buses to take passengers out to planes parked across the tarmac.

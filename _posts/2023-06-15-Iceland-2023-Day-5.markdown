@@ -1,0 +1,70 @@
+---
+layout: post
+title: Iceland 2023 Day 5
+subtitle: Lava tubes and waterfall hunting
+date: 2023-06-15
+categories: travel iceland
+rollup_key: 2023iceland
+tags: [june2023]
+published: false
+accommodation:
+  - name: Húsafell Cottage (Airbnb)
+    location: Húsafell, Iceland
+    nights: 3
+    checkin: false
+    checkout: false
+locations:
+  - name: Víðgelmir lava tube
+    country: Iceland
+    notes: Amazing cave tour
+  - name: Hraunfossar Waterfall
+    country: Iceland
+    notes: Just a few minutes from Húsafell
+  - name: Húsafell Hotel Bistro
+    country: Iceland
+activities:
+  - type: tour
+    name: Lava tube tour
+    location: Víðgelmir
+    time: Departed around 12:10pm
+    notes: Rowan especially enjoyed it
+  - type: hiking
+    name: Attempted trail finding
+    location: Húsafell
+    notes: Could not locate marked trails despite maps and asking staff
+  - type: sightseeing
+    name: Hraunfossar Waterfall
+    location: Near Húsafell
+    duration: 30 minutes
+  - type: recreation
+    name: Jump pillow
+    location: Húsafell campground
+    time: 10:30pm
+    notes: Doesn't get dark
+dining:
+  - name: Húsafell Hotel Bistro
+    location: Húsafell
+    meal: Lunch
+    food: Split meat lovers pizza, tempura shrimp
+    notes: 3 of us split pizza
+  - name: Cottage
+    location: Húsafell
+    meal: Dinner
+    food: Pork chops on the grill
+    notes: Left grill much cleaner than found it
+---
+
+- **Start of day:** Húsafell Cottage
+- **End of day:** Húsafell Cottage
+
+## Lava tube adventure
+
+We left for the lava tube around 12:10. Amazing cave tour! Lots of photos. Rowan liked it especially.
+
+After lava tube we came over to the Hùsafell Hotel bistro place -- 3 of us split a meat lovers pizza and Siena had tempura shrimp. Back to the cottage for awhile, and then we tried to find some hiking trails.
+
+## The trails that couldn't be found
+
+There are elaborate hiking trail maps but goddamn if we couldn't find any of them. We really tried. They have printed maps, we asked a staff members, we scoped it out with the car. We could. Not. Find. Them. So we proceeded on to Hraunfossar Waterfall, which is just a few minutes away. Spent about 30 mins there. Back home for pork chops on the filthy grill, which I left much cleaner than I found it.
+
+Another trip to the jump pillow at 10:30pm because why not it doesn't get dark here, and now back at the cottage for the night.

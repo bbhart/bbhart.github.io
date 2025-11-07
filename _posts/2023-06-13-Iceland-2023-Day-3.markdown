@@ -1,0 +1,71 @@
+---
+layout: post
+title: Iceland 2023 Day 3
+subtitle: Perfect weather and after-hours touring
+date: 2023-06-13
+categories: travel iceland
+rollup_key: 2023iceland
+tags: [june2023]
+published: false
+accommodation:
+  - name: Birna's Cottage
+    location: Near Laugarvatn, Iceland
+    nights: 3
+    checkin: false
+    checkout: false
+locations:
+  - name: Gullfoss
+    country: Iceland
+    notes: Spectacular waterfall
+  - name: Geysir
+    country: Iceland
+activities:
+  - type: relaxation
+    name: Hot tub and reading
+    location: Birna's Cottage
+    notes: Mid-60s weather, barely a cloud
+  - type: recreation
+    name: Bounce place and ice cream
+    location: Near cottage
+  - type: sightseeing
+    name: Gullfoss visit
+    location: Gullfoss
+    time: Around 6:30pm
+    notes: No photo or video can capture the spectacle
+  - type: hiking
+    name: Geysir lookout hike
+    location: Geysir
+    time: Around 8pm
+    notes: Spectacular views from the hilltop
+transport:
+  - type: car
+    notes: Easy drive to Gullfoss and Geysir
+weather:
+  conditions: Insanely beautiful
+  temperature: Mid-60s F
+  sky: Barely a cloud
+  wind: Light breeze
+---
+
+- **Start of day:** Birna's Cottage
+- **End of day:** Birna's Cottage
+
+Sleep was better but still feels brute-forced in that it took me about an hour to finally nod off (I'm usually 5-10 mins, tops), and then kept waking up. Crazy dreams. But managed to squeak out a full 8 hours, and I didn't feel incredibly hungover and terrible.
+
+I found out in a book I read today that Icelanders aren't super great emailers, so my email to the apothecary is probably already sitting in Archive. Oh well. Muttling through without CPAP but it's not my favorite.
+
+## Perfect weather
+
+Today our plan was to hang around the cottage until late afternoon, and then do the big tourist things in this area. Icelanders are opposed to paying to see natural wonders, so they're usually free. On top of that, the two main ones we wanted to view today are open 24/7.
+
+The weather was insanely beautiful today: mid-60's, barely a cloud in the sky, only a light breeze. We caught up on reading and sunbathing, and spent some time in the hot tub. The kids wanted to go over to bounce place next door, but there were some teens already on there, with a fresh tour bus pulling up, so we fell back to the cottage. We planned for an early-ish dinner around 5:30, and then headed out for touring around 6:30.
+
+## Evening touring - the better way
+
+First stop was bounce and ice cream. Then we made the easy drive down to Gullfoss, which no photo or video can capture the spectacle off; you truly have to see it. Since it was later in the evening, there weren't the throngs of tour buses… we could truly take our time to soak in the sights. We left there around 8pm and then made a return trip to Geysir. This time we hiked up to the lookout and were treated to spectacular views. We made our way back down, waited for the geysir to do its geysir thing, and then back to the cottage around 9:30.
+
+I'm a big fan now of after-hours touring. The cafes and gift shops aren't open, and it's not exactly deserted, but it's a much more pleasant experience than mid-day with full trails and parking lots. All night daylight makes sleep more difficult, but the payback is in being able to visit these sites late into the day.
+
+## Airbnb anxiety
+
+We're checking out tomorrow and so far the Airbnb host for our next place has been nonresponsive, so I have some light anxiety around that. I've texted (via iMessage: delivered) and messaged in Airbnb but so far no response. I don't have GPS coordinates for the next place, and the directions on Airbnb refer to a road number that doesn't exist. The cottage is on the property of Hotel Husafell, so I can Google Map over to there, but once we get there we'll be lost finding the actual cabin and getting in. I'm not totally freaking out: they're a Superhost, there appear to be legit (and recent) reviews, and the book I read today indicated that the typical Icelander tends to save things til the last minute (something harkening back to fishing boats and the town needing to be available to unload those), but it's also 2023 and you're an Airbnb host.

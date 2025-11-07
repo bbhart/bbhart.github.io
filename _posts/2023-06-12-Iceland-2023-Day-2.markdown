@@ -1,0 +1,69 @@
+---
+layout: post
+title: Iceland 2023 Day 2
+subtitle: Recovery and exploration around the Golden Circle
+date: 2023-06-12
+categories: travel iceland
+rollup_key: 2023iceland
+tags: [june2023]
+published: false
+accommodation:
+  - name: Birna's Cottage
+    location: Near Laugarvatn, Iceland
+    nights: 3
+    checkin: false
+    checkout: false
+locations:
+  - name: Geysir
+    country: Iceland
+    notes: Geothermal area with active geysers
+  - name: Brúarfoss
+    country: Iceland
+    notes: Waterfall near the cottage
+  - name: Laugarvatn
+    country: Iceland
+  - name: Efstidalur II
+    country: Iceland
+activities:
+  - type: sightseeing
+    name: Geysir visit
+    location: Geysir
+    notes: Main geyser erupts every 10-15 minutes
+  - type: hiking
+    name: Brúarfoss hike
+    location: Brúarfoss
+    notes: Access road only 600 meters from cottage
+  - type: shopping
+    name: Small market
+    location: Laugarvatn
+transport:
+  - type: car
+    notes: Tesla charging at Geysir (up to 98%)
+dining:
+  - name: Efstidalur II
+    location: Near cottage
+    meal: Early dinner
+    food: Meatballs + fries, cheeseburger
+    notes: Meatballs were ok, kids didn't like sauce, fries had cayenne
+---
+
+- **Start of day:** Birna's Cottage
+- **End of day:** Birna's Cottage
+
+Slept from midnight to 8am or so. Woke up feeling hungover. Headache and neck aches I couldn't cut through with ibuprofen. Took all the way until 9pm to start to feel somewhat normal. Kind of a lost day as far as feeling good.
+
+## The mysterious door lock
+
+Found out that we hadn't been locking the door correctly. The door is strange in that you twist the knob down to bolt it, then turn the key. Nowhere is this obvious, but then once you know you know. It took us about 5 mins to figure this out as we were trying to leave. It also means that we didn't really lock the door the night before. Anyway…
+
+## Attempting to find Brúarfoss
+
+Set out mid-day to try to find Brúarfoss but couldn't find where you turn, so went to Geysir instead. Found a good charger there and was able to get the Tesla up to 98% charge. The visitors center was busy and touristy (and smelled like fish). We walked around the geysirs area -- there's one 'main' one where everyone stands around videoing themselves for 10-15 minutes until it finally goes off, plus a few smaller ones that don't 'geysir'. There's a hike up a hill here that might be worth trying but we weren't equipped for it… I had my 'hangover' and one of the children wasn't into it.
+
+## Finding Brúarfoss (finally)
+
+I did more research and this time we were able to find Brúarfoss… turns out the access road is like 600 meters from the road to our cottage. Oops. We went over there, did a bit of hiking around, and got some great photos.
+
+From there, drove to Laugarvatn to hit up a small market for butter, spaghetti, jam, and other snack type things. After dropping groceries we went back to Efstidalur II for an early dinner, where 3 of us ordered meatballs + fries, and Sherri had the cheeseburger. Meatballs were ok (kids didn't like the sauce) and the fries had cayenne on them, so overall the meal could've been better. The kids bounced some after dinner, then we came back to the cottage. I sat in the greenhouse, where I researched CPAP supplies and had a short doze. The weather ended up being better than forecast. In the early afternoon it was sunny and partly cloudy, temps in the high 50's, with less wind than yesterday. It was nice in the sun, for sure.
+
+I sent an email -- in translated Icelandic -- to see if they had AirFit headgear.
