@@ -6,6 +6,18 @@ background: '/assets/2024-shinkansen-arriving-in-station.png'
 date: 2024-03-18
 rollup_key: 2024japan
 categories: travel japan
+transport:
+  - type: train
+    line: Shinkansen
+    from: Tokyo
+    to: Kyoto
+    duration: 2 hours
+    class: Green Car (business)
+    cost: ~$100 USD
+activities:
+  - type: travel
+    description: High-speed bullet train journey from Tokyo to Kyoto
+    location: Shinkansen
 ---
 
 **Tickets**
@@ -13,12 +25,12 @@ categories: travel japan
 The Shinkansen are the high speed “bullet trains” that connect major metropolitan areas of Japan. If you choose the right train, what would be a 6 to 8 hour drive from Tokyo to Kyoto can be covered in a little over 2 hours and cost you around US $100. 
 The ticket machine is the worst automated kiosk I’ve ever encountered. Ever. I’m traveled enough to know that in this case I’m looking to purchase both a fare ticket and a reserved seat[^1]. I choose the top option: 
 
-<img src="/assets/2024-shinkansen1.avif" width="75%">
+<img src="/assets/2024-shinkansen1.jpg" width="75%" alt="Shinkansen ticket machine screen showing confusing interface with options in Japanese and English, displaying route selection and fare information">
 
  But then my brain broke at the next screen: 
  Notice at the top where it says “Insert the tickets, commuter passes, or one Suica card”. What I couldn’t wrap my head around was: 
 
-<img src="/assets/2024-shinkansen2.avif" width="75%">
+<img src="/assets/2024-shinkansen2.jpg" width="75%" alt="Shinkansen ticket kiosk screen requesting to insert tickets or Suica card, demonstrating the confusing 'enter ticket to buy ticket' requirement">
 
 **Why are you asking for a ticket if I’m trying to buy a ticket!** I do have a [Suica transit card](https://www.jreast.co.jp/multi/en/wsmlp/) — I’ve been using it for subways and at 7-Eleven for a week now — but it’s in my mobile wallet on my phone, and there’s no place to tap for that. Friends: I even watched YouTube videos the day before so I would know how to buy tickets from this cursed machine, but they never showed this screen. 
 
@@ -40,7 +52,7 @@ make sure you look at the train number!
 
 In the “green car” (business car), they advertise wifi and snack service. To order the snack service you need to use the wifi. The wifi is barely sufficient for connecting to the snacks website, so don’t plan on trying to do any real work that requires wifi. After about 15 minutes of trying and retrying I was able to order some rock hard ice cream and have it delivered to my seat. 
 
-<img src="/assets/shinkansen-snack.webp" width="75%">
+<img src="/assets/shinkansen-snack.jpg" width="75%" alt="Green tea ice cream dessert served on Shinkansen bullet train in Green Car business class">
 
 There’s another website you can (try to) get to for other services, such as summoning train staff for help: Where can I put my bag? There is litter here. When can I see Mt Fuji? (these were actual choices IIRC). I didn’t use that. 
 

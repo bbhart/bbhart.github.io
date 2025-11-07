@@ -5,6 +5,22 @@ subtitle: Cutting the trip short but excited for next time
 date: 2024-02-10
 rollup_key: 2024japan
 categories: travel japan
+transport:
+  - type: train
+    from: Kyoto
+    to: Haneda Airport
+    via: Shinagawa Station
+    line: Shinkansen and local train
+activities:
+  - day: 10
+    type: travel
+    description: Departure from Japan, returning to US
+    location: Haneda Airport, Tokyo
+  - day: 10
+    type: reflection
+    description: Reflecting on first Japan trip and planning for future visits
+days_at_location:
+  Tokyo: 1
 ---
 
 I’ve been in Japan since February 2, and am leaving in about an hour. 
@@ -37,5 +53,5 @@ For next time:
 
 Trip recap and photos to follow in a day or so. 
 
-<img src="/assets/2024-kamakura-sugimoto.avif" width="100%">
+<img src="/assets/2024-kamakura-sugimoto.jpg" width="100%" alt="Steep stone stairway leading up to Sugimoto-dera Temple in Kamakura, covered with moss and flanked by Japanese maple trees, traditional lanterns, and temple structures">
 Sugimoto-dera Temple, Kamakura Japan

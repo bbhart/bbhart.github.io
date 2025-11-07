@@ -6,8 +6,32 @@ date:  2024-12-25
 categories: travel caribbean
 rollup_key: 2024wintercaribbean
 tags: [celebrity, cruise, dec2024]
-background: 
+background:
 published: false
+transport:
+  - type: cruise_ship
+    vessel: Celebrity Eclipse
+    from: Grand Cayman
+    to: Aruba
+venues:
+  - name: Celebrity Eclipse
+    type: cruise_ship
+    location: At sea between Grand Cayman and Aruba
+activities:
+  - day: 4
+    type: holiday_celebration
+    description: Christmas Day aboard ship, Santa photos in grand foyer
+    location: Celebrity Eclipse
+  - day: 4
+    type: relaxation
+    description: Son recuperating, watching The Office
+    location: Stateroom
+  - day: 4
+    type: social
+    description: Wife and daughter met family from Quebec, shared lunch and attended show
+    location: Celebrity Eclipse
+days_at_location:
+  Celebrity Eclipse: 1
 ---
 
 Merry Christmas! Another Christmas where we wake up in a hotel room. Last year was at the Contemporary at Disney World. This year is somewhere between Grand Cayman and Aruba.
@@ -22,5 +46,5 @@ Wife and daughter made new friends today, an extended family on vacation from Qu
 
 Lastly, I found a nice writing spot here at the aft of the ship. It's a mob scene here during breakfast and lunch, and fairly peaceful in the late afternoon and evening. This open-air spot wouldn't have been all that pleasant on the Iceland voyage but suits me just fine on this one. 
 
-<img src="/assets/20241225-writing-spot.jpg" width="100%" />
+<img src="/assets/20241225-writing-spot.jpg" width="100%" alt="Peaceful writing spot at the aft of the cruise ship overlooking the ocean" />
 

@@ -26,23 +26,24 @@ We left for our tour at 2:30 and visited three different sites. Before leaving t
 From [Laufás Heritage Site](https://www.akureyriguide.is/portfolio/laufas-heritage-site/):
 > Laufás is a breathtaking farmstead surrounded by mountains and a picturesque view of the fjord with history at each footstep. Inhabited since the settlement of Iceland (874-930), it has been a church site since early Christianity in Iceland with a constant lineage of priests and ministers from 1047 to the current day. The heritage site contains a 19th century timber church and a vicarage. It is a maze of interconnected rooms, one of which is a unique bridal room from 1733.
 
-<img src="/assets/20240814-laufas1.jpg" width="100%">
+<img src="/assets/20240814-laufas1.jpg" width="100%" alt="Picnic table at Laufás Heritage Site with traditional turf-roofed farmhouse in background, overlooking fjord and mountains under dramatic Icelandic sky near Akureyri">
 
-<img src="/assets/20240814-laufas2.jpg" width="100%">
+<img src="/assets/20240814-laufas2.jpg" width="100%" alt="Historic 19th century timber church at Laufás Heritage Site with white walls, traditional architecture, and graveyard, set against Icelandic countryside">
 
-<img src="/assets/20240814-laufas3.jpg" width="100%">
+<img src="/assets/20240814-laufas3.jpg" width="100%" alt="Traditional Icelandic turf house at Laufás with grass-covered roof, white walls, and small windows, showing historic farmstead architecture from settlement era">
 
-<img src="/assets/20240814-laufas4.jpg" width="100%">
+<img src="/assets/20240814-laufas4.jpg" width="100%" alt="Interior of historic turf house at Laufás Heritage Site showing narrow hallway with white walls, wooden doors, and traditional 19th century Icelandic domestic architecture">
 
 ***
 
 **[Goðafoss Waterfall](https://www.northiceland.is/en/place/godafoss-waterfall)**
 
-<img src="/assets/20240814-godafoss1.jpg" width="100%">
+<img src="/assets/20240814-godafoss1.jpg" width="100%" alt="Goðafoss waterfall in northern Iceland with powerful white water cascading over horseshoe-shaped cliff into turquoise pool, dramatic Icelandic landscape and tourists visible on viewing area">
 
-<img src="/assets/20240814-godafoss2.jpg" width="100%">
+<img src="/assets/20240814-godafoss2.jpg" width="100%" alt="Close-up view of Goðafoss waterfall showing multiple cascades of white water falling over dark volcanic rock formations with mist rising from the pool below">
 
-<img src="/assets/20240814-godafoss3.jpg" width="100%">
+<img src="/assets/20240814-godafoss3.jpg" width="100%" alt="Selfie of traveler at Goðafoss waterfall in Iceland, looking unwell during shore excursion from cruise ship">
+
 _(I was still pretty sick here)_
 
 ***
@@ -54,23 +55,23 @@ From the [Akureyri Botanical Garden website](https://www.lystigardur.akureyri.is
 
 > The park was officially opened in 1912 and was Iceland's first public park. After subsequent donations of plant collections, the park was officially incorporated as a botanic garden in 1957 run by the municipality of Akureyri. The picture to the right  was taken in the 1920s and shows the park in its formative stages.
 
-<img src="/assets/20240814-garden1.jpg" width="100%">
+<img src="/assets/20240814-garden1.jpg" width="100%" alt="Teen girl in pink jacket standing in white gazebo with ornate scrollwork and colorful stained glass panels at Akureyri Botanical Garden, Iceland's first public park">
 
-<img src="/assets/20240814-garden2.jpg" width="100%">
+<img src="/assets/20240814-garden2.jpg" width="100%" alt="Winding garden path through lush greenery and trees at Akureyri Botanical Garden with wooden bench, showcasing northern Iceland's surprisingly diverse plant life">
 
-<img src="/assets/20240814-garden3.jpg" width="100%">
+<img src="/assets/20240814-garden3.jpg" width="100%" alt="Garden bed with pink and white flowers in bloom at Akureyri Botanical Garden, demonstrating the botanical diversity cultivated in Iceland's second-largest city">
 
-<img src="/assets/20240814-garden4.jpg" width="100%">
+<img src="/assets/20240814-garden4.jpg" width="100%" alt="Manicured lawns and flowerbeds with mix of pink, yellow, and white blooms at Akureyri Botanical Garden, established in 1912 by women-led Park Society">
 
-Akureyri seems like a place I'd like to visit again, perhaps as part of a Ring Road vacation I don't think the kids would have the patience for. As mentioned, it's the second largest city in Iceland and felt like it had a good vibe. 
+Akureyri seems like a place I'd like to visit again, perhaps as part of a Ring Road vacation I don't think the kids would have the patience for. As mentioned, it's the second largest city in Iceland and felt like it had a good vibe.
 
-<img src="/assets/20240814-redlight.jpg" width="33%">
+<img src="/assets/20240814-redlight.jpg" width="33%" alt="Pedestrian traffic light in Akureyri showing red heart symbol instead of standard figure, reflecting Iceland's quirky and whimsical approach to civic design">
 
 There were a lot of trees here, too, which you can't take for granted in Iceland!
 
-<img src="/assets/20240814-banner.jpg" width="100%">
+<img src="/assets/20240814-banner.jpg" width="100%" alt="Welcome banner spanning street in downtown Akureyri with 'VELKOMINN' (Welcome) greeting visitors to Iceland's northern capital city">
 
 Tonight's sunset:
 
-<img src="/assets/20240814-sunset.jpg" width="100%">
+<img src="/assets/20240814-sunset.jpg" width="100%" alt="Sunset over the ocean from cruise ship with golden light breaking through clouds on horizon, orange and blue sky gradient reflecting on calm waters">
 

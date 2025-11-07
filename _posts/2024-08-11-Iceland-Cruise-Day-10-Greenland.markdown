@@ -17,27 +17,27 @@ Since Rowan's birthday was yesterday, he could see he had lots of (presumably) H
 
 We walked up a hill in the spitting rain, took some photos of the ship, then tendered back. That was the sum total of our experience on land in Greenland. I was disappointed, but mostly with myself for not being better prepared with things like the Google language pack and more weather-appropriate shoes.
 
-<img src="/assets/20240811-greenland1.jpg" width="100%">
+<img src="/assets/20240811-greenland1.jpg" width="100%" alt="Family of three in rain gear with umbrellas standing on wet street in Qaqortoq, Greenland, with colorful houses on hillside and Celebrity Eclipse cruise ship visible in harbor under overcast skies">
 
-<img src="/assets/20240811-greenland2.jpg" width="100%">
+<img src="/assets/20240811-greenland2.jpg" width="100%" alt="Red and white fishing boat on display in grassy yard in Qaqortoq, Greenland, with colorful apartment buildings climbing misty hillside and Greenlandic flag flying in background">
 
-<img src="/assets/20240811-greenland3.jpg" width="100%">
+<img src="/assets/20240811-greenland3.jpg" width="100%" alt="View of Celebrity Eclipse cruise ship anchored in Qaqortoq harbor from hillside vantage point, showing green houses, rocky terrain, and overcast Arctic weather in Greenland">
 
-On the departure from Qaqortoq, the Captain and pilots took the ship near an iceberg and performed a few 360's for plenty of photos and videos. 
+On the departure from Qaqortoq, the Captain and pilots took the ship near an iceberg and performed a few 360's for plenty of photos and videos.
 
-<img src="/assets/20240811-ice1.jpg" width="100%">
+<img src="/assets/20240811-ice1.jpg" width="100%" alt="Large white iceberg floating in dark waters near Greenland coast, viewed from Celebrity Eclipse cruise ship performing circles for passenger photos">
 
-<img src="/assets/20240811-ice2.jpg" width="100%">
+<img src="/assets/20240811-ice2.jpg" width="100%" alt="Massive angular iceberg with dramatic sculptured surfaces in ocean waters off Greenland coast, photographed during ship's departure from Qaqortoq">
 
 We did cake and singing at main dining tonight, since we were out at a specialty restaurant last night:
 
-<img src="/assets/20240811-birthday.jpg" width="100%">
+<img src="/assets/20240811-birthday.jpg" width="100%" alt="Teen boy's birthday celebration at cruise ship dining table with birthday cake, cruise staff singing, family members celebrating the special occasion">
 
-The Captain informed us that weather conditions would not allow for us to sail [Prince Christian Sound](https://en.wikipedia.org/wiki/Prince_Christian_Sound), a sound located in southern Iceland on our way to Iceland. Further, we are expecting storm conditions tonight: winds to 50 knots, seas to 15 feet. This has been the source of a lot of ... consternation ... for some people in our cabin. I've tried to reinforce that this is a _comfort_ concern not a _safety_ one. 
+The Captain informed us that weather conditions would not allow for us to sail [Prince Christian Sound](https://en.wikipedia.org/wiki/Prince_Christian_Sound), a sound located in southern Iceland on our way to Iceland. Further, we are expecting storm conditions tonight: winds to 50 knots, seas to 15 feet. This has been the source of a lot of ... consternation ... for some people in our cabin. I've tried to reinforce that this is a _comfort_ concern not a _safety_ one.
 
 Anyway, tomorrow will turn into a sea day, with another sea day following. We are then arriving earlier than expected into Akureyri to allow for more time to enjoy that town.
 
 No sunset photo tonight, so you'll have to make due with an elevator one instead.
 
-<img src="/assets/20240811-elevator.jpg" width="100%">
+<img src="/assets/20240811-elevator.jpg" width="100%" alt="Modern cruise ship elevator interior with brushed metal walls, digital floor display, and reflective surfaces on Celebrity Eclipse">
 

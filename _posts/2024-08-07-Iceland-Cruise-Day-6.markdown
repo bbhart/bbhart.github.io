@@ -9,6 +9,32 @@ rollup_key: 2024icelandcruise
 background: '/assets/20240807-sunset.jpg'
 redirect_from:
 - /travel/cruise/iceland/2024/08/07/Iceland-Cruise-Day-6.html
+transport:
+  - type: cruise_ship
+    vessel: Celebrity Eclipse
+    from: Halifax
+    to: At sea toward St. John's, Newfoundland
+    notes: Overcast day, mid-60s temperatures, moderate winds
+venues:
+  - name: Celebrity Eclipse
+    type: cruise_ship
+    location: At sea between Halifax and St. John's
+activities:
+  - day: 6
+    type: relaxation
+    description: Sea day with 9 hours sleep and late morning wake-up
+    location: Celebrity Eclipse
+  - day: 6
+    type: dining
+    description: Light breakfast and lunch with family
+    time: 8:30am breakfast, noon lunch
+    location: Celebrity Eclipse
+  - day: 6
+    type: recreation
+    description: Reading in deck chairs
+    location: Celebrity Eclipse
+days_at_location:
+  Celebrity Eclipse: 1
 ---
 
 Sea day == sleep in day
@@ -17,7 +43,7 @@ I managed 9 hours of sleep according to my CPAP. Sherri and I started our wander
 
 It's another overcast, gray day. Winds aren't too bad and temperatures are in the mid-60's. After the heat of NYC and Holly Springs, I don't mind. It would be good to see the sun again, though.
 
-<img src="/assets/20240807-globe.jpg" width="100%">
+<img src="/assets/20240807-globe.jpg" width="100%" alt="Teen girl pointing at North America on illuminated globe display in cruise ship atrium">
 _Where do we live, Siena?_
 
 Since there's not much to report for sea days, let's talk about the overall cruising experience. I may be running out of patience for the near-constant sales pitches, nickel-and-diming, and gouging. Premium (acceptabie) Internet for 1 device for the whole voyage runs $400+. If you're a drinker, the base drinks package runs $84/day. Per person. And if you have multiple adults in the same room they require all the adults to buy the package. If you don't get a drink package and would like to a la carte the occasional NA beer, those cost $11 each. They do have a Zero Alcohol package that gets you premium coffee, juices, sodas, and NA cocktails; that's $45/day. The least expensive short excursions in Greenland and Iceland run to hundreds of dollars per person; you could easily spend $1000 for one excursion for a family of four. We will pay close to $1000 for mandatory gratuities. Something that's new to me: if you want room service, it's $10 plus gratuity. I truly don't mind spending for nice things but what's fuzzy here is the sense that you're getting value for your dollar. 
@@ -25,4 +51,4 @@ Since there's not much to report for sea days, let's talk about the overall crui
 The ship itself is showing its age, despite a refurb in 2017-18. Paint on metal that's been coated on too many times. Scratches and scrapes in staterooms that make everything feel well-worn. The public areas seem nice, though. 
 
 Today's sunset capture:
-<img src="/assets/20240807-sunset.jpg" width="100%">
+<img src="/assets/20240807-sunset.jpg" width="100%" alt="Dramatic ocean sunset with golden orange glow on horizon beneath layers of blue and gray clouds over dark Atlantic waters">

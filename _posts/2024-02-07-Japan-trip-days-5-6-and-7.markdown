@@ -5,7 +5,91 @@ subtitle: Kamakura
 date: 2024-02-07
 rollup_key: 2024japan
 categories: travel japan
-background: "/assets/2024-kamakura-snow.avif"
+background: "/assets/2024-kamakura-snow.jpg"
+venues:
+  - name: Yokohama Station
+    type: train_station
+    location: Yokohama, Japan
+  - name: Kamakura Station
+    type: train_station
+    location: Kamakura, Japan
+  - name: Hotel Metropolitan Kamakura
+    type: hotel
+    location: Kamakura, Japan
+  - name: 7-Eleven
+    type: convenience_store
+    location: Kamakura, Japan
+  - name: Sugimotodera Temple
+    type: temple
+    location: Kamakura, Japan
+    notes: Smallest and favorite temple visited
+  - name: Hokokuji Temple
+    type: temple
+    location: Kamakura, Japan
+  - name: Tsurugaoka Hachimangu
+    type: shrine
+    location: Kamakura, Japan
+  - name: Kotoku-in (Great Buddha)
+    type: temple
+    location: Kamakura, Japan
+    notes: 35-foot tall bronze Great Buddha statue
+transport:
+  - type: train
+    from: Tokyo
+    to: Yokohama
+    line: JR Line
+  - type: train
+    from: Yokohama
+    to: Kamakura
+    line: JR Line
+  - type: train
+    from: Kamakura
+    to: Kotoku-in
+    notes: Short train ride
+  - type: walking
+    from: Kamakura Station
+    to: Hotel
+    duration: 2 blocks
+  - type: walking
+    from: Hotel
+    to: Sugimotodera Temple
+    distance: 1 mile
+  - type: walking
+    from: Kotoku-in
+    to: Hotel
+    distance: 2km
+activities:
+  - day: 5
+    type: travel
+    description: Train journey from Tokyo to Kamakura via Yokohama during snow storm
+    location: Tokyo to Kamakura
+  - day: 5
+    type: relaxation
+    description: Hunkering down during snow storm, catching up on sleep and writing
+    location: Hotel Metropolitan Kamakura
+  - day: 5
+    type: dining
+    description: 7-Eleven lunch including fried chicken and onigiri
+    location: 7-Eleven, Kamakura
+  - day: 6
+    type: sightseeing
+    description: Post-snow storm temple visits to Sugimotodera and Hokokuji
+    location: Kamakura
+    distance: 1 mile walk
+  - day: 6
+    type: sightseeing
+    description: Evening visit to Tsurugaoka Hachimangu Shinto shrine
+    location: Kamakura
+  - day: 7
+    type: sightseeing
+    description: Early morning visit to Kotoku-in Great Buddha temple
+    location: Kotoku-in, Kamakura
+  - day: 7
+    type: walking
+    description: 2km walk back to hotel from Kotoku-in
+    location: Kamakura
+days_at_location:
+  Kamakura: 3
 ---
 
 **Thank You**
@@ -24,7 +108,7 @@ Before I left for Japan, I knew I wanted to try to get out of the big cities for
 
 That all sounded pretty good to me, plus it’s close to Tokyo. 
 
-<img src="/assets/2024-kamakura-train-map.avif" width="75%">
+<img src="/assets/2024-kamakura-train-map.jpg" width="75%" alt="Train route map showing the journey from Tokyo to Kamakura via Yokohama, with train lines and stations marked across the greater Tokyo area">
 
 A light rain/sleet mix started when I was standing outside in Yokohama waiting for the next train. In the short time it took me to get from there to Kamakura the weather had taken a turn for the worse. Not only was it a rain/sleet mix, but the wind was gusting 20-30 mph at times. Despite my hotel being two short blocks from the train station, I still arrived there with soaked jeans and face. 
 
@@ -34,15 +118,15 @@ I think the severity of the snow storm took many by surprise. As the day went on
 
 My room at the Hotel Metropolitan Kamakura. I loved this room! It overlooked one of the main streets of Kamakura.
 
-<img src="/assets/2024-kamakura-hotel1.avif" width="75%">
+<img src="/assets/2024-kamakura-hotel1.jpg" width="75%" alt="Modern hotel room at Hotel Metropolitan Kamakura with large window overlooking main street, featuring a bed, desk area, and contemporary furnishings">
 
-<img src="/assets/2024-kamakura-711.avif" width="75%">
+<img src="/assets/2024-kamakura-711.jpg" width="75%" alt="7-Eleven meal on hotel desk showing fried chicken, onigiri rice balls, and Coca-Cola Zero, demonstrating Japanese convenience store food quality">
 
 Seriously, a delicious meal. That fried chicken is 💯
 
 Still snowing, though less now. 
 
-<img src="/assets/2024-kamakura-snow.avif" width="75%">
+<img src="/assets/2024-kamakura-snow.jpg" width="75%" alt="Snowy street scene in Kamakura with snow-covered trees, traditional Japanese buildings, and a lone pedestrian walking through the winter storm">
 
 I was heading to a tonkatsu place across the street but they ended up shoo’ing me away saying they were closing early due to storm.
 

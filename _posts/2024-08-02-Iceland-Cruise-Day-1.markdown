@@ -8,13 +8,27 @@ rollup_key: 2024icelandcruise
 background: '/assets/20240802-delta.jpg'
 redirect_from:
 - /travel/cruise/iceland/2024/08/01/Iceland-Cruise-Day-1.html
+transport:
+  - type: flight
+    from: Raleigh-Durham (RDU)
+    to: Newark/Jersey City
+    status: cancelled
+    airline: Delta
+    notes: Flight cancelled due to severe weather, rebooked for next morning on United
+activities:
+  - day: 1
+    type: travel_planning
+    description: Dealing with cancelled flight and rebooking travel
+    location: Raleigh, NC
+days_at_location:
+  Raleigh: 1
 ---
 
 Today is Friday and the cruise is on Sunday. We'll spend two nights in Jersey City, giving us a full day on Saturday to tour around New York City.
 
 We're mostly packed and ready to head to the airport in 3 hours. Oh, as I was hopping out of the shower I saw a new text on my phone:
 
-<img src="/assets/20240802-delta.jpg" width="50%">
+<img src="/assets/20240802-delta.jpg" width="50%" alt="Delta Airlines flight cancellation text message notification showing cancelled flight from RDU to Newark">
 
 Well that's certainly unfortunate.
 

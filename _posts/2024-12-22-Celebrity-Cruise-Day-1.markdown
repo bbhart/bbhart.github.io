@@ -6,7 +6,41 @@ date:  2024-12-22
 categories: travel caribbean
 rollup_key: 2024wintercaribbean
 tags: [celebrity, cruise, dec2024]
-background: 
+background:
+transport:
+  - type: bus
+    from: Embassy Suites Fort Lauderdale
+    to: Port Everglades Cruise Terminal
+    duration: 25 minutes for 4 miles
+    notes: Traffic overwhelmed at port entrances, ship departed 1.5 hours late
+venues:
+  - name: Embassy Suites Fort Lauderdale
+    type: hotel
+    location: Fort Lauderdale, FL
+    notes: Chaotic breakfast and lobby, required elevator strategy to get down with bags
+  - name: Port Everglades
+    type: cruise_port
+    location: Fort Lauderdale, FL
+  - name: Celebrity Eclipse
+    type: cruise_ship
+    location: Port Everglades
+    notes: Departed 1.5 hours late due to embarkation traffic
+activities:
+  - day: 1
+    type: travel
+    description: Transfer from hotel to cruise ship
+    location: Fort Lauderdale
+  - day: 1
+    type: incident
+    description: Son rolled ankle jumping down stairs, X-rays showed no break but can't put weight on it
+    location: Celebrity Eclipse
+  - day: 1
+    type: medical
+    description: Visit to ship Medical Center for X-rays and crutches
+    location: Celebrity Eclipse Medical Center
+days_at_location:
+  Fort Lauderdale: 1
+  Celebrity Eclipse: 1
 ---
 
 The Embassy Suites free breakfast is a madhouse, a traditional that has carried on for at least 23 years when I stayed in the one in Indianapolis for a month. 

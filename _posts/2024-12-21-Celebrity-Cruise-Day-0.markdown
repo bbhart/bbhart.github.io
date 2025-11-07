@@ -7,6 +7,42 @@ categories: travel caribbean
 rollup_key: 2024wintercaribbean
 tags: [celebrity, cruise, dec2024]
 background: /assets/2024-12-21-fortlauderdale-background.jpeg
+transport:
+  - type: flight
+    from: Raleigh-Durham (RDU)
+    to: Fort Lauderdale (FLL)
+    airline: Delta
+    notes: Landed 10 minutes early but waited 55 minutes for a gate
+  - type: taxi
+    from: Fort Lauderdale Airport
+    to: Embassy Suites Fort Lauderdale
+    notes: Immediate availability, same price as Uber quote
+venues:
+  - name: Raleigh-Durham International Airport (RDU)
+    type: airport
+    location: Raleigh, NC
+  - name: Fort Lauderdale-Hollywood International Airport (FLL)
+    type: airport
+    location: Fort Lauderdale, FL
+  - name: Embassy Suites Fort Lauderdale
+    type: hotel
+    location: Fort Lauderdale, FL
+    notes: Room not ready at check-in, key machine broken
+  - name: Publix
+    type: restaurant
+    location: Fort Lauderdale, FL
+    notes: Deli sandwiches for dinner
+activities:
+  - day: 0
+    type: travel
+    description: Flight from RDU to Fort Lauderdale
+    duration: flight time
+  - day: 0
+    type: dining
+    description: Dinner from Publix deli in hotel room
+    location: Embassy Suites
+days_at_location:
+  Fort Lauderdale: 1
 ---
 
 Today we flew to Fort Lauderdale. 
