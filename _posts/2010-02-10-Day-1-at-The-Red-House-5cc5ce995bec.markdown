@@ -15,7 +15,7 @@ Everything’s here. The garage is full, there are boxes _everywhere_, but:
 *   Wine is accessible.
 *   Our bed is set up and made. We can sleep.
 *   We have access to the Internets.
-*   TiVo HD is online and ready for action. No shows will be missed.
+*   The TiVo HD is online and ready for action. No shows will be missed.
 
 Tomorrow I spend a lot of time building out my office, including a probable scouting trip to Ikea for an extension piece to my Galant desk and some bookshelves. Perhaps meatballs & mash, too.
 

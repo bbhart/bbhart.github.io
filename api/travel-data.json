@@ -1,0 +1,2617 @@
+{
+  "generated_at": "2025-11-07T14:11:30Z",
+  "total_posts": 79,
+  "trips": [
+    {
+      "rollup_key": "2024japan",
+      "posts": [
+        {
+          "title": "Japan Planning",
+          "date": "2024-01-23 07:31:47 -0500",
+          "subtitle": "Where Brian realizes he probably shouldn't try to YOLO a 12 day trip to Japan",
+          "categories": "travel japan",
+          "tags": null,
+          "rollup_key": "2024japan"
+        },
+        {
+          "title": "Japan T-minus 3 days",
+          "date": "2024-01-29",
+          "subtitle": "As ready as I'm going to be",
+          "categories": "travel japan",
+          "tags": null,
+          "rollup_key": "2024japan"
+        },
+        {
+          "title": "Japan Trip Days 1 and 2",
+          "date": "2024-02-02",
+          "subtitle": "The travel over and jet lag",
+          "categories": "travel japan",
+          "tags": null,
+          "rollup_key": "2024japan"
+        },
+        {
+          "title": "Japan trip day 3",
+          "date": "2024-02-03",
+          "subtitle": "First explorations in Tokyo",
+          "categories": "travel japan",
+          "tags": null,
+          "rollup_key": "2024japan"
+        },
+        {
+          "title": "Japan trip day 4",
+          "date": "2024-02-04",
+          "subtitle": "Tokyo",
+          "categories": "travel japan",
+          "tags": null,
+          "rollup_key": "2024japan"
+        },
+        {
+          "title": "Japan trip days 5, 6, and 7",
+          "date": "2024-02-07",
+          "subtitle": "Kamakura",
+          "categories": "travel japan",
+          "tags": null,
+          "rollup_key": "2024japan"
+        },
+        {
+          "title": "Japan trip days 8 and 9",
+          "date": "2024-02-09",
+          "subtitle": "Kyoto",
+          "categories": "travel japan",
+          "tags": null,
+          "rollup_key": "2024japan"
+        },
+        {
+          "title": "Leaving Japan",
+          "date": "2024-02-10",
+          "subtitle": "Cutting the trip short but excited for next time",
+          "categories": "travel japan",
+          "tags": null,
+          "rollup_key": "2024japan"
+        },
+        {
+          "title": "Shinkansen",
+          "date": "2024-03-18",
+          "subtitle": "Antiquated systems for the futuristic bullet train",
+          "categories": "travel japan",
+          "tags": null,
+          "rollup_key": "2024japan"
+        }
+      ]
+    },
+    {
+      "rollup_key": "2024icelandcruise",
+      "posts": [
+        {
+          "title": "Iceland Cruise Day 1",
+          "date": "2024-08-02",
+          "subtitle": "When we almost leave for a vacation",
+          "categories": "travel cruise iceland",
+          "tags": null,
+          "rollup_key": "2024icelandcruise"
+        },
+        {
+          "title": "Iceland Cruise Day 2",
+          "date": "2024-08-03",
+          "subtitle": "An early morning flight and first family visit to New York",
+          "categories": "travel cruise iceland",
+          "tags": [
+            "new york city",
+            "jersey city"
+          ],
+          "rollup_key": "2024icelandcruise"
+        },
+        {
+          "title": "Iceland Cruise Day 3",
+          "date": "2024-08-04",
+          "subtitle": "Celebrity cruise embarkation in Bayonne and a stormy sail away",
+          "categories": "travel cruise iceland",
+          "tags": [
+            "new york city",
+            "jersey city",
+            "celebrity",
+            "celebrity eclipse"
+          ],
+          "rollup_key": "2024icelandcruise"
+        },
+        {
+          "title": "Iceland Cruise Day 4",
+          "date": "2024-08-05",
+          "subtitle": "Between NYC and Halifax, the first many sea days we'd have on this voyage",
+          "categories": "travel cruise iceland",
+          "tags": [
+            "celebrity",
+            "celebrity eclipse"
+          ],
+          "rollup_key": "2024icelandcruise"
+        },
+        {
+          "title": "Iceland Cruise Day 5",
+          "date": "2024-08-06",
+          "subtitle": "A cloudy day in a familiar city, with lots of family",
+          "categories": "travel cruise iceland",
+          "tags": [
+            "halifax",
+            "celebrity",
+            "celebrity eclipse"
+          ],
+          "rollup_key": "2024icelandcruise"
+        },
+        {
+          "title": "Iceland Cruise Day 6",
+          "date": "2024-08-07",
+          "subtitle": "Sea day between Halifax and St. John's, NL",
+          "categories": "travel cruise iceland",
+          "tags": [
+            "celebrity",
+            "celebrity eclipse"
+          ],
+          "rollup_key": "2024icelandcruise"
+        },
+        {
+          "title": "Iceland Cruise Day 7",
+          "date": "2024-08-08",
+          "subtitle": "St. John's, Newfoundland & Labrador",
+          "categories": "travel cruise iceland",
+          "tags": [
+            "st johns",
+            "celebrity",
+            "celebrity eclipse"
+          ],
+          "rollup_key": "2024icelandcruise"
+        },
+        {
+          "title": "Iceland Cruise Day 8",
+          "date": "2024-08-09",
+          "subtitle": "Sea day 1 between St. John's and Greenland",
+          "categories": "travel cruise iceland",
+          "tags": [
+            "celebrity",
+            "celebrity eclipse"
+          ],
+          "rollup_key": "2024icelandcruise"
+        },
+        {
+          "title": "Iceland Cruise Day 9",
+          "date": "2024-08-10",
+          "subtitle": "A special birthday sea day off the coast of Greenland!",
+          "categories": "travel cruise iceland",
+          "tags": [
+            "celebrity",
+            "celebrity eclipse"
+          ],
+          "rollup_key": "2024icelandcruise"
+        },
+        {
+          "title": "Iceland Cruise Day 10",
+          "date": "2024-08-11",
+          "subtitle": "Drizzly day in Qarqortoq, Greenland",
+          "categories": "travel cruise iceland",
+          "tags": [
+            "greenland",
+            "qaqortoq",
+            "celebrity",
+            "celebrityeclipse"
+          ],
+          "rollup_key": "2024icelandcruise"
+        },
+        {
+          "title": "Iceland Cruise Days 11 and 12",
+          "date": "2024-08-12",
+          "subtitle": "Rocky sea days between Greenland and Iceland",
+          "categories": "travel cruise iceland",
+          "tags": [
+            "celebrity",
+            "celebrity eclipse"
+          ],
+          "rollup_key": "2024icelandcruise"
+        },
+        {
+          "title": "Iceland Cruise Day 13",
+          "date": "2024-08-14",
+          "subtitle": "The northern Iceland city Akureyri, and an educational shore excursion",
+          "categories": "travel cruise iceland",
+          "tags": [
+            "akureyri",
+            "iceland",
+            "celebrity",
+            "celebrityeclipse"
+          ],
+          "rollup_key": "2024icelandcruise"
+        },
+        {
+          "title": "Iceland Cruise Day 14",
+          "date": "2024-08-15",
+          "subtitle": "Isafjordur, Iceland",
+          "categories": "travel cruise iceland",
+          "tags": [
+            "isafjordur",
+            "iceland",
+            "celebrity",
+            "celebrityeclipse"
+          ],
+          "rollup_key": "2024icelandcruise"
+        },
+        {
+          "title": "Iceland Cruise Day 15",
+          "date": "2024-08-16",
+          "subtitle": "The end of the cruise, Reykjavik",
+          "categories": "travel cruise iceland",
+          "tags": [
+            "reykjavik",
+            "iceland",
+            "celebrity",
+            "celebrityeclipse"
+          ],
+          "rollup_key": "2024icelandcruise"
+        }
+      ]
+    },
+    {
+      "rollup_key": "2024wintercaribbean",
+      "posts": [
+        {
+          "title": "Celebrity Cruise Day 0",
+          "date": "2024-12-21",
+          "subtitle": "Heading to Fort Lauderdale",
+          "categories": "travel caribbean",
+          "tags": [
+            "celebrity",
+            "cruise",
+            "dec2024"
+          ],
+          "rollup_key": "2024wintercaribbean"
+        },
+        {
+          "title": "Celebrity Cruise Day 1",
+          "date": "2024-12-22",
+          "subtitle": "Getting to the ship",
+          "categories": "travel caribbean",
+          "tags": [
+            "celebrity",
+            "cruise",
+            "dec2024"
+          ],
+          "rollup_key": "2024wintercaribbean"
+        },
+        {
+          "title": "Celebrity Cruise Day 2",
+          "date": "2024-12-23",
+          "subtitle": "Mobility",
+          "categories": "travel caribbean",
+          "tags": [
+            "celebrity",
+            "cruise",
+            "dec2024"
+          ],
+          "rollup_key": "2024wintercaribbean"
+        },
+        {
+          "title": "Celebrity Cruise Day 3",
+          "date": "2024-12-24",
+          "subtitle": "Grand Cayman",
+          "categories": "travel caribbean",
+          "tags": [
+            "celebrity",
+            "cruise",
+            "dec2024"
+          ],
+          "rollup_key": "2024wintercaribbean"
+        },
+        {
+          "title": "Celebrity Cruise Day 4",
+          "date": "2024-12-25",
+          "subtitle": "On the way to Aruba",
+          "categories": "travel caribbean",
+          "tags": [
+            "celebrity",
+            "cruise",
+            "dec2024"
+          ],
+          "rollup_key": "2024wintercaribbean"
+        },
+        {
+          "title": "Celebrity Cruise Day 5",
+          "date": "2024-12-26",
+          "subtitle": "Aruba",
+          "categories": "travel caribbean",
+          "tags": [
+            "celebrity",
+            "cruise",
+            "dec2024"
+          ],
+          "rollup_key": "2024wintercaribbean"
+        },
+        {
+          "title": "Celebrity Cruise Day 6",
+          "date": "2024-12-27",
+          "subtitle": "Curaçao",
+          "categories": "travel caribbean",
+          "tags": [
+            "celebrity",
+            "cruise",
+            "dec2024"
+          ],
+          "rollup_key": "2024wintercaribbean"
+        },
+        {
+          "title": "Celebrity Cruise Day 7",
+          "date": "2024-12-28",
+          "subtitle": "Bonaire",
+          "categories": "travel caribbean",
+          "tags": [
+            "celebrity",
+            "cruise",
+            "dec2024"
+          ],
+          "rollup_key": "2024wintercaribbean"
+        },
+        {
+          "title": "Celebrity Cruise Day 8",
+          "date": "2024-12-29",
+          "subtitle": "Sea day",
+          "categories": "travel caribbean",
+          "tags": [
+            "celebrity",
+            "cruise",
+            "dec2024"
+          ],
+          "rollup_key": "2024wintercaribbean"
+        },
+        {
+          "title": "Celebrity Cruise Day 9",
+          "date": "2024-12-30",
+          "subtitle": "San Juan",
+          "categories": "travel caribbean",
+          "tags": [
+            "celebrity",
+            "cruise",
+            "dec2024"
+          ],
+          "rollup_key": "2024wintercaribbean"
+        },
+        {
+          "title": "Celebrity Cruise Day 10",
+          "date": "2024-12-31",
+          "subtitle": "Puerto Plata, Dominican Republic",
+          "categories": "travel caribbean",
+          "tags": [
+            "celebrity",
+            "cruise",
+            "dec2024"
+          ],
+          "rollup_key": "2024wintercaribbean"
+        }
+      ]
+    },
+    {
+      "rollup_key": "20245springbreak",
+      "posts": [
+        {
+          "title": "Quick review of the Omni Amelia Island",
+          "date": "2025-03-31",
+          "subtitle": null,
+          "categories": "travel florida hotels reviews",
+          "tags": [
+            "florida",
+            "disney"
+          ],
+          "rollup_key": "20245springbreak"
+        }
+      ]
+    },
+    {
+      "rollup_key": "2025norway",
+      "posts": [
+        {
+          "title": "Norway and Denmark Day 1",
+          "date": "2025-05-08",
+          "subtitle": "24 hours of travel begins",
+          "categories": "travel norway denmark",
+          "tags": [
+            "may2025"
+          ],
+          "rollup_key": "2025norway"
+        },
+        {
+          "title": "Norway and Denmark Day 2",
+          "date": "2025-05-09",
+          "subtitle": "24 hours of travel concludes, strolling around Bergen",
+          "categories": "travel norway denmark",
+          "tags": [
+            "may2025"
+          ],
+          "rollup_key": "2025norway"
+        },
+        {
+          "title": "Norway and Denmark Day 3",
+          "date": "2025-05-10",
+          "subtitle": "Full day in Bergen Norway",
+          "categories": "travel norway denmark",
+          "tags": [
+            "may2025"
+          ],
+          "rollup_key": "2025norway"
+        },
+        {
+          "title": "Norway and Denmark Day 4",
+          "date": "2025-05-11",
+          "subtitle": "Bergen to Balestrand",
+          "categories": "travel norway denmark",
+          "tags": [
+            "may2025"
+          ],
+          "rollup_key": "2025norway"
+        },
+        {
+          "title": "VIDEO Bergen to Balestrand ferry",
+          "date": "2025-05-11",
+          "subtitle": "Where I also learn how to kind of edit videos",
+          "categories": "travel norway denmark",
+          "tags": [
+            "may2025"
+          ],
+          "rollup_key": "2025norway"
+        },
+        {
+          "title": "Norway and Denmark Day 5",
+          "date": "2025-05-12",
+          "subtitle": "Balestrand hike",
+          "categories": "travel norway denmark",
+          "tags": [
+            "may2025"
+          ],
+          "rollup_key": "2025norway"
+        },
+        {
+          "title": "Norway and Denmark Day 6",
+          "date": "2025-05-13",
+          "subtitle": "Balestrand to Voss",
+          "categories": "travel norway denmark",
+          "tags": [
+            "may2025"
+          ],
+          "rollup_key": "2025norway"
+        },
+        {
+          "title": "Norway and Denmark Day 7",
+          "date": "2025-05-14",
+          "subtitle": "Sightseeing around Voss",
+          "categories": "travel norway denmark",
+          "tags": [
+            "may2025"
+          ],
+          "rollup_key": "2025norway"
+        },
+        {
+          "title": "Norway and Denmark Day 8",
+          "date": "2025-05-15",
+          "subtitle": "Train from Voss to Oslo",
+          "categories": "travel norway denmark",
+          "tags": [
+            "may2025"
+          ],
+          "rollup_key": "2025norway"
+        },
+        {
+          "title": "Norway and Denmark Day 9",
+          "date": "2025-05-16",
+          "subtitle": "Oslo and the ferry",
+          "categories": "travel norway denmark",
+          "tags": [
+            "may2025"
+          ],
+          "rollup_key": "2025norway"
+        },
+        {
+          "title": "Norway and Denmark Day 10",
+          "date": "2025-05-17",
+          "subtitle": "Arrival in Copenhagen",
+          "categories": "travel norway denmark",
+          "tags": [
+            "may2025"
+          ],
+          "rollup_key": "2025norway"
+        },
+        {
+          "title": "Norway and Denmark Day 11",
+          "date": "2025-05-18",
+          "subtitle": "The travel wall",
+          "categories": "travel norway denmark",
+          "tags": [
+            "may2025"
+          ],
+          "rollup_key": "2025norway"
+        },
+        {
+          "title": "Norway and Denmark Day 12",
+          "date": "2025-05-19",
+          "subtitle": "Copenhagen to RDU",
+          "categories": "travel norway denmark",
+          "tags": [
+            "may2025"
+          ],
+          "rollup_key": "2025norway"
+        }
+      ]
+    },
+    {
+      "rollup_key": "2025chde",
+      "posts": [
+        {
+          "title": "Switzerland and Germany Day 1",
+          "date": "2025-07-29",
+          "subtitle": "RDU to Zurich",
+          "categories": "travel norway denmark",
+          "tags": [
+            "july2025"
+          ],
+          "rollup_key": "2025chde",
+          "activities": [
+            "citizenship_ceremony",
+            "airport_transit",
+            "overnight_flight"
+          ]
+        },
+        {
+          "title": "Switzerland and Germany Day 2",
+          "date": "2025-07-30",
+          "subtitle": "Planes and trains",
+          "categories": "travel switzerland germany",
+          "tags": [
+            "july2025"
+          ],
+          "rollup_key": "2025chde",
+          "transport": [
+            {
+              "type": "flight",
+              "arrival_time": "10:30",
+              "destination": "Zurich Airport"
+            },
+            {
+              "type": "train",
+              "route": "Zurich Airport → Zurich Hauptbahnhof → Bern → Interlaken Ost → Lauterbrunnen → Wengen",
+              "arrival_time": "15:00"
+            }
+          ],
+          "activities": [
+            "Customs and Immigration",
+            "Train connections through Switzerland",
+            "Walking tour of Wengen",
+            "Dinner with friends"
+          ]
+        },
+        {
+          "title": "Switzerland and Germany Day 3",
+          "date": "2025-07-31",
+          "subtitle": "Wengen, Lauterbrunne, and the panorama walk",
+          "categories": "travel switzerland germany",
+          "tags": [
+            "july2025"
+          ],
+          "rollup_key": "2025chde",
+          "transport": [
+            {
+              "type": "gondola",
+              "route": "Wengen to Männlichen"
+            },
+            {
+              "type": "train",
+              "route": "Kleine Scheidegg to Wengen"
+            },
+            {
+              "type": "train",
+              "route": "Wengen to Lauterbrunnen"
+            }
+          ],
+          "accommodation": {
+            "name": "Hotel Bären",
+            "location": "Wengen, Switzerland",
+            "nights": 1
+          },
+          "activities": [
+            {
+              "type": "hiking",
+              "name": "Männlichen to Kleine Scheidegg panorama walk",
+              "location": "Männlichen-Kleine Scheidegg"
+            },
+            {
+              "type": "hiking",
+              "name": "Royal Walk to the Crown",
+              "location": "Männlichen"
+            },
+            {
+              "type": "sightseeing",
+              "name": "Staubbach Falls",
+              "location": "Lauterbrunnen"
+            }
+          ],
+          "dining": [
+            {
+              "name": "The Deck",
+              "location": "Wengen",
+              "type": "restaurant",
+              "cuisine": "Swiss",
+              "url": "https://jungfraublick.com/restaurant/?lang=en"
+            }
+          ]
+        },
+        {
+          "title": "Switzerland and Germany Day 4",
+          "date": "2025-08-01",
+          "subtitle": "Wengen to Zermatt",
+          "categories": "travel switzerland germany",
+          "tags": [
+            "august2025"
+          ],
+          "rollup_key": "2025chde",
+          "transport": [
+            {
+              "type": "train",
+              "route": "Wengen to Lauterbrunnen",
+              "duration": "~15min"
+            },
+            {
+              "type": "train",
+              "route": "Lauterbrunnen to Interlaken Ost",
+              "duration": "~20min"
+            },
+            {
+              "type": "train",
+              "route": "Interlaken Ost to Visp",
+              "duration": "~1hr"
+            },
+            {
+              "type": "train",
+              "route": "Visp to Zermatt",
+              "duration": "~1hr"
+            },
+            {
+              "type": "walking",
+              "description": "Train station to Hotel Albatros",
+              "duration": "15-20min"
+            }
+          ],
+          "accommodation": [
+            {
+              "name": "Hotel Bären",
+              "location": "Wengen, Switzerland",
+              "nights": 0,
+              "checkin": false,
+              "checkout": true
+            },
+            {
+              "name": "Hotel Albatros",
+              "location": "Zermatt, Switzerland",
+              "nights": 1,
+              "checkin": true,
+              "checkout": false
+            }
+          ],
+          "activities": [
+            {
+              "type": "cultural",
+              "name": "Swiss National Day celebrations",
+              "location": "Zermatt",
+              "date": "2025-08-01"
+            },
+            {
+              "type": "entertainment",
+              "name": "Live music concert",
+              "location": "Zermatt"
+            },
+            {
+              "type": "sightseeing",
+              "name": "Photo walk",
+              "location": "Zermatt"
+            }
+          ],
+          "dining": [
+            {
+              "name": "Restaurant Pinte",
+              "location": "Zermatt",
+              "type": "restaurant",
+              "cuisine": "Swiss",
+              "url": "https://www.hotelpollux.ch/en/gastronomy/pinte"
+            }
+          ]
+        },
+        {
+          "title": "Switzerland and Germany Day 5",
+          "date": "2025-08-02",
+          "subtitle": "Hikes, bikes, and carts in Zermatt",
+          "categories": "travel switzerland germany",
+          "tags": [
+            "august2025"
+          ],
+          "rollup_key": "2025chde",
+          "transport": [
+            {
+              "type": "funicular",
+              "route": "Zermatt to Sunnegga",
+              "url": "https://www.matterhornparadise.ch/en/book/tickets/sunnegga"
+            },
+            {
+              "type": "gondola",
+              "route": "Sunnegga to Blauherd"
+            },
+            {
+              "type": "mountaincart",
+              "route": "Blauherd to Sunnegga"
+            },
+            {
+              "type": "kickbike",
+              "route": "Sunnegga to Zermatt"
+            }
+          ],
+          "accommodation": {
+            "name": "Hotel Albatros",
+            "location": "Zermatt, Switzerland",
+            "nights": 1
+          },
+          "activities": [
+            {
+              "type": "hiking",
+              "name": "Gorner Gorge hike",
+              "location": "Gorner Gorge",
+              "url": "https://zermatt.swiss/en/p/gorner-gorge-01tVj000005DonMIAS"
+            },
+            {
+              "type": "adventure",
+              "name": "Mountaincart ride",
+              "location": "Blauherd to Sunnegga",
+              "duration": "~20min"
+            },
+            {
+              "type": "adventure",
+              "name": "Kickbike ride",
+              "location": "Sunnegga to Zermatt"
+            }
+          ],
+          "dining": [
+            {
+              "name": "Buffet Bar Sunnegga",
+              "location": "Sunnegga",
+              "type": "restaurant",
+              "cuisine": "Swiss",
+              "url": "https://zermatt.swiss/en/p/buffet-bar-sunnegga-01tVj000005DoQjIAK",
+              "dish": "Bratwurst mit Rösti und Zwiebelsauce"
+            },
+            {
+              "name": "Restaurant Chalet Reid",
+              "location": "Near Zermatt",
+              "type": "restaurant",
+              "url": "https://zermatt.swiss/en/p/restaurant-chalet-ried-01tVj000005DiWgIAK"
+            },
+            {
+              "name": "North Wall Bar",
+              "location": "Zermatt",
+              "type": "restaurant",
+              "cuisine": "Pizza",
+              "url": "https://zermatt.swiss/en/p/north-wall-bar-01tVj000005DjnkIAC"
+            }
+          ]
+        },
+        {
+          "title": "Switzerland and Germany Day 6",
+          "date": "2025-08-03",
+          "subtitle": "Up to Gornergrat and its Matterhorn views above Zermatt",
+          "categories": "travel switzerland germany",
+          "tags": [
+            "august2025"
+          ],
+          "rollup_key": "2025chde",
+          "transport": [
+            {
+              "type": "train",
+              "route": "Zermatt to Gornergrat",
+              "operator": "Gornergrat railway",
+              "notes": "Use Swiss Half Fare card for discount"
+            },
+            {
+              "type": "train",
+              "route": "Gornergrat to Zermatt"
+            }
+          ],
+          "accommodation": {
+            "name": "Hotel Albatros",
+            "location": "Zermatt, Switzerland",
+            "nights": 1
+          },
+          "activities": [
+            {
+              "type": "sightseeing",
+              "name": "Gornergrat visit",
+              "location": "Gornergrat",
+              "url": "https://zermatt.swiss/en/p/riffelalp-trail-nr-20-01tVj000005EwXaIAK"
+            },
+            {
+              "type": "relaxation",
+              "name": "Lazy morning",
+              "location": "Hotel Albatros"
+            }
+          ],
+          "dining": [
+            {
+              "name": "McDonald's",
+              "location": "Zermatt",
+              "type": "fast-food",
+              "notes": "Near train station"
+            }
+          ]
+        },
+        {
+          "title": "Switzerland and Germany Day 7",
+          "date": "2025-08-04",
+          "subtitle": "A brief overnight in Appenzell",
+          "categories": "travel switzerland germany",
+          "tags": [
+            "august2025"
+          ],
+          "rollup_key": "2025chde",
+          "transport": [
+            {
+              "type": "train",
+              "route": "Zermatt to Appenzell",
+              "departure": "8:37am",
+              "duration": "~5.5hrs",
+              "notes": "Multiple transfers required"
+            }
+          ],
+          "accommodation": [
+            {
+              "name": "Hotel Albatros",
+              "location": "Zermatt, Switzerland",
+              "nights": 0,
+              "checkin": false,
+              "checkout": true
+            },
+            {
+              "name": "Adler Hotel",
+              "location": "Appenzell, Switzerland",
+              "nights": 1,
+              "checkin": true,
+              "checkout": false,
+              "url": "https://www.adlerhotel.ch/en/home/",
+              "notes": "Hotel restaurant closed during stay"
+            }
+          ],
+          "activities": [
+            {
+              "type": "sightseeing",
+              "name": "Walking tour of Appenzell town center",
+              "location": "Appenzell"
+            },
+            {
+              "type": "shopping",
+              "name": "Supermarket provisions",
+              "location": "Appenzell"
+            }
+          ],
+          "dining": [
+            {
+              "name": "Café-Hotel Appenzell",
+              "location": "Appenzell",
+              "type": "restaurant",
+              "cuisine": "Swiss",
+              "url": "https://www.hotel-appenzell.ch/en/home.html",
+              "dish": "Weinerschnitzel and fries"
+            }
+          ]
+        },
+        {
+          "title": "Switzerland and Germany Day 8",
+          "date": "2025-08-05",
+          "subtitle": "Füssen - a fairytale castle and less-than-fairytail transit",
+          "categories": "travel switzerland germany",
+          "tags": [
+            "august2025"
+          ],
+          "rollup_key": "2025chde",
+          "transport": [
+            {
+              "type": "train",
+              "route": "Appenzell to St. Gallen",
+              "operator": "SBB"
+            },
+            {
+              "type": "train",
+              "route": "St. Gallen to St. Margrethen SG",
+              "operator": "SBB"
+            },
+            {
+              "type": "train",
+              "route": "St. Margrethen to Bregenz",
+              "departure": "12:25pm",
+              "operator": "ÖBB",
+              "notes": "Seat reservations required"
+            },
+            {
+              "type": "train",
+              "route": "Bregenz to Buchloe"
+            },
+            {
+              "type": "bus-train",
+              "route": "Buchloe to Füssen",
+              "operator": "DeutscheBahn",
+              "notes": "Gas-powered vehicle on train tracks, limited luggage space"
+            },
+            {
+              "type": "walking",
+              "route": "Füssen Bahnhof to Best Western Plus",
+              "duration": "15min"
+            },
+            {
+              "type": "bus",
+              "route": "Füssen to Schwangau/Neuschwanstein",
+              "frequency": "Every 30 minutes",
+              "notes": "Signage and schedules could be improved"
+            },
+            {
+              "type": "walking",
+              "route": "Parking area to Neuschwanstein Castle",
+              "duration": "~20min",
+              "distance": "~1 mile",
+              "elevation_gain": "500ft"
+            }
+          ],
+          "accommodation": [
+            {
+              "name": "Adler Hotel",
+              "location": "Appenzell, Switzerland",
+              "nights": 0,
+              "checkin": false,
+              "checkout": true
+            },
+            {
+              "name": "Best Western Plus Hotel Füssen",
+              "location": "Füssen, Germany",
+              "nights": 1,
+              "checkin": true,
+              "checkout": false,
+              "url": "https://www.bestwestern.com/en_US/book/hotels-in-fuessen/best-western-plus-hotel-fuessen/propertyCode.95509.html",
+              "notes": "15 minute walk from train station"
+            }
+          ],
+          "activities": [
+            {
+              "type": "sightseeing",
+              "name": "Lake Constance visit",
+              "location": "Bregenz, Austria"
+            },
+            {
+              "type": "cultural",
+              "name": "Neuschwanstein Castle guided tour",
+              "location": "Neuschwanstein Castle",
+              "time": "5:50pm",
+              "url": "https://www.fuessen.de/en/culture/castles-museums/",
+              "notes": "No photography allowed inside, tickets must be purchased in advance"
+            },
+            {
+              "type": "hiking",
+              "name": "Walk up to Neuschwanstein",
+              "location": "Neuschwanstein Castle",
+              "distance": "~1 mile",
+              "elevation_gain": "500ft"
+            }
+          ],
+          "dining": [
+            {
+              "name": "Best Western Plus Restaurant",
+              "location": "Füssen",
+              "type": "hotel-restaurant"
+            }
+          ]
+        },
+        {
+          "title": "Switzerland and Germany Day 9",
+          "date": "2025-08-06",
+          "subtitle": "Scenic journey to Garmisch-Partenkirchen",
+          "categories": "travel switzerland germany",
+          "tags": [
+            "august2025"
+          ],
+          "rollup_key": "2025chde",
+          "transport": [
+            {
+              "type": "bus",
+              "route": "Füssen to Pflach",
+              "operator": "Bus 100",
+              "duration": "~25min",
+              "notes": "Fast-paced mountain driving, alternative to direct bus 9606"
+            },
+            {
+              "type": "walking",
+              "route": "Pflach bus stop to train station",
+              "duration": "3-4min"
+            },
+            {
+              "type": "train",
+              "route": "Pflach to Garmisch-Partenkirchen",
+              "operator": "S7",
+              "duration": "1h 15m",
+              "notes": "Very scenic mountain route"
+            },
+            {
+              "type": "walking",
+              "route": "Garmisch station to Hyperion Hotel",
+              "notes": "Long but flat walk"
+            }
+          ],
+          "accommodation": [
+            {
+              "name": "Best Western Plus Hotel Füssen",
+              "location": "Füssen, Germany",
+              "nights": 0,
+              "checkin": false,
+              "checkout": true
+            },
+            {
+              "name": "Hyperion Hotel Garmisch-Partenkirchen",
+              "location": "Garmisch-Partenkirchen, Bavaria, Germany",
+              "nights": 2,
+              "checkin": true,
+              "checkout": false,
+              "url": "https://www.h-hotels.com/en/hyperion/hotels/hyperion-hotel-garmisch-partenkirchen",
+              "notes": "Great balcony, spacious room, residential neighborhood near stores and restaurants"
+            }
+          ],
+          "activities": [
+            {
+              "type": "sightseeing",
+              "name": "Scenic train ride",
+              "location": "Pflach to Garmisch-Partenkirchen",
+              "duration": "1h 15m",
+              "notes": "One of the most beautiful train rides, comparable to Goldenpass Express"
+            },
+            {
+              "type": "sightseeing",
+              "name": "Exploring Garmisch town center",
+              "location": "Garmisch-Partenkirchen"
+            }
+          ],
+          "dining": [
+            {
+              "name": "Bungalow 7",
+              "location": "Garmisch-Partenkirchen",
+              "type": "restaurant",
+              "url": "https://www.bungalow-7.de/en/",
+              "dish": "Fish & chips",
+              "notes": "Popular with Rowan, returned next day"
+            }
+          ]
+        },
+        {
+          "title": "Switzerland and Germany Day 10",
+          "date": "2025-08-07",
+          "subtitle": "Around Garmisch-Partenkirchen",
+          "categories": "travel switzerland germany",
+          "tags": [
+            "august2025"
+          ],
+          "rollup_key": "2025chde",
+          "activities": [
+            "relaxing on balcony",
+            "shopping for supplies",
+            "researching Munich hotels"
+          ]
+        },
+        {
+          "title": "Switzerland and Germany Day 11",
+          "date": "2025-08-08",
+          "subtitle": "Walking around Garmisch",
+          "categories": "travel switzerland germany",
+          "tags": [
+            "august2025"
+          ],
+          "rollup_key": "2025chde",
+          "activities": [
+            "hiking",
+            "walking",
+            "sightseeing",
+            "dining"
+          ]
+        },
+        {
+          "title": "Switzerland and Germany Day 12",
+          "date": "2025-08-09",
+          "subtitle": "To Munich!",
+          "categories": "travel switzerland germany",
+          "tags": [
+            "august2025"
+          ],
+          "rollup_key": "2025chde",
+          "transport": [
+            {
+              "type": "train",
+              "from": "Garmisch-Partenkirchen",
+              "to": "Munich",
+              "duration": "1.5 hours",
+              "class": "first",
+              "notes": "Train was overcrowded, crew added extra cars causing 10 minute delay"
+            }
+          ],
+          "activities": [
+            "Walking tour of Munich city center",
+            "Visited Marienplatz and Rathaus Glockenspiel",
+            "Solo exploration of English Garden",
+            "Dinner at Irish pub"
+          ]
+        },
+        {
+          "title": "Switzerland and Germany Day 13",
+          "date": "2025-08-10",
+          "subtitle": "Casual Sunday in Munich",
+          "categories": "travel switzerland germany",
+          "tags": [
+            "august2025"
+          ],
+          "rollup_key": "2025chde",
+          "transport": [
+            "Munich U-Bahn (subway/metro)"
+          ],
+          "activities": [
+            "Public transit experience (U-Bahn)",
+            "BMW Welt exhibition visit",
+            "Food truck lunch",
+            "Park walking",
+            "Sightseeing in Marienplatz",
+            "Special occasion dinner",
+            "Evening walk in English Garden"
+          ]
+        },
+        {
+          "title": "Switzerland and Germany Day 14",
+          "date": "2025-08-11",
+          "subtitle": "To the airport",
+          "categories": "travel switzerland germany",
+          "tags": [
+            "august2025"
+          ],
+          "rollup_key": "2025chde",
+          "transport": [
+            {
+              "type": "S-bahn",
+              "route": "Munich city center to Munich Airport"
+            }
+          ],
+          "activities": [
+            "Shopping at REWE grocery store",
+            "Finding EAT HAPPY sushi stall",
+            "Walking around Munich Airport",
+            "Dinner at Mountain Hub Gourmet restaurant"
+          ]
+        },
+        {
+          "title": "Switzerland and Germany Day 15",
+          "date": "2025-08-12",
+          "subtitle": "The trip home",
+          "categories": "travel switzerland germany",
+          "tags": [
+            "august2025"
+          ],
+          "rollup_key": "2025chde",
+          "trip_day": 15,
+          "transport": [
+            {
+              "type": "flight",
+              "carrier": "Delta",
+              "route": "MUC to DTW",
+              "class": "Delta One",
+              "departure_time": "10:25",
+              "seat": "5A"
+            },
+            {
+              "type": "flight",
+              "carrier": "Delta",
+              "route": "DTW to RDU"
+            }
+          ],
+          "activities": [
+            "Checked bags at Munich Airport",
+            "Read Business Punk magazine issue 101",
+            "International flight from Munich to Detroit",
+            "Customs and Immigration in Detroit with Global Entry",
+            "Bag reclaim and recheck in Detroit",
+            "Domestic flight from Detroit to Raleigh-Durham",
+            "Arrival home in Holly Springs"
+          ]
+        }
+      ]
+    }
+  ],
+  "all_locations": [],
+  "all_activities": [
+    "Arrival home in Holly Springs",
+    "BMW Welt exhibition visit",
+    "Bag reclaim and recheck in Detroit",
+    "Checked bags at Munich Airport",
+    "Customs and Immigration",
+    "Customs and Immigration in Detroit with Global Entry",
+    "Dinner at Irish pub",
+    "Dinner at Mountain Hub Gourmet restaurant",
+    "Dinner with friends",
+    "Domestic flight from Detroit to Raleigh-Durham",
+    "Evening walk in English Garden",
+    "Finding EAT HAPPY sushi stall",
+    "Food truck lunch",
+    "International flight from Munich to Detroit",
+    "Park walking",
+    "Public transit experience (U-Bahn)",
+    "Read Business Punk magazine issue 101",
+    "Shopping at REWE grocery store",
+    "Sightseeing in Marienplatz",
+    "Solo exploration of English Garden",
+    "Special occasion dinner",
+    "Train connections through Switzerland",
+    "Visited Marienplatz and Rathaus Glockenspiel",
+    "Walking around Munich Airport",
+    "Walking tour of Munich city center",
+    "Walking tour of Wengen",
+    "airport_transit",
+    "citizenship_ceremony",
+    "dining",
+    "hiking",
+    "overnight_flight",
+    "relaxing on balcony",
+    "researching Munich hotels",
+    "shopping for supplies",
+    "sightseeing",
+    "walking",
+    "{\"type\"=>\"adventure\", \"name\"=>\"Kickbike ride\", \"location\"=>\"Sunnegga to Zermatt\"}",
+    "{\"type\"=>\"adventure\", \"name\"=>\"Mountaincart ride\", \"location\"=>\"Blauherd to Sunnegga\", \"duration\"=>\"~20min\"}",
+    "{\"type\"=>\"cultural\", \"name\"=>\"Neuschwanstein Castle guided tour\", \"location\"=>\"Neuschwanstein Castle\", \"time\"=>\"5:50pm\", \"url\"=>\"https://www.fuessen.de/en/culture/castles-museums/\", \"notes\"=>\"No photography allowed inside, tickets must be purchased in advance\"}",
+    "{\"type\"=>\"cultural\", \"name\"=>\"Swiss National Day celebrations\", \"location\"=>\"Zermatt\", \"date\"=>#<Date: 2025-08-01 ((2460889j,0s,0n),+0s,2299161j)>}",
+    "{\"type\"=>\"entertainment\", \"name\"=>\"Live music concert\", \"location\"=>\"Zermatt\"}",
+    "{\"type\"=>\"hiking\", \"name\"=>\"Gorner Gorge hike\", \"location\"=>\"Gorner Gorge\", \"url\"=>\"https://zermatt.swiss/en/p/gorner-gorge-01tVj000005DonMIAS\"}",
+    "{\"type\"=>\"hiking\", \"name\"=>\"Männlichen to Kleine Scheidegg panorama walk\", \"location\"=>\"Männlichen-Kleine Scheidegg\"}",
+    "{\"type\"=>\"hiking\", \"name\"=>\"Royal Walk to the Crown\", \"location\"=>\"Männlichen\"}",
+    "{\"type\"=>\"hiking\", \"name\"=>\"Walk up to Neuschwanstein\", \"location\"=>\"Neuschwanstein Castle\", \"distance\"=>\"~1 mile\", \"elevation_gain\"=>\"500ft\"}",
+    "{\"type\"=>\"relaxation\", \"name\"=>\"Lazy morning\", \"location\"=>\"Hotel Albatros\"}",
+    "{\"type\"=>\"shopping\", \"name\"=>\"Supermarket provisions\", \"location\"=>\"Appenzell\"}",
+    "{\"type\"=>\"sightseeing\", \"name\"=>\"Exploring Garmisch town center\", \"location\"=>\"Garmisch-Partenkirchen\"}",
+    "{\"type\"=>\"sightseeing\", \"name\"=>\"Gornergrat visit\", \"location\"=>\"Gornergrat\", \"url\"=>\"https://zermatt.swiss/en/p/riffelalp-trail-nr-20-01tVj000005EwXaIAK\"}",
+    "{\"type\"=>\"sightseeing\", \"name\"=>\"Lake Constance visit\", \"location\"=>\"Bregenz, Austria\"}",
+    "{\"type\"=>\"sightseeing\", \"name\"=>\"Photo walk\", \"location\"=>\"Zermatt\"}",
+    "{\"type\"=>\"sightseeing\", \"name\"=>\"Scenic train ride\", \"location\"=>\"Pflach to Garmisch-Partenkirchen\", \"duration\"=>\"1h 15m\", \"notes\"=>\"One of the most beautiful train rides, comparable to Goldenpass Express\"}",
+    "{\"type\"=>\"sightseeing\", \"name\"=>\"Staubbach Falls\", \"location\"=>\"Lauterbrunnen\"}",
+    "{\"type\"=>\"sightseeing\", \"name\"=>\"Walking tour of Appenzell town center\", \"location\"=>\"Appenzell\"}"
+  ],
+  "timeline": [
+    {
+      "title": "Back in India",
+      "date": "2019-01-21T11:25:19.282Z",
+      "subtitle": "This time with travel buddies",
+      "categories": "travel india",
+      "tags": null,
+      "rollup_key": null
+    },
+    {
+      "title": "India day 2",
+      "date": "2019-01-22T17:25:24.017Z",
+      "subtitle": null,
+      "categories": "travel india",
+      "tags": null,
+      "rollup_key": null
+    },
+    {
+      "title": "Switzerland Travels 2019",
+      "date": "2019-07-26 12:00:00 -0400",
+      "subtitle": "Travels to Geneva, Chamonix (France), and Interlaken",
+      "categories": "travel switzerland",
+      "tags": null,
+      "rollup_key": null
+    },
+    {
+      "title": "Japan Planning",
+      "date": "2024-01-23 07:31:47 -0500",
+      "subtitle": "Where Brian realizes he probably shouldn't try to YOLO a 12 day trip to Japan",
+      "categories": "travel japan",
+      "tags": null,
+      "rollup_key": "2024japan"
+    },
+    {
+      "title": "Japan T-minus 3 days",
+      "date": "2024-01-29",
+      "subtitle": "As ready as I'm going to be",
+      "categories": "travel japan",
+      "tags": null,
+      "rollup_key": "2024japan"
+    },
+    {
+      "title": "Japan Trip Days 1 and 2",
+      "date": "2024-02-02",
+      "subtitle": "The travel over and jet lag",
+      "categories": "travel japan",
+      "tags": null,
+      "rollup_key": "2024japan"
+    },
+    {
+      "title": "Japan trip day 3",
+      "date": "2024-02-03",
+      "subtitle": "First explorations in Tokyo",
+      "categories": "travel japan",
+      "tags": null,
+      "rollup_key": "2024japan"
+    },
+    {
+      "title": "Japan trip day 4",
+      "date": "2024-02-04",
+      "subtitle": "Tokyo",
+      "categories": "travel japan",
+      "tags": null,
+      "rollup_key": "2024japan"
+    },
+    {
+      "title": "Japan trip days 5, 6, and 7",
+      "date": "2024-02-07",
+      "subtitle": "Kamakura",
+      "categories": "travel japan",
+      "tags": null,
+      "rollup_key": "2024japan"
+    },
+    {
+      "title": "Japan trip days 8 and 9",
+      "date": "2024-02-09",
+      "subtitle": "Kyoto",
+      "categories": "travel japan",
+      "tags": null,
+      "rollup_key": "2024japan"
+    },
+    {
+      "title": "Leaving Japan",
+      "date": "2024-02-10",
+      "subtitle": "Cutting the trip short but excited for next time",
+      "categories": "travel japan",
+      "tags": null,
+      "rollup_key": "2024japan"
+    },
+    {
+      "title": "Shinkansen",
+      "date": "2024-03-18",
+      "subtitle": "Antiquated systems for the futuristic bullet train",
+      "categories": "travel japan",
+      "tags": null,
+      "rollup_key": "2024japan"
+    },
+    {
+      "title": "Brian's first trip to Japan in 2024",
+      "date": "2024-03-19",
+      "subtitle": "Exploring Tokyo, Kamakura, and Kyoto",
+      "categories": "travel rollup",
+      "tags": null,
+      "rollup_key": null
+    },
+    {
+      "title": "Switzerland Travels 2024",
+      "date": "2024-07-22",
+      "subtitle": "Travels through Zurich, Wengen, Brig, Zermatt, and Thun.",
+      "categories": "travel switzerland",
+      "tags": null,
+      "rollup_key": null
+    },
+    {
+      "title": "Iceland Cruise Day 1",
+      "date": "2024-08-02",
+      "subtitle": "When we almost leave for a vacation",
+      "categories": "travel cruise iceland",
+      "tags": null,
+      "rollup_key": "2024icelandcruise"
+    },
+    {
+      "title": "Iceland Cruise Day 2",
+      "date": "2024-08-03",
+      "subtitle": "An early morning flight and first family visit to New York",
+      "categories": "travel cruise iceland",
+      "tags": [
+        "new york city",
+        "jersey city"
+      ],
+      "rollup_key": "2024icelandcruise"
+    },
+    {
+      "title": "Iceland Cruise Day 3",
+      "date": "2024-08-04",
+      "subtitle": "Celebrity cruise embarkation in Bayonne and a stormy sail away",
+      "categories": "travel cruise iceland",
+      "tags": [
+        "new york city",
+        "jersey city",
+        "celebrity",
+        "celebrity eclipse"
+      ],
+      "rollup_key": "2024icelandcruise"
+    },
+    {
+      "title": "Iceland Cruise Day 4",
+      "date": "2024-08-05",
+      "subtitle": "Between NYC and Halifax, the first many sea days we'd have on this voyage",
+      "categories": "travel cruise iceland",
+      "tags": [
+        "celebrity",
+        "celebrity eclipse"
+      ],
+      "rollup_key": "2024icelandcruise"
+    },
+    {
+      "title": "Iceland Cruise Day 5",
+      "date": "2024-08-06",
+      "subtitle": "A cloudy day in a familiar city, with lots of family",
+      "categories": "travel cruise iceland",
+      "tags": [
+        "halifax",
+        "celebrity",
+        "celebrity eclipse"
+      ],
+      "rollup_key": "2024icelandcruise"
+    },
+    {
+      "title": "Iceland Cruise Day 6",
+      "date": "2024-08-07",
+      "subtitle": "Sea day between Halifax and St. John's, NL",
+      "categories": "travel cruise iceland",
+      "tags": [
+        "celebrity",
+        "celebrity eclipse"
+      ],
+      "rollup_key": "2024icelandcruise"
+    },
+    {
+      "title": "Iceland Cruise Day 7",
+      "date": "2024-08-08",
+      "subtitle": "St. John's, Newfoundland & Labrador",
+      "categories": "travel cruise iceland",
+      "tags": [
+        "st johns",
+        "celebrity",
+        "celebrity eclipse"
+      ],
+      "rollup_key": "2024icelandcruise"
+    },
+    {
+      "title": "Iceland Cruise Day 8",
+      "date": "2024-08-09",
+      "subtitle": "Sea day 1 between St. John's and Greenland",
+      "categories": "travel cruise iceland",
+      "tags": [
+        "celebrity",
+        "celebrity eclipse"
+      ],
+      "rollup_key": "2024icelandcruise"
+    },
+    {
+      "title": "Iceland Cruise Day 9",
+      "date": "2024-08-10",
+      "subtitle": "A special birthday sea day off the coast of Greenland!",
+      "categories": "travel cruise iceland",
+      "tags": [
+        "celebrity",
+        "celebrity eclipse"
+      ],
+      "rollup_key": "2024icelandcruise"
+    },
+    {
+      "title": "Iceland Cruise Day 10",
+      "date": "2024-08-11",
+      "subtitle": "Drizzly day in Qarqortoq, Greenland",
+      "categories": "travel cruise iceland",
+      "tags": [
+        "greenland",
+        "qaqortoq",
+        "celebrity",
+        "celebrityeclipse"
+      ],
+      "rollup_key": "2024icelandcruise"
+    },
+    {
+      "title": "Iceland Cruise Days 11 and 12",
+      "date": "2024-08-12",
+      "subtitle": "Rocky sea days between Greenland and Iceland",
+      "categories": "travel cruise iceland",
+      "tags": [
+        "celebrity",
+        "celebrity eclipse"
+      ],
+      "rollup_key": "2024icelandcruise"
+    },
+    {
+      "title": "Iceland Cruise Day 13",
+      "date": "2024-08-14",
+      "subtitle": "The northern Iceland city Akureyri, and an educational shore excursion",
+      "categories": "travel cruise iceland",
+      "tags": [
+        "akureyri",
+        "iceland",
+        "celebrity",
+        "celebrityeclipse"
+      ],
+      "rollup_key": "2024icelandcruise"
+    },
+    {
+      "title": "Iceland Cruise Day 14",
+      "date": "2024-08-15",
+      "subtitle": "Isafjordur, Iceland",
+      "categories": "travel cruise iceland",
+      "tags": [
+        "isafjordur",
+        "iceland",
+        "celebrity",
+        "celebrityeclipse"
+      ],
+      "rollup_key": "2024icelandcruise"
+    },
+    {
+      "title": "Iceland Cruise Day 15",
+      "date": "2024-08-16",
+      "subtitle": "The end of the cruise, Reykjavik",
+      "categories": "travel cruise iceland",
+      "tags": [
+        "reykjavik",
+        "iceland",
+        "celebrity",
+        "celebrityeclipse"
+      ],
+      "rollup_key": "2024icelandcruise"
+    },
+    {
+      "title": "Our cruise voyage from New York to Iceland in 2024",
+      "date": "2024-08-31",
+      "subtitle": "A rugged, chilly vacation sailing from New York to Iceland via Canada and Greenland",
+      "categories": "travel rollup",
+      "tags": null,
+      "rollup_key": null
+    },
+    {
+      "title": "Iceland Visit 2024 Day 1",
+      "date": "2024-09-03",
+      "subtitle": "South coast of Iceland",
+      "categories": "travel iceland",
+      "tags": [
+        "reykjavik",
+        "iceland"
+      ],
+      "rollup_key": null
+    },
+    {
+      "title": "Iceland Visit 2024 Day 2",
+      "date": "2024-09-21",
+      "subtitle": "South coast of Iceland",
+      "categories": "travel iceland",
+      "tags": [
+        "reykjavik",
+        "iceland"
+      ],
+      "rollup_key": null
+    },
+    {
+      "title": "Iceland Visit 2024 Day 3",
+      "date": "2024-09-22",
+      "subtitle": "Old Charm Reykjavik",
+      "categories": "travel iceland",
+      "tags": [
+        "reykjavik",
+        "iceland"
+      ],
+      "rollup_key": null
+    },
+    {
+      "title": "Iceland Visit 2024 Day 4",
+      "date": "2024-09-22",
+      "subtitle": "17 days of travel come to an end",
+      "categories": "travel iceland",
+      "tags": [
+        "reykjavik",
+        "iceland"
+      ],
+      "rollup_key": null
+    },
+    {
+      "title": "Celebrity Cruise Cell Data Situation",
+      "date": "2024-12-19",
+      "subtitle": "Where I figure out how to not spend $2,000 on roaming data while on a cruise",
+      "categories": "travel caribbean",
+      "tags": [
+        "celebrity",
+        "cruise",
+        "dec2024"
+      ],
+      "rollup_key": null
+    },
+    {
+      "title": "Celebrity Cruise Day 0",
+      "date": "2024-12-21",
+      "subtitle": "Heading to Fort Lauderdale",
+      "categories": "travel caribbean",
+      "tags": [
+        "celebrity",
+        "cruise",
+        "dec2024"
+      ],
+      "rollup_key": "2024wintercaribbean"
+    },
+    {
+      "title": "Celebrity Cruise Day 1",
+      "date": "2024-12-22",
+      "subtitle": "Getting to the ship",
+      "categories": "travel caribbean",
+      "tags": [
+        "celebrity",
+        "cruise",
+        "dec2024"
+      ],
+      "rollup_key": "2024wintercaribbean"
+    },
+    {
+      "title": "Celebrity Cruise Day 2",
+      "date": "2024-12-23",
+      "subtitle": "Mobility",
+      "categories": "travel caribbean",
+      "tags": [
+        "celebrity",
+        "cruise",
+        "dec2024"
+      ],
+      "rollup_key": "2024wintercaribbean"
+    },
+    {
+      "title": "Celebrity Cruise Day 3",
+      "date": "2024-12-24",
+      "subtitle": "Grand Cayman",
+      "categories": "travel caribbean",
+      "tags": [
+        "celebrity",
+        "cruise",
+        "dec2024"
+      ],
+      "rollup_key": "2024wintercaribbean"
+    },
+    {
+      "title": "Celebrity Cruise Day 4",
+      "date": "2024-12-25",
+      "subtitle": "On the way to Aruba",
+      "categories": "travel caribbean",
+      "tags": [
+        "celebrity",
+        "cruise",
+        "dec2024"
+      ],
+      "rollup_key": "2024wintercaribbean"
+    },
+    {
+      "title": "Celebrity Cruise Day 5",
+      "date": "2024-12-26",
+      "subtitle": "Aruba",
+      "categories": "travel caribbean",
+      "tags": [
+        "celebrity",
+        "cruise",
+        "dec2024"
+      ],
+      "rollup_key": "2024wintercaribbean"
+    },
+    {
+      "title": "Celebrity Cruise Day 6",
+      "date": "2024-12-27",
+      "subtitle": "Curaçao",
+      "categories": "travel caribbean",
+      "tags": [
+        "celebrity",
+        "cruise",
+        "dec2024"
+      ],
+      "rollup_key": "2024wintercaribbean"
+    },
+    {
+      "title": "Celebrity Cruise Day 7",
+      "date": "2024-12-28",
+      "subtitle": "Bonaire",
+      "categories": "travel caribbean",
+      "tags": [
+        "celebrity",
+        "cruise",
+        "dec2024"
+      ],
+      "rollup_key": "2024wintercaribbean"
+    },
+    {
+      "title": "Celebrity Cruise Day 8",
+      "date": "2024-12-29",
+      "subtitle": "Sea day",
+      "categories": "travel caribbean",
+      "tags": [
+        "celebrity",
+        "cruise",
+        "dec2024"
+      ],
+      "rollup_key": "2024wintercaribbean"
+    },
+    {
+      "title": "Celebrity Cruise Day 9",
+      "date": "2024-12-30",
+      "subtitle": "San Juan",
+      "categories": "travel caribbean",
+      "tags": [
+        "celebrity",
+        "cruise",
+        "dec2024"
+      ],
+      "rollup_key": "2024wintercaribbean"
+    },
+    {
+      "title": "Celebrity Cruise Day 10",
+      "date": "2024-12-31",
+      "subtitle": "Puerto Plata, Dominican Republic",
+      "categories": "travel caribbean",
+      "tags": [
+        "celebrity",
+        "cruise",
+        "dec2024"
+      ],
+      "rollup_key": "2024wintercaribbean"
+    },
+    {
+      "title": "Celebrity Eclipse Southern Caribbean in Winter 2024",
+      "date": "2025-01-15",
+      "subtitle": "A family trip to the Cayman Islands, Aruba, Curaçoa, Bonaire, Puerto Rico, and the DR aboard the Celebrity Eclipse",
+      "categories": "travel rollup",
+      "tags": null,
+      "rollup_key": null
+    },
+    {
+      "title": "Planning For Solo Travel",
+      "date": "2025-01-18",
+      "subtitle": "Striking the balance between too little and too much",
+      "categories": "travel",
+      "tags": [
+        "solotravel"
+      ],
+      "rollup_key": null
+    },
+    {
+      "title": "Quick review of the Omni Amelia Island",
+      "date": "2025-03-31",
+      "subtitle": null,
+      "categories": "travel florida hotels reviews",
+      "tags": [
+        "florida",
+        "disney"
+      ],
+      "rollup_key": "20245springbreak"
+    },
+    {
+      "title": "Norway and Denmark Day 1",
+      "date": "2025-05-08",
+      "subtitle": "24 hours of travel begins",
+      "categories": "travel norway denmark",
+      "tags": [
+        "may2025"
+      ],
+      "rollup_key": "2025norway"
+    },
+    {
+      "title": "Norway and Denmark Day 2",
+      "date": "2025-05-09",
+      "subtitle": "24 hours of travel concludes, strolling around Bergen",
+      "categories": "travel norway denmark",
+      "tags": [
+        "may2025"
+      ],
+      "rollup_key": "2025norway"
+    },
+    {
+      "title": "Norway and Denmark Day 3",
+      "date": "2025-05-10",
+      "subtitle": "Full day in Bergen Norway",
+      "categories": "travel norway denmark",
+      "tags": [
+        "may2025"
+      ],
+      "rollup_key": "2025norway"
+    },
+    {
+      "title": "Norway and Denmark Day 4",
+      "date": "2025-05-11",
+      "subtitle": "Bergen to Balestrand",
+      "categories": "travel norway denmark",
+      "tags": [
+        "may2025"
+      ],
+      "rollup_key": "2025norway"
+    },
+    {
+      "title": "VIDEO Bergen to Balestrand ferry",
+      "date": "2025-05-11",
+      "subtitle": "Where I also learn how to kind of edit videos",
+      "categories": "travel norway denmark",
+      "tags": [
+        "may2025"
+      ],
+      "rollup_key": "2025norway"
+    },
+    {
+      "title": "Norway and Denmark Day 5",
+      "date": "2025-05-12",
+      "subtitle": "Balestrand hike",
+      "categories": "travel norway denmark",
+      "tags": [
+        "may2025"
+      ],
+      "rollup_key": "2025norway"
+    },
+    {
+      "title": "Norway and Denmark Day 6",
+      "date": "2025-05-13",
+      "subtitle": "Balestrand to Voss",
+      "categories": "travel norway denmark",
+      "tags": [
+        "may2025"
+      ],
+      "rollup_key": "2025norway"
+    },
+    {
+      "title": "Norway and Denmark Day 7",
+      "date": "2025-05-14",
+      "subtitle": "Sightseeing around Voss",
+      "categories": "travel norway denmark",
+      "tags": [
+        "may2025"
+      ],
+      "rollup_key": "2025norway"
+    },
+    {
+      "title": "Norway and Denmark Day 8",
+      "date": "2025-05-15",
+      "subtitle": "Train from Voss to Oslo",
+      "categories": "travel norway denmark",
+      "tags": [
+        "may2025"
+      ],
+      "rollup_key": "2025norway"
+    },
+    {
+      "title": "Norway and Denmark Day 9",
+      "date": "2025-05-16",
+      "subtitle": "Oslo and the ferry",
+      "categories": "travel norway denmark",
+      "tags": [
+        "may2025"
+      ],
+      "rollup_key": "2025norway"
+    },
+    {
+      "title": "Norway and Denmark Day 10",
+      "date": "2025-05-17",
+      "subtitle": "Arrival in Copenhagen",
+      "categories": "travel norway denmark",
+      "tags": [
+        "may2025"
+      ],
+      "rollup_key": "2025norway"
+    },
+    {
+      "title": "Norway and Denmark Day 11",
+      "date": "2025-05-18",
+      "subtitle": "The travel wall",
+      "categories": "travel norway denmark",
+      "tags": [
+        "may2025"
+      ],
+      "rollup_key": "2025norway"
+    },
+    {
+      "title": "Norway and Denmark Day 12",
+      "date": "2025-05-19",
+      "subtitle": "Copenhagen to RDU",
+      "categories": "travel norway denmark",
+      "tags": [
+        "may2025"
+      ],
+      "rollup_key": "2025norway"
+    },
+    {
+      "title": "Norway and Denmark in 2025",
+      "date": "2025-07-03",
+      "subtitle": "Exploring Bergen, Balestrand, Voss, Oslo, and Copenhagen",
+      "categories": "travel rollup",
+      "tags": null,
+      "rollup_key": null
+    },
+    {
+      "title": "Reflecting on my writing",
+      "date": "2025-07-05",
+      "subtitle": "More how and why, less what",
+      "categories": "travel",
+      "tags": [
+        "meta"
+      ],
+      "rollup_key": null
+    },
+    {
+      "title": "Switzerland and Germany Day 1",
+      "date": "2025-07-29",
+      "subtitle": "RDU to Zurich",
+      "categories": "travel norway denmark",
+      "tags": [
+        "july2025"
+      ],
+      "rollup_key": "2025chde",
+      "activities": [
+        "citizenship_ceremony",
+        "airport_transit",
+        "overnight_flight"
+      ]
+    },
+    {
+      "title": "Switzerland and Germany Day 2",
+      "date": "2025-07-30",
+      "subtitle": "Planes and trains",
+      "categories": "travel switzerland germany",
+      "tags": [
+        "july2025"
+      ],
+      "rollup_key": "2025chde",
+      "transport": [
+        {
+          "type": "flight",
+          "arrival_time": "10:30",
+          "destination": "Zurich Airport"
+        },
+        {
+          "type": "train",
+          "route": "Zurich Airport → Zurich Hauptbahnhof → Bern → Interlaken Ost → Lauterbrunnen → Wengen",
+          "arrival_time": "15:00"
+        }
+      ],
+      "activities": [
+        "Customs and Immigration",
+        "Train connections through Switzerland",
+        "Walking tour of Wengen",
+        "Dinner with friends"
+      ]
+    },
+    {
+      "title": "Switzerland and Germany Day 3",
+      "date": "2025-07-31",
+      "subtitle": "Wengen, Lauterbrunne, and the panorama walk",
+      "categories": "travel switzerland germany",
+      "tags": [
+        "july2025"
+      ],
+      "rollup_key": "2025chde",
+      "transport": [
+        {
+          "type": "gondola",
+          "route": "Wengen to Männlichen"
+        },
+        {
+          "type": "train",
+          "route": "Kleine Scheidegg to Wengen"
+        },
+        {
+          "type": "train",
+          "route": "Wengen to Lauterbrunnen"
+        }
+      ],
+      "accommodation": {
+        "name": "Hotel Bären",
+        "location": "Wengen, Switzerland",
+        "nights": 1
+      },
+      "activities": [
+        {
+          "type": "hiking",
+          "name": "Männlichen to Kleine Scheidegg panorama walk",
+          "location": "Männlichen-Kleine Scheidegg"
+        },
+        {
+          "type": "hiking",
+          "name": "Royal Walk to the Crown",
+          "location": "Männlichen"
+        },
+        {
+          "type": "sightseeing",
+          "name": "Staubbach Falls",
+          "location": "Lauterbrunnen"
+        }
+      ],
+      "dining": [
+        {
+          "name": "The Deck",
+          "location": "Wengen",
+          "type": "restaurant",
+          "cuisine": "Swiss",
+          "url": "https://jungfraublick.com/restaurant/?lang=en"
+        }
+      ]
+    },
+    {
+      "title": "Switzerland and Germany Day 4",
+      "date": "2025-08-01",
+      "subtitle": "Wengen to Zermatt",
+      "categories": "travel switzerland germany",
+      "tags": [
+        "august2025"
+      ],
+      "rollup_key": "2025chde",
+      "transport": [
+        {
+          "type": "train",
+          "route": "Wengen to Lauterbrunnen",
+          "duration": "~15min"
+        },
+        {
+          "type": "train",
+          "route": "Lauterbrunnen to Interlaken Ost",
+          "duration": "~20min"
+        },
+        {
+          "type": "train",
+          "route": "Interlaken Ost to Visp",
+          "duration": "~1hr"
+        },
+        {
+          "type": "train",
+          "route": "Visp to Zermatt",
+          "duration": "~1hr"
+        },
+        {
+          "type": "walking",
+          "description": "Train station to Hotel Albatros",
+          "duration": "15-20min"
+        }
+      ],
+      "accommodation": [
+        {
+          "name": "Hotel Bären",
+          "location": "Wengen, Switzerland",
+          "nights": 0,
+          "checkin": false,
+          "checkout": true
+        },
+        {
+          "name": "Hotel Albatros",
+          "location": "Zermatt, Switzerland",
+          "nights": 1,
+          "checkin": true,
+          "checkout": false
+        }
+      ],
+      "activities": [
+        {
+          "type": "cultural",
+          "name": "Swiss National Day celebrations",
+          "location": "Zermatt",
+          "date": "2025-08-01"
+        },
+        {
+          "type": "entertainment",
+          "name": "Live music concert",
+          "location": "Zermatt"
+        },
+        {
+          "type": "sightseeing",
+          "name": "Photo walk",
+          "location": "Zermatt"
+        }
+      ],
+      "dining": [
+        {
+          "name": "Restaurant Pinte",
+          "location": "Zermatt",
+          "type": "restaurant",
+          "cuisine": "Swiss",
+          "url": "https://www.hotelpollux.ch/en/gastronomy/pinte"
+        }
+      ]
+    },
+    {
+      "title": "Switzerland and Germany Day 5",
+      "date": "2025-08-02",
+      "subtitle": "Hikes, bikes, and carts in Zermatt",
+      "categories": "travel switzerland germany",
+      "tags": [
+        "august2025"
+      ],
+      "rollup_key": "2025chde",
+      "transport": [
+        {
+          "type": "funicular",
+          "route": "Zermatt to Sunnegga",
+          "url": "https://www.matterhornparadise.ch/en/book/tickets/sunnegga"
+        },
+        {
+          "type": "gondola",
+          "route": "Sunnegga to Blauherd"
+        },
+        {
+          "type": "mountaincart",
+          "route": "Blauherd to Sunnegga"
+        },
+        {
+          "type": "kickbike",
+          "route": "Sunnegga to Zermatt"
+        }
+      ],
+      "accommodation": {
+        "name": "Hotel Albatros",
+        "location": "Zermatt, Switzerland",
+        "nights": 1
+      },
+      "activities": [
+        {
+          "type": "hiking",
+          "name": "Gorner Gorge hike",
+          "location": "Gorner Gorge",
+          "url": "https://zermatt.swiss/en/p/gorner-gorge-01tVj000005DonMIAS"
+        },
+        {
+          "type": "adventure",
+          "name": "Mountaincart ride",
+          "location": "Blauherd to Sunnegga",
+          "duration": "~20min"
+        },
+        {
+          "type": "adventure",
+          "name": "Kickbike ride",
+          "location": "Sunnegga to Zermatt"
+        }
+      ],
+      "dining": [
+        {
+          "name": "Buffet Bar Sunnegga",
+          "location": "Sunnegga",
+          "type": "restaurant",
+          "cuisine": "Swiss",
+          "url": "https://zermatt.swiss/en/p/buffet-bar-sunnegga-01tVj000005DoQjIAK",
+          "dish": "Bratwurst mit Rösti und Zwiebelsauce"
+        },
+        {
+          "name": "Restaurant Chalet Reid",
+          "location": "Near Zermatt",
+          "type": "restaurant",
+          "url": "https://zermatt.swiss/en/p/restaurant-chalet-ried-01tVj000005DiWgIAK"
+        },
+        {
+          "name": "North Wall Bar",
+          "location": "Zermatt",
+          "type": "restaurant",
+          "cuisine": "Pizza",
+          "url": "https://zermatt.swiss/en/p/north-wall-bar-01tVj000005DjnkIAC"
+        }
+      ]
+    },
+    {
+      "title": "Switzerland and Germany Day 6",
+      "date": "2025-08-03",
+      "subtitle": "Up to Gornergrat and its Matterhorn views above Zermatt",
+      "categories": "travel switzerland germany",
+      "tags": [
+        "august2025"
+      ],
+      "rollup_key": "2025chde",
+      "transport": [
+        {
+          "type": "train",
+          "route": "Zermatt to Gornergrat",
+          "operator": "Gornergrat railway",
+          "notes": "Use Swiss Half Fare card for discount"
+        },
+        {
+          "type": "train",
+          "route": "Gornergrat to Zermatt"
+        }
+      ],
+      "accommodation": {
+        "name": "Hotel Albatros",
+        "location": "Zermatt, Switzerland",
+        "nights": 1
+      },
+      "activities": [
+        {
+          "type": "sightseeing",
+          "name": "Gornergrat visit",
+          "location": "Gornergrat",
+          "url": "https://zermatt.swiss/en/p/riffelalp-trail-nr-20-01tVj000005EwXaIAK"
+        },
+        {
+          "type": "relaxation",
+          "name": "Lazy morning",
+          "location": "Hotel Albatros"
+        }
+      ],
+      "dining": [
+        {
+          "name": "McDonald's",
+          "location": "Zermatt",
+          "type": "fast-food",
+          "notes": "Near train station"
+        }
+      ]
+    },
+    {
+      "title": "Switzerland and Germany Day 7",
+      "date": "2025-08-04",
+      "subtitle": "A brief overnight in Appenzell",
+      "categories": "travel switzerland germany",
+      "tags": [
+        "august2025"
+      ],
+      "rollup_key": "2025chde",
+      "transport": [
+        {
+          "type": "train",
+          "route": "Zermatt to Appenzell",
+          "departure": "8:37am",
+          "duration": "~5.5hrs",
+          "notes": "Multiple transfers required"
+        }
+      ],
+      "accommodation": [
+        {
+          "name": "Hotel Albatros",
+          "location": "Zermatt, Switzerland",
+          "nights": 0,
+          "checkin": false,
+          "checkout": true
+        },
+        {
+          "name": "Adler Hotel",
+          "location": "Appenzell, Switzerland",
+          "nights": 1,
+          "checkin": true,
+          "checkout": false,
+          "url": "https://www.adlerhotel.ch/en/home/",
+          "notes": "Hotel restaurant closed during stay"
+        }
+      ],
+      "activities": [
+        {
+          "type": "sightseeing",
+          "name": "Walking tour of Appenzell town center",
+          "location": "Appenzell"
+        },
+        {
+          "type": "shopping",
+          "name": "Supermarket provisions",
+          "location": "Appenzell"
+        }
+      ],
+      "dining": [
+        {
+          "name": "Café-Hotel Appenzell",
+          "location": "Appenzell",
+          "type": "restaurant",
+          "cuisine": "Swiss",
+          "url": "https://www.hotel-appenzell.ch/en/home.html",
+          "dish": "Weinerschnitzel and fries"
+        }
+      ]
+    },
+    {
+      "title": "Switzerland and Germany Day 8",
+      "date": "2025-08-05",
+      "subtitle": "Füssen - a fairytale castle and less-than-fairytail transit",
+      "categories": "travel switzerland germany",
+      "tags": [
+        "august2025"
+      ],
+      "rollup_key": "2025chde",
+      "transport": [
+        {
+          "type": "train",
+          "route": "Appenzell to St. Gallen",
+          "operator": "SBB"
+        },
+        {
+          "type": "train",
+          "route": "St. Gallen to St. Margrethen SG",
+          "operator": "SBB"
+        },
+        {
+          "type": "train",
+          "route": "St. Margrethen to Bregenz",
+          "departure": "12:25pm",
+          "operator": "ÖBB",
+          "notes": "Seat reservations required"
+        },
+        {
+          "type": "train",
+          "route": "Bregenz to Buchloe"
+        },
+        {
+          "type": "bus-train",
+          "route": "Buchloe to Füssen",
+          "operator": "DeutscheBahn",
+          "notes": "Gas-powered vehicle on train tracks, limited luggage space"
+        },
+        {
+          "type": "walking",
+          "route": "Füssen Bahnhof to Best Western Plus",
+          "duration": "15min"
+        },
+        {
+          "type": "bus",
+          "route": "Füssen to Schwangau/Neuschwanstein",
+          "frequency": "Every 30 minutes",
+          "notes": "Signage and schedules could be improved"
+        },
+        {
+          "type": "walking",
+          "route": "Parking area to Neuschwanstein Castle",
+          "duration": "~20min",
+          "distance": "~1 mile",
+          "elevation_gain": "500ft"
+        }
+      ],
+      "accommodation": [
+        {
+          "name": "Adler Hotel",
+          "location": "Appenzell, Switzerland",
+          "nights": 0,
+          "checkin": false,
+          "checkout": true
+        },
+        {
+          "name": "Best Western Plus Hotel Füssen",
+          "location": "Füssen, Germany",
+          "nights": 1,
+          "checkin": true,
+          "checkout": false,
+          "url": "https://www.bestwestern.com/en_US/book/hotels-in-fuessen/best-western-plus-hotel-fuessen/propertyCode.95509.html",
+          "notes": "15 minute walk from train station"
+        }
+      ],
+      "activities": [
+        {
+          "type": "sightseeing",
+          "name": "Lake Constance visit",
+          "location": "Bregenz, Austria"
+        },
+        {
+          "type": "cultural",
+          "name": "Neuschwanstein Castle guided tour",
+          "location": "Neuschwanstein Castle",
+          "time": "5:50pm",
+          "url": "https://www.fuessen.de/en/culture/castles-museums/",
+          "notes": "No photography allowed inside, tickets must be purchased in advance"
+        },
+        {
+          "type": "hiking",
+          "name": "Walk up to Neuschwanstein",
+          "location": "Neuschwanstein Castle",
+          "distance": "~1 mile",
+          "elevation_gain": "500ft"
+        }
+      ],
+      "dining": [
+        {
+          "name": "Best Western Plus Restaurant",
+          "location": "Füssen",
+          "type": "hotel-restaurant"
+        }
+      ]
+    },
+    {
+      "title": "Switzerland and Germany Day 9",
+      "date": "2025-08-06",
+      "subtitle": "Scenic journey to Garmisch-Partenkirchen",
+      "categories": "travel switzerland germany",
+      "tags": [
+        "august2025"
+      ],
+      "rollup_key": "2025chde",
+      "transport": [
+        {
+          "type": "bus",
+          "route": "Füssen to Pflach",
+          "operator": "Bus 100",
+          "duration": "~25min",
+          "notes": "Fast-paced mountain driving, alternative to direct bus 9606"
+        },
+        {
+          "type": "walking",
+          "route": "Pflach bus stop to train station",
+          "duration": "3-4min"
+        },
+        {
+          "type": "train",
+          "route": "Pflach to Garmisch-Partenkirchen",
+          "operator": "S7",
+          "duration": "1h 15m",
+          "notes": "Very scenic mountain route"
+        },
+        {
+          "type": "walking",
+          "route": "Garmisch station to Hyperion Hotel",
+          "notes": "Long but flat walk"
+        }
+      ],
+      "accommodation": [
+        {
+          "name": "Best Western Plus Hotel Füssen",
+          "location": "Füssen, Germany",
+          "nights": 0,
+          "checkin": false,
+          "checkout": true
+        },
+        {
+          "name": "Hyperion Hotel Garmisch-Partenkirchen",
+          "location": "Garmisch-Partenkirchen, Bavaria, Germany",
+          "nights": 2,
+          "checkin": true,
+          "checkout": false,
+          "url": "https://www.h-hotels.com/en/hyperion/hotels/hyperion-hotel-garmisch-partenkirchen",
+          "notes": "Great balcony, spacious room, residential neighborhood near stores and restaurants"
+        }
+      ],
+      "activities": [
+        {
+          "type": "sightseeing",
+          "name": "Scenic train ride",
+          "location": "Pflach to Garmisch-Partenkirchen",
+          "duration": "1h 15m",
+          "notes": "One of the most beautiful train rides, comparable to Goldenpass Express"
+        },
+        {
+          "type": "sightseeing",
+          "name": "Exploring Garmisch town center",
+          "location": "Garmisch-Partenkirchen"
+        }
+      ],
+      "dining": [
+        {
+          "name": "Bungalow 7",
+          "location": "Garmisch-Partenkirchen",
+          "type": "restaurant",
+          "url": "https://www.bungalow-7.de/en/",
+          "dish": "Fish & chips",
+          "notes": "Popular with Rowan, returned next day"
+        }
+      ]
+    },
+    {
+      "title": "Switzerland and Germany Day 10",
+      "date": "2025-08-07",
+      "subtitle": "Around Garmisch-Partenkirchen",
+      "categories": "travel switzerland germany",
+      "tags": [
+        "august2025"
+      ],
+      "rollup_key": "2025chde",
+      "activities": [
+        "relaxing on balcony",
+        "shopping for supplies",
+        "researching Munich hotels"
+      ]
+    },
+    {
+      "title": "Switzerland and Germany Day 11",
+      "date": "2025-08-08",
+      "subtitle": "Walking around Garmisch",
+      "categories": "travel switzerland germany",
+      "tags": [
+        "august2025"
+      ],
+      "rollup_key": "2025chde",
+      "activities": [
+        "hiking",
+        "walking",
+        "sightseeing",
+        "dining"
+      ]
+    },
+    {
+      "title": "Switzerland and Germany Day 12",
+      "date": "2025-08-09",
+      "subtitle": "To Munich!",
+      "categories": "travel switzerland germany",
+      "tags": [
+        "august2025"
+      ],
+      "rollup_key": "2025chde",
+      "transport": [
+        {
+          "type": "train",
+          "from": "Garmisch-Partenkirchen",
+          "to": "Munich",
+          "duration": "1.5 hours",
+          "class": "first",
+          "notes": "Train was overcrowded, crew added extra cars causing 10 minute delay"
+        }
+      ],
+      "activities": [
+        "Walking tour of Munich city center",
+        "Visited Marienplatz and Rathaus Glockenspiel",
+        "Solo exploration of English Garden",
+        "Dinner at Irish pub"
+      ]
+    },
+    {
+      "title": "Switzerland and Germany Day 13",
+      "date": "2025-08-10",
+      "subtitle": "Casual Sunday in Munich",
+      "categories": "travel switzerland germany",
+      "tags": [
+        "august2025"
+      ],
+      "rollup_key": "2025chde",
+      "transport": [
+        "Munich U-Bahn (subway/metro)"
+      ],
+      "activities": [
+        "Public transit experience (U-Bahn)",
+        "BMW Welt exhibition visit",
+        "Food truck lunch",
+        "Park walking",
+        "Sightseeing in Marienplatz",
+        "Special occasion dinner",
+        "Evening walk in English Garden"
+      ]
+    },
+    {
+      "title": "Switzerland and Germany Day 14",
+      "date": "2025-08-11",
+      "subtitle": "To the airport",
+      "categories": "travel switzerland germany",
+      "tags": [
+        "august2025"
+      ],
+      "rollup_key": "2025chde",
+      "transport": [
+        {
+          "type": "S-bahn",
+          "route": "Munich city center to Munich Airport"
+        }
+      ],
+      "activities": [
+        "Shopping at REWE grocery store",
+        "Finding EAT HAPPY sushi stall",
+        "Walking around Munich Airport",
+        "Dinner at Mountain Hub Gourmet restaurant"
+      ]
+    },
+    {
+      "title": "Switzerland and Germany Day 15",
+      "date": "2025-08-12",
+      "subtitle": "The trip home",
+      "categories": "travel switzerland germany",
+      "tags": [
+        "august2025"
+      ],
+      "rollup_key": "2025chde",
+      "trip_day": 15,
+      "transport": [
+        {
+          "type": "flight",
+          "carrier": "Delta",
+          "route": "MUC to DTW",
+          "class": "Delta One",
+          "departure_time": "10:25",
+          "seat": "5A"
+        },
+        {
+          "type": "flight",
+          "carrier": "Delta",
+          "route": "DTW to RDU"
+        }
+      ],
+      "activities": [
+        "Checked bags at Munich Airport",
+        "Read Business Punk magazine issue 101",
+        "International flight from Munich to Detroit",
+        "Customs and Immigration in Detroit with Global Entry",
+        "Bag reclaim and recheck in Detroit",
+        "Domestic flight from Detroit to Raleigh-Durham",
+        "Arrival home in Holly Springs"
+      ]
+    },
+    {
+      "title": "Switzerland and Germany in 2025",
+      "date": "2025-10-15",
+      "subtitle": "A summer 2025 trip to Switzerland and Germany with my 16 year old son",
+      "categories": "travel rollup",
+      "tags": null,
+      "rollup_key": null
+    }
+  ]
+}
