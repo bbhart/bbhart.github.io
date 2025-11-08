@@ -7,6 +7,38 @@ categories: travel norway denmark
 rollup_key: 2025norway
 tags: [may2025]
 background: '/assets/20250510-bergen-waterfront-bg.jpg'
+trip_day: 3
+location_start: Bergen, Norway
+location_end: Bergen, Norway
+locations_visited:
+  - Downtown Bergen
+  - Bryggens Museum
+  - Bergen Harbor/Waterfront
+  - Bryggen (historic wharf district)
+  - Bergen Train Station
+accommodation:
+  name: Hotel Park
+  location: Bergen, Norway
+  type: budget hotel
+activities:
+  - Walking tour of medieval Bergen with Bryggens Museum
+  - Exploring Bryggen UNESCO World Heritage wharf
+  - Learning about Bergen's fire history
+  - Visiting historic church and timber buildings
+  - People-watching at harbor fish market
+dining:
+  - location: Bergen Harbor fish market
+    type: seafood
+    dish: Fresh salmon sandwich
+  - location: Bergen Train Station
+    type: Japanese
+    dish: Bento box with sashimi, sushi, tempura, and grilled meat
+notable_experiences:
+  - Small tour group of only 6 people including blind Norwegian couple
+  - Fascinating history of Bergen fires and reconstruction
+  - Walking through narrow Bryggen alleyways
+  - Discovering expensive sunscreen prices (~$40 USD)
+weather: Clear and sunny, blue sky
 ---
 
 - **Start of day:** Bergen, Norway ([Hotel Park](https://www.hotelpark.no/))

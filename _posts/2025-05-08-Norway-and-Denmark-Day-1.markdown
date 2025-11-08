@@ -7,6 +7,33 @@ categories: travel norway denmark
 rollup_key: 2025norway
 tags: [may2025]
 background: '/assets/20250508-flighttracker.jpg'
+trip_day: 1
+location_start: Holy Springs, NC
+location_end: Over the North Atlantic
+locations_visited:
+  - Raleigh-Durham Airport (RDU)
+  - Baltimore-Washington Airport (BWI)
+transport:
+  - type: air
+    route: RDU to BWI
+    carrier: Southwest Airlines
+  - type: air
+    route: BWI to Keflavik (KEF)
+    carrier: Icelandair
+    notes: Overnight flight, 6 hours
+activities:
+  - Navigating baggage tag confusion at Southwest check-in
+  - Seven hour layover at BWI
+  - Lunch at BWI Concourse A
+  - Overnight flight to Iceland
+dining:
+  - location: BWI Concourse A
+    type: Japanese
+    dish: Sushi bento box
+notable_experiences:
+  - First traveler to test new Southwest/Icelandair baggage partnership
+  - Uncertainty about whether bag would transfer properly to Icelandair
+weather: Clear for departure
 ---
 
 - **Start of day:** Holy Springs, NC

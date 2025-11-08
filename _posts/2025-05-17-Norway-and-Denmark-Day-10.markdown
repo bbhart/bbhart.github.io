@@ -7,6 +7,54 @@ categories: travel norway denmark
 rollup_key: 2025norway
 tags: [may2025]
 background: '/assets/20250517-copenhagen-bg.jpg'
+trip_day: 10
+location_start: DFDS Nordic Crown ferry
+location_end: Copenhagen, Denmark
+locations_visited:
+  - Copenhagen ferry terminal
+  - Elgiganten electronics store
+  - Downtown Copenhagen
+  - Tivoli Gardens amusement park
+transport:
+  - type: metro
+    route: Ferry terminal to hotel area
+    carrier: Copenhagen Metro/S-train
+    notes: Confusion between Metro and S-train systems, eventual success
+accommodation:
+  name: Copenhagen Strand
+  location: Copenhagen, Denmark
+  type: boutique hotel
+  notes: No early check-in available, stored luggage
+  amenities:
+    - WiFi
+    - Minimalist Scandinavian design
+    - City view
+activities:
+  - Navigating Copenhagen public transit systems
+  - Failed quest to replace lost Kindle at Elgiganten
+  - Walking and people-watching around Copenhagen
+  - Evening visit to Tivoli Gardens amusement park
+  - Exploring historic amusement park (opened 1843)
+dining:
+  - location: Thai restaurant near hotel
+    type: Thai
+    dish: Pad Thai
+    cost: Charged $4+ for tap water, inappropriate
+    notes: Negative experience with presumptuous USD currency selection
+  - location: Pakistani restaurant
+    type: Pakistani
+    dish: Excellent meal
+    notes: 70 meters from hotel
+notable_experiences:
+  - Confusion navigating Metro vs S-train systems
+  - No Kindles in stock anywhere in Copenhagen
+  - Negative restaurant experience (tap water charge, forced USD)
+  - Saturday people-watching in beautiful weather
+  - Tivoli Gardens at night - "amusement parks are better at night"
+  - Comparing Tivoli to Disney parks (perfect size, city oasis)
+  - Missed visiting in 2000 due to colleagues preferring Hard Rock Cafe
+  - Strong Copenhagen cycling culture
+weather: Great weather, perfect for walking and people-watching
 ---
 
 - **Start of day:** _Nordic Crown_ ferry, somewhere between Oslo and Copenhagen

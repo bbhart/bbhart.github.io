@@ -7,6 +7,47 @@ categories: travel norway denmark
 rollup_key: 2025norway
 tags: [may2025]
 background: '/assets/20250512-hike7-bg.jpeg'
+trip_day: 5
+location_start: Balestrand, Norway
+location_end: Balestrand, Norway
+locations_visited:
+  - Balestrand town
+  - Balestrand Forest Trail (Skogstur)
+  - Sandsstølen viewpoint
+  - Balabu day-trip cabin
+  - Sognefjord overlook
+accommodation:
+  name: Kviknes Hotel
+  location: Balestrand, Norway
+  type: historic hotel
+  notes: CPAP power issues during night
+activities:
+  - Shopping for breakfast and water at Coop grocery
+  - Balestrand Forest Hike - 5.2 miles, 1700ft elevation gain
+  - Hiking clockwise loop starting from hotel
+  - Challenging second quarter with steep sections and roots
+  - Reaching scenic overlooks and viewpoints
+  - Visiting Balabu Dagsturhytta (day-trip cabin)
+  - Planning next day's complex ferry/bus route
+dining:
+  - location: Coop grocery store
+    type: bakery
+    dish: Pastry for breakfast
+  - location: Pearl by Harbor
+    type: Norwegian
+    dish: Salmon and mashed potatoes (repeat meal)
+  - location: Kviknes Hotel bar
+    type: European
+    dish: Lobster bisque
+notable_experiences:
+  - CPAP machine power plug issues causing broken sleep
+  - Accidentally buying carbonated water for hike
+  - Testing new Gregory Miko 20 daypack from REI
+  - Only encountering one hiker on first half, many on second half
+  - Discovering better in-and-out route would be preferable
+  - Complex travel planning between Norled, Vy, and Skyss services
+  - Evening attempt to get Bergen soup at Baalee (not available)
+weather: Clear skies, comfortable hiking conditions
 ---
 
 - **Start of day:** Balestrand, Norway ([Kviknes Hotel](https://en.kviknes.no/))

@@ -7,6 +7,55 @@ categories: travel norway denmark
 rollup_key: 2025norway
 tags: [may2025]
 background: '/assets/20250511-ferry-bg.jpg'
+trip_day: 4
+location_start: Bergen, Norway
+location_end: Balestrand, Norway
+locations_visited:
+  - Bergen Ferry Terminal
+  - Sognefjord (via express ferry)
+  - Balestrand
+  - St. Olaf's Church
+transport:
+  - type: rideshare
+    route: Hotel Park to Bergen Ferry Terminal
+    carrier: Uber
+    notes: 1.3km, expensive ~$17 minimum fare
+  - type: ferry
+    route: Bergen to Balestrand via Sognefjord
+    carrier: Norled Express Ferry
+    duration: ~4 hours
+    cost: ~$100 USD
+    notes: High-speed ferry at 37mph through fjords, absolutely stunning
+accommodation:
+  name: Kviknes Hotel
+  location: Balestrand, Norway
+  type: historic hotel
+  notes: Modern wing (1960s) with balcony room, early check-in allowed
+  amenities:
+    - Balcony with fjord view
+    - WiFi
+    - Bar/restaurant
+activities:
+  - Express ferry journey through Sognefjord
+  - Early check-in at Kviknes Hotel
+  - Visiting St. Olaf's Church (inspiration for Frozen's chapel)
+  - Solo time in historic church
+  - Late evening walk around Balestrand
+  - Moonrise photography over fjord
+dining:
+  - location: Pearl by Harbor
+    type: Norwegian
+    dish: Grilled salmon with teriyaki sauce, mashed potatoes, grilled vegetables
+  - location: Baalee Restaurant
+    type: Italian
+    dish: Shrimp scampi pasta
+notable_experiences:
+  - Incredible express ferry ride through fjords - "best $100 ever spent"
+  - Nearly missing ferry stop due to slow passenger
+  - Peaceful solitude at St. Olaf's Church
+  - Seagulls that never sleep
+  - Moon over mountains photography frustration
+weather: Clear and comfortable (high 50s F), beautiful fjord views
 ---
 
 - **Start of day:** Bergen, Norway ([Hotel Park](https://www.hotelpark.no/))

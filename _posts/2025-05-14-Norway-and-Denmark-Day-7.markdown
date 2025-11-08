@@ -7,7 +7,47 @@ categories: travel norway denmark
 rollup_key: 2025norway
 tags: [may2025]
 background: '/assets/20250514-hut-bg.jpg'
-
+trip_day: 7
+location_start: Voss, Norway
+location_end: Voss, Norway
+locations_visited:
+  - Voss gondola (Hangurstoppen)
+  - Mountain summit at 1295m above sea level
+  - Bordalsgjelet Gorge
+  - Downtown Voss
+accommodation:
+  name: Scandic Voss
+  location: Voss, Norway
+  type: chain hotel
+transport:
+  - type: gondola
+    route: Voss town to Hangurstoppen summit
+    cost: ~$18 each way
+activities:
+  - Gondola ride to mountain summit (1295m elevation)
+  - Attempting panoramic trail at summit (gave up 1/4 way in)
+  - Enjoying views from summit swing
+  - 3-mile Bordalsgjelet Gorge hike
+  - Covered bridge crossing over Vosso river
+  - Rocky gorge trail with handrails
+  - Reading Kindle on hotel sun deck
+dining:
+  - location: Hangurstoppen Restaurant (summit)
+    type: Norwegian
+    dish: Shrimp salad (limited menu, no grilling/frying)
+    notes: Expected burger, got shrimp salad instead but it was tasty
+  - location: Vossevangen Grill
+    type: Steakhouse
+    dish: Tenderloin (rare instead of medium-rare), asparagus, broccoli, mushrooms, au gratin potatoes
+notable_experiences:
+  - First great night sleep with air conditioning and no seagulls
+  - Limited restaurant menu at summit (no burger available)
+  - Beautiful 55F sunny weather perfect for hiking
+  - Wet slanted rocks in gorge requiring careful footing
+  - Afternoon reading in the sun
+  - Memorable au gratin potato dish to recreate at home
+  - Lost Kindle somewhere in Norway (last photo shows it)
+weather: Beautiful sunny day, high 50s F, perfect for outdoor activities
 ---
 - **Start of day:** Voss, Norway ([Scandic Voss](https://www.scandichotels.com/en/hotels/scandic-voss))
 - **End of day:** Voss, Norway ([Scandic Voss](https://www.scandichotels.com/en/hotels/scandic-voss))

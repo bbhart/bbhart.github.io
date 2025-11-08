@@ -7,6 +7,57 @@ categories: travel norway denmark
 rollup_key: 2025norway
 tags: [may2025]
 background: '/assets/20250513-voss-cemetary-bg.jpeg'
+trip_day: 6
+location_start: Balestrand, Norway
+location_end: Voss, Norway
+locations_visited:
+  - Balestrand ferry terminal
+  - Vik
+  - Vangsnes (unplanned fjord tour)
+  - Voss town center
+transport:
+  - type: ferry
+    route: Balestrand to Vik
+    carrier: Norled Express Ferry
+    duration: 20 minutes
+    departure: 7:50am
+  - type: bus
+    route: Vik to Voss via Vangsnes
+    carrier: Skyss bus 810
+    duration: ~90 minutes
+    cost: ~$16 USD
+    notes: Arrived 30 mins early, got bonus fjord tour to Vangsnes
+accommodation:
+  name: Scandic Voss
+  location: Voss, Norway
+  type: chain hotel
+  notes: Early check-in at 10:45am for $20, air-conditioned room
+  amenities:
+    - Air conditioning
+    - WiFi
+    - Lake view
+activities:
+  - Express ferry from Balestrand to Vik
+  - Unplanned bonus tour to Vangsnes car ferry terminus
+  - Bus journey through winter wonderland landscape
+  - Exploring downtown Voss
+  - Evening walk around town
+  - Visiting Voss cemetery
+dining:
+  - location: Gas station across from Scandic Voss
+    type: convenience
+    dish: Mediocre tomato-basil-mozzarella sandwich
+  - location: Vossa Sushi
+    type: Japanese
+    dish: Nigiri (skipped expensive appetizers)
+notable_experiences:
+  - Second night of broken sleep due to loud seagulls
+  - Bus arriving 30 minutes early at Vik
+  - Getting free bonus fjord tour on bus to Vangsnes
+  - Winter landscape midway through bus journey (unexpected snow)
+  - Pricing quirks at sushi restaurant (expensive starters, cheap nigiri)
+  - No seagulls at Voss hotel!
+weather: Overcast and gray initially, sunny in evening
 ---
 
 - **Start of day:** Balestrand, Norway ([Kviknes Hotel](https://en.kviknes.no/))

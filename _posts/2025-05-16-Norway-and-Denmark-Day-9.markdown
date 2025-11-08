@@ -7,7 +7,61 @@ categories: travel norway denmark
 rollup_key: 2025norway
 tags: [may2025]
 background: '/assets/20250516-ship-bg.jpg'
-
+trip_day: 9
+location_start: Oslo, Norway
+location_end: DFDS Nordic Crown ferry (Oslo to Copenhagen)
+locations_visited:
+  - Vigeland Park
+  - Royal Palace (Oslo)
+  - Downtown Oslo malls
+  - Oslo ferry terminal
+transport:
+  - type: light_rail
+    route: Oslo S to Vigeland Park
+    carrier: Ruter (tram 15)
+    duration: ~20 minutes
+  - type: ferry
+    route: Oslo to Copenhagen
+    carrier: DFDS Nordic Crown
+    boarding: 2:30pm
+    notes: Overnight ferry, outside stateroom with window
+accommodation:
+  name: DFDS Nordic Crown - Outside Stateroom
+  location: Ferry between Oslo and Copenhagen
+  type: ferry cabin
+  notes: Small cabin with window, 4 beds total, towels hidden under bed
+  amenities:
+    - Window
+    - 4 bunks
+    - Private bathroom
+activities:
+  - Visiting Vigeland Park sculpture garden (200+ sculptures)
+  - Cafe breakfast at historic manor
+  - Walking to Royal Palace
+  - Exploring downtown Oslo malls
+  - Walking to ferry terminal (25 minutes)
+  - Exploring ship during daylight
+  - Watching Norwegian fjords from deck
+dining:
+  - location: Vigeland Park cafe
+    type: Cafe
+    dish: Chocolate croissant and Americano (average quality)
+  - location: Mall near Oslo S
+    type: Japanese
+    dish: Sushi-to-go (best ever encountered)
+  - location: DFDS Nordic Crown buffet
+    type: Buffet
+    dish: Various items
+    cost: ~299 DKK (~$45 USD)
+notable_experiences:
+  - Constitution Day preparations at Royal Palace (May 17th)
+  - Tour groups from MSC cruise ship at Vigeland Park
+  - Phenomenal mall sushi
+  - Easy 25-minute walk to ferry terminal (not industrial)
+  - Shower without towel (dried with LinkedIn sweatshirt)
+  - Finding towels hidden under pull-down bed
+  - Realizing Kindle was lost at Oslo hotel
+weather: Bright, warm, beautiful day
 ---
 
 - **Start of day:** Oslo, Norway ([Clarion Hotel Oslo](https://www.strawberry.no/hotell/norge/oslo/clarion-hotel-oslo))

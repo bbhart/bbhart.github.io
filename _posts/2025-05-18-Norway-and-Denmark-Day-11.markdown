@@ -7,6 +7,29 @@ categories: travel norway denmark
 rollup_key: 2025norway
 tags: [may2025]
 #background: '/assets/20250517-copenhagen-bg.jpg'
+trip_day: 11
+location_start: Copenhagen, Denmark
+location_end: Copenhagen, Denmark
+locations_visited:
+  - Copenhagen streets
+accommodation:
+  name: Copenhagen Strand
+  location: Copenhagen, Denmark
+  type: boutique hotel
+activities:
+  - Limited walking around Copenhagen
+  - Dealing with travel fatigue
+dining:
+  - location: Thai restaurant
+    type: Thai
+    dish: Giant Pad Thai and pseudo-Diet Coke
+notable_experiences:
+  - Hitting the travel wall - tired of solo travel
+  - Poor sleep
+  - Rainy and gray weather matching mood
+  - Ready to be home
+  - Minimal activities due to exhaustion
+weather: Rainy and gray
 ---
 
 - **Start of day:** [Copenhagen Strand](https://www.copenhagenstrand.com/) hotel, Copenhagen Denmark

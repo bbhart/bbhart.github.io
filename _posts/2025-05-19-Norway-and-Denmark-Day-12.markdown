@@ -7,6 +7,52 @@ categories: travel norway denmark
 rollup_key: 2025norway
 tags: [may2025]
 background: '/assets/20250519-icelandair-bg.jpg'
+trip_day: 12
+location_start: Copenhagen, Denmark
+location_end: Holly Springs, NC
+locations_visited:
+  - Copenhagen city center
+  - Kongens Nytorv metro station
+  - Copenhagen Airport (CPH)
+  - Keflavik Airport (KEF), Iceland
+  - Raleigh-Durham Airport (RDU)
+transport:
+  - type: metro
+    route: Hotel to Copenhagen Airport
+    carrier: Copenhagen Metro
+  - type: air
+    route: Copenhagen (CPH) to Keflavik (KEF)
+    carrier: Icelandair
+    departure: 2pm
+  - type: air
+    route: Keflavik (KEF) to Raleigh-Durham (RDU)
+    carrier: Icelandair
+    duration: 7 hours
+  - type: rideshare
+    route: RDU to Holly Springs
+    carrier: Uber
+accommodation:
+  name: Home
+  location: Holly Springs, NC
+activities:
+  - Late morning leisure at hotel
+  - Metro ride to airport
+  - Lunch at Copenhagen Airport
+  - Flights via Iceland back to North Carolina
+  - Aerial photography of Greenland
+  - Viewing Blue Lagoon from airplane
+dining:
+  - location: Copenhagen Airport
+    type: Airport dining
+    dish: Light lunch
+notable_experiences:
+  - Heaven is a flight that doesn't leave at 6am
+  - Clean and nice (but confusing) Copenhagen Airport
+  - Familiar Keflavik Airport experience
+  - Clear weather allowing Greenland aerial photography
+  - 7 hour transatlantic flight
+  - Successfully completing 11-night solo Norway/Denmark trip
+weather: Clear and sunny in Copenhagen, clear skies over Greenland
 ---
 
 - **Start of day:** [Copenhagen Strand](https://www.copenhagenstrand.com/) hotel, Copenhagen Denmark

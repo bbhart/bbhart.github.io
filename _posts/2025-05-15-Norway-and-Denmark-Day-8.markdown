@@ -7,7 +7,55 @@ categories: travel norway denmark
 rollup_key: 2025norway
 tags: [may2025]
 background: '/assets/20250515-oslo-opera-bg.jpg'
-
+trip_day: 8
+location_start: Voss, Norway
+location_end: Oslo, Norway
+locations_visited:
+  - Voss train station
+  - Bergensbanen railway route
+  - Oslo Central Station (Oslo S)
+  - Oslo Opera House
+  - Downtown Oslo
+transport:
+  - type: train
+    route: Voss to Oslo
+    service: Bergensbanen (Bergen Line)
+    carrier: Vy
+    duration: 6+ hours (1:03pm to 7:20pm)
+    notes: Right-side seat pre-booked for best views, arrived late
+accommodation:
+  name: Clarion Hotel Oslo
+  location: Oslo, Norway
+  type: upscale chain hotel
+  notes: Near Oslo Central Station, excessive number of pillows
+  amenities:
+    - WiFi
+    - Modern minimalist design
+    - Desk area
+    - Many decorative pillows
+activities:
+  - 75 minutes waiting on sunny train platform
+  - 6+ hour scenic train journey through varied Norwegian landscape
+  - Evening walk around downtown Oslo
+  - Visiting Oslo Opera House at dusk
+  - Walking on Opera House marble roof
+  - Photography session at twilight
+dining:
+  - location: Train dining car
+    type: Norwegian
+    dish: Meatballs with mashed potatoes and gravy
+  - location: El Camino (near hotel)
+    type: Mexican
+    dish: Burrito bowl
+notable_experiences:
+  - Discovering scraped knee while boarding train
+  - Varied biomes along train route (rivers, snow, forests)
+  - Train motion sickness by 5pm from constant curves
+  - Too many pillows in hotel room (humorous)
+  - Stunning Oslo Opera House architecture at dusk
+  - Walking on Opera House sloped marble roof
+  - Ferris wheel lit up in evening
+weather: Sunny and high 50s in Voss, clear evening in Oslo
 ---
 
 - **Start of day:** Voss, Norway ([Scandic Voss](https://www.scandichotels.com/en/hotels/scandic-voss))

@@ -7,7 +7,51 @@ categories: travel norway denmark
 rollup_key: 2025norway
 tags: [may2025]
 background: '/assets/20250509-hike-bg.jpeg'
-
+trip_day: 2
+location_start: Over the North Atlantic
+location_end: Bergen, Norway
+locations_visited:
+  - Keflavik Airport (KEF), Iceland
+  - Bergen Airport (BGO), Norway
+  - Downtown Bergen
+  - Fløyen Mountain
+transport:
+  - type: air
+    route: KEF to Bergen (BGO)
+    carrier: Icelandair
+  - type: light_rail
+    route: Bergen Airport to Nonneseter station
+    notes: 45 minute ride
+  - type: funicular
+    route: Downtown Bergen to Fløyen summit
+    notes: Fløibanen funicular, ~$7.50
+accommodation:
+  name: Hotel Park
+  location: Bergen, Norway
+  type: budget hotel
+  notes: Small but serviceable room, early check-in allowed
+  amenities:
+    - WiFi
+    - Private bathroom
+activities:
+  - Passport control and baggage claim at Keflavik
+  - Four hour layover in Iceland with wild weather
+  - Arrival in Bergen and early hotel check-in
+  - Riding Fløibanen funicular to Fløyen summit
+  - Hiking down Fløyen mountain (~300m descent)
+dining:
+  - location: Icelandair flight
+    type: airline meal
+    dish: Sliced chicken and melted cheese
+  - location: Near Hotel Park, Bergen
+    type: Thai
+    dish: Thin-noodle pad thai
+notable_experiences:
+  - Wild Iceland weather alternating between snow and sun
+  - Successfully reunited with luggage in Bergen
+  - First views of Bergen from Fløyen summit
+  - Challenging downhill hike with jelly legs
+weather: Wild in Iceland (snow/sun alternating), clear in Bergen
 ---
 
 - **Start of day:** Over the North Atlantic somewhere?
