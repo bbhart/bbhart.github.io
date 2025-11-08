@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Switzerland and Germany Day 3
-subtitle: Wengen, Lauterbrunne, and the panorama walk
+subtitle: Wengen, Lauterbrunnen, and the panorama walk
 date:  2025-07-31
 categories: travel switzerland germany
 rollup_key: 2025chde
