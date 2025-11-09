@@ -1,0 +1,70 @@
+---
+layout: post
+title: Iceland 2023 Day 6
+subtitle: Horses and hot springs
+date: 2023-06-16
+categories: travel iceland
+rollup_key: 2023iceland
+tags: [june2023]
+published: false
+accommodation:
+  - name: Húsafell Cottage (Airbnb)
+    location: Húsafell, Iceland
+    nights: 3
+    checkin: false
+    checkout: false
+locations:
+  - name: Sturlureykir Visiting Horse Farm
+    country: Iceland
+    notes: Near northern Reykholt
+  - name: Deildartunguhver
+    country: Iceland
+    notes: Hot spring area, next to Krauma
+  - name: Reykholt
+    country: Iceland
+    notes: Historic site with old stone house and cemetery
+  - name: Húsafell Hotel Bistro
+    country: Iceland
+activities:
+  - type: horseback-riding
+    name: Icelandic horse riding
+    location: Sturlureykir Visiting Horse Farm
+    participants: Brian and Siena
+    notes: Siena was all grins from start to finish
+  - type: sightseeing
+    name: Deildartunguhver hot springs
+    location: Deildartunguhver
+    notes: Very steamy
+  - type: cultural
+    name: Old stone house and cemetery
+    location: Reykholt
+dining:
+  - name: Hot dog stand
+    location: Deildartunguhver
+    food: First (and only) Icelandic hot dog
+    notes: Much better than expected, crunchy onions really make it
+  - name: Húsafell Hotel Bistro
+    location: Húsafell
+    meal: Dinner
+    food: Buffet (not good) and meat lovers pizza (quite good)
+    notes: Live and learn
+---
+
+- **Start of day:** Húsafell Cottage
+- **End of day:** Húsafell Cottage
+
+## Horses!
+
+We went to Sturlureykir Visiting Horse Farm near the northern Reykholt, and me and Siena rode horses! Siena was all grins from the moment we went into the stable to pick our horses, until the end when we were back to the barn.
+
+## Hot springs and hot dogs
+
+Since we were in the area, we went to Deildartunguhver (next to Krauma, which I had previously staked out), which was steamy. I had my first (and only, so far) Icelandic hot dog and it was much better than I could've expected… to the point where I want them all the time now. The crunchy onions really make it.
+
+After that we stopped by Reykholt and checked out an old stone house and cemetery.
+
+## Back to Húsafell
+
+Then finally back to Husafell, where we stopped by the Bistro again, this time me getting the buffet (which was… not good), and the other three splitting the meat lovers pizza (which was quite good). Live and learn.
+
+Since we were into the weekend now, Friday night and all, the campground was hopping… lots of activity there, plus lots of kids around at the jump pillow. Rowan begged to go back over there at 10:30pm, but honestly…

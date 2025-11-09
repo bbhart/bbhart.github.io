@@ -1,0 +1,128 @@
+---
+layout: post
+title: Iceland 2023 Day 1
+subtitle: Arrival and settling in
+date: 2023-06-11
+categories: travel iceland
+rollup_key: 2023iceland
+tags: [june2023]
+background: '/assets/20230611-vista-bg.jpg'
+trip_day: 1
+location_start: Raleigh-Durham, North Carolina, USA
+location_end: Near Laugarvatn, Iceland
+locations_visited:
+  - Keflavík International Airport (KEF)
+  - Selfoss, Iceland
+  - Efstidalur II Farm & Restaurant
+  - Laugarvatn area
+transport:
+  - type: air
+    route: RDU to KEF
+    carrier: Icelandair
+    notes: Direct overnight flight
+  - type: car_rental
+    vehicle: Tesla Model Y
+    provider: Hertz Iceland
+    notes: EV rental with trunk latch issues noted
+accommodation:
+  name: Private Cottage
+  location: Near Laugarvatn
+  amenities: [geothermal hot tub, sauna, greenhouse, full kitchen, mountain views]
+  notes: Geothermal fresh water heated
+activities:
+  - International air travel
+  - EV charging introduction (DC Fast Charger in Selfoss)
+  - Bakery visit in Selfoss
+  - Grocery shopping at Bónus supermarket
+  - Farm visit at Efstidalur II
+  - Geothermal hot tub
+  - Home cooking
+dining:
+  - location: Selfoss bakery
+    type: pastries and coffee
+  - location: Cottage
+    type: home-cooked
+    meal: pork chops and chicken from Bónus
+notable_experiences:
+  - First experience with Iceland EV charging infrastructure
+  - No jetway arrival at KEF
+  - Neverending summer sunlight
+  - Forgot CPAP hose
+weather: Not specified
+---
+
+- **Start of day:** Raleigh-Durham, USA
+- **End of day:** Near Laugarvatn, Iceland
+
+It begins!
+
+<img src="/assets/20230611-airport-gate-sunset.jpg" width="100%" alt="Young girl standing at airport gate with sunset view through windows and airplane on tarmac">
+
+<img src="/assets/20230611-airport-gate-waiting.jpg" width="100%" alt="Family waiting at airport gate C21 with luggage, one person lying on seats">
+
+
+Not much sleeping on the plane by anyone. No big surprise. Thankfully it's a direct flight.
+
+## Arrival at KEF
+
+At KEF we didn't do a jetway so kids got a kick out of that. 
+
+<img src="/assets/20230611-kef-airport-tarmac.jpg" width="100%" alt="Family on KEF airport tarmac with Icelandair plane boarding via air stairs">
+
+There was a long line at passport control but moved relatively fast. We were out in maybe 20 minutes.
+
+Thankfully the Hertz line was short. We had some issues with the trunk of the Tesla Model Y rental not closing, where we have to try to close it a few times before it latched. I made note of it to the Hertz people, and took an abundance of photos and some videos of the rental car.[^1] 
+
+There are supposedly some things to see and do near the airport but after the flight we were mostly shell-shocked. We made our way along the southern road, darting into a few towns that looked interesting, but given that it was still 8:30am on a Sunday nothing seemed... even cafes.
+
+## Learning the EV charging system
+
+Eventually we found ourselves in Selfoss, the most significant town we'd come across so far on our route. I wanted to test out EV charging while we still had plenty of charge. We had a rough go of it at first[^2] until I checked the trunk well and found a charging cable (and somebody's sneakers). There are a few different charging standards but we should be good for the trip. Looking at maps of chargers, it appears there are reasonable options near everything we want to see.[^3] 
+
+Charging started, Siena and I ducked away toward the grocery but found a bakery instead. 
+
+<img src="/assets/20230611-iceland-tesla-charging-port.jpg" width="100%" alt="Close-up of Tesla Model Y charging port with CCS connector">
+
+<img src="/assets/20230611-selfoss-bakery-pastry.jpg" width="100%" alt="Young girl at bakery table holding pastry with sesame seeds">
+
+<img src="/assets/20230611-selfoss-bakery-interior.jpg" width="100%" alt="Modern Icelandic bakery interior with industrial ceiling and display cases">
+
+We were quick about things as I wanted to get back to the car since Sherri didn't have a way to contact me. Another car vacated a faster charger, so we moved the plug to that charger, then headed to the Bónus grocery store in the same parking lot. Iceland can be an expensive place to eat out. Shopping at a grocery store can cut expenses significantly if you're staying somewhere you can prepare food.
+
+## Killing time before check-in
+
+From here we headed toward the cottage, though we still had too much time to kill before checkin. We ended up at Efst[idalur II](https://efstidalur.is/), a restaurant and working farm. Sher and Siena hit the inflatable trampoline thing[^4], I went for strong coffee, and Rowan slept in the car. We'd be back here in a day or two for dinner and ice cream.
+
+<img src="/assets/20230611-efstidalur-bounce-pillow.jpg" width="100%" alt="Green inflatable bounce pillow at Efstidalur II farm with picnic tables">
+
+<img src="/assets/20230611-iceland-tesla-horses-view.jpg" width="100%" alt="White Tesla Model Y parked with Icelandic horses grazing in background field">
+
+
+## Settling in
+
+After trouble at the gate due to my not knowing how to make a voice call in Iceland, we met the cottage owners and settled in here. We treated ourselves to a geothermal fresh water hot tub, cooked some pork chops and chicken, and then headed to bed.
+
+Oh, and I forgot a critical CPAP hose, so for the entire trip I'll be sleeping with obstructive sleep apnea along with neverending sunlight. 
+
+<img src="/assets/20230611-cottage-living-room.jpg" width="100%" alt="Cozy cottage living room with exposed beam ceiling and two people relaxing">
+<img src="/assets/20230611-cottage-icelandic-groceries.jpg" width="100%" alt="Icelandic grocery packages on wooden table - chicken and pork from Ali brand">
+<img src="/assets/20230611-cottage-deck-hot-tub.jpg" width="100%" alt="Two people playing with yellow ball on wooden deck with hot tub and red privacy screen">
+<img src="/assets/20230611-cottage-deck-grill.jpg" width="100%" alt="Cottage deck with covered seating area, gas grill, and mountain views">
+<img src="/assets/20230611-cottage-dog-at-door.jpg" width="100%" alt="Black and white papillon dog looking through door window from deck">
+<img src="/assets/20230611-cottage-driveway-view.jpg" width="100%" alt="Gravel driveway leading to cottage with expansive Icelandic valley views">
+<img src="/assets/20230611-cottage-deck-hot-tub-setup.jpg" width="100%" alt="Wooden deck with basketball hoop and hot tub area overlooking landscape">
+<img src="/assets/20230611-cottage-covered-deck.jpg" width="100%" alt="Covered deck with white outdoor furniture and mountain valley views">
+<img src="/assets/20230611-cottage-greenhouse-view.jpg" width="100%" alt="Glass greenhouse structure with mountain and valley landscape behind">
+<img src="/assets/20230611-cottage-sauna-building.jpg" width="100%" alt="Small red sauna building with white door in grassy yard overlooking valley">
+<img src="/assets/20230611-cottage-geothermal-system.jpg" width="100%" alt="Complex geothermal heating system with red tank and multiple pipes and gauges">
+<img src="/assets/20230611-cottage-loft-bedroom.jpg" width="100%" alt="Loft bedroom with exposed curved wooden beams and railing overlooking main floor">
+<img src="/assets/20230611-cottage-living-room-panorama.jpg" width="100%" alt="360-degree panorama of cottage living room with vaulted ceilings and open floor plan">
+<img src="/assets/20230611-cottage-deck-panorama.jpg" width="100%" alt="360-degree panorama of cottage deck showing greenhouse, sauna building, and valley views">
+<img src="/assets/20230611-cottage-hot-tub-kids.jpg" width="100%" alt="Two children relaxing in blue geothermal hot tub on deck with mountain views">
+
+**Footnotes**:
+
+[^1]: This is an absolute must in Iceland, where the winds are wicked and the volcanic sand is abrasive. You'll want the photos in your back pocket in case there's an issue with the rental car company. That said, we've rented twice with Hertz Iceland and haven't had any issues when turning in. I would **not** suggest [renting with Hertz in the US](https://www.caranddriver.com/news/a65176049/hertz-ai-scan-rental-car-damage/) these days.
+[^2]: I was really scratching my head looking at the charger stand, as it didn't look like there were any compatible cables, but also surely we're not the first **Tesla** to try to charge here in this busy charging spot? Figuring this out on no sleep also wasn't helpful.
+[^3]: IIRC this was a DC Fast Charger, so faster than a Level 2 you might find at a restaurant or parking garage, but slower than a Tesla Supercharger. There _are_ Tesla Superchargers in Iceland, but you can't rely on _only_ using Superchargers if you're out in the countryside.
+[^4]: These things seem to be all over in Iceland... if you know where to look.

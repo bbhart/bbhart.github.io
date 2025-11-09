@@ -1,0 +1,60 @@
+---
+layout: post
+title: Iceland 2023 Day 8
+subtitle: Rainy day in Reykjavik
+date: 2023-06-18
+categories: travel iceland
+rollup_key: 2023iceland
+tags: [june2023]
+published: false
+accommodation:
+  - name: Old Reykjavik Charm
+    location: Reykjavik, Iceland
+    nights: 2
+    checkin: false
+    checkout: false
+locations:
+  - name: Reykjavik
+    country: Iceland
+activities:
+  - type: shopping
+    name: Souvenir shopping
+    location: Reykjavik
+    participants: Brian and Siena
+    items: Pot holder and coaster
+  - type: walking
+    name: Walking around Reykjavik
+    participants: Brian and Siena
+    duration: Approximately 2.5 miles
+weather:
+  conditions: Rainy
+  intensity: Light in morning, heavier at times
+  notes: Columbia rain jacket got heavy use
+dining:
+  - name: Ice cream shop
+    location: Reykjavik
+    food: Oreo ice cream
+    participants: Rowan and Sherri
+  - name: Subway
+    location: Reykjavik
+    meal: Dinner
+    participants: Brian, Sherri, and Siena
+  - name: Home cooking
+    location: Old Reykjavik Charm
+    meal: Dinner (Brian's meal)
+    food: Ham sandwiches
+    notes: Made by Sherri, ate and talked in the kitchen
+---
+
+- **Start of day:** Old Reykjavik Charm, Reykjavik
+- **End of day:** Old Reykjavik Charm, Reykjavik
+
+Rainy day, light in the morning and then heavier at times. I was thankful for my Columbia rain jacket, as it got heavy use today.
+
+Siena and I did some souvenir shopping (pot holder and coaster) and walked around a bit. Otherwise we were mostly indoors today, with the exception of Rowan and Sherri popping out for Oreo ice cream.
+
+## Last dinner in Iceland
+
+In the evening me, Sherri, and Siena set out to Subway (eat fresh!) for dinner sandwiches. I was set on trying to find a restaurant for myself for my last dinner in Iceland, but I couldn't get past my introversion enough to sit in a restaurant by myself, though I did end up walking about 2.5 miles, which was good exercise. Instead my amazing wife made us ham sandwiches and we ate and talked in the kitchen instead, which was ultimately better.
+
+Tomorrow we need to be out by 11am, so I have a car arranged and I really hope they show up on time, as more rain is predicted. This gets us to the airport around 11:45am for a 4:45pm flight, but I don't see a way around it. Better early than late and all that, right? It will be a long day. The flight itself is 6.5 hours, and with the time difference we land around 7:30pm EDT. Do our Global Entry interviews, get our gags, schlep to the economy lot, drive home… and then I repack for a trip to NYC the next day. Whew. I'll be a happy camper come June 24.

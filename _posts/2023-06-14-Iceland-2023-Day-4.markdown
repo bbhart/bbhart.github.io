@@ -1,0 +1,78 @@
+---
+layout: post
+title: Iceland 2023 Day 4
+subtitle: Thingvellir and the journey to Húsafell
+date: 2023-06-14
+categories: travel iceland
+rollup_key: 2023iceland
+tags: [june2023]
+published: false
+accommodation:
+  - name: Birna's Cottage
+    location: Near Laugarvatn, Iceland
+    nights: 3
+    checkin: false
+    checkout: true
+  - name: Húsafell Cottage (Airbnb)
+    location: Húsafell, Iceland
+    nights: 3
+    checkin: true
+    checkout: false
+    notes: Part of Hotel Húsafell property, challenging communication with host
+locations:
+  - name: Thingvellir National Park
+    country: Iceland
+    notes: UNESCO World Heritage site
+  - name: Borgarnes
+    country: Iceland
+    notes: Computer store and grocery shopping
+  - name: Baulan
+    country: Iceland
+    notes: Gas station/restaurant for charging and dinner
+  - name: Húsafell
+    country: Iceland
+activities:
+  - type: sightseeing
+    name: Thingvellir National Park visit
+    location: Thingvellir National Park
+  - type: shopping
+    name: Computer store and grocery
+    location: Borgarnes
+    notes: Needed Apple Watch charger
+transport:
+  - type: car
+    route: Birna's Cottage to Húsafell via Thingvellir
+    notes: Red light stop for road work, indirect route with planned stops
+  - type: car
+    charging: Baulan (49% to 90%)
+    duration: Fast charge during dinner
+dining:
+  - name: Baulan
+    location: On route to Húsafell
+    type: Mini-mart/gas station/restaurant
+    meal: Dinner outside
+points_of_interest:
+  - name: Road construction site
+    notes: Five minute red light wait while road was being redone
+---
+
+- **Start of day:** Birna's Cottage near Laugarvatn
+- **End of day:** Húsafell Cottage
+
+We packed up Birna's cottage and made our way to Húsafell, via Thingvellir National Park. After Thingvellir we took a bit of an indirect route, so that we could make a couple of planned stops.
+
+## Road construction surprise
+
+Along the way we were caught by a red light kind of in the middle of nowhere, in front of a utility truck. I'd say we were at that light for a good five minutes wondering if we were doing some dumb tourist thing, but no… they were redoing the road and shuttling cars down one lane of the two lane road. Anyway… no big deal, and we were off again.
+
+## Stops along the way
+
+First stop was at a computer store in Borgarnes. For some reason my Apple Watch charger decided to stop working. The computer store was in a mini-mall, so we did our grocery shopping there, too. Next stop was a quick 20 minutes up the road at a mini-mart / gas station / restaurant called Baulan, where we were able to do a fast charge on the car (49 -> 90%) and have dinner outside. Another 45 minute drive found us at Hùsafell.
+
+## Húsafell arrival challenges
+
+We still didn't have directions from the Airbnb host. I'd texted her AND messaged through Airbnb but all we had was that it was a cottage in Hùsafell… which, to use an analogy (exaggerated only a little), is like saying that your cottage is in Sea Pine Plantation but not giving a street or house number. "Do you have a GPS for the cottage?" "No, sorry". So I'm really fucking scratching my head trying to figure out how I'm being the stupid Airbnb guest here.
+
+jfc.
+
+So we're here now and it's fine. One of the door sticks, we accidentally pulled the handle off the door on the other side, the keybox is really sticky, the other door locks itself automatically, there are only two bowls, the TV doesn't work. Anyways. It's a place. We got settled, me and the kids went to walk down to the bistro to check things out, they bounced on the rainbow jump pillow, they tried the hot tub for a little bit (mostly swatting at flies).
