@@ -6,64 +6,142 @@ date: 2023-06-12
 categories: travel iceland
 rollup_key: 2023iceland
 tags: [june2023]
-published: false
+start_location: Laugarvatn, Iceland
+end_location: Laugarvatn, Iceland
 accommodation:
   - name: Birna's Cottage
+    type: Airbnb
     location: Near Laugarvatn, Iceland
     nights: 3
     checkin: false
     checkout: false
+    features: Greenhouse, modern farmhouse style, vaulted ceilings
 locations:
   - name: Geysir
     country: Iceland
-    notes: Geothermal area with active geysers
+    type: Geothermal area
+    notes: Active geysers, main geyser erupts every 10-15 minutes
+    visited: true
+    url: https://www.south.is/en/place/geysir-geothermal-area
   - name: Brúarfoss
     country: Iceland
-    notes: Waterfall near the cottage
+    type: Waterfall
+    notes: Glacial river waterfall, access road 600m from cottage
+    visited: true
+    url: https://www.earthtrekkers.com/how-to-visit-bruarfoss-waterfall/
   - name: Laugarvatn
     country: Iceland
+    type: Town
+    notes: Small market for groceries
+    visited: true
   - name: Efstidalur II
     country: Iceland
+    type: Restaurant/Farm
+    notes: Farm restaurant with dairy cows
+    visited: true
+    url: https://efstidalur.is/
 activities:
   - type: sightseeing
     name: Geysir visit
     location: Geysir
-    notes: Main geyser erupts every 10-15 minutes
+    time_of_day: midday
+    notes: Busy tourist area, visitors center, main geyser viewing
   - type: hiking
     name: Brúarfoss hike
     location: Brúarfoss
-    notes: Access road only 600 meters from cottage
+    notes: Access road only 600 meters from cottage, great photos
   - type: shopping
     name: Small market
     location: Laugarvatn
+    items: Butter, spaghetti, jam, snacks
+  - type: relaxation
+    name: Greenhouse rest
+    location: Birna's Cottage
+    notes: Research CPAP supplies, short nap
 transport:
   - type: car
-    notes: Tesla charging at Geysir (up to 98%)
+    make: Tesla
+    rental: true
+    notes: Charging at Geysir (up to 98%), trunk seatbelt issue resolved
 dining:
   - name: Efstidalur II
     location: Near cottage
     meal: Early dinner
     food: Meatballs + fries, cheeseburger
-    notes: Meatballs were ok, kids didn't like sauce, fries had cayenne
+    rating: Mixed - kids didn't like sauce, fries had cayenne
+    url: https://efstidalur.is/
+weather:
+  - time: Early afternoon
+    conditions: Sunny and partly cloudy
+    temperature: High 50's F
+    wind: Less than previous day
+    notes: Very good Iceland weather
+challenges:
+  - type: Health
+    description: Felt hungover without drinking, headache and neck pain
+    duration: All day until 9pm
+    treatment: Ibuprofen (insufficient)
+  - type: Equipment
+    description: Missing CPAP headgear
+    impact: Sleep apnea issues compounded by jet lag
+    attempted_solution: Contacted pharmacies without success
+  - type: Navigation
+    description: Initially couldn't find Brúarfoss turnoff
+    resolution: Research and found access road very close to cottage
+  - type: Vehicle
+    description: Tesla trunk closing problems
+    resolution: Seatbelt caught in trunk
 ---
 
-- **Start of day:** Birna's Cottage
-- **End of day:** Birna's Cottage
+- **Start of day:** Laugarvatn, Iceland
+- **End of day:** Laugarvatn, Iceland
 
-Slept from midnight to 8am or so. Woke up feeling hungover. Headache and neck aches I couldn't cut through with ibuprofen. Took all the way until 9pm to start to feel somewhat normal. Kind of a lost day as far as feeling good.
+I kind of slept from midnight to 8am or so and wake up Woke up feeling hungover, without the [boozing](https://www.youtube.com/shorts/N-LXDzgukOg). All day I tried to push through with a wicked headache and neck aches that my usual ibuprofen dose couldn't cut through. It took all the way until 9pm to start to feel somewhat normal, so this was kind of a lost day as far as feeling good.
+
+I sat in the greenhouse, where I researched CPAP supplies and had a short doze. The weather ended up being better than forecast. In the early afternoon it was sunny and partly cloudy, temps in the high 50's, with less wind than yesterday. This is very good Iceland weather. 
+
+<img src="/assets/20230612-cottage-bedroom.jpg" alt="Interior of Birna's Cottage bedroom with exposed wooden beams, white walls, and movie theater decor" width="100%">
+
+<img src="/assets/20230612-cottage-living-room.jpg" alt="Open concept living room and kitchen at Birna's Cottage with vaulted ceiling and rustic charm" width="100%">
+
+<img src="/assets/20230612-red-cabin-deck.jpg" alt="Red corrugated metal cabin with outdoor deck and folding furniture surrounded by trees" width="100%">
 
 ## The mysterious door lock
 
-Found out that we hadn't been locking the door correctly. The door is strange in that you twist the knob down to bolt it, then turn the key. Nowhere is this obvious, but then once you know you know. It took us about 5 mins to figure this out as we were trying to leave. It also means that we didn't really lock the door the night before. Anyway…
+The door lock for our Airbnb had me stumped. In the US we don't typically include the door handle as part of the locking mechanism. Well, this is not the case in the countries I've visited in Europe. This door is strange in that you twist the knob down to bolt it, then turn the key. Nowhere is this obvious, but then once you know, you know. It took us about 5 mins to figure this out as we were trying to leave.
 
 ## Attempting to find Brúarfoss
 
-Set out mid-day to try to find Brúarfoss but couldn't find where you turn, so went to Geysir instead. Found a good charger there and was able to get the Tesla up to 98% charge. The visitors center was busy and touristy (and smelled like fish). We walked around the geysirs area -- there's one 'main' one where everyone stands around videoing themselves for 10-15 minutes until it finally goes off, plus a few smaller ones that don't 'geysir'. There's a hike up a hill here that might be worth trying but we weren't equipped for it… I had my 'hangover' and one of the children wasn't into it.
+We set out mid-day to try to find [Brúarfoss](https://www.earthtrekkers.com/how-to-visit-bruarfoss-waterfall/) but couldn't find where you turn in, so went to [Geysir](https://www.south.is/en/place/geysir-geothermal-area) instead. We found a good charger there and managed to get the Tesla up to 98% charge, which should eliminate range anxiety for a few days. The visitors center was busy and touristy (and smelled like fish). We walked around the geysirs area -- there's one 'main' one where everyone stands around videoing themselves for 10-15 minutes until it finally goes off, plus a few smaller ones that don't 'geysir'. There's a hike up a hill here that might be worth trying but we weren't equipped for it… I had my 'hangover' and one of the kids wasn't into it.
+
+<img src="/assets/20230612-geyser-crowds.jpg" alt="Crowds of tourists gathered around Geysir watching the active geyser erupt with steam" width="100%">
+
 
 ## Finding Brúarfoss (finally)
 
-I did more research and this time we were able to find Brúarfoss… turns out the access road is like 600 meters from the road to our cottage. Oops. We went over there, did a bit of hiking around, and got some great photos.
+I did more research and this time we were able to find Brúarfoss… turns out the access road is like 600 meters from the road to our cottage. Oops. We went over there, did a bit of hiking around, and got some great images.
 
-From there, drove to Laugarvatn to hit up a small market for butter, spaghetti, jam, and other snack type things. After dropping groceries we went back to Efstidalur II for an early dinner, where 3 of us ordered meatballs + fries, and Sherri had the cheeseburger. Meatballs were ok (kids didn't like the sauce) and the fries had cayenne on them, so overall the meal could've been better. The kids bounced some after dinner, then we came back to the cottage. I sat in the greenhouse, where I researched CPAP supplies and had a short doze. The weather ended up being better than forecast. In the early afternoon it was sunny and partly cloudy, temps in the high 50's, with less wind than yesterday. It was nice in the sun, for sure.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iAIG5EGBEY8?si=UkxAlAeWF1KSinwp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I sent an email -- in translated Icelandic -- to see if they had AirFit headgear.
+<img src="/assets/20230612-glacial-river-ledge.jpg" alt="Person standing on a rocky ledge overlooking bright blue glacial river at Brúarfoss" width="100%">
+
+From there, drove to Laugarvatn to hit up a small market for butter, spaghetti, jam, and other snack type things. After dropping groceries we went back to [Efstidalur II](https://efstidalur.is/) for an early dinner, where 3 of us ordered meatballs + fries, and Sherri had the cheeseburger. Meatballs were ok (kids didn't like the sauce) and the fries had cayenne on them, so overall the meal could've been better in their opinion. I liked it.
+
+<img src="/assets/20230612-lely-farm-cows.jpg" alt="Cows in a modern barn with Lely farming equipment and signage" width="100%">
+
+<img src="/assets/20230612-restaurant-dining-room.jpg" alt="Rustic restaurant dining room at Efstidalur II with wooden beams and modern farmhouse decor" width="100%">
+
+The kids bounced some after dinner...
+
+<img src="/assets/20230612-farm-campsite-dome.jpg" alt="Green inflatable dome structure at a farm campsite with mountains in the background" width="100%">
+
+... then we came back to the cottage. 
+
+As I mentioned yesterday, I forgot a critical piece for my CPAP machine. First time for everything, I suppose, I just wish it wasn't when traveling internationally for two weeks. I tried to reach out to several pharmacies but I'll make a long story short and say I didn't have any luck. Let's throw obstructive sleep apnea on top of jet lag and endless days where the sun never sets! 
+
+Oh, and we figured out why the rental Tesla's trunk was having problems closing. Quite the genius design by Tesla. 
+
+<img src="/assets/20230612-car-seatbelt.jpg" alt="Close-up of a car seatbelt buckle" width="100%">
+
+Some evening bouncing:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2BR46XHHWco?si=NS1cfq1qy_pgCYpB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
