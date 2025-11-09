@@ -56,10 +56,19 @@ points_of_interest:
     notes: Five minute red light wait while road was being redone
 ---
 
-- **Start of day:** Birna's Cottage near Laugarvatn
-- **End of day:** Húsafell Cottage
+- **Start of day:** Laugarvatn, Iceland
+- **End of day:** Húsafell, Iceland
 
-We packed up Birna's cottage and made our way to Húsafell, via Thingvellir National Park. After Thingvellir we took a bit of an indirect route, so that we could make a couple of planned stops.
+We packed up Birna's cottage and made our way to Húsafell, via Thingvellir National Park. 
+
+Þingvellir (or Thingvellir) is a UNESCO World Heritage site where the North American and Eurasian tectonic plates are visibly pulling apart, creating a dramatic rift valley with visible fissures and cliffs. They made a big deal out of this, and you can even scuba here. It's also historically significant as the location of Iceland's ancient parliament (Althing), established in 930 AD, making it one of the oldest parliamentary meeting places in the world.
+
+
+
+
+After Thingvellir we took a bit of an indirect route, so that we could make a couple of planned stops.
+
+
 
 ## Road construction surprise
 
@@ -71,8 +80,26 @@ First stop was at a computer store in Borgarnes. For some reason my Apple Watch 
 
 ## Húsafell arrival challenges
 
-We still didn't have directions from the Airbnb host. I'd texted her AND messaged through Airbnb but all we had was that it was a cottage in Hùsafell… which, to use an analogy (exaggerated only a little), is like saying that your cottage is in Sea Pine Plantation but not giving a street or house number. "Do you have a GPS for the cottage?" "No, sorry". So I'm really fucking scratching my head trying to figure out how I'm being the stupid Airbnb guest here.
+We still didn't have directions from the Airbnb host. I'd texted her AND messaged through Airbnb but all we had was that it was a cottage in Hùsafell… which, to use an analogy (exaggerated only a little), is like saying that your cottage is somewhere at Disney World. "Do you have a GPS for the cottage?" "No, sorry". So I'm really fucking scratching my head trying to figure out how I'm being the stupid Airbnb guest here.
 
 jfc.
 
 So we're here now and it's fine. One of the door sticks, we accidentally pulled the handle off the door on the other side, the keybox is really sticky, the other door locks itself automatically, there are only two bowls, the TV doesn't work. Anyways. It's a place. We got settled, me and the kids went to walk down to the bistro to check things out, they bounced on the rainbow jump pillow, they tried the hot tub for a little bit (mostly swatting at flies).
+
+<img src="/assets/20230614-cottage-dining-room.jpg" width="100%" alt="Dining room and living area of Húsafell cottage with farmhouse-style table, white chairs, and large windows overlooking Icelandic countryside">
+<img src="/assets/20230614-cottage-living-room.jpg" width="100%" alt="Living room of Húsafell cottage with white sofa, checkered armchair, and panoramic windows with mountain views">
+<img src="/assets/20230614-thingvellir-visitor-centre-sign.jpg" width="100%" alt="Child standing at Thingvellir National Park visitor centre sign in Icelandic and English">
+<img src="/assets/20230614-thingvellir-boardwalk-viewpoint.jpg" width="100%" alt="Visitors walking on wooden boardwalk at Thingvellir viewpoint overlooking the rift valley and lake">
+<img src="/assets/20230614-thingvellir-hakid-map-sign.jpg" width="100%" alt="Hakid trail map sign at Thingvellir showing walking paths and distances to various points of interest">
+<img src="/assets/20230614-thingvellir-rift-valley-path.jpg" width="100%" alt="Paved walking path through Thingvellir rift valley between towering tectonic plate cliffs with visitors walking">
+<img src="/assets/20230614-thingvellir-rift-selfie.jpg" width="100%" alt="Selfie at Thingvellir rift valley with dramatic cliff wall from North American tectonic plate in background">
+<img src="/assets/20230614-thingvellir-amphitheatre-steps.jpg" width="100%" alt="Two people standing on amphitheatre-style steps at Thingvellir with dramatic cliff wall behind them">
+<img src="/assets/20230614-thingvellir-river-rift.jpg" width="100%" alt="Crystal clear river flowing between rocky cliffs at Thingvellir rift valley">
+<img src="/assets/20230614-thingvellir-oxararfoss-waterfall.jpg" width="100%" alt="Two people posing in front of Oxararfoss waterfall cascading between dark basalt cliffs at Thingvellir">
+<img src="/assets/20230614-baulan-parking-tesla.jpg" width="100%" alt="White Tesla Model 3 parked at Baulan gas station with dramatic cloudy skies overhead">
+<img src="/assets/20230614-baulan-restaurant-menu.jpg" width="100%" alt="Baulan restaurant menu board showing hamburgers, chicken, sandwiches, and kids meals with Icelandic prices">
+<img src="/assets/20230614-baulan-playground-seesaw.jpg" width="100%" alt="Child on seesaw at Baulan playground with bright pink jumping pillow and dramatic stormy sky in background">
+<img src="/assets/20230614-baulan-ev-charging-station.jpg" width="100%" alt="Orange ON electric vehicle charging station with Tesla Model 3 plugged in at Baulan">
+<img src="/assets/20230614-husafell-jumping-pillow.jpg" width="100%" alt="Two children on rainbow-colored inflatable jumping pillow at Húsafell resort with mountains in background">
+<img src="/assets/20230614-guide-car-sign.jpg" width="100%" alt="Yellow road sign in Icelandic and English reading 'STOP Wait for a guide car' at construction site">
+<img src="/assets/20230614-construction-pabbi-works-here-sign.jpg" width="100%" alt="Construction warning sign with cartoon character holding 'Pabbi works here' sign in Icelandic">
