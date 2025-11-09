@@ -6,6 +6,7 @@ date: 2023-06-11
 categories: travel iceland
 rollup_key: 2023iceland
 tags: [june2023]
+background: '/assets/20230611-vista-bg.jpg'
 trip_day: 1
 location_start: Raleigh-Durham, North Carolina, USA
 location_end: Near Laugarvatn, Iceland

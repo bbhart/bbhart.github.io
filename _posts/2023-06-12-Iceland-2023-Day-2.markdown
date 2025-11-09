@@ -6,6 +6,8 @@ date: 2023-06-12
 categories: travel iceland
 rollup_key: 2023iceland
 tags: [june2023]
+background: '/assets/20230612-falls-rowan-bg.jpg'
+
 start_location: Laugarvatn, Iceland
 end_location: Laugarvatn, Iceland
 accommodation:
