@@ -6,7 +6,6 @@ date: 2023-06-15
 categories: travel iceland
 rollup_key: 2023iceland
 tags: [june2023]
-published: false
 accommodation:
   - name: Húsafell Cottage (Airbnb)
     location: Húsafell, Iceland
@@ -16,55 +15,132 @@ accommodation:
 locations:
   - name: Víðgelmir lava tube
     country: Iceland
+    region: West Iceland
+    type: natural-attraction
     notes: Amazing cave tour
+    coordinates: 64.6192° N, 20.9356° W
   - name: Hraunfossar Waterfall
     country: Iceland
+    region: West Iceland
+    type: natural-attraction
     notes: Just a few minutes from Húsafell
+    url: https://guidetoiceland.is/travel-iceland/drive/hraunfossar
   - name: Húsafell Hotel Bistro
     country: Iceland
+    region: West Iceland
+    type: restaurant
+transport:
+  - type: car
+    from: Húsafell Cottage
+    to: Víðgelmir lava tube
+    duration: ~20 minutes
+  - type: car
+    from: Víðgelmir
+    to: Húsafell Hotel Bistro
+    duration: ~20 minutes
+  - type: car
+    from: Húsafell Cottage
+    to: Hraunfossar Waterfall
+    duration: ~5 minutes
 activities:
-  - type: tour
-    name: Lava tube tour
+  - day: 5
+    type: tour
+    name: Víðgelmir lava tube cave tour
     location: Víðgelmir
     time: Departed around 12:10pm
-    notes: Rowan especially enjoyed it
-  - type: hiking
+    duration: ~90 minutes
+    participants: Family group
+    notes: Rowan especially enjoyed it. Helmets with headlamps provided. Metal stairs descend into massive cave system
+  - day: 5
+    type: hiking
     name: Attempted trail finding
     location: Húsafell
     notes: Could not locate marked trails despite maps and asking staff
-  - type: sightseeing
-    name: Hraunfossar Waterfall
-    location: Near Húsafell
+  - day: 5
+    type: sightseeing
+    name: Hraunfossar Waterfall visit
+    location: Hraunfossar, Near Húsafell
     duration: 30 minutes
-  - type: recreation
+    notes: Series of waterfalls flowing from lava field
+  - day: 5
+    type: recreation
     name: Jump pillow
     location: Húsafell campground
     time: 10:30pm
-    notes: Doesn't get dark
+    participants: Kids
+    notes: Doesn't get dark at this time of year
 dining:
   - name: Húsafell Hotel Bistro
     location: Húsafell
     meal: Lunch
+    time: ~1:00pm
     food: Split meat lovers pizza, tempura shrimp
-    notes: 3 of us split pizza
+    cost_category: moderate
+    notes: 3 of us split pizza, Siena had shrimp
   - name: Cottage
-    location: Húsafell
+    location: Húsafell Cottage
     meal: Dinner
-    food: Pork chops on the grill
-    notes: Left grill much cleaner than found it
+    food: Pork chops on the grill, potatoes, vegetables
+    cost_category: budget
+    notes: Left grill much cleaner than found it. Home cooking at fraction of restaurant prices
+highlights:
+  - Víðgelmir cave system exploration with helmets and headlamps
+  - Multiple waterfall viewing spots at Hraunfossar
+  - Late evening recreation in midnight sun conditions
+  - Cost-effective home cooking at accommodation
+challenges:
+  - Unable to locate marked hiking trails despite maps and staff assistance
 ---
 
 - **Start of day:** Húsafell Cottage
 - **End of day:** Húsafell Cottage
 
+Good morning from the Húsafell cottage.
+
+<img src="/assets/20230615-husafell-red-cabin.jpg" width="100%" alt="Red wooden cottage with white trim and covered deck at Húsafell Airbnb accommodation">
+
 ## Lava tube adventure
 
 We left for the lava tube around 12:10. Amazing cave tour! Lots of photos. Rowan liked it especially.
 
-After lava tube we came over to the Hùsafell Hotel bistro place -- 3 of us split a meat lovers pizza and Siena had tempura shrimp. Back to the cottage for awhile, and then we tried to find some hiking trails.
+<img src="/assets/20230615-husafell-lava-field.jpg" width="100%" alt="Person standing on ancient lava field with dramatic rock formations under partly cloudy sky near Húsafell">
+
+<img src="/assets/20230615-vidgelmir-cave-brochure.jpg" width="100%" alt="Víðgelmir Cave tour brochure showing Iceland's Mightiest Cave with tour information">
+
+<img src="/assets/20230615-vidgelmir-cave-descent.jpg" width="100%" alt="Family group wearing helmets descending into Víðgelmir lava tube cave entrance">
+
+<img src="/assets/20230615-vidgelmir-cave-group.jpg" width="100%" alt="Tour group with headlamps gathered inside dark Víðgelmir cave chamber">
+
+<img src="/assets/20230615-vidgelmir-cave-stairs.jpg" width="100%" alt="Metal staircase leading up to cave opening with natural light streaming into Víðgelmir lava tube">
+
+<img src="/assets/20230615-vidgelmir-cave-tunnel.jpg" width="100%" alt="Three family members with headlamps exploring dark tunnel inside Víðgelmir cave">
+
+<img src="/assets/20230615-vidgelmir-tour-group.jpg" width="100%" alt="Large tour group wearing helmets gathered outside Víðgelmir cave tour building before descent">
+
+
+After lava tube we came over to the Hùsafell Hotel bistro place -- 3 of us split a meat lovers pizza and Siena had tempura shrimp. 
+
+<img src="/assets/20230615-husafell-pizza-menu.jpg" width="100%" alt="Húsafell Hotel Bistro pizza menu featuring Bistro Húsafell Pizza branding with various pizza options">
+
+<img src="/assets/20230615-husafell-restaurant-dining.jpg" width="100%" alt="Interior of Húsafell Hotel Bistro dining room with wooden tables, black chairs, and large windows">
+
+We relaxed back at the cottage for awhile, and set out to try to find some hiking trails which were supposed to start on property.
 
 ## The trails that couldn't be found
 
-There are elaborate hiking trail maps but goddamn if we couldn't find any of them. We really tried. They have printed maps, we asked a staff members, we scoped it out with the car. We could. Not. Find. Them. So we proceeded on to Hraunfossar Waterfall, which is just a few minutes away. Spent about 30 mins there. Back home for pork chops on the filthy grill, which I left much cleaner than I found it.
+There are elaborate hiking trail maps but we couldn't find any of them. We really tried. They have printed maps, we asked a staff members, we scoped it out with the car. We could. Not. Find. Them. 
 
-Another trip to the jump pillow at 10:30pm because why not it doesn't get dark here, and now back at the cottage for the night.
+<img src="/assets/20230615-husafell-sign.jpg" width="100%" alt="Person reading Húsafell information sign along scenic path with mountains in background">
+
+We bailed on that, grabbed the car, and headed to [Hraunfossar Waterfall](https://guidetoiceland.is/travel-iceland/drive/hraunfossar), which is just a few minutes away. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YUWquYAT2k0?si=iBFF_z4Ue-1JyO_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img src="/assets/20230615-husafell-waterfall-overlook.jpg" width="100%" alt="Brian standing at wooden overlook viewing Hraunfossar waterfall with lava rock landscape">
+
+<img src="/assets/20230615-husafell-waterfall-portrait.jpg" width="100%" alt="Child in pink jacket posing at Hraunfossar waterfall viewing area with river and lava formations behind">
+
+We spent about 30 mins there. Back "home", we cooked pork chops on the filthy grill (which I left much cleaner than I found it), and combined with potatoes and a veggie for a decent home-cooked meal... at a fraction of the price of eating out. 
+
+Later, the kids made another trip to the jump pillow at 10:30pm because why not, it doesn't get dark here, and then back at the cottage for the night.
+

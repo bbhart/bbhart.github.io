@@ -6,7 +6,6 @@ date: 2023-06-14
 categories: travel iceland
 rollup_key: 2023iceland
 tags: [june2023]
-published: false
 accommodation:
   - name: Birna's Cottage
     location: Near Laugarvatn, Iceland
@@ -59,24 +58,64 @@ points_of_interest:
 - **Start of day:** Laugarvatn, Iceland
 - **End of day:** Húsafell, Iceland
 
+We said goodbye to Birna's cottage.
+
+<img src="/assets/20230614-cottage-dining-room.jpg" width="100%" alt="Dining room and living area of cottage with farmhouse-style table, white chairs, and large windows overlooking Icelandic countryside">
+
+<img src="/assets/20230614-cottage-living-room.jpg" width="100%" alt="Living room of cottage with white sofa, checkered armchair, and panoramic windows with mountain views">
+
+
 We packed up Birna's cottage and made our way to Húsafell, via Thingvellir National Park. 
 
-Þingvellir (or Thingvellir) is a UNESCO World Heritage site where the North American and Eurasian tectonic plates are visibly pulling apart, creating a dramatic rift valley with visible fissures and cliffs. They made a big deal out of this, and you can even scuba here. It's also historically significant as the location of Iceland's ancient parliament (Althing), established in 930 AD, making it one of the oldest parliamentary meeting places in the world.
+[Þingvellir (or Thingvellir)](https://www.visiticeland.com/article/thingvellir) is a UNESCO World Heritage site where the North American and Eurasian tectonic plates are visibly pulling apart, creating a dramatic rift valley with visible fissures and cliffs. They make a big deal out of this, and you can even scuba here. It's also historically significant as the location of Iceland's ancient parliament (Althing), established in 930 AD, making it one of the oldest parliamentary meeting places in the world.
 
+<img src="/assets/20230614-thingvellir-visitor-centre-sign.jpg" width="100%" alt="Child standing at Thingvellir National Park visitor centre sign in Icelandic and English">
 
+<img src="/assets/20230614-thingvellir-boardwalk-viewpoint.jpg" width="100%" alt="Visitors walking on wooden boardwalk at Thingvellir viewpoint overlooking the rift valley and lake">
 
+<img src="/assets/20230614-thingvellir-hakid-map-sign.jpg" width="100%" alt="Hakid trail map sign at Thingvellir showing walking paths and distances to various points of interest">
+
+<img src="/assets/20230614-thingvellir-rift-valley-path.jpg" width="100%" alt="Paved walking path through Thingvellir rift valley between towering tectonic plate cliffs with visitors walking">
+
+<img src="/assets/20230614-thingvellir-rift-selfie.jpg" width="100%" alt="Selfie at Thingvellir rift valley with dramatic cliff wall from North American tectonic plate in background">
+
+<img src="/assets/20230614-thingvellir-amphitheatre-steps.jpg" width="100%" alt="Two people standing on amphitheatre-style steps at Thingvellir with dramatic cliff wall behind them">
+
+<img src="/assets/20230614-thingvellir-river-rift.jpg" width="100%" alt="Crystal clear river flowing between rocky cliffs at Thingvellir rift valley">
+
+<img src="/assets/20230614-thingvellir-oxararfoss-waterfall.jpg" width="100%" alt="Two people posing in front of Oxararfoss waterfall cascading between dark basalt cliffs at Thingvellir">
 
 After Thingvellir we took a bit of an indirect route, so that we could make a couple of planned stops.
 
-
-
 ## Road construction surprise
 
-Along the way we were caught by a red light kind of in the middle of nowhere, in front of a utility truck. I'd say we were at that light for a good five minutes wondering if we were doing some dumb tourist thing, but no… they were redoing the road and shuttling cars down one lane of the two lane road. Anyway… no big deal, and we were off again.
+Along the way we were caught by a red light kind of in the middle of nowhere, in front of a utility truck. I'd say we were at that light for a good five minutes wondering if we were doing some dumb tourist thing, but no… they were redoing the road and shuttling cars down one lane of the two lane road. 
+
+<img src="/assets/20230614-guide-car-sign.jpg" width="100%" alt="Yellow road sign in Icelandic and English reading 'STOP Wait for a guide car' at construction site">
+
+<img src="/assets/20230614-construction-pabbi-works-here-sign.jpg" width="100%" alt="Construction warning sign with cartoon character holding 'Pabbi works here' sign in Icelandic">
+
+Anyway… no big deal, and we were off again.
 
 ## Stops along the way
 
-First stop was at a computer store in Borgarnes. For some reason my Apple Watch charger decided to stop working. The computer store was in a mini-mall, so we did our grocery shopping there, too. Next stop was a quick 20 minutes up the road at a mini-mart / gas station / restaurant called Baulan, where we were able to do a fast charge on the car (49 -> 90%) and have dinner outside. Another 45 minute drive found us at Hùsafell.
+First stop was at a computer store in Borgarnes. For some reason my Apple Watch charger decided to stop working. The computer store was in a mini-mall, so we did our grocery shopping there, too. 
+
+Next stop was a quick 20 minutes up the road at a mini-mart / gas station / restaurant called [Baulan](https://maps.app.goo.gl/FMofvdG3ojj2rxmn9?g_st=ipc), where we were able to do a fast charge on the car (49 -> 90%) and have dinner outside. 
+
+<img src="/assets/20230614-baulan-parking-tesla.jpg" width="100%" alt="White Tesla Model 3 parked at Baulan gas station with dramatic cloudy skies overhead">
+
+<img src="/assets/20230614-baulan-restaurant-menu.jpg" width="100%" alt="Baulan restaurant menu board showing hamburgers, chicken, sandwiches, and kids meals with Icelandic prices">
+
+<img src="/assets/20230614-baulan-playground-seesaw.jpg" width="100%" alt="Child on seesaw at Baulan playground with bright pink jumping pillow and dramatic stormy sky in background">
+
+<img src="/assets/20230614-baulan-ev-charging-station.jpg" width="100%" alt="Orange ON electric vehicle charging station with Tesla Model 3 plugged in at Baulan">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8-mr5Nisdo4?si=BVNBMm4SiHQO4FVT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+It's kind of funny... I snapped a quick pic of the English language menu for this place so I could show the kids outside and ask what they wanted. Then, later, I posted it to Google Maps. [It's been viewed more than 14,000 times since then](https://maps.app.goo.gl/LMCKLmbCfmQxBBpd8) as of December 2025. I'm glad I could help out! 
+
+Another 45 minute drive found us at Hùsafell.
 
 ## Húsafell arrival challenges
 
@@ -86,20 +125,6 @@ jfc.
 
 So we're here now and it's... fine. One of the door sticks, we accidentally pulled the handle off the door on the other side, the keybox is really sticky, the other door locks itself automatically, there are only two bowls, the TV doesn't work. Anyways. It's a place. We got settled, me and the kids went to walk down to the bistro to check things out, they bounced on the rainbow jump pillow, they tried the hot tub for a little bit (mostly swatting at flies).
 
-<img src="/assets/20230614-cottage-dining-room.jpg" width="100%" alt="Dining room and living area of Húsafell cottage with farmhouse-style table, white chairs, and large windows overlooking Icelandic countryside">
-<img src="/assets/20230614-cottage-living-room.jpg" width="100%" alt="Living room of Húsafell cottage with white sofa, checkered armchair, and panoramic windows with mountain views">
-<img src="/assets/20230614-thingvellir-visitor-centre-sign.jpg" width="100%" alt="Child standing at Thingvellir National Park visitor centre sign in Icelandic and English">
-<img src="/assets/20230614-thingvellir-boardwalk-viewpoint.jpg" width="100%" alt="Visitors walking on wooden boardwalk at Thingvellir viewpoint overlooking the rift valley and lake">
-<img src="/assets/20230614-thingvellir-hakid-map-sign.jpg" width="100%" alt="Hakid trail map sign at Thingvellir showing walking paths and distances to various points of interest">
-<img src="/assets/20230614-thingvellir-rift-valley-path.jpg" width="100%" alt="Paved walking path through Thingvellir rift valley between towering tectonic plate cliffs with visitors walking">
-<img src="/assets/20230614-thingvellir-rift-selfie.jpg" width="100%" alt="Selfie at Thingvellir rift valley with dramatic cliff wall from North American tectonic plate in background">
-<img src="/assets/20230614-thingvellir-amphitheatre-steps.jpg" width="100%" alt="Two people standing on amphitheatre-style steps at Thingvellir with dramatic cliff wall behind them">
-<img src="/assets/20230614-thingvellir-river-rift.jpg" width="100%" alt="Crystal clear river flowing between rocky cliffs at Thingvellir rift valley">
-<img src="/assets/20230614-thingvellir-oxararfoss-waterfall.jpg" width="100%" alt="Two people posing in front of Oxararfoss waterfall cascading between dark basalt cliffs at Thingvellir">
-<img src="/assets/20230614-baulan-parking-tesla.jpg" width="100%" alt="White Tesla Model 3 parked at Baulan gas station with dramatic cloudy skies overhead">
-<img src="/assets/20230614-baulan-restaurant-menu.jpg" width="100%" alt="Baulan restaurant menu board showing hamburgers, chicken, sandwiches, and kids meals with Icelandic prices">
-<img src="/assets/20230614-baulan-playground-seesaw.jpg" width="100%" alt="Child on seesaw at Baulan playground with bright pink jumping pillow and dramatic stormy sky in background">
-<img src="/assets/20230614-baulan-ev-charging-station.jpg" width="100%" alt="Orange ON electric vehicle charging station with Tesla Model 3 plugged in at Baulan">
+<img src="/assets/20230614-iceland-red-cabin.jpg" width="100%" alt="A red cabin at Húsafell resort">
+
 <img src="/assets/20230614-husafell-jumping-pillow.jpg" width="100%" alt="Two children on rainbow-colored inflatable jumping pillow at Húsafell resort with mountains in background">
-<img src="/assets/20230614-guide-car-sign.jpg" width="100%" alt="Yellow road sign in Icelandic and English reading 'STOP Wait for a guide car' at construction site">
-<img src="/assets/20230614-construction-pabbi-works-here-sign.jpg" width="100%" alt="Construction warning sign with cartoon character holding 'Pabbi works here' sign in Icelandic">
