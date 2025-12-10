@@ -6,48 +6,114 @@ date: 2023-06-16
 categories: travel iceland
 rollup_key: 2023iceland
 tags: [june2023]
-published: false
+published: true
+day_number: 6
+trip_duration: Day 6 of Iceland trip
+start_location: Húsafell Cottage
+end_location: Húsafell Cottage
 accommodation:
   - name: Húsafell Cottage (Airbnb)
     location: Húsafell, Iceland
+    type: cottage
     nights: 3
     checkin: false
     checkout: false
+    region: West Iceland
+    features: [full-kitchen, living-room, multiple-bedrooms, deck, vaulted-ceiling]
 locations:
   - name: Sturlureykir Visiting Horse Farm
     country: Iceland
+    region: West Iceland
+    type: horse-farm
+    coordinates: [64.659, -21.364]
     notes: Near northern Reykholt
+    visited: true
+    duration: ~2 hours
   - name: Deildartunguhver
     country: Iceland
+    region: West Iceland
+    type: natural-attraction
+    coordinates: [64.663, -21.393]
     notes: Hot spring area, next to Krauma
+    visited: true
+    url: https://guidetoiceland.is/travel-iceland/drive/deildartunguhver
   - name: Reykholt
     country: Iceland
+    region: West Iceland
+    type: historic-site
+    coordinates: [64.665, -21.295]
     notes: Historic site with old stone house and cemetery
+    visited: true
+    features: [church, cemetery, old-buildings, antler-decorations]
   - name: Húsafell Hotel Bistro
     country: Iceland
+    region: West Iceland
+    type: restaurant
 activities:
   - type: horseback-riding
     name: Icelandic horse riding
     location: Sturlureykir Visiting Horse Farm
-    participants: Brian and Siena
+    participants: [Brian, Siena]
+    date: 2023-06-16
+    time: morning
+    duration: ~2 hours
+    horses: white Icelandic horses
+    terrain: trails with waterfall views
     notes: Siena was all grins from start to finish
+    highlights: [stable-tour, arena-practice, outdoor-trail-ride, waterfall-scenery]
   - type: sightseeing
     name: Deildartunguhver hot springs
     location: Deildartunguhver
+    date: 2023-06-16
+    time: afternoon
     notes: Very steamy
+    natural_feature: geothermal hot spring
   - type: cultural
-    name: Old stone house and cemetery
+    name: Old stone house and cemetery exploration
     location: Reykholt
+    date: 2023-06-16
+    time: afternoon
+    features: [church-tower, historic-buildings, cemetery, informational-signs]
 dining:
   - name: Hot dog stand
     location: Deildartunguhver
-    food: First (and only) Icelandic hot dog
+    meal: lunch
+    cuisine: Icelandic
+    date: 2023-06-16
+    time: afternoon
+    food: Icelandic hot dog
+    cost_level: budget
     notes: Much better than expected, crunchy onions really make it
+    rating: excellent
   - name: Húsafell Hotel Bistro
     location: Húsafell
-    meal: Dinner
-    food: Buffet (not good) and meat lovers pizza (quite good)
+    meal: dinner
+    date: 2023-06-16
+    time: evening
+    food: Buffet and meat lovers pizza
+    participants: [Brian, Siena, and family]
     notes: Live and learn
+    buffet_rating: poor
+    pizza_rating: good
+transport:
+  - type: car
+    purpose: day trip
+    route: Húsafell → Sturlureykir → Deildartunguhver → Reykholt → Húsafell
+weather:
+  conditions: overcast
+  notes: Typical Icelandic weather
+media:
+  videos:
+    - platform: youtube
+      id: FEn1zdDExrg
+      title: Horse riding at Sturlureykir
+    - platform: youtube
+      id: f9P6dWTkEXs
+      title: Deildartunguhver hot springs 1
+    - platform: youtube
+      id: ps1Urlb2NsA
+      title: Deildartunguhver hot springs 2
+  photos: 20
 ---
 
 - **Start of day:** Húsafell Cottage
@@ -55,16 +121,70 @@ dining:
 
 ## Horses!
 
-We went to Sturlureykir Visiting Horse Farm near the northern Reykholt, and me and Siena rode horses! Siena was all grins from the moment we went into the stable to pick our horses, until the end when we were back to the barn.
+We went to [Sturlureykir Horse Farm](https://www.west.is/en/service/sturlureykirhorses-visiting-horsefarm) near the northern Reykholt[^1], and me and Siena rode horses! Siena was all grins from the moment we went into the stable to pick our horses, until the end when we were back to the barn.
+
+<img src="/assets/20230616-sturlureykir-barn-ladder.jpg" width="100%" alt="View up the barn ladder at Sturlureykir horse farm" />
+
+<img src="/assets/20230616-sturlureykir-stable-horses.jpg" width="100%" alt="Horses in their stalls at Sturlureykir stable" />
+
+<img src="/assets/20230616-sturlureykir-arena-white-horse.jpg" width="100%" alt="Person with white Icelandic horse in indoor riding arena" />
+
+<img src="/assets/20230616-sturlureykir-white-horses-waterfall.jpg" width="100%" alt="Two riders on white Icelandic horses with waterfall in background" />
+
+<img src="/assets/20230616-sturlureykir-brian-white-horse.jpg" width="100%" alt="Brian riding a white Icelandic horse on the trail" />
+
+<img src="/assets/20230616-sturlureykir-riding-trail.jpg" width="100%" alt="First-person view riding white horse on grassy trail" />
+
+<img src="/assets/20230616-sturlureykir-counter-sign.jpg" width="100%" alt="Sturlureykir horse farm information sign showing hot water and geothermal heating details" />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FEn1zdDExrg?si=cUI7_uXDMUP2cfIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Hot springs and hot dogs
 
-Since we were in the area, we went to Deildartunguhver (next to Krauma, which I had previously staked out), which was steamy. I had my first (and only, so far) Icelandic hot dog and it was much better than I could've expected… to the point where I want them all the time now. The crunchy onions really make it.
+Since we were in the area, we went to [Deildartunguhver](https://guidetoiceland.is/travel-iceland/drive/deildartunguhver) (next to [Krauma](https://www.krauma.is/en), which I had previously staked out), which was steamy. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f9P6dWTkEXs?si=xzxl6DYUD9qDP1HF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ps1Urlb2NsA?si=yuwxaDh00VwXKAw-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+I had my first (and only, so far) Icelandic hot dog and it was much better than I could've expected… to the point where I want them all the time now. The crunchy onions really make it.
 
 After that we stopped by Reykholt and checked out an old stone house and cemetery.
+
+<img src="/assets/20230616-reykholt-church-tower.jpg" width="100%" alt="White church tower and bell tower at Reykholt with information map" />
+
+<img src="/assets/20230616-reykholt-door-antlers.jpg" width="100%" alt="Wooden doorway with reindeer antlers at historic Reykholt site" />
+
+<img src="/assets/20230616-reykholt-sign-borgarfjardur.jpg" width="100%" alt="Information sign about Borgarfjardur at Reykholt" />
+
+<img src="/assets/20230616-reykholt-sign-reykholt-woods.jpg" width="100%" alt="Information panel about The Reykholt Woods with historical text" />
+
+<img src="/assets/20230616-reykholt-map.jpg" width="100%" alt="Map of Reykholt historic site showing buildings and layout" />
 
 ## Back to Húsafell
 
 Then finally back to Husafell, where we stopped by the Bistro again, this time me getting the buffet (which was… not good), and the other three splitting the meat lovers pizza (which was quite good). Live and learn.
 
-Since we were into the weekend now, Friday night and all, the campground was hopping… lots of activity there, plus lots of kids around at the jump pillow. Rowan begged to go back over there at 10:30pm, but honestly…
+Since we were into the weekend now, Friday night and all, the campground was hopping… lots of activity there, plus lots of kids around at the jump pillow. Rowan begged to go back over there at 10:30pm, but honestly… I was done. It was a busy day!
+
+Here are some photos of the cottage itself.
+
+<img src="/assets/20230616-cottage-bedroom-dark.jpg" width="100%" alt="Dark bedroom in Húsafell cottage with two windows at dawn or dusk" />
+
+<img src="/assets/20230616-cottage-living-room.jpg" width="100%" alt="Open plan living room and kitchen area of Húsafell cottage with vaulted ceiling" />
+
+<img src="/assets/20230616-cottage-loft-bedroom.jpg" width="100%" alt="Loft bedroom with white walls and bunk beds in cottage" />
+
+<img src="/assets/20230616-cottage-bedroom-white.jpg" width="100%" alt="Bright white bedroom with double bed in Húsafell cottage" />
+
+<img src="/assets/20230616-cottage-living-room-wide.jpg" width="100%" alt="Wide view of cottage living area showing kitchen and dining space" />
+
+<img src="/assets/20230616-cottage-living-room-corner.jpg" width="100%" alt="Corner of living room with dark gray couch and yellow throw blanket" />
+
+<img src="/assets/20230616-cottage-dining-area.jpg" width="100%" alt="Dining area with white table and chairs under pendant light" />
+
+<img src="/assets/20230616-cottage-deck-exterior.jpg" width="100%" alt="Exterior wooden deck of cottage with patio furniture and hanging flowers" />
+
+**Footnotes**
+
+[^1]: I say 'the northern Reykholt' because there are two, both are near tourist areas, and it's possible to be confused. Something to note!
