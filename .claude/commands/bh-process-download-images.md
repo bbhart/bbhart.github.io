@@ -11,14 +11,32 @@ Parse $ARGUMENTS to get the following values:
 
 ## Task
 
+**Important:** Non-destructive operations are pre-approved - proceed without asking permission for: ls, find, exiftool, cd, sips (when creating new files), and reading images. Only confirm before destructive operations like renaming or deleting files.
+
 If you can't determine the `prefix` argument, exit with an error.
 
 For each image in the /Users/bhart/Downloads/proc folder:
-- Using local MacOS utilities, proportionally resize the image to be no more than 1024 pixels wide and save the 
-    resized image as a jpg in the same directory with a temporary name. 
-- Ones the files are resized, then rename the temporary files in the same directory using the following rules:
-    - Prefix the filename with `prefix`. If no prefix is passed, exit with an error.
-    - Create a filename slug with a few descriptive words based on the image itself. Ideally you would use EXIF location data 
-        and name the image based on location, plus using information within the image to further describe it. 
-        For example, if the image is in Zermatt and has a chair in it, the filename might be "`prefix`-zermatt-chair.jpg". 
-- You should not be sending the original, unresized image up to the server for processing.
+
+1. **Resize the image:**
+   - Use local MacOS utilities (sips, exiftool, etc.)
+   - Resize to maximum 1024 pixels wide while maintaining aspect ratio
+   - If image is already 1024px or smaller, still process it but keep original dimensions
+   - Convert to JPG format
+   - Save with a temporary filename (e.g., temp_1.jpg, temp_2.jpg, etc.)
+   - Do NOT send the original, unresized image to the server for analysis
+
+2. **Analyze the resized image:**
+   - Read the resized (temporary) JPG file to analyze visual content
+   - Extract EXIF location data if available from the original file
+
+3. **Rename with descriptive filename:**
+   - Use this format: `{prefix}-{location}-{description}.jpg`
+   - `{prefix}`: The prefix argument (required)
+   - `{location}`: Derived from EXIF GPS data if available, otherwise use visual cues
+   - `{description}`: 1-3 descriptive words based on image content (e.g., "croissant-coffee", "library-interior")
+   - Use lowercase with hyphens between words
+   - Example: "20230618-reykjavik-black-house.jpg"
+
+4. **Clean up:**
+   - After all images are successfully processed and renamed, delete the original files
+   - Original files include all source images (HEIC, JPG, PNG, etc.) that were processed
