@@ -6,7 +6,6 @@ date: 2023-06-19
 categories: travel iceland
 rollup_key: 2023iceland
 tags: [june2023]
-published: false
 accommodation:
   - name: Old Reykjavik Charm
     location: Reykjavik, Iceland
@@ -44,15 +43,53 @@ points_of_interest:
     notes: Multiple flights departing every 5 minutes, buses to tarmac
 ---
 
-- **Start of day:** Old Reykjavik Charm, Reykjavik
-- **End of day:** Flight back to US
+- **Start of day:** Old Charm, Reykjavik
+- **End of day:** Home
+
+Today we say goodbye to Old Charm Reykjavik and make our way back home.
+
+<img src="/assets/20230619-oldcharm-living-room.jpg" width="100%" alt="Living room at Old Reykjavik Charm apartment with gray and orange sofas, exposed brick wall, and large windows overlooking Reykjavik" />
+
+<img src="/assets/20230619-oldcharm-kitchen.jpg" width="100%" alt="Modern kitchen at Old Reykjavik Charm with gray cabinets, pendant lights, and induction cooktop" />
 
 Our private car to the airport picked us up right at 11, which was great.
 
 ## The KEF airport experience
 
-The KEF airport experience is kind of a mess. Just inside where departures are dropped off there are maybe two dozen check-in machines, where you can get your boarding passes. No worker humans in sight. We needed bag tags, but when I went to the machine it said our flight was closed (??). We walk around like the idiot tourists we are for a few minutes and then huddle under some stairs… coincidentally right next to a poorly marked machine that prints luggage tags. Oh. Let's try this. Scan our boarding passes and four bag tags pop out. Put our tags on our bags and then go over to another area (still no humans in the picture here) and then use self-service to scan our bag tags and submit our bags into the machine.
+As I mentioned yesterday, logistical challenges meant we arrived at the airport around five hours before our flight.
 
-Note the 'D Terminal' part of KEF is on the other side of Passport Control, so if you're US/Canada bound, don't hang out in the main part of the airport… even if the screens say your gate will be announced later, go ahead and head to the D part of the airport so that you don't get caught up by Passport Control.
+The KEF airport experience is interesting, and there aren't a lot of workers around to help, so I'll try to explain our experience in a way that can perhaps help others. My disclaimer is that this was a few years ago, perhaps specific to Icelandair, perhaps foggy due to exhaustion. YMMV.
 
-The actual gateside was a shit show. Flights leaving every five minutes requiring buses to take passengers out to planes parked across the tarmac.
+Here's an official map from the KEF airport authority as of December 11 2025. Note where they say check-in us. My memory of things is in yellow/orange.
+
+<img src="/assets/20230619-KEF-marked-up.png" width="100%" alt="Official Keflavik airport interior map showing where things like entrances and exits, stairs and elevators, etc." />
+
+When you enter the terminal, look for the self check-in machines. 
+
+If you arrive more than 3 hours before your flight, you might not be able to check in:
+
+<img src="/assets/20230619-keflavik-airport-check-in.jpg" width="100%" alt="Computer screen with Icelandic writing and an English translation saying the flight is closed for check in." />
+
+We decided we'd just wait for awhile, so we walked over to the seating area next to the elevator/stairs/escalator that leads up to departures. Next to the elevator, around to the side, we found another machine -- poorly-marked -- that seemed to indicate it would print luggage tags for us. And it did! We tagged our bags and then kept exploring. 
+
+The check-in desks were still unstaffed at this point, but saw **Baggage drop - self service** (see map). Using the bag self-check we were able to rid ourselves of our bags. And, while my memory is fuzzy and I might be wrong, it let us do this in advance of the other self check-in machines 'unlocking' to let us check in. 
+
+That done, you can either hang out in this area or head through security. 
+
+In the grand style of newer airport terminals, you must pass through a fragrant duty-free store to get to the rest of the airport. Once you're on the other side, you'll find an area with wood seats and a variety of restaurants and shops. **Please pay attention to prices and do your conversion math correctly here! I found some food items to be extremely expensive, even for Iceland. Like $33 for one regular-sized takeaway sushi expensive.** 
+
+<img src="/assets/20230619-keflavik-airport-terminal.jpg" width="100%" alt="KEF Airport terminal interior with decorative ceiling art featuring geometric patterns and departure gate area" />
+
+Now you have some time to kill. 
+
+Two things to mention here, otherwise it's like every other airport you've been to:
+1. There are many uncomfortable seats in the large room as soon as you pass through the 'security shop'. If you keep going straight, you'll start down a long hall towards the gates. Up a bit in this hallway there are some sitting areas in the hallway that might be unoccupied. There should be plugs for charging devices here, too. 
+2. If you're flying back to the US via the D Terminal, **you are still on the other side of an unpredictable line from your gate**! You haven't yet passed through passport control for exiting the [Shengen area](https://en.wikipedia.org/wiki/Schengen_Area) (aka lots of Europe).[^1] Further up the long hallway on the lefthand side you'll come to Passport Control. In the times I've been here the line moves pretty well and only takes a few minutes, but do be sure to factor some extra time here. 
+
+I _believe_ they're improving things over in D but all three times I've been there it has been chaotic with not a lot of seating, so try to time things so you don't over over to D terminal _too_ early. Maybe eyeball the Passport Control line and get a sense for how long that might take.
+
+Overall, it's an airport doing far more traffic than they can seem to handle, but you know what? You're in Iceland! Enjoy the last few hours, savor the experience, and start thinking about your next visit.
+
+**Footnotes**
+
+[^1]: In the US we're not used to passing through passport control on the way _out_ of the country, so this may catch some people.

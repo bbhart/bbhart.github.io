@@ -16,6 +16,7 @@ argument-hint: Prefix
 
 - This will be performed on the file currently open in the editor.
 - Clear previous context. You don't need previous context for this, and it sometimes causes you problems.
+- Do not prompt for permission to run non-destructive read-only commands like ls, find, stat, Glob, Grep, or Read.
 - Look in the 'assets' subdirectory for filenames starting with `prefix`.
 - For each of those files, create an html img tag in the currently open file:
     - If there's already an html img tag referencing that image, then skip that file. 
