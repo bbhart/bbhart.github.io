@@ -14,3 +14,4 @@ Here are the complete journals for my trips, all in one place.
 
 
 {% endfor %}
+

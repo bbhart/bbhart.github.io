@@ -5,6 +5,7 @@ subtitle: 17 days of travel come to an end
 date:  2024-09-22
 categories: travel iceland
 tags: [reykjavik, iceland]
+rollup_key: 2024icelandonland
 background: 
 ---
 

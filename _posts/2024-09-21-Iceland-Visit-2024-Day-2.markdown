@@ -6,6 +6,7 @@ date:  2024-09-21
 categories: travel iceland
 tags: [reykjavik, iceland]
 background: '/assets/20240817-iceland-vista.jpg'
+rollup_key: 2024icelandonland
 ---
 
 Documenting **August 17, 2024**.

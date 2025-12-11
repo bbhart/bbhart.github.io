@@ -5,6 +5,7 @@ subtitle: Old Charm Reykjavik
 date:  2024-09-22
 categories: travel iceland
 tags: [reykjavik, iceland]
+rollup_key: 2024icelandonland
 background: '/assets/20240818-iceland-park.jpg'
 ---
 
