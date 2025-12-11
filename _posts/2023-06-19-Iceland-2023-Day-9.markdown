@@ -6,41 +6,95 @@ date: 2023-06-19
 categories: travel iceland
 rollup_key: 2023iceland
 tags: [june2023]
+published: true
+trip_day: 9
+start_location: Old Reykjavik Charm, Reykjavik
+end_location: Home, United States
+days_at_location: 0
 accommodation:
   - name: Old Reykjavik Charm
     location: Reykjavik, Iceland
+    type: apartment
     nights: 2
     checkin: false
     checkout: true
+    url: https://oldreykjavik.is/
 locations:
   - name: Reykjavik
     country: Iceland
+    type: city
+    visited: true
   - name: Keflavík International Airport (KEF)
     country: Iceland
+    type: airport
+    visited: true
+    coordinates: [63.985, -22.605]
 activities:
   - type: travel
     name: Departure from Iceland
     location: KEF
+    date: 2023-06-19
+    time: afternoon/evening
     flight_time: 4:45pm
     flight_duration: 6.5 hours
     arrival_time: 7:30pm EDT
+    carrier: Icelandair
+    notes: International departure back to United States
 transport:
   - type: private-car
     route: Old Reykjavik Charm to KEF
     pickup: 11:00am
     arrival: 11:45am
+    duration: 45 minutes
+    provider: Private car service
   - type: flight
     route: KEF to US
     departure: 4:45pm
     arrival: 7:30pm EDT
     duration: 6.5 hours
+    carrier: Icelandair
+    notes: Direct transatlantic flight
 points_of_interest:
   - name: KEF check-in area
+    type: airport-facility
     notes: Self-service machines for boarding passes and bag tags, minimal staff presence
+    tips: Arrive early if more than 3 hours before flight as check-in may be locked
+  - name: KEF luggage tag machines
+    type: airport-facility
+    notes: Poorly marked machines near elevator that print luggage tags
+  - name: KEF self-service baggage drop
+    type: airport-facility
+    notes: Automated bag check area
+  - name: KEF duty-free area
+    type: shopping
+    notes: Required passage through duty-free to reach main terminal
+    warning: Very expensive food options, check prices carefully
   - name: KEF D Terminal
+    type: airport-facility
     notes: US/Canada bound flights, located past Passport Control
+    access: Must pass through Schengen area exit control
   - name: KEF gateside
+    type: airport-facility
     notes: Multiple flights departing every 5 minutes, buses to tarmac
+    tips: Limited seating, don't arrive too early
+dining:
+  - location: KEF Airport
+    meal: snacks/waiting
+    notes: Expensive airport food, $33 for regular takeaway sushi
+    cost_level: very expensive
+weather:
+  conditions: departure day
+challenges:
+  - type: logistics
+    description: Arrived 5 hours early due to transportation constraints
+  - type: navigation
+    description: Confusing self-service airport systems with minimal staff
+  - type: airport-experience
+    description: Overcrowded D Terminal with limited seating
+highlights:
+  - Smooth private car pickup at 11am
+  - Successfully navigated self-service airport systems
+  - Completion of Iceland family trip
 ---
 
 - **Start of day:** Old Charm, Reykjavik

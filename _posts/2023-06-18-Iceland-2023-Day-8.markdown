@@ -6,44 +6,138 @@ date: 2023-06-18
 categories: travel iceland
 rollup_key: 2023iceland
 tags: [june2023]
-background:
+published: true
+trip_day: 8
+start_location: Old Reykjavik Charm, Reykjavik
+end_location: Old Reykjavik Charm, Reykjavik
+days_at_location: 2
 accommodation:
   - name: Old Reykjavik Charm
     location: Reykjavik, Iceland
+    type: apartment
     nights: 2
     checkin: false
     checkout: false
+    url: https://oldreykjavik.is/
 locations:
   - name: Reykjavik
     country: Iceland
+    type: city
+    visited: true
+  - name: Sun Voyager sculpture
+    country: Iceland
+    type: landmark
+    visited: true
+    url: https://guidetoiceland.is/travel-iceland/drive/sun-voyager
+  - name: Icelandic Punk Museum
+    country: Iceland
+    type: museum
+    visited: true
+  - name: Hús máls og menningar
+    country: Iceland
+    type: bookstore
+    visited: true
+    url: https://husmalsogmenningar.is/
+    notes: Bookstore with bar and live music
 activities:
+  - type: dining
+    name: Bakery breakfast
+    location: Near Sun Voyager sculpture
+    date: 2023-06-18
+    time: morning
+    food: Coffee and croissant
+    notes: Caught up on news in corner spot
   - type: shopping
     name: Souvenir shopping
     location: Reykjavik
+    date: 2023-06-18
     participants: Brian and Siena
     items: Pot holder and coaster
   - type: walking
     name: Walking around Reykjavik
+    location: Reykjavik
+    date: 2023-06-18
     participants: Brian and Siena
     duration: Approximately 2.5 miles
+    notes: Exploring in the rain
+  - type: cultural
+    name: Punk Museum visit
+    location: Icelandic Punk Museum
+    date: 2023-06-18
+    notes: Near Prime Minister's house
+  - type: cultural
+    name: Rainbow street viewing
+    location: Reykjavik rainbow road
+    date: 2023-06-18
+    notes: Iconic rainbow-painted street
+  - type: cultural
+    name: Bookstore visit
+    location: Hús máls og menningar
+    date: 2023-06-18
+    participants: Brian and Siena
+    notes: Iconic bookstore with bar and live music venue
+  - type: recreation
+    name: Ice cream outing
+    location: Reykjavik
+    date: 2023-06-18
+    participants: Rowan and Sherri
+    food: Oreo ice cream
 weather:
   conditions: Rainy
   intensity: Light in morning, heavier at times
+  temperature: Chilly
   notes: Columbia rain jacket got heavy use
+  impact: Mostly stayed indoors
 dining:
+  - name: Bakery near Sun Voyager
+    location: Reykjavik waterfront
+    meal: Breakfast
+    date: 2023-06-18
+    time: morning
+    food: Coffee and croissant
+    participants: Brian
+    cost_level: moderate
   - name: Ice cream shop
     location: Reykjavik
+    meal: snack
+    date: 2023-06-18
     food: Oreo ice cream
     participants: Rowan and Sherri
   - name: Subway
     location: Reykjavik
     meal: Dinner
+    date: 2023-06-18
+    time: evening
     participants: Brian, Sherri, and Siena
+    cuisine: American fast food
+    notes: Quick and predictable option
+    cost_level: budget
   - name: Home cooking
     location: Old Reykjavik Charm
     meal: Dinner (Brian's meal)
+    date: 2023-06-18
     food: Ham sandwiches
+    participants: All family
     notes: Made by Sherri, ate and talked in the kitchen
+    cost_level: budget
+challenges:
+  - type: weather
+    description: Rainy, wet, chilly weather all day
+    impact: Limited outdoor activities, mostly stayed indoors
+  - type: social
+    description: Brian's introversion prevented solo restaurant dining
+    notes: Walked 2.5 miles looking but couldn't bring himself to sit alone
+highlights:
+  - Cozy morning at bakery with coffee and croissant
+  - Souvenir shopping with daughter
+  - Family time indoors during rainy weather
+  - Visited iconic Reykjavik landmarks despite weather
+next_day_logistics:
+  - Checkout by 11am
+  - Private car arranged to airport
+  - Arrival at KEF around 11:45am for 4:45pm flight
+  - Global Entry interviews booked on arrival
+  - NYC trip planned for following day
 ---
 
 - **Start of day:** Old Reykjavik Charm, Reykjavik
