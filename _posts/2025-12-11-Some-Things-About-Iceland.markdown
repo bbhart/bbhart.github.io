@@ -58,6 +58,8 @@ These are in no particular order:
         - If you're doing Reykjavik at the _start_ of your trip, consider renting your car at the **domestic** airport located in Reykjavik once you're ready to venture out into the country.
         - If you're doing Reykjavik at the _end_ of your trip, it's the same advice for the domestic airport. Drop your car there and then make your way to your accomodations.
         - Getting from Hertz at the domestic airport back into the center of town, say the Hallgrimskirkja area, was about a 30 minute walk. If you're lucky, there might be at least one of those rental electric scooters there.
+1. **Currency**
+    - I don't think I used cash for anything. Anywhere. I'm not even sure what Icelandic Króna looks like. 
      
 
 # Media
