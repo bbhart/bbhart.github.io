@@ -3,6 +3,18 @@ description: Process images in the Downloads/proc directory for a blog post
 argument-hint: Filename prefix
 ---
 
+## Execution Rules
+
+**PRE-APPROVED COMMANDS** - Execute immediately without asking:
+- Read operations: ls, find, cat, head, tail, grep, exiftool
+- Image analysis: sips (when creating new files), file, identify
+- File system navigation: cd, pwd
+- Any operation that only reads/analyzes files without modifying them
+
+**REQUIRE CONFIRMATION** - Ask before executing:
+- File modifications: mv, rm, cp (when overwriting)
+- Any destructive operations
+
 ## Context
 
 Parse $ARGUMENTS to get the following values:
@@ -10,8 +22,6 @@ Parse $ARGUMENTS to get the following values:
 - [prefix]: Filename prefix the images will be exported to
 
 ## Task
-
-**Important:** Non-destructive operations are pre-approved - proceed without asking permission for: ls, find, exiftool, cd, sips (when creating new files), and reading images. Only confirm before destructive operations like renaming or deleting files.
 
 If you can't determine the `prefix` argument, exit with an error.
 
