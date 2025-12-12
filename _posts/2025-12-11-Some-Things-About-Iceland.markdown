@@ -123,7 +123,13 @@ These are in no particular order:
         - Getting from Hertz at the domestic airport back into the center of town, say the Hallgrimskirkja area, was about a 30 minute walk. If you're lucky, there might be at least one of those rental electric scooters there.
 1. **Currency**
     - I don't think I used cash for anything. Anywhere. I'm not even sure what Icelandic Króna looks like. 
-     
+    - I don't recall being asked to tip. That said, tipping seems to be creeping over into parts of Europe from America based on recent trips to Norway, Denmark, Switzerland, and Germany. 
+    - When settling a bill in a restaurant, they'll bring the credit card machine to the table. From there you can tap your card, tap your phone, tap your watch, or insert your card. 
+    - **When paying with a card, the machine may ask you which currency you want to use.** Always use the local currency. For example, in Iceland after tapping, it might ask if you want to pay in ISK or USD. Pick ISK. Your bank/credit card company will give you a better exchange rate (which happens behind the scenes) than whatever bank the restaurant uses for merchant services.[^2]
+1. **Other Stuff**
+    - When checking in to lodging you will almost certainly need to show your passport. In my experiences traveling to Iceland, Germany, Norway, Italy, Switzerland, France, Spain, Germany, Japan, India, UAE, and England, I am always asked to show my passport when checking in to a hotel. The front desk person will record some information and hand the passport back.
+    - You should not let them **keep** your passport, though. The exception might be in Eastern Europe, parts of Asia, and budget hotels where they want to use it as payment collateral. Still... be wary.
+
 
 # Media
 
@@ -150,3 +156,4 @@ These are in no particular order:
 **Footnotes**
 
 [^1]: I had a bad experience with Airalo in Bermuda and was unable to get in touch with their support to get it resolved, **but overall** I'd still recommend them. That said, I think there's a lot of parity between eSIM providers now and you can shop for deals. We found better deals using someone else in Switzerland and Germany.
+[^2]: Obviously I haven't tested everywhere but I'm confident enough to make it a guideline.
