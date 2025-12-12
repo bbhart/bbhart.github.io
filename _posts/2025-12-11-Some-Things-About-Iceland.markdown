@@ -109,7 +109,7 @@ These are in no particular order:
     - In South Iceland, if you're between Selfoss and Vik, look for a little white building on the lefthand side that says STREET FOOD. This is [Heimamenn](https://www.tripadvisor.com/Restaurant_Review-g608876-d12267372-Reviews-Heimamenn-Hvolsvollur_South_Region.html). The fish & chips were stellar, along with the soup. 
     - If you're over near Reykholt/Gullfoss/Geysir, in that area, check out [Efstidalur II](https://efstidalur.is/) family farm. You'll have a hard time finding a shorter farm-to-table line anywhere. They have an outdoor 'bounce pillow' here, too. 
 1. **Bounce pillows** _(or jump pillow or jump pad)_
-    - My tween and teen kids loved these. I know of one at Efstidalur II and another one at Hotel Husafell. 
+    - My tween and teen kids loved these. I know of one at Efstidalur II, another one at Hotel Husafell, and one at [Lava Centre](https://lavacentre.is/) kind of half-way between Reykjavik and Vik. 
     - [Here's a map](https://aerslabelgir.is/kort-af-aerslabelgjum/) if you can speak Icelandic.
 1. **Summer in Iceland**
     - Our first trip was in June, when it never gets truly dark. (This is a bug and a feature) In August, there was an actual night, but days are still very long.
