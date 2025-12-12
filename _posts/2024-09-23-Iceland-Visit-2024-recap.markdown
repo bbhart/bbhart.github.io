@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Iceland post-cruise visit 2024
-subtitle: Our four days on land in Iceland after disemarking our cruise in Reykjavik
+subtitle: Our four days on land in Iceland after disembarking our cruise in Reykjavik
 date:  2024-09-23
 categories: travel rollup
 background: 

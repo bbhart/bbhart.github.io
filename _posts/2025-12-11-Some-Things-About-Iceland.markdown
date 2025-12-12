@@ -6,7 +6,70 @@ date: 2025-12-11
 categories: iceland travel
 tags: [iceland, travel, tips]
 background: '/assets/20251211-iceland-red-playhouse_bg.jpg'
-
+venues:
+  - name: Keflavík International Airport
+    type: airport
+    location: Keflavík, Iceland
+    notes: Main international airport for Iceland
+  - name: Reykjavík Domestic Airport
+    type: airport
+    location: Reykjavík, Iceland
+    notes: Convenient for car rental pickup/dropoff in the city
+  - name: Bónus
+    type: grocery_store
+    location: Various locations, Iceland
+    notes: Best value grocery chain
+  - name: Nettó
+    type: grocery_store
+    location: Various locations, Iceland
+    notes: Good alternative grocery option with self-checkout
+  - name: Heimamenn (Street Food)
+    type: restaurant
+    location: Between Selfoss and Vík, South Iceland
+    url: https://www.tripadvisor.com/Restaurant_Review-g608876-d12267372-Reviews-Heimamenn-Hvolsvollur_South_Region.html
+    notes: Excellent fish & chips and soup
+  - name: Efstidalur II
+    type: farm_restaurant
+    location: Near Reykholt/Gullfoss/Geysir area
+    url: https://efstidalur.is/
+    notes: Family farm with short farm-to-table experience, has bounce pillow
+  - name: Gullfoss
+    type: waterfall
+    location: Golden Circle, Iceland
+    url: https://gullfoss.is/
+    notes: Popular waterfall, visit evening hours to avoid crowds
+  - name: Geysir
+    type: geothermal_area
+    location: Golden Circle, Iceland
+    url: https://en.wikipedia.org/wiki/Geysir
+    notes: Famous geyser, visit evening hours to avoid crowds
+  - name: Hotel Húsafell
+    type: hotel
+    location: Húsafell, Iceland
+    notes: Has bounce pillow for kids
+transport:
+  - type: car_rental
+    provider: Hertz Iceland
+    notes: Franchise seems more reasonable than US operations, EV charging available around Golden Circle
+  - type: bus
+    from: Keflavík Airport
+    to: Reykjavík
+    duration: 45 minutes
+  - type: scooter_rental
+    location: Reykjavík
+    notes: Electric scooters available via app for getting around city
+activities:
+  - type: advice
+    description: Tips and recommendations for visiting Iceland
+    topics:
+      - car_rental_tips
+      - driving_conditions
+      - wind_awareness
+      - cell_data_esim
+      - grocery_shopping
+      - dining_recommendations
+      - visiting_natural_attractions
+      - getting_around_reykjavik
 ---
 
 I just finished up the [trip recap for our first family trip to Iceland](https://bbhart.com/travel/rollup/2023/Iceland-trip-2023-recap.html)... in 2023. Yes, I'm a little behind. 

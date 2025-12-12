@@ -55,16 +55,16 @@ days_at_location:
 
 Puerto Plata is a city and major cruise port located on the north side of the Dominican Republic. This was our last stop of the cruise before heading home.
 
-Something happened this morning causing data service on all of our family phones to be suspended. The tet from AT&T indicated that it would still be suspended when we arrived back in the US, too, so restoring this service became a priority for today. I called the phone number AT&T included in their message and their call center wouldn't open until 10am our time. 
+Something happened this morning causing data service on all of our family phones to be suspended. The text from AT&T indicated that it would still be suspended when we arrived back in the US, too, so restoring this service became a priority for today. I called the phone number AT&T included in their message and their call center wouldn't open until 10am our time. 
 
-Before the cruise we'd booked a zipline excursion for all four of us. Once son sprained his angle, we took a wait-and-see attitude, since we had lots of time for healing before we made it to this port. Ultimately we canceled him and my wife, and daughter and I still went.
+Before the cruise we'd booked a zipline excursion for all four of us. Once son sprained his ankle, we took a wait-and-see attitude, since we had lots of time for healing before we made it to this port. Ultimately we canceled him and my wife, and daughter and I still went.
 
 It was a good call. He's able to handle straightaways and stairs now, but getting to some of the ziplines involved some angled stairs, uneven ground, and climbing some tall towers. On the other hand, my wife probably wouldn't have cared for the heights. 
 
 Video (click):
 [![Walking through the DR](/assets/20241231-zipline1.jpg)](https://www.youtube.com/shorts/FkWL-cc5okk)
 
-At zipline six, for the less-heavy people momentum doesn't carry them all the way to the end, so a staff member on a horse horse rides over and pulls your ankle the last 20 meters or so. I didn't have this problem, (un)fortunately.
+At zipline six, for the less-heavy people momentum doesn't carry them all the way to the end, so a staff member on a horse rides over and pulls your ankle the last 20 meters or so. I didn't have this problem, (un)fortunately.
 
 Video (click):
 [![Horse recovery](/assets/20241231-zipline2.jpg)](https://www.youtube.com/shorts/yQ9Ita0TC7c)

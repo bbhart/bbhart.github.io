@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Iceland Cruise Day 10
-subtitle: Drizzly day in Qarqortoq, Greenland
+subtitle: Drizzly day in Qaqortoq, Greenland
 date:  2024-08-11
 categories: travel cruise iceland
 tags: [greenland, qaqortoq, celebrity, celebrityeclipse]
@@ -33,7 +33,7 @@ We did cake and singing at main dining tonight, since we were out at a specialty
 
 <img src="/assets/20240811-birthday.jpg" width="100%" alt="Teen boy's birthday celebration at cruise ship dining table with birthday cake, cruise staff singing, family members celebrating the special occasion">
 
-The Captain informed us that weather conditions would not allow for us to sail [Prince Christian Sound](https://en.wikipedia.org/wiki/Prince_Christian_Sound), a sound located in southern Iceland on our way to Iceland. Further, we are expecting storm conditions tonight: winds to 50 knots, seas to 15 feet. This has been the source of a lot of ... consternation ... for some people in our cabin. I've tried to reinforce that this is a _comfort_ concern not a _safety_ one.
+The Captain informed us that weather conditions would not allow for us to sail [Prince Christian Sound](https://en.wikipedia.org/wiki/Prince_Christian_Sound), a sound located in southern Greenland on our way to Iceland. Further, we are expecting storm conditions tonight: winds to 50 knots, seas to 15 feet. This has been the source of a lot of ... consternation ... for some people in our cabin. I've tried to reinforce that this is a _comfort_ concern not a _safety_ one.
 
 Anyway, tomorrow will turn into a sea day, with another sea day following. We are then arriving earlier than expected into Akureyri to allow for more time to enjoy that town.
 

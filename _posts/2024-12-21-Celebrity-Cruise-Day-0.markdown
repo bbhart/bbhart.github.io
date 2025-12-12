@@ -49,7 +49,7 @@ Today we flew to Fort Lauderdale.
 
 Leaving the house: mostly smooth, only ~10 minutes late. Driving to the airport: easy. Dropping the family and luggage off at the terminal: seamless. Economy bus: waiting for me as I walked up. Checking bags: 5 minutes. Security (TSA Pre): 2 minutes. Even Starbucks was fast[^1]. Having Raleigh-Durham (RDU) as our home airport has been a blessing for us: large enough that it has some direct flights to interesting places (like Iceland) but still small enough where it's not overwhelming. That's not to say it hasn't been chaotic at times, but at least it's organized chaos.
 
-<img src="/assets/2024-12-21-biscoff.jpg" width="50%" alt="A package of Lotus Biscoff cookies with Delta branding is placed on a blue fabric cover, which appears to be a Kindle case, atop an airplan tray table. The airplane seatback and a seat pocket containing materials are visible in the background.">
+<img src="/assets/2024-12-21-biscoff.jpg" width="50%" alt="A package of Lotus Biscoff cookies with Delta branding is placed on a blue fabric cover, which appears to be a Kindle case, atop an airplane tray table. The airplane seatback and a seat pocket containing materials are visible in the background.">
 
 The wheels fell off the cart once we landed in Fort Lauderdale, though. We landed 10 minutes early, and then it took Delta 55 minutes to get us into a gate[^2]. Then Uber was saying 25+ minutes for an UberXL so we got a cab[^3]. Then when we got to our hotel, 30 minutes after check-in, not only was our room not ready but their machine to cut keys (a big part of a hotel's operation!) was not working. They did provide a $50 voucher to the restaurant, so we went there to kill time and have a snack.  
 

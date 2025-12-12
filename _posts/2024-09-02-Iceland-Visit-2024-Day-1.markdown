@@ -4,7 +4,6 @@ title: Iceland Visit 2024 Day 1
 subtitle: South coast of Iceland
 date:  2024-09-03
 categories: travel iceland
-categories: travel iceland
 tags: [reykjavik, iceland]
 background: '/assets/20240816-selja2.jpg'
 rollup_key: 2024icelandonland

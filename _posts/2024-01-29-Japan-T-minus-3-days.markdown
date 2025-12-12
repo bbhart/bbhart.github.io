@@ -28,5 +28,5 @@ categories: travel japan
 - Sushi, water, rice, green tea. 
 - Thank you and Thank you very much.
 - Good weather! and Bad weather!
-- So desu ne (multiple meanings but one is approximately Yeah that’s right
+- So desu ne (multiple meanings but one is approximately Yeah that's right)
 - See you later 

@@ -13,7 +13,7 @@ redirect_from:
 
 I'm lazy and combining August 12 and 13 (cruise days 11 and 12).
 
-We did encounter the forecast rough seas after midnight after leaving Qartotoq. The captain said later there were 60mph winds and 5 meter seas. The rocking was rough but not overly so.
+We did encounter the forecast rough seas after midnight after leaving Qaqortoq. The captain said later there were 60mph winds and 5 meter seas. The rocking was rough but not overly so.
 
 The seas continued to make their presence known the next two days. 
 

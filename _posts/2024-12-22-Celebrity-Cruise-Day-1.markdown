@@ -43,7 +43,7 @@ days_at_location:
   Celebrity Eclipse: 1
 ---
 
-The Embassy Suites free breakfast is a madhouse, a traditional that has carried on for at least 23 years when I stayed in the one in Indianapolis for a month. 
+The Embassy Suites free breakfast is a madhouse, a tradition that has carried on for at least 23 years when I stayed in the one in Indianapolis for a month. 
 
 When I picked up our vouchers for our bus transfer to the cruise terminal, the worker said to budget at least 15 or 20 minutes to make it downstairs. She wasn't kidding. After leaving our room with our bags, we first tried waiting 20 minutes for an elevator down to the lobby, then eventually formed a strategy of "go up to go down", merely to get space with our bags in an elevator. The lobby was jam-packed with people waiting for cruise transfers. 
 

@@ -35,7 +35,7 @@ It's a sunny 51 here. Sherri has recovered enough to be able to go for a longer 
 
 <img src="/assets/20240818-iceland-house.jpg" width="100%" alt="Traditional Icelandic house with white walls and distinctive red roof in Reykjavik neighborhood, surrounded by trees and modern stone retaining wall on sunny day">
 
-Later we walked over to Bónus grocery store and picked out some dinner items. We came back and I made baked pork chops, skilled potatoes, and peas + carrots.
+Later we walked over to Bónus grocery store and picked out some dinner items. We came back and I made baked pork chops, skillet potatoes, and peas + carrots.
 
 I tried to capture the sunset but was out of position:
 

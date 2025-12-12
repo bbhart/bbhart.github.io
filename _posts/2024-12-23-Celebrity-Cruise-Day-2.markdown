@@ -9,23 +9,23 @@ tags: [celebrity, cruise, dec2024]
 background: /assets/20241223-sunset1.jpg
 transport:
   - type: cruise_ship
-    vessel: Celebrity Equinox
+    vessel: Celebrity Eclipse
     route: Fort Lauderdale to Grand Cayman
     operator: Celebrity Cruises
 activities:
   - day: 2
     type: relaxation
-    description: Sea day aboard Celebrity Equinox
+    description: Sea day aboard Celebrity Eclipse
     location: At sea, Caribbean
   - day: 2
     type: photography
     description: Morning photography and writing on deck
-    location: Celebrity Equinox
+    location: Celebrity Eclipse
     time: 7:00-8:00am
   - day: 2
     type: relaxation
     description: Sunset viewing on balcony
-    location: Celebrity Equinox
+    location: Celebrity Eclipse
 days_at_location:
   At sea: 1
 ---
@@ -50,7 +50,7 @@ Sea days are sea days. Too much laying around and eating, not enough planned act
 
 <img src="/assets/20241223-rowan-porch.jpg" width="50%" alt="Teenager relaxing on cruise ship balcony chair with legs elevated, using a mobile device, with ocean views and ship railing in the background"/>
 
-And I'm including this phone as the cloud kind of looks like a [partially constructed Death Star](https://starwars.fandom.com/wiki/Death_Star_II) on the horizon:
+And I'm including this photo as the cloud kind of looks like a [partially constructed Death Star](https://starwars.fandom.com/wiki/Death_Star_II) on the horizon:
 
 <img src="/assets/20241223-deathstar.jpg" width="100%" alt="Evening sky over the Caribbean Sea with a distinctive circular cloud formation resembling the Death Star from Star Wars, darker clouds along the horizon with twilight blue gradient above"/>
 

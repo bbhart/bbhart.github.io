@@ -23,7 +23,7 @@ The rain (mostly) stopped by midmorning, so Sher and I left the kids onboard to 
 
 I'm at the tail end of being sick and starting to get my bounce back, just in time to end the cruise. Unfortunately, Sherri feels like she's starting to come down with it. We still have 5 more days before our long flight, so I'm very much hoping everyone is in decent shape by then. 
 
-Islafjordur reminds me of photos I've seen of the Scottish Highlights. 
+Isafjordur reminds me of photos I've seen of the Scottish Highlands. 
 
 My view as I work on my journal:
 <img src="/assets/20240815-laptop.jpg" width="100%">
