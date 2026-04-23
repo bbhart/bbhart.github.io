@@ -1,7 +1,712 @@
 {
-  "generated_at": "2025-11-07T17:13:46Z",
-  "total_posts": 79,
+  "generated_at": "2026-04-23T14:00:36Z",
+  "total_posts": 90,
   "trips": [
+    {
+      "rollup_key": "2023iceland",
+      "posts": [
+        {
+          "title": "Iceland 2023 Day 1",
+          "date": "2023-06-11",
+          "subtitle": "Arrival and settling in",
+          "categories": "travel iceland",
+          "tags": [
+            "june2023"
+          ],
+          "rollup_key": "2023iceland",
+          "trip_day": 1,
+          "location_start": "Raleigh-Durham, North Carolina, USA",
+          "location_end": "Near Laugarvatn, Iceland",
+          "locations_visited": [
+            "Keflavík International Airport (KEF)",
+            "Selfoss, Iceland",
+            "Efstidalur II Farm & Restaurant",
+            "Laugarvatn area"
+          ],
+          "transport": [
+            {
+              "type": "air",
+              "route": "RDU to KEF",
+              "carrier": "Icelandair",
+              "notes": "Direct overnight flight"
+            },
+            {
+              "type": "car_rental",
+              "vehicle": "Tesla Model Y",
+              "provider": "Hertz Iceland",
+              "notes": "EV rental with trunk latch issues noted"
+            }
+          ],
+          "accommodation": {
+            "name": "Private Cottage",
+            "location": "Near Laugarvatn",
+            "amenities": [
+              "geothermal hot tub",
+              "sauna",
+              "greenhouse",
+              "full kitchen",
+              "mountain views"
+            ],
+            "notes": "Geothermal fresh water heated"
+          },
+          "activities": [
+            "International air travel",
+            "EV charging introduction (DC Fast Charger in Selfoss)",
+            "Bakery visit in Selfoss",
+            "Grocery shopping at Bónus supermarket",
+            "Farm visit at Efstidalur II",
+            "Geothermal hot tub",
+            "Home cooking"
+          ],
+          "dining": [
+            {
+              "location": "Selfoss bakery",
+              "type": "pastries and coffee"
+            },
+            {
+              "location": "Cottage",
+              "type": "home-cooked",
+              "meal": "pork chops and chicken from Bónus"
+            }
+          ],
+          "notable_experiences": [
+            "First experience with Iceland EV charging infrastructure",
+            "No jetway arrival at KEF",
+            "Neverending summer sunlight",
+            "Forgot CPAP hose"
+          ],
+          "weather": "Not specified"
+        },
+        {
+          "title": "Iceland 2023 Day 2",
+          "date": "2023-06-12",
+          "subtitle": "Recovery and exploration around the Golden Circle",
+          "categories": "travel iceland",
+          "tags": [
+            "june2023"
+          ],
+          "rollup_key": "2023iceland",
+          "transport": [
+            {
+              "type": "car",
+              "make": "Tesla",
+              "rental": true,
+              "notes": "Charging at Geysir (up to 98%), trunk seatbelt issue resolved"
+            }
+          ],
+          "accommodation": [
+            {
+              "name": "Birna's Cottage",
+              "type": "Airbnb",
+              "location": "Near Laugarvatn, Iceland",
+              "nights": 3,
+              "checkin": false,
+              "checkout": false,
+              "features": "Greenhouse, modern farmhouse style, vaulted ceilings"
+            }
+          ],
+          "activities": [
+            {
+              "type": "sightseeing",
+              "name": "Geysir visit",
+              "location": "Geysir",
+              "time_of_day": "midday",
+              "notes": "Busy tourist area, visitors center, main geyser viewing"
+            },
+            {
+              "type": "hiking",
+              "name": "Brúarfoss hike",
+              "location": "Brúarfoss",
+              "notes": "Access road only 600 meters from cottage, great photos"
+            },
+            {
+              "type": "shopping",
+              "name": "Small market",
+              "location": "Laugarvatn",
+              "items": "Butter, spaghetti, jam, snacks"
+            },
+            {
+              "type": "relaxation",
+              "name": "Greenhouse rest",
+              "location": "Birna's Cottage",
+              "notes": "Research CPAP supplies, short nap"
+            }
+          ],
+          "dining": [
+            {
+              "name": "Efstidalur II",
+              "location": "Near cottage",
+              "meal": "Early dinner",
+              "food": "Meatballs + fries, cheeseburger",
+              "rating": "Mixed - kids didn't like sauce, fries had cayenne",
+              "url": "https://efstidalur.is/"
+            }
+          ],
+          "weather": [
+            {
+              "time": "Early afternoon",
+              "conditions": "Sunny and partly cloudy",
+              "temperature": "High 50's F",
+              "wind": "Less than previous day",
+              "notes": "Very good Iceland weather"
+            }
+          ]
+        },
+        {
+          "title": "Iceland 2023 Day 3",
+          "date": "2023-06-13",
+          "subtitle": "Perfect weather and after-hours touring",
+          "categories": "travel iceland",
+          "tags": [
+            "june2023"
+          ],
+          "rollup_key": "2023iceland",
+          "transport": [
+            {
+              "type": "car",
+              "notes": "Easy drive to Gullfoss and Geysir"
+            }
+          ],
+          "accommodation": [
+            {
+              "name": "Birna's Cottage",
+              "location": "Near Laugarvatn, Iceland",
+              "nights": 3,
+              "checkin": false,
+              "checkout": false
+            }
+          ],
+          "activities": [
+            {
+              "type": "relaxation",
+              "name": "Hot tub and reading",
+              "location": "Birna's Cottage",
+              "notes": "Mid-60s weather, barely a cloud"
+            },
+            {
+              "type": "recreation",
+              "name": "Bounce place and ice cream",
+              "location": "Near cottage"
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gullfoss visit",
+              "location": "Gullfoss",
+              "time": "Around 6:30pm",
+              "notes": "No photo or video can capture the spectacle"
+            },
+            {
+              "type": "hiking",
+              "name": "Geysir lookout hike",
+              "location": "Geysir",
+              "time": "Around 8pm",
+              "notes": "Spectacular views from the hilltop"
+            }
+          ],
+          "weather": {
+            "conditions": "Insanely beautiful",
+            "temperature": "Mid-60s F",
+            "sky": "Barely a cloud",
+            "wind": "Light breeze"
+          }
+        },
+        {
+          "title": "Iceland 2023 Day 4",
+          "date": "2023-06-14",
+          "subtitle": "Thingvellir and the journey to Húsafell",
+          "categories": "travel iceland",
+          "tags": [
+            "june2023"
+          ],
+          "rollup_key": "2023iceland",
+          "transport": [
+            {
+              "type": "car",
+              "route": "Birna's Cottage to Húsafell via Thingvellir",
+              "notes": "Red light stop for road work, indirect route with planned stops"
+            },
+            {
+              "type": "car",
+              "charging": "Baulan (49% to 90%)",
+              "duration": "Fast charge during dinner"
+            }
+          ],
+          "accommodation": [
+            {
+              "name": "Birna's Cottage",
+              "location": "Near Laugarvatn, Iceland",
+              "nights": 3,
+              "checkin": false,
+              "checkout": true
+            },
+            {
+              "name": "Húsafell Cottage (Airbnb)",
+              "location": "Húsafell, Iceland",
+              "nights": 3,
+              "checkin": true,
+              "checkout": false,
+              "notes": "Part of Hotel Húsafell property, challenging communication with host"
+            }
+          ],
+          "activities": [
+            {
+              "type": "sightseeing",
+              "name": "Thingvellir National Park visit",
+              "location": "Thingvellir National Park"
+            },
+            {
+              "type": "shopping",
+              "name": "Computer store and grocery",
+              "location": "Borgarnes",
+              "notes": "Needed Apple Watch charger"
+            }
+          ],
+          "dining": [
+            {
+              "name": "Baulan",
+              "location": "On route to Húsafell",
+              "type": "Mini-mart/gas station/restaurant",
+              "meal": "Dinner outside"
+            }
+          ]
+        },
+        {
+          "title": "Iceland 2023 Day 5",
+          "date": "2023-06-15",
+          "subtitle": "Lava tubes and waterfall hunting",
+          "categories": "travel iceland",
+          "tags": [
+            "june2023"
+          ],
+          "rollup_key": "2023iceland",
+          "transport": [
+            {
+              "type": "car",
+              "from": "Húsafell Cottage",
+              "to": "Víðgelmir lava tube",
+              "duration": "~20 minutes"
+            },
+            {
+              "type": "car",
+              "from": "Víðgelmir",
+              "to": "Húsafell Hotel Bistro",
+              "duration": "~20 minutes"
+            },
+            {
+              "type": "car",
+              "from": "Húsafell Cottage",
+              "to": "Hraunfossar Waterfall",
+              "duration": "~5 minutes"
+            }
+          ],
+          "accommodation": [
+            {
+              "name": "Húsafell Cottage (Airbnb)",
+              "location": "Húsafell, Iceland",
+              "nights": 3,
+              "checkin": false,
+              "checkout": false
+            }
+          ],
+          "activities": [
+            {
+              "day": 5,
+              "type": "tour",
+              "name": "Víðgelmir lava tube cave tour",
+              "location": "Víðgelmir",
+              "time": "Departed around 12:10pm",
+              "duration": "~90 minutes",
+              "participants": "Family group",
+              "notes": "Rowan especially enjoyed it. Helmets with headlamps provided. Metal stairs descend into massive cave system"
+            },
+            {
+              "day": 5,
+              "type": "hiking",
+              "name": "Attempted trail finding",
+              "location": "Húsafell",
+              "notes": "Could not locate marked trails despite maps and asking staff"
+            },
+            {
+              "day": 5,
+              "type": "sightseeing",
+              "name": "Hraunfossar Waterfall visit",
+              "location": "Hraunfossar, Near Húsafell",
+              "duration": "30 minutes",
+              "notes": "Series of waterfalls flowing from lava field"
+            },
+            {
+              "day": 5,
+              "type": "recreation",
+              "name": "Jump pillow",
+              "location": "Húsafell campground",
+              "time": "10:30pm",
+              "participants": "Kids",
+              "notes": "Doesn't get dark at this time of year"
+            }
+          ],
+          "dining": [
+            {
+              "name": "Húsafell Hotel Bistro",
+              "location": "Húsafell",
+              "meal": "Lunch",
+              "time": "~1:00pm",
+              "food": "Split meat lovers pizza, tempura shrimp",
+              "cost_category": "moderate",
+              "notes": "3 of us split pizza, Siena had shrimp"
+            },
+            {
+              "name": "Cottage",
+              "location": "Húsafell Cottage",
+              "meal": "Dinner",
+              "food": "Pork chops on the grill, potatoes, vegetables",
+              "cost_category": "budget",
+              "notes": "Left grill much cleaner than found it. Home cooking at fraction of restaurant prices"
+            }
+          ]
+        },
+        {
+          "title": "Iceland 2023 Day 6",
+          "date": "2023-06-16",
+          "subtitle": "Horses and hot springs",
+          "categories": "travel iceland",
+          "tags": [
+            "june2023"
+          ],
+          "rollup_key": "2023iceland",
+          "transport": [
+            {
+              "type": "car",
+              "purpose": "day trip",
+              "route": "Húsafell → Sturlureykir → Deildartunguhver → Reykholt → Húsafell"
+            }
+          ],
+          "accommodation": [
+            {
+              "name": "Húsafell Cottage (Airbnb)",
+              "location": "Húsafell, Iceland",
+              "type": "cottage",
+              "nights": 3,
+              "checkin": false,
+              "checkout": false,
+              "region": "West Iceland",
+              "features": [
+                "full-kitchen",
+                "living-room",
+                "multiple-bedrooms",
+                "deck",
+                "vaulted-ceiling"
+              ]
+            }
+          ],
+          "activities": [
+            {
+              "type": "horseback-riding",
+              "name": "Icelandic horse riding",
+              "location": "Sturlureykir Visiting Horse Farm",
+              "participants": [
+                "Brian",
+                "Siena"
+              ],
+              "date": "2023-06-16",
+              "time": "morning",
+              "duration": "~2 hours",
+              "horses": "white Icelandic horses",
+              "terrain": "trails with waterfall views",
+              "notes": "Siena was all grins from start to finish",
+              "highlights": [
+                "stable-tour",
+                "arena-practice",
+                "outdoor-trail-ride",
+                "waterfall-scenery"
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Deildartunguhver hot springs",
+              "location": "Deildartunguhver",
+              "date": "2023-06-16",
+              "time": "afternoon",
+              "notes": "Very steamy",
+              "natural_feature": "geothermal hot spring"
+            },
+            {
+              "type": "cultural",
+              "name": "Old stone house and cemetery exploration",
+              "location": "Reykholt",
+              "date": "2023-06-16",
+              "time": "afternoon",
+              "features": [
+                "church-tower",
+                "historic-buildings",
+                "cemetery",
+                "informational-signs"
+              ]
+            }
+          ],
+          "dining": [
+            {
+              "name": "Hot dog stand",
+              "location": "Deildartunguhver",
+              "meal": "lunch",
+              "cuisine": "Icelandic",
+              "date": "2023-06-16",
+              "time": "afternoon",
+              "food": "Icelandic hot dog",
+              "cost_level": "budget",
+              "notes": "Much better than expected, crunchy onions really make it",
+              "rating": "excellent"
+            },
+            {
+              "name": "Húsafell Hotel Bistro",
+              "location": "Húsafell",
+              "meal": "dinner",
+              "date": "2023-06-16",
+              "time": "evening",
+              "food": "Buffet and meat lovers pizza",
+              "participants": [
+                "Brian",
+                "Siena",
+                "and family"
+              ],
+              "notes": "Live and learn",
+              "buffet_rating": "poor",
+              "pizza_rating": "good"
+            }
+          ],
+          "weather": {
+            "conditions": "overcast",
+            "notes": "Typical Icelandic weather"
+          }
+        },
+        {
+          "title": "Iceland 2023 Day 7",
+          "date": "2023-06-17",
+          "subtitle": "Moving day to Reykjavik",
+          "categories": "travel iceland",
+          "tags": [
+            "june2023"
+          ],
+          "rollup_key": "2023iceland",
+          "transport": [
+            {
+              "type": "car_rental",
+              "provider": "Hertz",
+              "vehicle": "Tesla",
+              "dropoff_location": "Reykjavik Domestic Airport",
+              "dropoff_time": "3pm"
+            },
+            {
+              "type": "scooter_rental",
+              "provider": "Zolo",
+              "distance": "1.2mi"
+            }
+          ],
+          "activities": [
+            "Car return and walk through Reykjavik",
+            "Church visit (Hallgrímskirkja interior tour)",
+            "Playground visit",
+            "Fish and chips lunch",
+            "Waterfront walk to Sun Voyager sculpture",
+            "Scooter rental and ride",
+            "Italian dinner"
+          ]
+        },
+        {
+          "title": "Iceland 2023 Day 8",
+          "date": "2023-06-18",
+          "subtitle": "Rainy day in Reykjavik",
+          "categories": "travel iceland",
+          "tags": [
+            "june2023"
+          ],
+          "rollup_key": "2023iceland",
+          "trip_day": 8,
+          "accommodation": [
+            {
+              "name": "Old Reykjavik Charm",
+              "location": "Reykjavik, Iceland",
+              "type": "apartment",
+              "nights": 2,
+              "checkin": false,
+              "checkout": false,
+              "url": "https://oldreykjavik.is/"
+            }
+          ],
+          "activities": [
+            {
+              "type": "dining",
+              "name": "Bakery breakfast",
+              "location": "Near Sun Voyager sculpture",
+              "date": "2023-06-18",
+              "time": "morning",
+              "food": "Coffee and croissant",
+              "notes": "Caught up on news in corner spot"
+            },
+            {
+              "type": "shopping",
+              "name": "Souvenir shopping",
+              "location": "Reykjavik",
+              "date": "2023-06-18",
+              "participants": "Brian and Siena",
+              "items": "Pot holder and coaster"
+            },
+            {
+              "type": "walking",
+              "name": "Walking around Reykjavik",
+              "location": "Reykjavik",
+              "date": "2023-06-18",
+              "participants": "Brian and Siena",
+              "duration": "Approximately 2.5 miles",
+              "notes": "Exploring in the rain"
+            },
+            {
+              "type": "cultural",
+              "name": "Punk Museum visit",
+              "location": "Icelandic Punk Museum",
+              "date": "2023-06-18",
+              "notes": "Near Prime Minister's house"
+            },
+            {
+              "type": "cultural",
+              "name": "Rainbow street viewing",
+              "location": "Reykjavik rainbow road",
+              "date": "2023-06-18",
+              "notes": "Iconic rainbow-painted street"
+            },
+            {
+              "type": "cultural",
+              "name": "Bookstore visit",
+              "location": "Hús máls og menningar",
+              "date": "2023-06-18",
+              "participants": "Brian and Siena",
+              "notes": "Iconic bookstore with bar and live music venue"
+            },
+            {
+              "type": "recreation",
+              "name": "Ice cream outing",
+              "location": "Reykjavik",
+              "date": "2023-06-18",
+              "participants": "Rowan and Sherri",
+              "food": "Oreo ice cream"
+            }
+          ],
+          "dining": [
+            {
+              "name": "Bakery near Sun Voyager",
+              "location": "Reykjavik waterfront",
+              "meal": "Breakfast",
+              "date": "2023-06-18",
+              "time": "morning",
+              "food": "Coffee and croissant",
+              "participants": "Brian",
+              "cost_level": "moderate"
+            },
+            {
+              "name": "Ice cream shop",
+              "location": "Reykjavik",
+              "meal": "snack",
+              "date": "2023-06-18",
+              "food": "Oreo ice cream",
+              "participants": "Rowan and Sherri"
+            },
+            {
+              "name": "Subway",
+              "location": "Reykjavik",
+              "meal": "Dinner",
+              "date": "2023-06-18",
+              "time": "evening",
+              "participants": "Brian, Sherri, and Siena",
+              "cuisine": "American fast food",
+              "notes": "Quick and predictable option",
+              "cost_level": "budget"
+            },
+            {
+              "name": "Home cooking",
+              "location": "Old Reykjavik Charm",
+              "meal": "Dinner (Brian's meal)",
+              "date": "2023-06-18",
+              "food": "Ham sandwiches",
+              "participants": "All family",
+              "notes": "Made by Sherri, ate and talked in the kitchen",
+              "cost_level": "budget"
+            }
+          ],
+          "weather": {
+            "conditions": "Rainy",
+            "intensity": "Light in morning, heavier at times",
+            "temperature": "Chilly",
+            "notes": "Columbia rain jacket got heavy use",
+            "impact": "Mostly stayed indoors"
+          }
+        },
+        {
+          "title": "Iceland 2023 Day 9",
+          "date": "2023-06-19",
+          "subtitle": "Departure day and KEF airport chaos",
+          "categories": "travel iceland",
+          "tags": [
+            "june2023"
+          ],
+          "rollup_key": "2023iceland",
+          "trip_day": 9,
+          "transport": [
+            {
+              "type": "private-car",
+              "route": "Old Reykjavik Charm to KEF",
+              "pickup": "11:00am",
+              "arrival": "11:45am",
+              "duration": "45 minutes",
+              "provider": "Private car service"
+            },
+            {
+              "type": "flight",
+              "route": "KEF to US",
+              "departure": "4:45pm",
+              "arrival": "7:30pm EDT",
+              "duration": "6.5 hours",
+              "carrier": "Icelandair",
+              "notes": "Direct transatlantic flight"
+            }
+          ],
+          "accommodation": [
+            {
+              "name": "Old Reykjavik Charm",
+              "location": "Reykjavik, Iceland",
+              "type": "apartment",
+              "nights": 2,
+              "checkin": false,
+              "checkout": true,
+              "url": "https://oldreykjavik.is/"
+            }
+          ],
+          "activities": [
+            {
+              "type": "travel",
+              "name": "Departure from Iceland",
+              "location": "KEF",
+              "date": "2023-06-19",
+              "time": "afternoon/evening",
+              "flight_time": "4:45pm",
+              "flight_duration": "6.5 hours",
+              "arrival_time": "7:30pm EDT",
+              "carrier": "Icelandair",
+              "notes": "International departure back to United States"
+            }
+          ],
+          "dining": [
+            {
+              "location": "KEF Airport",
+              "meal": "snacks/waiting",
+              "notes": "Expensive airport food, $33 for regular takeaway sushi",
+              "cost_level": "very expensive"
+            }
+          ],
+          "weather": {
+            "conditions": "departure day"
+          }
+        }
+      ]
+    },
     {
       "rollup_key": "2024japan",
       "posts": [
@@ -599,7 +1304,7 @@
         {
           "title": "Iceland Cruise Day 4",
           "date": "2024-08-05",
-          "subtitle": "Between NYC and Halifax, the first many sea days we'd have on this voyage",
+          "subtitle": "Between NYC and Halifax, the first of many sea days we'd have on this voyage",
           "categories": "travel cruise iceland",
           "tags": [
             "celebrity",
@@ -906,7 +1611,7 @@
         {
           "title": "Iceland Cruise Day 10",
           "date": "2024-08-11",
-          "subtitle": "Drizzly day in Qarqortoq, Greenland",
+          "subtitle": "Drizzly day in Qaqortoq, Greenland",
           "categories": "travel cruise iceland",
           "tags": [
             "greenland",
@@ -965,6 +1670,55 @@
             "celebrityeclipse"
           ],
           "rollup_key": "2024icelandcruise"
+        }
+      ]
+    },
+    {
+      "rollup_key": "2024icelandonland",
+      "posts": [
+        {
+          "title": "Iceland Visit 2024 Day 1",
+          "date": "2024-09-03",
+          "subtitle": "South coast of Iceland",
+          "categories": "travel iceland",
+          "tags": [
+            "reykjavik",
+            "iceland"
+          ],
+          "rollup_key": "2024icelandonland"
+        },
+        {
+          "title": "Iceland Visit 2024 Day 2",
+          "date": "2024-09-21",
+          "subtitle": "South coast of Iceland",
+          "categories": "travel iceland",
+          "tags": [
+            "reykjavik",
+            "iceland"
+          ],
+          "rollup_key": "2024icelandonland"
+        },
+        {
+          "title": "Iceland Visit 2024 Day 3",
+          "date": "2024-09-22",
+          "subtitle": "Old Charm Reykjavik",
+          "categories": "travel iceland",
+          "tags": [
+            "reykjavik",
+            "iceland"
+          ],
+          "rollup_key": "2024icelandonland"
+        },
+        {
+          "title": "Iceland Visit 2024 Day 4",
+          "date": "2024-09-22",
+          "subtitle": "17 days of travel come to an end",
+          "categories": "travel iceland",
+          "tags": [
+            "reykjavik",
+            "iceland"
+          ],
+          "rollup_key": "2024icelandonland"
         }
       ]
     },
@@ -1087,7 +1841,7 @@
           "transport": [
             {
               "type": "cruise_ship",
-              "vessel": "Celebrity Equinox",
+              "vessel": "Celebrity Eclipse",
               "route": "Fort Lauderdale to Grand Cayman",
               "operator": "Celebrity Cruises"
             }
@@ -1096,21 +1850,21 @@
             {
               "day": 2,
               "type": "relaxation",
-              "description": "Sea day aboard Celebrity Equinox",
+              "description": "Sea day aboard Celebrity Eclipse",
               "location": "At sea, Caribbean"
             },
             {
               "day": 2,
               "type": "photography",
               "description": "Morning photography and writing on deck",
-              "location": "Celebrity Equinox",
+              "location": "Celebrity Eclipse",
               "time": "7:00-8:00am"
             },
             {
               "day": 2,
               "type": "relaxation",
               "description": "Sunset viewing on balcony",
-              "location": "Celebrity Equinox"
+              "location": "Celebrity Eclipse"
             }
           ]
         },
@@ -1455,7 +2209,7 @@
       ]
     },
     {
-      "rollup_key": "20245springbreak",
+      "rollup_key": "2025springbreak",
       "posts": [
         {
           "title": "Quick review of the Omni Amelia Island",
@@ -1466,7 +2220,27 @@
             "florida",
             "disney"
           ],
-          "rollup_key": "20245springbreak"
+          "rollup_key": "2025springbreak",
+          "transport": [
+            {
+              "type": "car",
+              "from": "Raleigh-Durham, NC",
+              "to": "Amelia Island, FL",
+              "notes": "First stop on nine-day vacation to Walt Disney World"
+            }
+          ],
+          "activities": [
+            {
+              "type": "dining",
+              "description": "Meals at Marché Burette and Falcon's Nest restaurants",
+              "location": "Omni Amelia Island Resort"
+            },
+            {
+              "type": "relaxation",
+              "description": "Pool and fire pit lounging",
+              "location": "Omni Amelia Island Resort"
+            }
+          ]
         }
       ]
     },
@@ -1481,7 +2255,45 @@
           "tags": [
             "may2025"
           ],
-          "rollup_key": "2025norway"
+          "rollup_key": "2025norway",
+          "trip_day": 1,
+          "location_start": "Holy Springs, NC",
+          "location_end": "Over the North Atlantic",
+          "locations_visited": [
+            "Raleigh-Durham Airport (RDU)",
+            "Baltimore-Washington Airport (BWI)"
+          ],
+          "transport": [
+            {
+              "type": "air",
+              "route": "RDU to BWI",
+              "carrier": "Southwest Airlines"
+            },
+            {
+              "type": "air",
+              "route": "BWI to Keflavik (KEF)",
+              "carrier": "Icelandair",
+              "notes": "Overnight flight, 6 hours"
+            }
+          ],
+          "activities": [
+            "Navigating baggage tag confusion at Southwest check-in",
+            "Seven hour layover at BWI",
+            "Lunch at BWI Concourse A",
+            "Overnight flight to Iceland"
+          ],
+          "dining": [
+            {
+              "location": "BWI Concourse A",
+              "type": "Japanese",
+              "dish": "Sushi bento box"
+            }
+          ],
+          "notable_experiences": [
+            "First traveler to test new Southwest/Icelandair baggage partnership",
+            "Uncertainty about whether bag would transfer properly to Icelandair"
+          ],
+          "weather": "Clear for departure"
         },
         {
           "title": "Norway and Denmark Day 2",
@@ -1491,7 +2303,69 @@
           "tags": [
             "may2025"
           ],
-          "rollup_key": "2025norway"
+          "rollup_key": "2025norway",
+          "trip_day": 2,
+          "location_start": "Over the North Atlantic",
+          "location_end": "Bergen, Norway",
+          "locations_visited": [
+            "Keflavik Airport (KEF), Iceland",
+            "Bergen Airport (BGO), Norway",
+            "Downtown Bergen",
+            "Fløyen Mountain"
+          ],
+          "transport": [
+            {
+              "type": "air",
+              "route": "KEF to Bergen (BGO)",
+              "carrier": "Icelandair"
+            },
+            {
+              "type": "light_rail",
+              "route": "Bergen Airport to Nonneseter station",
+              "notes": "45 minute ride"
+            },
+            {
+              "type": "funicular",
+              "route": "Downtown Bergen to Fløyen summit",
+              "notes": "Fløibanen funicular, ~$7.50"
+            }
+          ],
+          "accommodation": {
+            "name": "Hotel Park",
+            "location": "Bergen, Norway",
+            "type": "budget hotel",
+            "notes": "Small but serviceable room, early check-in allowed",
+            "amenities": [
+              "WiFi",
+              "Private bathroom"
+            ]
+          },
+          "activities": [
+            "Passport control and baggage claim at Keflavik",
+            "Four hour layover in Iceland with wild weather",
+            "Arrival in Bergen and early hotel check-in",
+            "Riding Fløibanen funicular to Fløyen summit",
+            "Hiking down Fløyen mountain (~300m descent)"
+          ],
+          "dining": [
+            {
+              "location": "Icelandair flight",
+              "type": "airline meal",
+              "dish": "Sliced chicken and melted cheese"
+            },
+            {
+              "location": "Near Hotel Park, Bergen",
+              "type": "Thai",
+              "dish": "Thin-noodle pad thai"
+            }
+          ],
+          "notable_experiences": [
+            "Wild Iceland weather alternating between snow and sun",
+            "Successfully reunited with luggage in Bergen",
+            "First views of Bergen from Fløyen summit",
+            "Challenging downhill hike with jelly legs"
+          ],
+          "weather": "Wild in Iceland (snow/sun alternating), clear in Bergen"
         },
         {
           "title": "Norway and Denmark Day 3",
@@ -1501,7 +2375,48 @@
           "tags": [
             "may2025"
           ],
-          "rollup_key": "2025norway"
+          "rollup_key": "2025norway",
+          "trip_day": 3,
+          "location_start": "Bergen, Norway",
+          "location_end": "Bergen, Norway",
+          "locations_visited": [
+            "Downtown Bergen",
+            "Bryggens Museum",
+            "Bergen Harbor/Waterfront",
+            "Bryggen (historic wharf district)",
+            "Bergen Train Station"
+          ],
+          "accommodation": {
+            "name": "Hotel Park",
+            "location": "Bergen, Norway",
+            "type": "budget hotel"
+          },
+          "activities": [
+            "Walking tour of medieval Bergen with Bryggens Museum",
+            "Exploring Bryggen UNESCO World Heritage wharf",
+            "Learning about Bergen's fire history",
+            "Visiting historic church and timber buildings",
+            "People-watching at harbor fish market"
+          ],
+          "dining": [
+            {
+              "location": "Bergen Harbor fish market",
+              "type": "seafood",
+              "dish": "Fresh salmon sandwich"
+            },
+            {
+              "location": "Bergen Train Station",
+              "type": "Japanese",
+              "dish": "Bento box with sashimi, sushi, tempura, and grilled meat"
+            }
+          ],
+          "notable_experiences": [
+            "Small tour group of only 6 people including blind Norwegian couple",
+            "Fascinating history of Bergen fires and reconstruction",
+            "Walking through narrow Bryggen alleyways",
+            "Discovering expensive sunscreen prices (~$40 USD)"
+          ],
+          "weather": "Clear and sunny, blue sky"
         },
         {
           "title": "Norway and Denmark Day 4",
@@ -1511,7 +2426,71 @@
           "tags": [
             "may2025"
           ],
-          "rollup_key": "2025norway"
+          "rollup_key": "2025norway",
+          "trip_day": 4,
+          "location_start": "Bergen, Norway",
+          "location_end": "Balestrand, Norway",
+          "locations_visited": [
+            "Bergen Ferry Terminal",
+            "Sognefjord (via express ferry)",
+            "Balestrand",
+            "St. Olaf's Church"
+          ],
+          "transport": [
+            {
+              "type": "rideshare",
+              "route": "Hotel Park to Bergen Ferry Terminal",
+              "carrier": "Uber",
+              "notes": "1.3km, expensive ~$17 minimum fare"
+            },
+            {
+              "type": "ferry",
+              "route": "Bergen to Balestrand via Sognefjord",
+              "carrier": "Norled Express Ferry",
+              "duration": "~4 hours",
+              "cost": "~$100 USD",
+              "notes": "High-speed ferry at 37mph through fjords, absolutely stunning"
+            }
+          ],
+          "accommodation": {
+            "name": "Kviknes Hotel",
+            "location": "Balestrand, Norway",
+            "type": "historic hotel",
+            "notes": "Modern wing (1960s) with balcony room, early check-in allowed",
+            "amenities": [
+              "Balcony with fjord view",
+              "WiFi",
+              "Bar/restaurant"
+            ]
+          },
+          "activities": [
+            "Express ferry journey through Sognefjord",
+            "Early check-in at Kviknes Hotel",
+            "Visiting St. Olaf's Church (inspiration for Frozen's chapel)",
+            "Solo time in historic church",
+            "Late evening walk around Balestrand",
+            "Moonrise photography over fjord"
+          ],
+          "dining": [
+            {
+              "location": "Pearl by Harbor",
+              "type": "Norwegian",
+              "dish": "Grilled salmon with teriyaki sauce, mashed potatoes, grilled vegetables"
+            },
+            {
+              "location": "Baalee Restaurant",
+              "type": "Italian",
+              "dish": "Shrimp scampi pasta"
+            }
+          ],
+          "notable_experiences": [
+            "Incredible express ferry ride through fjords - \"best $100 ever spent\"",
+            "Nearly missing ferry stop due to slow passenger",
+            "Peaceful solitude at St. Olaf's Church",
+            "Seagulls that never sleep",
+            "Moon over mountains photography frustration"
+          ],
+          "weather": "Clear and comfortable (high 50s F), beautiful fjord views"
         },
         {
           "title": "VIDEO Bergen to Balestrand ferry",
@@ -1531,7 +2510,59 @@
           "tags": [
             "may2025"
           ],
-          "rollup_key": "2025norway"
+          "rollup_key": "2025norway",
+          "trip_day": 5,
+          "location_start": "Balestrand, Norway",
+          "location_end": "Balestrand, Norway",
+          "locations_visited": [
+            "Balestrand town",
+            "Balestrand Forest Trail (Skogstur)",
+            "Sandsstølen viewpoint",
+            "Balabu day-trip cabin",
+            "Sognefjord overlook"
+          ],
+          "accommodation": {
+            "name": "Kviknes Hotel",
+            "location": "Balestrand, Norway",
+            "type": "historic hotel",
+            "notes": "CPAP power issues during night"
+          },
+          "activities": [
+            "Shopping for breakfast and water at Coop grocery",
+            "Balestrand Forest Hike - 5.2 miles, 1700ft elevation gain",
+            "Hiking clockwise loop starting from hotel",
+            "Challenging second quarter with steep sections and roots",
+            "Reaching scenic overlooks and viewpoints",
+            "Visiting Balabu Dagsturhytta (day-trip cabin)",
+            "Planning next day's complex ferry/bus route"
+          ],
+          "dining": [
+            {
+              "location": "Coop grocery store",
+              "type": "bakery",
+              "dish": "Pastry for breakfast"
+            },
+            {
+              "location": "Pearl by Harbor",
+              "type": "Norwegian",
+              "dish": "Salmon and mashed potatoes (repeat meal)"
+            },
+            {
+              "location": "Kviknes Hotel bar",
+              "type": "European",
+              "dish": "Lobster bisque"
+            }
+          ],
+          "notable_experiences": [
+            "CPAP machine power plug issues causing broken sleep",
+            "Accidentally buying carbonated water for hike",
+            "Testing new Gregory Miko 20 daypack from REI",
+            "Only encountering one hiker on first half, many on second half",
+            "Discovering better in-and-out route would be preferable",
+            "Complex travel planning between Norled, Vy, and Skyss services",
+            "Evening attempt to get Bergen soup at Baalee (not available)"
+          ],
+          "weather": "Clear skies, comfortable hiking conditions"
         },
         {
           "title": "Norway and Denmark Day 6",
@@ -1541,7 +2572,73 @@
           "tags": [
             "may2025"
           ],
-          "rollup_key": "2025norway"
+          "rollup_key": "2025norway",
+          "trip_day": 6,
+          "location_start": "Balestrand, Norway",
+          "location_end": "Voss, Norway",
+          "locations_visited": [
+            "Balestrand ferry terminal",
+            "Vik",
+            "Vangsnes (unplanned fjord tour)",
+            "Voss town center"
+          ],
+          "transport": [
+            {
+              "type": "ferry",
+              "route": "Balestrand to Vik",
+              "carrier": "Norled Express Ferry",
+              "duration": "20 minutes",
+              "departure": "7:50am"
+            },
+            {
+              "type": "bus",
+              "route": "Vik to Voss via Vangsnes",
+              "carrier": "Skyss bus 810",
+              "duration": "~90 minutes",
+              "cost": "~$16 USD",
+              "notes": "Arrived 30 mins early, got bonus fjord tour to Vangsnes"
+            }
+          ],
+          "accommodation": {
+            "name": "Scandic Voss",
+            "location": "Voss, Norway",
+            "type": "chain hotel",
+            "notes": "Early check-in at 10:45am for $20, air-conditioned room",
+            "amenities": [
+              "Air conditioning",
+              "WiFi",
+              "Lake view"
+            ]
+          },
+          "activities": [
+            "Express ferry from Balestrand to Vik",
+            "Unplanned bonus tour to Vangsnes car ferry terminus",
+            "Bus journey through winter wonderland landscape",
+            "Exploring downtown Voss",
+            "Evening walk around town",
+            "Visiting Voss cemetery"
+          ],
+          "dining": [
+            {
+              "location": "Gas station across from Scandic Voss",
+              "type": "convenience",
+              "dish": "Mediocre tomato-basil-mozzarella sandwich"
+            },
+            {
+              "location": "Vossa Sushi",
+              "type": "Japanese",
+              "dish": "Nigiri (skipped expensive appetizers)"
+            }
+          ],
+          "notable_experiences": [
+            "Second night of broken sleep due to loud seagulls",
+            "Bus arriving 30 minutes early at Vik",
+            "Getting free bonus fjord tour on bus to Vangsnes",
+            "Winter landscape midway through bus journey (unexpected snow)",
+            "Pricing quirks at sushi restaurant (expensive starters, cheap nigiri)",
+            "No seagulls at Voss hotel!"
+          ],
+          "weather": "Overcast and gray initially, sunny in evening"
         },
         {
           "title": "Norway and Denmark Day 7",
@@ -1551,7 +2648,60 @@
           "tags": [
             "may2025"
           ],
-          "rollup_key": "2025norway"
+          "rollup_key": "2025norway",
+          "trip_day": 7,
+          "location_start": "Voss, Norway",
+          "location_end": "Voss, Norway",
+          "locations_visited": [
+            "Voss gondola (Hangurstoppen)",
+            "Mountain summit at 1295m above sea level",
+            "Bordalsgjelet Gorge",
+            "Downtown Voss"
+          ],
+          "transport": [
+            {
+              "type": "gondola",
+              "route": "Voss town to Hangurstoppen summit",
+              "cost": "~$18 each way"
+            }
+          ],
+          "accommodation": {
+            "name": "Scandic Voss",
+            "location": "Voss, Norway",
+            "type": "chain hotel"
+          },
+          "activities": [
+            "Gondola ride to mountain summit (1295m elevation)",
+            "Attempting panoramic trail at summit (gave up 1/4 way in)",
+            "Enjoying views from summit swing",
+            "3-mile Bordalsgjelet Gorge hike",
+            "Covered bridge crossing over Vosso river",
+            "Rocky gorge trail with handrails",
+            "Reading Kindle on hotel sun deck"
+          ],
+          "dining": [
+            {
+              "location": "Hangurstoppen Restaurant (summit)",
+              "type": "Norwegian",
+              "dish": "Shrimp salad (limited menu, no grilling/frying)",
+              "notes": "Expected burger, got shrimp salad instead but it was tasty"
+            },
+            {
+              "location": "Vossevangen Grill",
+              "type": "Steakhouse",
+              "dish": "Tenderloin (rare instead of medium-rare), asparagus, broccoli, mushrooms, au gratin potatoes"
+            }
+          ],
+          "notable_experiences": [
+            "First great night sleep with air conditioning and no seagulls",
+            "Limited restaurant menu at summit (no burger available)",
+            "Beautiful 55F sunny weather perfect for hiking",
+            "Wet slanted rocks in gorge requiring careful footing",
+            "Afternoon reading in the sun",
+            "Memorable au gratin potato dish to recreate at home",
+            "Lost Kindle somewhere in Norway (last photo shows it)"
+          ],
+          "weather": "Beautiful sunny day, high 50s F, perfect for outdoor activities"
         },
         {
           "title": "Norway and Denmark Day 8",
@@ -1561,7 +2711,69 @@
           "tags": [
             "may2025"
           ],
-          "rollup_key": "2025norway"
+          "rollup_key": "2025norway",
+          "trip_day": 8,
+          "location_start": "Voss, Norway",
+          "location_end": "Oslo, Norway",
+          "locations_visited": [
+            "Voss train station",
+            "Bergensbanen railway route",
+            "Oslo Central Station (Oslo S)",
+            "Oslo Opera House",
+            "Downtown Oslo"
+          ],
+          "transport": [
+            {
+              "type": "train",
+              "route": "Voss to Oslo",
+              "service": "Bergensbanen (Bergen Line)",
+              "carrier": "Vy",
+              "duration": "6+ hours (1:03pm to 7:20pm)",
+              "notes": "Right-side seat pre-booked for best views, arrived late"
+            }
+          ],
+          "accommodation": {
+            "name": "Clarion Hotel Oslo",
+            "location": "Oslo, Norway",
+            "type": "upscale chain hotel",
+            "notes": "Near Oslo Central Station, excessive number of pillows",
+            "amenities": [
+              "WiFi",
+              "Modern minimalist design",
+              "Desk area",
+              "Many decorative pillows"
+            ]
+          },
+          "activities": [
+            "75 minutes waiting on sunny train platform",
+            "6+ hour scenic train journey through varied Norwegian landscape",
+            "Evening walk around downtown Oslo",
+            "Visiting Oslo Opera House at dusk",
+            "Walking on Opera House marble roof",
+            "Photography session at twilight"
+          ],
+          "dining": [
+            {
+              "location": "Train dining car",
+              "type": "Norwegian",
+              "dish": "Meatballs with mashed potatoes and gravy"
+            },
+            {
+              "location": "El Camino (near hotel)",
+              "type": "Mexican",
+              "dish": "Burrito bowl"
+            }
+          ],
+          "notable_experiences": [
+            "Discovering scraped knee while boarding train",
+            "Varied biomes along train route (rivers, snow, forests)",
+            "Train motion sickness by 5pm from constant curves",
+            "Too many pillows in hotel room (humorous)",
+            "Stunning Oslo Opera House architecture at dusk",
+            "Walking on Opera House sloped marble roof",
+            "Ferris wheel lit up in evening"
+          ],
+          "weather": "Sunny and high 50s in Voss, clear evening in Oslo"
         },
         {
           "title": "Norway and Denmark Day 9",
@@ -1571,7 +2783,79 @@
           "tags": [
             "may2025"
           ],
-          "rollup_key": "2025norway"
+          "rollup_key": "2025norway",
+          "trip_day": 9,
+          "location_start": "Oslo, Norway",
+          "location_end": "DFDS Nordic Crown ferry (Oslo to Copenhagen)",
+          "locations_visited": [
+            "Vigeland Park",
+            "Royal Palace (Oslo)",
+            "Downtown Oslo malls",
+            "Oslo ferry terminal"
+          ],
+          "transport": [
+            {
+              "type": "light_rail",
+              "route": "Oslo S to Vigeland Park",
+              "carrier": "Ruter (tram 15)",
+              "duration": "~20 minutes"
+            },
+            {
+              "type": "ferry",
+              "route": "Oslo to Copenhagen",
+              "carrier": "DFDS Nordic Crown",
+              "boarding": "2:30pm",
+              "notes": "Overnight ferry, outside stateroom with window"
+            }
+          ],
+          "accommodation": {
+            "name": "DFDS Nordic Crown - Outside Stateroom",
+            "location": "Ferry between Oslo and Copenhagen",
+            "type": "ferry cabin",
+            "notes": "Small cabin with window, 4 beds total, towels hidden under bed",
+            "amenities": [
+              "Window",
+              "4 bunks",
+              "Private bathroom"
+            ]
+          },
+          "activities": [
+            "Visiting Vigeland Park sculpture garden (200+ sculptures)",
+            "Cafe breakfast at historic manor",
+            "Walking to Royal Palace",
+            "Exploring downtown Oslo malls",
+            "Walking to ferry terminal (25 minutes)",
+            "Exploring ship during daylight",
+            "Watching Norwegian fjords from deck"
+          ],
+          "dining": [
+            {
+              "location": "Vigeland Park cafe",
+              "type": "Cafe",
+              "dish": "Chocolate croissant and Americano (average quality)"
+            },
+            {
+              "location": "Mall near Oslo S",
+              "type": "Japanese",
+              "dish": "Sushi-to-go (best ever encountered)"
+            },
+            {
+              "location": "DFDS Nordic Crown buffet",
+              "type": "Buffet",
+              "dish": "Various items",
+              "cost": "~299 DKK (~$45 USD)"
+            }
+          ],
+          "notable_experiences": [
+            "Constitution Day preparations at Royal Palace (May 17th)",
+            "Tour groups from MSC cruise ship at Vigeland Park",
+            "Phenomenal mall sushi",
+            "Easy 25-minute walk to ferry terminal (not industrial)",
+            "Shower without towel (dried with LinkedIn sweatshirt)",
+            "Finding towels hidden under pull-down bed",
+            "Realizing Kindle was lost at Oslo hotel"
+          ],
+          "weather": "Bright, warm, beautiful day"
         },
         {
           "title": "Norway and Denmark Day 10",
@@ -1581,7 +2865,68 @@
           "tags": [
             "may2025"
           ],
-          "rollup_key": "2025norway"
+          "rollup_key": "2025norway",
+          "trip_day": 10,
+          "location_start": "DFDS Nordic Crown ferry",
+          "location_end": "Copenhagen, Denmark",
+          "locations_visited": [
+            "Copenhagen ferry terminal",
+            "Elgiganten electronics store",
+            "Downtown Copenhagen",
+            "Tivoli Gardens amusement park"
+          ],
+          "transport": [
+            {
+              "type": "metro",
+              "route": "Ferry terminal to hotel area",
+              "carrier": "Copenhagen Metro/S-train",
+              "notes": "Confusion between Metro and S-train systems, eventual success"
+            }
+          ],
+          "accommodation": {
+            "name": "Copenhagen Strand",
+            "location": "Copenhagen, Denmark",
+            "type": "boutique hotel",
+            "notes": "No early check-in available, stored luggage",
+            "amenities": [
+              "WiFi",
+              "Minimalist Scandinavian design",
+              "City view"
+            ]
+          },
+          "activities": [
+            "Navigating Copenhagen public transit systems",
+            "Failed quest to replace lost Kindle at Elgiganten",
+            "Walking and people-watching around Copenhagen",
+            "Evening visit to Tivoli Gardens amusement park",
+            "Exploring historic amusement park (opened 1843)"
+          ],
+          "dining": [
+            {
+              "location": "Thai restaurant near hotel",
+              "type": "Thai",
+              "dish": "Pad Thai",
+              "cost": "Charged $4+ for tap water, inappropriate",
+              "notes": "Negative experience with presumptuous USD currency selection"
+            },
+            {
+              "location": "Pakistani restaurant",
+              "type": "Pakistani",
+              "dish": "Excellent meal",
+              "notes": "70 meters from hotel"
+            }
+          ],
+          "notable_experiences": [
+            "Confusion navigating Metro vs S-train systems",
+            "No Kindles in stock anywhere in Copenhagen",
+            "Negative restaurant experience (tap water charge, forced USD)",
+            "Saturday people-watching in beautiful weather",
+            "Tivoli Gardens at night - \"amusement parks are better at night\"",
+            "Comparing Tivoli to Disney parks (perfect size, city oasis)",
+            "Missed visiting in 2000 due to colleagues preferring Hard Rock Cafe",
+            "Strong Copenhagen cycling culture"
+          ],
+          "weather": "Great weather, perfect for walking and people-watching"
         },
         {
           "title": "Norway and Denmark Day 11",
@@ -1591,7 +2936,37 @@
           "tags": [
             "may2025"
           ],
-          "rollup_key": "2025norway"
+          "rollup_key": "2025norway",
+          "trip_day": 11,
+          "location_start": "Copenhagen, Denmark",
+          "location_end": "Copenhagen, Denmark",
+          "locations_visited": [
+            "Copenhagen streets"
+          ],
+          "accommodation": {
+            "name": "Copenhagen Strand",
+            "location": "Copenhagen, Denmark",
+            "type": "boutique hotel"
+          },
+          "activities": [
+            "Limited walking around Copenhagen",
+            "Dealing with travel fatigue"
+          ],
+          "dining": [
+            {
+              "location": "Thai restaurant",
+              "type": "Thai",
+              "dish": "Giant Pad Thai and pseudo-Diet Coke"
+            }
+          ],
+          "notable_experiences": [
+            "Hitting the travel wall - tired of solo travel",
+            "Poor sleep",
+            "Rainy and gray weather matching mood",
+            "Ready to be home",
+            "Minimal activities due to exhaustion"
+          ],
+          "weather": "Rainy and gray"
         },
         {
           "title": "Norway and Denmark Day 12",
@@ -1601,7 +2976,69 @@
           "tags": [
             "may2025"
           ],
-          "rollup_key": "2025norway"
+          "rollup_key": "2025norway",
+          "trip_day": 12,
+          "location_start": "Copenhagen, Denmark",
+          "location_end": "Holly Springs, NC",
+          "locations_visited": [
+            "Copenhagen city center",
+            "Kongens Nytorv metro station",
+            "Copenhagen Airport (CPH)",
+            "Keflavik Airport (KEF), Iceland",
+            "Raleigh-Durham Airport (RDU)"
+          ],
+          "transport": [
+            {
+              "type": "metro",
+              "route": "Hotel to Copenhagen Airport",
+              "carrier": "Copenhagen Metro"
+            },
+            {
+              "type": "air",
+              "route": "Copenhagen (CPH) to Keflavik (KEF)",
+              "carrier": "Icelandair",
+              "departure": "2pm"
+            },
+            {
+              "type": "air",
+              "route": "Keflavik (KEF) to Raleigh-Durham (RDU)",
+              "carrier": "Icelandair",
+              "duration": "7 hours"
+            },
+            {
+              "type": "rideshare",
+              "route": "RDU to Holly Springs",
+              "carrier": "Uber"
+            }
+          ],
+          "accommodation": {
+            "name": "Home",
+            "location": "Holly Springs, NC"
+          },
+          "activities": [
+            "Late morning leisure at hotel",
+            "Metro ride to airport",
+            "Lunch at Copenhagen Airport",
+            "Flights via Iceland back to North Carolina",
+            "Aerial photography of Greenland",
+            "Viewing Blue Lagoon from airplane"
+          ],
+          "dining": [
+            {
+              "location": "Copenhagen Airport",
+              "type": "Airport dining",
+              "dish": "Light lunch"
+            }
+          ],
+          "notable_experiences": [
+            "Heaven is a flight that doesn't leave at 6am",
+            "Clean and nice (but confusing) Copenhagen Airport",
+            "Familiar Keflavik Airport experience",
+            "Clear weather allowing Greenland aerial photography",
+            "7 hour transatlantic flight",
+            "Successfully completing 11-night solo Norway/Denmark trip"
+          ],
+          "weather": "Clear and sunny in Copenhagen, clear skies over Greenland"
         }
       ]
     },
@@ -1654,7 +3091,7 @@
         {
           "title": "Switzerland and Germany Day 3",
           "date": "2025-07-31",
-          "subtitle": "Wengen, Lauterbrunne, and the panorama walk",
+          "subtitle": "Wengen, Lauterbrunnen, and the panorama walk",
           "categories": "travel switzerland germany",
           "tags": [
             "july2025"
@@ -2290,34 +3727,163 @@
       ]
     }
   ],
-  "all_locations": [],
+  "all_locations": [
+    "Balabu day-trip cabin",
+    "Balestrand",
+    "Balestrand Forest Trail (Skogstur)",
+    "Balestrand ferry terminal",
+    "Balestrand town",
+    "Baltimore-Washington Airport (BWI)",
+    "Bergen Airport (BGO), Norway",
+    "Bergen Ferry Terminal",
+    "Bergen Harbor/Waterfront",
+    "Bergen Train Station",
+    "Bergensbanen railway route",
+    "Bordalsgjelet Gorge",
+    "Bryggen (historic wharf district)",
+    "Bryggens Museum",
+    "Copenhagen Airport (CPH)",
+    "Copenhagen city center",
+    "Copenhagen ferry terminal",
+    "Copenhagen streets",
+    "Downtown Bergen",
+    "Downtown Copenhagen",
+    "Downtown Oslo",
+    "Downtown Oslo malls",
+    "Downtown Voss",
+    "Efstidalur II Farm & Restaurant",
+    "Elgiganten electronics store",
+    "Fløyen Mountain",
+    "Keflavik Airport (KEF), Iceland",
+    "Keflavík International Airport (KEF)",
+    "Kongens Nytorv metro station",
+    "Laugarvatn area",
+    "Mountain summit at 1295m above sea level",
+    "Oslo Central Station (Oslo S)",
+    "Oslo Opera House",
+    "Oslo ferry terminal",
+    "Raleigh-Durham Airport (RDU)",
+    "Royal Palace (Oslo)",
+    "Sandsstølen viewpoint",
+    "Selfoss, Iceland",
+    "Sognefjord (via express ferry)",
+    "Sognefjord overlook",
+    "St. Olaf's Church",
+    "Tivoli Gardens amusement park",
+    "Vangsnes (unplanned fjord tour)",
+    "Vigeland Park",
+    "Vik",
+    "Voss gondola (Hangurstoppen)",
+    "Voss town center",
+    "Voss train station"
+  ],
   "all_activities": [
+    "3-mile Bordalsgjelet Gorge hike",
+    "6+ hour scenic train journey through varied Norwegian landscape",
+    "75 minutes waiting on sunny train platform",
+    "Aerial photography of Greenland",
     "Arrival home in Holly Springs",
+    "Arrival in Bergen and early hotel check-in",
+    "Attempting panoramic trail at summit (gave up 1/4 way in)",
     "BMW Welt exhibition visit",
     "Bag reclaim and recheck in Detroit",
+    "Bakery visit in Selfoss",
+    "Balestrand Forest Hike - 5.2 miles, 1700ft elevation gain",
+    "Bus journey through winter wonderland landscape",
+    "Cafe breakfast at historic manor",
+    "Car return and walk through Reykjavik",
+    "Challenging second quarter with steep sections and roots",
     "Checked bags at Munich Airport",
+    "Church visit (Hallgrímskirkja interior tour)",
+    "Covered bridge crossing over Vosso river",
     "Customs and Immigration",
     "Customs and Immigration in Detroit with Global Entry",
+    "Dealing with travel fatigue",
     "Dinner at Irish pub",
     "Dinner at Mountain Hub Gourmet restaurant",
     "Dinner with friends",
     "Domestic flight from Detroit to Raleigh-Durham",
+    "EV charging introduction (DC Fast Charger in Selfoss)",
+    "Early check-in at Kviknes Hotel",
+    "Enjoying views from summit swing",
+    "Evening visit to Tivoli Gardens amusement park",
+    "Evening walk around downtown Oslo",
+    "Evening walk around town",
     "Evening walk in English Garden",
+    "Exploring Bryggen UNESCO World Heritage wharf",
+    "Exploring downtown Oslo malls",
+    "Exploring downtown Voss",
+    "Exploring historic amusement park (opened 1843)",
+    "Exploring ship during daylight",
+    "Express ferry from Balestrand to Vik",
+    "Express ferry journey through Sognefjord",
+    "Failed quest to replace lost Kindle at Elgiganten",
+    "Farm visit at Efstidalur II",
     "Finding EAT HAPPY sushi stall",
+    "Fish and chips lunch",
+    "Flights via Iceland back to North Carolina",
     "Food truck lunch",
+    "Four hour layover in Iceland with wild weather",
+    "Geothermal hot tub",
+    "Gondola ride to mountain summit (1295m elevation)",
+    "Grocery shopping at Bónus supermarket",
+    "Hiking clockwise loop starting from hotel",
+    "Hiking down Fløyen mountain (~300m descent)",
+    "Home cooking",
+    "International air travel",
     "International flight from Munich to Detroit",
+    "Italian dinner",
+    "Late evening walk around Balestrand",
+    "Late morning leisure at hotel",
+    "Learning about Bergen's fire history",
+    "Limited walking around Copenhagen",
+    "Lunch at BWI Concourse A",
+    "Lunch at Copenhagen Airport",
+    "Metro ride to airport",
+    "Moonrise photography over fjord",
+    "Navigating Copenhagen public transit systems",
+    "Navigating baggage tag confusion at Southwest check-in",
+    "Overnight flight to Iceland",
     "Park walking",
+    "Passport control and baggage claim at Keflavik",
+    "People-watching at harbor fish market",
+    "Photography session at twilight",
+    "Planning next day's complex ferry/bus route",
+    "Playground visit",
     "Public transit experience (U-Bahn)",
+    "Reaching scenic overlooks and viewpoints",
     "Read Business Punk magazine issue 101",
+    "Reading Kindle on hotel sun deck",
+    "Riding Fløibanen funicular to Fløyen summit",
+    "Rocky gorge trail with handrails",
+    "Scooter rental and ride",
+    "Seven hour layover at BWI",
     "Shopping at REWE grocery store",
+    "Shopping for breakfast and water at Coop grocery",
     "Sightseeing in Marienplatz",
     "Solo exploration of English Garden",
+    "Solo time in historic church",
     "Special occasion dinner",
     "Train connections through Switzerland",
+    "Unplanned bonus tour to Vangsnes car ferry terminus",
+    "Viewing Blue Lagoon from airplane",
     "Visited Marienplatz and Rathaus Glockenspiel",
+    "Visiting Balabu Dagsturhytta (day-trip cabin)",
+    "Visiting Oslo Opera House at dusk",
+    "Visiting St. Olaf's Church (inspiration for Frozen's chapel)",
+    "Visiting Vigeland Park sculpture garden (200+ sculptures)",
+    "Visiting Voss cemetery",
+    "Visiting historic church and timber buildings",
+    "Walking and people-watching around Copenhagen",
     "Walking around Munich Airport",
+    "Walking on Opera House marble roof",
+    "Walking to Royal Palace",
+    "Walking to ferry terminal (25 minutes)",
     "Walking tour of Munich city center",
     "Walking tour of Wengen",
+    "Walking tour of medieval Bergen with Bryggens Museum",
+    "Watching Norwegian fjords from deck",
+    "Waterfront walk to Sun Voyager sculpture",
     "airport_transit",
     "citizenship_ceremony",
     "dining",
@@ -2343,11 +3909,11 @@
     "{\"day\"=>10, \"type\"=>\"shore_excursion\", \"description\"=>\"Zipline excursion at San Felipe De Puerto Plata\", \"location\"=>\"Puerto Plata area\", \"participants\"=>\"Father and daughter (son's ankle still healing, wife didn't care for heights)\"}",
     "{\"day\"=>10, \"type\"=>\"travel\", \"description\"=>\"Departure from Japan, returning to US\", \"location\"=>\"Haneda Airport, Tokyo\"}",
     "{\"day\"=>2, \"type\"=>\"dining\", \"description\"=>\"Crepes at Brookfield Place, later Subway and Sweetgreen\", \"location\"=>\"Manhattan and Jersey City\"}",
-    "{\"day\"=>2, \"type\"=>\"photography\", \"description\"=>\"Morning photography and writing on deck\", \"location\"=>\"Celebrity Equinox\", \"time\"=>\"7:00-8:00am\"}",
+    "{\"day\"=>2, \"type\"=>\"photography\", \"description\"=>\"Morning photography and writing on deck\", \"location\"=>\"Celebrity Eclipse\", \"time\"=>\"7:00-8:00am\"}",
     "{\"day\"=>2, \"type\"=>\"recreation\", \"description\"=>\"Playground visit and photos by river after rain stopped\", \"location\"=>\"Jersey City waterfront\"}",
     "{\"day\"=>2, \"type\"=>\"relaxation\", \"description\"=>\"Returned to hotel due to severe weather forecast\", \"location\"=>\"Hyatt House Jersey City\"}",
-    "{\"day\"=>2, \"type\"=>\"relaxation\", \"description\"=>\"Sea day aboard Celebrity Equinox\", \"location\"=>\"At sea, Caribbean\"}",
-    "{\"day\"=>2, \"type\"=>\"relaxation\", \"description\"=>\"Sunset viewing on balcony\", \"location\"=>\"Celebrity Equinox\"}",
+    "{\"day\"=>2, \"type\"=>\"relaxation\", \"description\"=>\"Sea day aboard Celebrity Eclipse\", \"location\"=>\"At sea, Caribbean\"}",
+    "{\"day\"=>2, \"type\"=>\"relaxation\", \"description\"=>\"Sunset viewing on balcony\", \"location\"=>\"Celebrity Eclipse\"}",
     "{\"day\"=>2, \"type\"=>\"sightseeing\", \"description\"=>\"Ferry to Manhattan and visit to One World Trade Center observation deck\", \"duration\"=>\"11:30am reservation\", \"location\"=>\"Lower Manhattan\"}",
     "{\"day\"=>2, \"type\"=>\"sightseeing\", \"description\"=>\"Neighborhood tour and convenience store visit\", \"location\"=>\"Near hotel, Asakusa\"}",
     "{\"day\"=>2, \"type\"=>\"sightseeing\", \"description\"=>\"Visited Oculus transportation hub and mall\", \"location\"=>\"Lower Manhattan\"}",
@@ -2382,14 +3948,18 @@
     "{\"day\"=>5, \"type\"=>\"dining\", \"description\"=>\"Main dining room dinner\", \"location\"=>\"Celebrity Eclipse\"}",
     "{\"day\"=>5, \"type\"=>\"dining\", \"description\"=>\"Tim Hortons stop for treats\", \"location\"=>\"Halifax waterfront\"}",
     "{\"day\"=>5, \"type\"=>\"entertainment\", \"description\"=>\"Kids attended illusionist show in main theater\", \"time\"=>\"Evening\", \"location\"=>\"Celebrity Eclipse\"}",
+    "{\"day\"=>5, \"type\"=>\"hiking\", \"name\"=>\"Attempted trail finding\", \"location\"=>\"Húsafell\", \"notes\"=>\"Could not locate marked trails despite maps and asking staff\"}",
+    "{\"day\"=>5, \"type\"=>\"recreation\", \"name\"=>\"Jump pillow\", \"location\"=>\"Húsafell campground\", \"time\"=>\"10:30pm\", \"participants\"=>\"Kids\", \"notes\"=>\"Doesn't get dark at this time of year\"}",
     "{\"day\"=>5, \"type\"=>\"relaxation\", \"description\"=>\"Hunkering down during snow storm, catching up on sleep and writing\", \"location\"=>\"Hotel Metropolitan Kamakura\"}",
     "{\"day\"=>5, \"type\"=>\"shopping\", \"description\"=>\"Sherri and Siena shopped on Spring Garden Road and visited Lululemon, met Amanda\", \"location\"=>\"Spring Garden Road\"}",
     "{\"day\"=>5, \"type\"=>\"shopping\", \"description\"=>\"Shopping in Oranjestad\", \"location\"=>\"Oranjestad, Aruba\"}",
     "{\"day\"=>5, \"type\"=>\"shore_excursion\", \"description\"=>\"Sailing and snorkeling trip on catamaran La Tigre\", \"duration\"=>\"3 hours\", \"location\"=>\"Aruba waters\", \"participants\"=>\"Father and daughter\"}",
     "{\"day\"=>5, \"type\"=>\"sightseeing\", \"description\"=>\"Disembarked and walked Halifax waterfront meeting family members\", \"time\"=>\"10:00am\", \"location\"=>\"Halifax waterfront\"}",
     "{\"day\"=>5, \"type\"=>\"sightseeing\", \"description\"=>\"Sailaway viewing McNab's and Georges Islands from 200 feet up\", \"time\"=>\"Afternoon\", \"location\"=>\"Halifax Harbor departure\"}",
+    "{\"day\"=>5, \"type\"=>\"sightseeing\", \"name\"=>\"Hraunfossar Waterfall visit\", \"location\"=>\"Hraunfossar, Near Húsafell\", \"duration\"=>\"30 minutes\", \"notes\"=>\"Series of waterfalls flowing from lava field\"}",
     "{\"day\"=>5, \"type\"=>\"social\", \"description\"=>\"Met with Ann, Greg, Shane, Katie, Will, and Sam at the wave landmark\", \"time\"=>\"10:45am\", \"location\"=>\"Halifax waterfront\"}",
     "{\"day\"=>5, \"type\"=>\"social\", \"description\"=>\"Sherri connected with Aunts Betty, Dorothy, and Kay\", \"location\"=>\"Halifax\"}",
+    "{\"day\"=>5, \"type\"=>\"tour\", \"name\"=>\"Víðgelmir lava tube cave tour\", \"location\"=>\"Víðgelmir\", \"time\"=>\"Departed around 12:10pm\", \"duration\"=>\"~90 minutes\", \"participants\"=>\"Family group\", \"notes\"=>\"Rowan especially enjoyed it. Helmets with headlamps provided. Metal stairs descend into massive cave system\"}",
     "{\"day\"=>5, \"type\"=>\"travel\", \"description\"=>\"Train journey from Tokyo to Kamakura via Yokohama during snow storm\", \"location\"=>\"Tokyo to Kamakura\"}",
     "{\"day\"=>6, \"type\"=>\"dining\", \"description\"=>\"Light breakfast and lunch with family\", \"time\"=>\"8:30am breakfast, noon lunch\", \"location\"=>\"Celebrity Eclipse\"}",
     "{\"day\"=>6, \"type\"=>\"recreation\", \"description\"=>\"Reading in deck chairs\", \"location\"=>\"Celebrity Eclipse\"}",
@@ -2429,23 +3999,47 @@
     "{\"day\"=>9, \"type\"=>\"sightseeing\", \"description\"=>\"Explored waterfront path between harbor and El Morro, viewed waves crashing on north side\", \"location\"=>\"Old San Juan\"}",
     "{\"type\"=>\"adventure\", \"name\"=>\"Kickbike ride\", \"location\"=>\"Sunnegga to Zermatt\"}",
     "{\"type\"=>\"adventure\", \"name\"=>\"Mountaincart ride\", \"location\"=>\"Blauherd to Sunnegga\", \"duration\"=>\"~20min\"}",
+    "{\"type\"=>\"advice\", \"description\"=>\"Tips and recommendations for visiting Iceland\", \"topics\"=>[\"car_rental_tips\", \"driving_conditions\", \"wind_awareness\", \"cell_data_esim\", \"grocery_shopping\", \"dining_recommendations\", \"visiting_natural_attractions\", \"getting_around_reykjavik\"]}",
+    "{\"type\"=>\"cultural\", \"name\"=>\"Bookstore visit\", \"location\"=>\"Hús máls og menningar\", \"date\"=>#<Date: 2023-06-18 ((2460114j,0s,0n),+0s,2299161j)>, \"participants\"=>\"Brian and Siena\", \"notes\"=>\"Iconic bookstore with bar and live music venue\"}",
     "{\"type\"=>\"cultural\", \"name\"=>\"Neuschwanstein Castle guided tour\", \"location\"=>\"Neuschwanstein Castle\", \"time\"=>\"5:50pm\", \"url\"=>\"https://www.fuessen.de/en/culture/castles-museums/\", \"notes\"=>\"No photography allowed inside, tickets must be purchased in advance\"}",
+    "{\"type\"=>\"cultural\", \"name\"=>\"Old stone house and cemetery exploration\", \"location\"=>\"Reykholt\", \"date\"=>#<Date: 2023-06-16 ((2460112j,0s,0n),+0s,2299161j)>, \"time\"=>\"afternoon\", \"features\"=>[\"church-tower\", \"historic-buildings\", \"cemetery\", \"informational-signs\"]}",
+    "{\"type\"=>\"cultural\", \"name\"=>\"Punk Museum visit\", \"location\"=>\"Icelandic Punk Museum\", \"date\"=>#<Date: 2023-06-18 ((2460114j,0s,0n),+0s,2299161j)>, \"notes\"=>\"Near Prime Minister's house\"}",
+    "{\"type\"=>\"cultural\", \"name\"=>\"Rainbow street viewing\", \"location\"=>\"Reykjavik rainbow road\", \"date\"=>#<Date: 2023-06-18 ((2460114j,0s,0n),+0s,2299161j)>, \"notes\"=>\"Iconic rainbow-painted street\"}",
     "{\"type\"=>\"cultural\", \"name\"=>\"Swiss National Day celebrations\", \"location\"=>\"Zermatt\", \"date\"=>#<Date: 2025-08-01 ((2460889j,0s,0n),+0s,2299161j)>}",
+    "{\"type\"=>\"dining\", \"description\"=>\"Meals at Marché Burette and Falcon's Nest restaurants\", \"location\"=>\"Omni Amelia Island Resort\"}",
+    "{\"type\"=>\"dining\", \"name\"=>\"Bakery breakfast\", \"location\"=>\"Near Sun Voyager sculpture\", \"date\"=>#<Date: 2023-06-18 ((2460114j,0s,0n),+0s,2299161j)>, \"time\"=>\"morning\", \"food\"=>\"Coffee and croissant\", \"notes\"=>\"Caught up on news in corner spot\"}",
     "{\"type\"=>\"entertainment\", \"name\"=>\"Live music concert\", \"location\"=>\"Zermatt\"}",
+    "{\"type\"=>\"hiking\", \"name\"=>\"Brúarfoss hike\", \"location\"=>\"Brúarfoss\", \"notes\"=>\"Access road only 600 meters from cottage, great photos\"}",
+    "{\"type\"=>\"hiking\", \"name\"=>\"Geysir lookout hike\", \"location\"=>\"Geysir\", \"time\"=>\"Around 8pm\", \"notes\"=>\"Spectacular views from the hilltop\"}",
     "{\"type\"=>\"hiking\", \"name\"=>\"Gorner Gorge hike\", \"location\"=>\"Gorner Gorge\", \"url\"=>\"https://zermatt.swiss/en/p/gorner-gorge-01tVj000005DonMIAS\"}",
     "{\"type\"=>\"hiking\", \"name\"=>\"Männlichen to Kleine Scheidegg panorama walk\", \"location\"=>\"Männlichen-Kleine Scheidegg\"}",
     "{\"type\"=>\"hiking\", \"name\"=>\"Royal Walk to the Crown\", \"location\"=>\"Männlichen\"}",
     "{\"type\"=>\"hiking\", \"name\"=>\"Walk up to Neuschwanstein\", \"location\"=>\"Neuschwanstein Castle\", \"distance\"=>\"~1 mile\", \"elevation_gain\"=>\"500ft\"}",
+    "{\"type\"=>\"horseback-riding\", \"name\"=>\"Icelandic horse riding\", \"location\"=>\"Sturlureykir Visiting Horse Farm\", \"participants\"=>[\"Brian\", \"Siena\"], \"date\"=>#<Date: 2023-06-16 ((2460112j,0s,0n),+0s,2299161j)>, \"time\"=>\"morning\", \"duration\"=>\"~2 hours\", \"horses\"=>\"white Icelandic horses\", \"terrain\"=>\"trails with waterfall views\", \"notes\"=>\"Siena was all grins from start to finish\", \"highlights\"=>[\"stable-tour\", \"arena-practice\", \"outdoor-trail-ride\", \"waterfall-scenery\"]}",
+    "{\"type\"=>\"recreation\", \"name\"=>\"Bounce place and ice cream\", \"location\"=>\"Near cottage\"}",
+    "{\"type\"=>\"recreation\", \"name\"=>\"Ice cream outing\", \"location\"=>\"Reykjavik\", \"date\"=>#<Date: 2023-06-18 ((2460114j,0s,0n),+0s,2299161j)>, \"participants\"=>\"Rowan and Sherri\", \"food\"=>\"Oreo ice cream\"}",
+    "{\"type\"=>\"relaxation\", \"description\"=>\"Pool and fire pit lounging\", \"location\"=>\"Omni Amelia Island Resort\"}",
+    "{\"type\"=>\"relaxation\", \"name\"=>\"Greenhouse rest\", \"location\"=>\"Birna's Cottage\", \"notes\"=>\"Research CPAP supplies, short nap\"}",
+    "{\"type\"=>\"relaxation\", \"name\"=>\"Hot tub and reading\", \"location\"=>\"Birna's Cottage\", \"notes\"=>\"Mid-60s weather, barely a cloud\"}",
     "{\"type\"=>\"relaxation\", \"name\"=>\"Lazy morning\", \"location\"=>\"Hotel Albatros\"}",
+    "{\"type\"=>\"shopping\", \"name\"=>\"Computer store and grocery\", \"location\"=>\"Borgarnes\", \"notes\"=>\"Needed Apple Watch charger\"}",
+    "{\"type\"=>\"shopping\", \"name\"=>\"Small market\", \"location\"=>\"Laugarvatn\", \"items\"=>\"Butter, spaghetti, jam, snacks\"}",
+    "{\"type\"=>\"shopping\", \"name\"=>\"Souvenir shopping\", \"location\"=>\"Reykjavik\", \"date\"=>#<Date: 2023-06-18 ((2460114j,0s,0n),+0s,2299161j)>, \"participants\"=>\"Brian and Siena\", \"items\"=>\"Pot holder and coaster\"}",
     "{\"type\"=>\"shopping\", \"name\"=>\"Supermarket provisions\", \"location\"=>\"Appenzell\"}",
+    "{\"type\"=>\"sightseeing\", \"name\"=>\"Deildartunguhver hot springs\", \"location\"=>\"Deildartunguhver\", \"date\"=>#<Date: 2023-06-16 ((2460112j,0s,0n),+0s,2299161j)>, \"time\"=>\"afternoon\", \"notes\"=>\"Very steamy\", \"natural_feature\"=>\"geothermal hot spring\"}",
     "{\"type\"=>\"sightseeing\", \"name\"=>\"Exploring Garmisch town center\", \"location\"=>\"Garmisch-Partenkirchen\"}",
+    "{\"type\"=>\"sightseeing\", \"name\"=>\"Geysir visit\", \"location\"=>\"Geysir\", \"time_of_day\"=>\"midday\", \"notes\"=>\"Busy tourist area, visitors center, main geyser viewing\"}",
     "{\"type\"=>\"sightseeing\", \"name\"=>\"Gornergrat visit\", \"location\"=>\"Gornergrat\", \"url\"=>\"https://zermatt.swiss/en/p/riffelalp-trail-nr-20-01tVj000005EwXaIAK\"}",
+    "{\"type\"=>\"sightseeing\", \"name\"=>\"Gullfoss visit\", \"location\"=>\"Gullfoss\", \"time\"=>\"Around 6:30pm\", \"notes\"=>\"No photo or video can capture the spectacle\"}",
     "{\"type\"=>\"sightseeing\", \"name\"=>\"Lake Constance visit\", \"location\"=>\"Bregenz, Austria\"}",
     "{\"type\"=>\"sightseeing\", \"name\"=>\"Photo walk\", \"location\"=>\"Zermatt\"}",
     "{\"type\"=>\"sightseeing\", \"name\"=>\"Scenic train ride\", \"location\"=>\"Pflach to Garmisch-Partenkirchen\", \"duration\"=>\"1h 15m\", \"notes\"=>\"One of the most beautiful train rides, comparable to Goldenpass Express\"}",
     "{\"type\"=>\"sightseeing\", \"name\"=>\"Staubbach Falls\", \"location\"=>\"Lauterbrunnen\"}",
+    "{\"type\"=>\"sightseeing\", \"name\"=>\"Thingvellir National Park visit\", \"location\"=>\"Thingvellir National Park\"}",
     "{\"type\"=>\"sightseeing\", \"name\"=>\"Walking tour of Appenzell town center\", \"location\"=>\"Appenzell\"}",
-    "{\"type\"=>\"travel\", \"description\"=>\"High-speed bullet train journey from Tokyo to Kyoto\", \"location\"=>\"Shinkansen\"}"
+    "{\"type\"=>\"travel\", \"description\"=>\"High-speed bullet train journey from Tokyo to Kyoto\", \"location\"=>\"Shinkansen\"}",
+    "{\"type\"=>\"travel\", \"name\"=>\"Departure from Iceland\", \"location\"=>\"KEF\", \"date\"=>#<Date: 2023-06-19 ((2460115j,0s,0n),+0s,2299161j)>, \"time\"=>\"afternoon/evening\", \"flight_time\"=>\"4:45pm\", \"flight_duration\"=>\"6.5 hours\", \"arrival_time\"=>\"7:30pm EDT\", \"carrier\"=>\"Icelandair\", \"notes\"=>\"International departure back to United States\"}",
+    "{\"type\"=>\"walking\", \"name\"=>\"Walking around Reykjavik\", \"location\"=>\"Reykjavik\", \"date\"=>#<Date: 2023-06-18 ((2460114j,0s,0n),+0s,2299161j)>, \"participants\"=>\"Brian and Siena\", \"duration\"=>\"Approximately 2.5 miles\", \"notes\"=>\"Exploring in the rain\"}"
   ],
   "timeline": [
     {
@@ -2469,6 +4063,714 @@
       "date": "2019-07-26 12:00:00 -0400",
       "subtitle": "Travels to Geneva, Chamonix (France), and Interlaken",
       "categories": "travel switzerland",
+      "tags": null,
+      "rollup_key": null
+    },
+    {
+      "title": "Iceland 2023 Day 1",
+      "date": "2023-06-11",
+      "subtitle": "Arrival and settling in",
+      "categories": "travel iceland",
+      "tags": [
+        "june2023"
+      ],
+      "rollup_key": "2023iceland",
+      "trip_day": 1,
+      "location_start": "Raleigh-Durham, North Carolina, USA",
+      "location_end": "Near Laugarvatn, Iceland",
+      "locations_visited": [
+        "Keflavík International Airport (KEF)",
+        "Selfoss, Iceland",
+        "Efstidalur II Farm & Restaurant",
+        "Laugarvatn area"
+      ],
+      "transport": [
+        {
+          "type": "air",
+          "route": "RDU to KEF",
+          "carrier": "Icelandair",
+          "notes": "Direct overnight flight"
+        },
+        {
+          "type": "car_rental",
+          "vehicle": "Tesla Model Y",
+          "provider": "Hertz Iceland",
+          "notes": "EV rental with trunk latch issues noted"
+        }
+      ],
+      "accommodation": {
+        "name": "Private Cottage",
+        "location": "Near Laugarvatn",
+        "amenities": [
+          "geothermal hot tub",
+          "sauna",
+          "greenhouse",
+          "full kitchen",
+          "mountain views"
+        ],
+        "notes": "Geothermal fresh water heated"
+      },
+      "activities": [
+        "International air travel",
+        "EV charging introduction (DC Fast Charger in Selfoss)",
+        "Bakery visit in Selfoss",
+        "Grocery shopping at Bónus supermarket",
+        "Farm visit at Efstidalur II",
+        "Geothermal hot tub",
+        "Home cooking"
+      ],
+      "dining": [
+        {
+          "location": "Selfoss bakery",
+          "type": "pastries and coffee"
+        },
+        {
+          "location": "Cottage",
+          "type": "home-cooked",
+          "meal": "pork chops and chicken from Bónus"
+        }
+      ],
+      "notable_experiences": [
+        "First experience with Iceland EV charging infrastructure",
+        "No jetway arrival at KEF",
+        "Neverending summer sunlight",
+        "Forgot CPAP hose"
+      ],
+      "weather": "Not specified"
+    },
+    {
+      "title": "Iceland 2023 Day 2",
+      "date": "2023-06-12",
+      "subtitle": "Recovery and exploration around the Golden Circle",
+      "categories": "travel iceland",
+      "tags": [
+        "june2023"
+      ],
+      "rollup_key": "2023iceland",
+      "transport": [
+        {
+          "type": "car",
+          "make": "Tesla",
+          "rental": true,
+          "notes": "Charging at Geysir (up to 98%), trunk seatbelt issue resolved"
+        }
+      ],
+      "accommodation": [
+        {
+          "name": "Birna's Cottage",
+          "type": "Airbnb",
+          "location": "Near Laugarvatn, Iceland",
+          "nights": 3,
+          "checkin": false,
+          "checkout": false,
+          "features": "Greenhouse, modern farmhouse style, vaulted ceilings"
+        }
+      ],
+      "activities": [
+        {
+          "type": "sightseeing",
+          "name": "Geysir visit",
+          "location": "Geysir",
+          "time_of_day": "midday",
+          "notes": "Busy tourist area, visitors center, main geyser viewing"
+        },
+        {
+          "type": "hiking",
+          "name": "Brúarfoss hike",
+          "location": "Brúarfoss",
+          "notes": "Access road only 600 meters from cottage, great photos"
+        },
+        {
+          "type": "shopping",
+          "name": "Small market",
+          "location": "Laugarvatn",
+          "items": "Butter, spaghetti, jam, snacks"
+        },
+        {
+          "type": "relaxation",
+          "name": "Greenhouse rest",
+          "location": "Birna's Cottage",
+          "notes": "Research CPAP supplies, short nap"
+        }
+      ],
+      "dining": [
+        {
+          "name": "Efstidalur II",
+          "location": "Near cottage",
+          "meal": "Early dinner",
+          "food": "Meatballs + fries, cheeseburger",
+          "rating": "Mixed - kids didn't like sauce, fries had cayenne",
+          "url": "https://efstidalur.is/"
+        }
+      ],
+      "weather": [
+        {
+          "time": "Early afternoon",
+          "conditions": "Sunny and partly cloudy",
+          "temperature": "High 50's F",
+          "wind": "Less than previous day",
+          "notes": "Very good Iceland weather"
+        }
+      ]
+    },
+    {
+      "title": "Iceland 2023 Day 3",
+      "date": "2023-06-13",
+      "subtitle": "Perfect weather and after-hours touring",
+      "categories": "travel iceland",
+      "tags": [
+        "june2023"
+      ],
+      "rollup_key": "2023iceland",
+      "transport": [
+        {
+          "type": "car",
+          "notes": "Easy drive to Gullfoss and Geysir"
+        }
+      ],
+      "accommodation": [
+        {
+          "name": "Birna's Cottage",
+          "location": "Near Laugarvatn, Iceland",
+          "nights": 3,
+          "checkin": false,
+          "checkout": false
+        }
+      ],
+      "activities": [
+        {
+          "type": "relaxation",
+          "name": "Hot tub and reading",
+          "location": "Birna's Cottage",
+          "notes": "Mid-60s weather, barely a cloud"
+        },
+        {
+          "type": "recreation",
+          "name": "Bounce place and ice cream",
+          "location": "Near cottage"
+        },
+        {
+          "type": "sightseeing",
+          "name": "Gullfoss visit",
+          "location": "Gullfoss",
+          "time": "Around 6:30pm",
+          "notes": "No photo or video can capture the spectacle"
+        },
+        {
+          "type": "hiking",
+          "name": "Geysir lookout hike",
+          "location": "Geysir",
+          "time": "Around 8pm",
+          "notes": "Spectacular views from the hilltop"
+        }
+      ],
+      "weather": {
+        "conditions": "Insanely beautiful",
+        "temperature": "Mid-60s F",
+        "sky": "Barely a cloud",
+        "wind": "Light breeze"
+      }
+    },
+    {
+      "title": "Iceland 2023 Day 4",
+      "date": "2023-06-14",
+      "subtitle": "Thingvellir and the journey to Húsafell",
+      "categories": "travel iceland",
+      "tags": [
+        "june2023"
+      ],
+      "rollup_key": "2023iceland",
+      "transport": [
+        {
+          "type": "car",
+          "route": "Birna's Cottage to Húsafell via Thingvellir",
+          "notes": "Red light stop for road work, indirect route with planned stops"
+        },
+        {
+          "type": "car",
+          "charging": "Baulan (49% to 90%)",
+          "duration": "Fast charge during dinner"
+        }
+      ],
+      "accommodation": [
+        {
+          "name": "Birna's Cottage",
+          "location": "Near Laugarvatn, Iceland",
+          "nights": 3,
+          "checkin": false,
+          "checkout": true
+        },
+        {
+          "name": "Húsafell Cottage (Airbnb)",
+          "location": "Húsafell, Iceland",
+          "nights": 3,
+          "checkin": true,
+          "checkout": false,
+          "notes": "Part of Hotel Húsafell property, challenging communication with host"
+        }
+      ],
+      "activities": [
+        {
+          "type": "sightseeing",
+          "name": "Thingvellir National Park visit",
+          "location": "Thingvellir National Park"
+        },
+        {
+          "type": "shopping",
+          "name": "Computer store and grocery",
+          "location": "Borgarnes",
+          "notes": "Needed Apple Watch charger"
+        }
+      ],
+      "dining": [
+        {
+          "name": "Baulan",
+          "location": "On route to Húsafell",
+          "type": "Mini-mart/gas station/restaurant",
+          "meal": "Dinner outside"
+        }
+      ]
+    },
+    {
+      "title": "Iceland 2023 Day 5",
+      "date": "2023-06-15",
+      "subtitle": "Lava tubes and waterfall hunting",
+      "categories": "travel iceland",
+      "tags": [
+        "june2023"
+      ],
+      "rollup_key": "2023iceland",
+      "transport": [
+        {
+          "type": "car",
+          "from": "Húsafell Cottage",
+          "to": "Víðgelmir lava tube",
+          "duration": "~20 minutes"
+        },
+        {
+          "type": "car",
+          "from": "Víðgelmir",
+          "to": "Húsafell Hotel Bistro",
+          "duration": "~20 minutes"
+        },
+        {
+          "type": "car",
+          "from": "Húsafell Cottage",
+          "to": "Hraunfossar Waterfall",
+          "duration": "~5 minutes"
+        }
+      ],
+      "accommodation": [
+        {
+          "name": "Húsafell Cottage (Airbnb)",
+          "location": "Húsafell, Iceland",
+          "nights": 3,
+          "checkin": false,
+          "checkout": false
+        }
+      ],
+      "activities": [
+        {
+          "day": 5,
+          "type": "tour",
+          "name": "Víðgelmir lava tube cave tour",
+          "location": "Víðgelmir",
+          "time": "Departed around 12:10pm",
+          "duration": "~90 minutes",
+          "participants": "Family group",
+          "notes": "Rowan especially enjoyed it. Helmets with headlamps provided. Metal stairs descend into massive cave system"
+        },
+        {
+          "day": 5,
+          "type": "hiking",
+          "name": "Attempted trail finding",
+          "location": "Húsafell",
+          "notes": "Could not locate marked trails despite maps and asking staff"
+        },
+        {
+          "day": 5,
+          "type": "sightseeing",
+          "name": "Hraunfossar Waterfall visit",
+          "location": "Hraunfossar, Near Húsafell",
+          "duration": "30 minutes",
+          "notes": "Series of waterfalls flowing from lava field"
+        },
+        {
+          "day": 5,
+          "type": "recreation",
+          "name": "Jump pillow",
+          "location": "Húsafell campground",
+          "time": "10:30pm",
+          "participants": "Kids",
+          "notes": "Doesn't get dark at this time of year"
+        }
+      ],
+      "dining": [
+        {
+          "name": "Húsafell Hotel Bistro",
+          "location": "Húsafell",
+          "meal": "Lunch",
+          "time": "~1:00pm",
+          "food": "Split meat lovers pizza, tempura shrimp",
+          "cost_category": "moderate",
+          "notes": "3 of us split pizza, Siena had shrimp"
+        },
+        {
+          "name": "Cottage",
+          "location": "Húsafell Cottage",
+          "meal": "Dinner",
+          "food": "Pork chops on the grill, potatoes, vegetables",
+          "cost_category": "budget",
+          "notes": "Left grill much cleaner than found it. Home cooking at fraction of restaurant prices"
+        }
+      ]
+    },
+    {
+      "title": "Iceland 2023 Day 6",
+      "date": "2023-06-16",
+      "subtitle": "Horses and hot springs",
+      "categories": "travel iceland",
+      "tags": [
+        "june2023"
+      ],
+      "rollup_key": "2023iceland",
+      "transport": [
+        {
+          "type": "car",
+          "purpose": "day trip",
+          "route": "Húsafell → Sturlureykir → Deildartunguhver → Reykholt → Húsafell"
+        }
+      ],
+      "accommodation": [
+        {
+          "name": "Húsafell Cottage (Airbnb)",
+          "location": "Húsafell, Iceland",
+          "type": "cottage",
+          "nights": 3,
+          "checkin": false,
+          "checkout": false,
+          "region": "West Iceland",
+          "features": [
+            "full-kitchen",
+            "living-room",
+            "multiple-bedrooms",
+            "deck",
+            "vaulted-ceiling"
+          ]
+        }
+      ],
+      "activities": [
+        {
+          "type": "horseback-riding",
+          "name": "Icelandic horse riding",
+          "location": "Sturlureykir Visiting Horse Farm",
+          "participants": [
+            "Brian",
+            "Siena"
+          ],
+          "date": "2023-06-16",
+          "time": "morning",
+          "duration": "~2 hours",
+          "horses": "white Icelandic horses",
+          "terrain": "trails with waterfall views",
+          "notes": "Siena was all grins from start to finish",
+          "highlights": [
+            "stable-tour",
+            "arena-practice",
+            "outdoor-trail-ride",
+            "waterfall-scenery"
+          ]
+        },
+        {
+          "type": "sightseeing",
+          "name": "Deildartunguhver hot springs",
+          "location": "Deildartunguhver",
+          "date": "2023-06-16",
+          "time": "afternoon",
+          "notes": "Very steamy",
+          "natural_feature": "geothermal hot spring"
+        },
+        {
+          "type": "cultural",
+          "name": "Old stone house and cemetery exploration",
+          "location": "Reykholt",
+          "date": "2023-06-16",
+          "time": "afternoon",
+          "features": [
+            "church-tower",
+            "historic-buildings",
+            "cemetery",
+            "informational-signs"
+          ]
+        }
+      ],
+      "dining": [
+        {
+          "name": "Hot dog stand",
+          "location": "Deildartunguhver",
+          "meal": "lunch",
+          "cuisine": "Icelandic",
+          "date": "2023-06-16",
+          "time": "afternoon",
+          "food": "Icelandic hot dog",
+          "cost_level": "budget",
+          "notes": "Much better than expected, crunchy onions really make it",
+          "rating": "excellent"
+        },
+        {
+          "name": "Húsafell Hotel Bistro",
+          "location": "Húsafell",
+          "meal": "dinner",
+          "date": "2023-06-16",
+          "time": "evening",
+          "food": "Buffet and meat lovers pizza",
+          "participants": [
+            "Brian",
+            "Siena",
+            "and family"
+          ],
+          "notes": "Live and learn",
+          "buffet_rating": "poor",
+          "pizza_rating": "good"
+        }
+      ],
+      "weather": {
+        "conditions": "overcast",
+        "notes": "Typical Icelandic weather"
+      }
+    },
+    {
+      "title": "Iceland 2023 Day 7",
+      "date": "2023-06-17",
+      "subtitle": "Moving day to Reykjavik",
+      "categories": "travel iceland",
+      "tags": [
+        "june2023"
+      ],
+      "rollup_key": "2023iceland",
+      "transport": [
+        {
+          "type": "car_rental",
+          "provider": "Hertz",
+          "vehicle": "Tesla",
+          "dropoff_location": "Reykjavik Domestic Airport",
+          "dropoff_time": "3pm"
+        },
+        {
+          "type": "scooter_rental",
+          "provider": "Zolo",
+          "distance": "1.2mi"
+        }
+      ],
+      "activities": [
+        "Car return and walk through Reykjavik",
+        "Church visit (Hallgrímskirkja interior tour)",
+        "Playground visit",
+        "Fish and chips lunch",
+        "Waterfront walk to Sun Voyager sculpture",
+        "Scooter rental and ride",
+        "Italian dinner"
+      ]
+    },
+    {
+      "title": "Iceland 2023 Day 8",
+      "date": "2023-06-18",
+      "subtitle": "Rainy day in Reykjavik",
+      "categories": "travel iceland",
+      "tags": [
+        "june2023"
+      ],
+      "rollup_key": "2023iceland",
+      "trip_day": 8,
+      "accommodation": [
+        {
+          "name": "Old Reykjavik Charm",
+          "location": "Reykjavik, Iceland",
+          "type": "apartment",
+          "nights": 2,
+          "checkin": false,
+          "checkout": false,
+          "url": "https://oldreykjavik.is/"
+        }
+      ],
+      "activities": [
+        {
+          "type": "dining",
+          "name": "Bakery breakfast",
+          "location": "Near Sun Voyager sculpture",
+          "date": "2023-06-18",
+          "time": "morning",
+          "food": "Coffee and croissant",
+          "notes": "Caught up on news in corner spot"
+        },
+        {
+          "type": "shopping",
+          "name": "Souvenir shopping",
+          "location": "Reykjavik",
+          "date": "2023-06-18",
+          "participants": "Brian and Siena",
+          "items": "Pot holder and coaster"
+        },
+        {
+          "type": "walking",
+          "name": "Walking around Reykjavik",
+          "location": "Reykjavik",
+          "date": "2023-06-18",
+          "participants": "Brian and Siena",
+          "duration": "Approximately 2.5 miles",
+          "notes": "Exploring in the rain"
+        },
+        {
+          "type": "cultural",
+          "name": "Punk Museum visit",
+          "location": "Icelandic Punk Museum",
+          "date": "2023-06-18",
+          "notes": "Near Prime Minister's house"
+        },
+        {
+          "type": "cultural",
+          "name": "Rainbow street viewing",
+          "location": "Reykjavik rainbow road",
+          "date": "2023-06-18",
+          "notes": "Iconic rainbow-painted street"
+        },
+        {
+          "type": "cultural",
+          "name": "Bookstore visit",
+          "location": "Hús máls og menningar",
+          "date": "2023-06-18",
+          "participants": "Brian and Siena",
+          "notes": "Iconic bookstore with bar and live music venue"
+        },
+        {
+          "type": "recreation",
+          "name": "Ice cream outing",
+          "location": "Reykjavik",
+          "date": "2023-06-18",
+          "participants": "Rowan and Sherri",
+          "food": "Oreo ice cream"
+        }
+      ],
+      "dining": [
+        {
+          "name": "Bakery near Sun Voyager",
+          "location": "Reykjavik waterfront",
+          "meal": "Breakfast",
+          "date": "2023-06-18",
+          "time": "morning",
+          "food": "Coffee and croissant",
+          "participants": "Brian",
+          "cost_level": "moderate"
+        },
+        {
+          "name": "Ice cream shop",
+          "location": "Reykjavik",
+          "meal": "snack",
+          "date": "2023-06-18",
+          "food": "Oreo ice cream",
+          "participants": "Rowan and Sherri"
+        },
+        {
+          "name": "Subway",
+          "location": "Reykjavik",
+          "meal": "Dinner",
+          "date": "2023-06-18",
+          "time": "evening",
+          "participants": "Brian, Sherri, and Siena",
+          "cuisine": "American fast food",
+          "notes": "Quick and predictable option",
+          "cost_level": "budget"
+        },
+        {
+          "name": "Home cooking",
+          "location": "Old Reykjavik Charm",
+          "meal": "Dinner (Brian's meal)",
+          "date": "2023-06-18",
+          "food": "Ham sandwiches",
+          "participants": "All family",
+          "notes": "Made by Sherri, ate and talked in the kitchen",
+          "cost_level": "budget"
+        }
+      ],
+      "weather": {
+        "conditions": "Rainy",
+        "intensity": "Light in morning, heavier at times",
+        "temperature": "Chilly",
+        "notes": "Columbia rain jacket got heavy use",
+        "impact": "Mostly stayed indoors"
+      }
+    },
+    {
+      "title": "Iceland 2023 Day 9",
+      "date": "2023-06-19",
+      "subtitle": "Departure day and KEF airport chaos",
+      "categories": "travel iceland",
+      "tags": [
+        "june2023"
+      ],
+      "rollup_key": "2023iceland",
+      "trip_day": 9,
+      "transport": [
+        {
+          "type": "private-car",
+          "route": "Old Reykjavik Charm to KEF",
+          "pickup": "11:00am",
+          "arrival": "11:45am",
+          "duration": "45 minutes",
+          "provider": "Private car service"
+        },
+        {
+          "type": "flight",
+          "route": "KEF to US",
+          "departure": "4:45pm",
+          "arrival": "7:30pm EDT",
+          "duration": "6.5 hours",
+          "carrier": "Icelandair",
+          "notes": "Direct transatlantic flight"
+        }
+      ],
+      "accommodation": [
+        {
+          "name": "Old Reykjavik Charm",
+          "location": "Reykjavik, Iceland",
+          "type": "apartment",
+          "nights": 2,
+          "checkin": false,
+          "checkout": true,
+          "url": "https://oldreykjavik.is/"
+        }
+      ],
+      "activities": [
+        {
+          "type": "travel",
+          "name": "Departure from Iceland",
+          "location": "KEF",
+          "date": "2023-06-19",
+          "time": "afternoon/evening",
+          "flight_time": "4:45pm",
+          "flight_duration": "6.5 hours",
+          "arrival_time": "7:30pm EDT",
+          "carrier": "Icelandair",
+          "notes": "International departure back to United States"
+        }
+      ],
+      "dining": [
+        {
+          "location": "KEF Airport",
+          "meal": "snacks/waiting",
+          "notes": "Expensive airport food, $33 for regular takeaway sushi",
+          "cost_level": "very expensive"
+        }
+      ],
+      "weather": {
+        "conditions": "departure day"
+      }
+    },
+    {
+      "title": "Iceland 2023 - our first family trip to Iceland",
+      "date": "2023-06-30",
+      "subtitle": "Our first trip to Iceland and the kids' first real trip to Europe",
+      "categories": "travel rollup",
       "tags": null,
       "rollup_key": null
     },
@@ -3077,7 +5379,7 @@
     {
       "title": "Iceland Cruise Day 4",
       "date": "2024-08-05",
-      "subtitle": "Between NYC and Halifax, the first many sea days we'd have on this voyage",
+      "subtitle": "Between NYC and Halifax, the first of many sea days we'd have on this voyage",
       "categories": "travel cruise iceland",
       "tags": [
         "celebrity",
@@ -3384,7 +5686,7 @@
     {
       "title": "Iceland Cruise Day 10",
       "date": "2024-08-11",
-      "subtitle": "Drizzly day in Qarqortoq, Greenland",
+      "subtitle": "Drizzly day in Qaqortoq, Greenland",
       "categories": "travel cruise iceland",
       "tags": [
         "greenland",
@@ -3461,7 +5763,7 @@
         "reykjavik",
         "iceland"
       ],
-      "rollup_key": null
+      "rollup_key": "2024icelandonland"
     },
     {
       "title": "Iceland Visit 2024 Day 2",
@@ -3472,7 +5774,7 @@
         "reykjavik",
         "iceland"
       ],
-      "rollup_key": null
+      "rollup_key": "2024icelandonland"
     },
     {
       "title": "Iceland Visit 2024 Day 3",
@@ -3483,7 +5785,7 @@
         "reykjavik",
         "iceland"
       ],
-      "rollup_key": null
+      "rollup_key": "2024icelandonland"
     },
     {
       "title": "Iceland Visit 2024 Day 4",
@@ -3494,6 +5796,14 @@
         "reykjavik",
         "iceland"
       ],
+      "rollup_key": "2024icelandonland"
+    },
+    {
+      "title": "Iceland post-cruise visit 2024",
+      "date": "2024-09-23",
+      "subtitle": "Our four days on land in Iceland after disembarking our cruise in Reykjavik",
+      "categories": "travel rollup",
+      "tags": null,
       "rollup_key": null
     },
     {
@@ -3612,7 +5922,7 @@
       "transport": [
         {
           "type": "cruise_ship",
-          "vessel": "Celebrity Equinox",
+          "vessel": "Celebrity Eclipse",
           "route": "Fort Lauderdale to Grand Cayman",
           "operator": "Celebrity Cruises"
         }
@@ -3621,21 +5931,21 @@
         {
           "day": 2,
           "type": "relaxation",
-          "description": "Sea day aboard Celebrity Equinox",
+          "description": "Sea day aboard Celebrity Eclipse",
           "location": "At sea, Caribbean"
         },
         {
           "day": 2,
           "type": "photography",
           "description": "Morning photography and writing on deck",
-          "location": "Celebrity Equinox",
+          "location": "Celebrity Eclipse",
           "time": "7:00-8:00am"
         },
         {
           "day": 2,
           "type": "relaxation",
           "description": "Sunset viewing on balcony",
-          "location": "Celebrity Equinox"
+          "location": "Celebrity Eclipse"
         }
       ]
     },
@@ -4004,7 +6314,27 @@
         "florida",
         "disney"
       ],
-      "rollup_key": "20245springbreak"
+      "rollup_key": "2025springbreak",
+      "transport": [
+        {
+          "type": "car",
+          "from": "Raleigh-Durham, NC",
+          "to": "Amelia Island, FL",
+          "notes": "First stop on nine-day vacation to Walt Disney World"
+        }
+      ],
+      "activities": [
+        {
+          "type": "dining",
+          "description": "Meals at Marché Burette and Falcon's Nest restaurants",
+          "location": "Omni Amelia Island Resort"
+        },
+        {
+          "type": "relaxation",
+          "description": "Pool and fire pit lounging",
+          "location": "Omni Amelia Island Resort"
+        }
+      ]
     },
     {
       "title": "Norway and Denmark Day 1",
@@ -4014,7 +6344,45 @@
       "tags": [
         "may2025"
       ],
-      "rollup_key": "2025norway"
+      "rollup_key": "2025norway",
+      "trip_day": 1,
+      "location_start": "Holy Springs, NC",
+      "location_end": "Over the North Atlantic",
+      "locations_visited": [
+        "Raleigh-Durham Airport (RDU)",
+        "Baltimore-Washington Airport (BWI)"
+      ],
+      "transport": [
+        {
+          "type": "air",
+          "route": "RDU to BWI",
+          "carrier": "Southwest Airlines"
+        },
+        {
+          "type": "air",
+          "route": "BWI to Keflavik (KEF)",
+          "carrier": "Icelandair",
+          "notes": "Overnight flight, 6 hours"
+        }
+      ],
+      "activities": [
+        "Navigating baggage tag confusion at Southwest check-in",
+        "Seven hour layover at BWI",
+        "Lunch at BWI Concourse A",
+        "Overnight flight to Iceland"
+      ],
+      "dining": [
+        {
+          "location": "BWI Concourse A",
+          "type": "Japanese",
+          "dish": "Sushi bento box"
+        }
+      ],
+      "notable_experiences": [
+        "First traveler to test new Southwest/Icelandair baggage partnership",
+        "Uncertainty about whether bag would transfer properly to Icelandair"
+      ],
+      "weather": "Clear for departure"
     },
     {
       "title": "Norway and Denmark Day 2",
@@ -4024,7 +6392,69 @@
       "tags": [
         "may2025"
       ],
-      "rollup_key": "2025norway"
+      "rollup_key": "2025norway",
+      "trip_day": 2,
+      "location_start": "Over the North Atlantic",
+      "location_end": "Bergen, Norway",
+      "locations_visited": [
+        "Keflavik Airport (KEF), Iceland",
+        "Bergen Airport (BGO), Norway",
+        "Downtown Bergen",
+        "Fløyen Mountain"
+      ],
+      "transport": [
+        {
+          "type": "air",
+          "route": "KEF to Bergen (BGO)",
+          "carrier": "Icelandair"
+        },
+        {
+          "type": "light_rail",
+          "route": "Bergen Airport to Nonneseter station",
+          "notes": "45 minute ride"
+        },
+        {
+          "type": "funicular",
+          "route": "Downtown Bergen to Fløyen summit",
+          "notes": "Fløibanen funicular, ~$7.50"
+        }
+      ],
+      "accommodation": {
+        "name": "Hotel Park",
+        "location": "Bergen, Norway",
+        "type": "budget hotel",
+        "notes": "Small but serviceable room, early check-in allowed",
+        "amenities": [
+          "WiFi",
+          "Private bathroom"
+        ]
+      },
+      "activities": [
+        "Passport control and baggage claim at Keflavik",
+        "Four hour layover in Iceland with wild weather",
+        "Arrival in Bergen and early hotel check-in",
+        "Riding Fløibanen funicular to Fløyen summit",
+        "Hiking down Fløyen mountain (~300m descent)"
+      ],
+      "dining": [
+        {
+          "location": "Icelandair flight",
+          "type": "airline meal",
+          "dish": "Sliced chicken and melted cheese"
+        },
+        {
+          "location": "Near Hotel Park, Bergen",
+          "type": "Thai",
+          "dish": "Thin-noodle pad thai"
+        }
+      ],
+      "notable_experiences": [
+        "Wild Iceland weather alternating between snow and sun",
+        "Successfully reunited with luggage in Bergen",
+        "First views of Bergen from Fløyen summit",
+        "Challenging downhill hike with jelly legs"
+      ],
+      "weather": "Wild in Iceland (snow/sun alternating), clear in Bergen"
     },
     {
       "title": "Norway and Denmark Day 3",
@@ -4034,7 +6464,48 @@
       "tags": [
         "may2025"
       ],
-      "rollup_key": "2025norway"
+      "rollup_key": "2025norway",
+      "trip_day": 3,
+      "location_start": "Bergen, Norway",
+      "location_end": "Bergen, Norway",
+      "locations_visited": [
+        "Downtown Bergen",
+        "Bryggens Museum",
+        "Bergen Harbor/Waterfront",
+        "Bryggen (historic wharf district)",
+        "Bergen Train Station"
+      ],
+      "accommodation": {
+        "name": "Hotel Park",
+        "location": "Bergen, Norway",
+        "type": "budget hotel"
+      },
+      "activities": [
+        "Walking tour of medieval Bergen with Bryggens Museum",
+        "Exploring Bryggen UNESCO World Heritage wharf",
+        "Learning about Bergen's fire history",
+        "Visiting historic church and timber buildings",
+        "People-watching at harbor fish market"
+      ],
+      "dining": [
+        {
+          "location": "Bergen Harbor fish market",
+          "type": "seafood",
+          "dish": "Fresh salmon sandwich"
+        },
+        {
+          "location": "Bergen Train Station",
+          "type": "Japanese",
+          "dish": "Bento box with sashimi, sushi, tempura, and grilled meat"
+        }
+      ],
+      "notable_experiences": [
+        "Small tour group of only 6 people including blind Norwegian couple",
+        "Fascinating history of Bergen fires and reconstruction",
+        "Walking through narrow Bryggen alleyways",
+        "Discovering expensive sunscreen prices (~$40 USD)"
+      ],
+      "weather": "Clear and sunny, blue sky"
     },
     {
       "title": "Norway and Denmark Day 4",
@@ -4044,7 +6515,71 @@
       "tags": [
         "may2025"
       ],
-      "rollup_key": "2025norway"
+      "rollup_key": "2025norway",
+      "trip_day": 4,
+      "location_start": "Bergen, Norway",
+      "location_end": "Balestrand, Norway",
+      "locations_visited": [
+        "Bergen Ferry Terminal",
+        "Sognefjord (via express ferry)",
+        "Balestrand",
+        "St. Olaf's Church"
+      ],
+      "transport": [
+        {
+          "type": "rideshare",
+          "route": "Hotel Park to Bergen Ferry Terminal",
+          "carrier": "Uber",
+          "notes": "1.3km, expensive ~$17 minimum fare"
+        },
+        {
+          "type": "ferry",
+          "route": "Bergen to Balestrand via Sognefjord",
+          "carrier": "Norled Express Ferry",
+          "duration": "~4 hours",
+          "cost": "~$100 USD",
+          "notes": "High-speed ferry at 37mph through fjords, absolutely stunning"
+        }
+      ],
+      "accommodation": {
+        "name": "Kviknes Hotel",
+        "location": "Balestrand, Norway",
+        "type": "historic hotel",
+        "notes": "Modern wing (1960s) with balcony room, early check-in allowed",
+        "amenities": [
+          "Balcony with fjord view",
+          "WiFi",
+          "Bar/restaurant"
+        ]
+      },
+      "activities": [
+        "Express ferry journey through Sognefjord",
+        "Early check-in at Kviknes Hotel",
+        "Visiting St. Olaf's Church (inspiration for Frozen's chapel)",
+        "Solo time in historic church",
+        "Late evening walk around Balestrand",
+        "Moonrise photography over fjord"
+      ],
+      "dining": [
+        {
+          "location": "Pearl by Harbor",
+          "type": "Norwegian",
+          "dish": "Grilled salmon with teriyaki sauce, mashed potatoes, grilled vegetables"
+        },
+        {
+          "location": "Baalee Restaurant",
+          "type": "Italian",
+          "dish": "Shrimp scampi pasta"
+        }
+      ],
+      "notable_experiences": [
+        "Incredible express ferry ride through fjords - \"best $100 ever spent\"",
+        "Nearly missing ferry stop due to slow passenger",
+        "Peaceful solitude at St. Olaf's Church",
+        "Seagulls that never sleep",
+        "Moon over mountains photography frustration"
+      ],
+      "weather": "Clear and comfortable (high 50s F), beautiful fjord views"
     },
     {
       "title": "VIDEO Bergen to Balestrand ferry",
@@ -4064,7 +6599,59 @@
       "tags": [
         "may2025"
       ],
-      "rollup_key": "2025norway"
+      "rollup_key": "2025norway",
+      "trip_day": 5,
+      "location_start": "Balestrand, Norway",
+      "location_end": "Balestrand, Norway",
+      "locations_visited": [
+        "Balestrand town",
+        "Balestrand Forest Trail (Skogstur)",
+        "Sandsstølen viewpoint",
+        "Balabu day-trip cabin",
+        "Sognefjord overlook"
+      ],
+      "accommodation": {
+        "name": "Kviknes Hotel",
+        "location": "Balestrand, Norway",
+        "type": "historic hotel",
+        "notes": "CPAP power issues during night"
+      },
+      "activities": [
+        "Shopping for breakfast and water at Coop grocery",
+        "Balestrand Forest Hike - 5.2 miles, 1700ft elevation gain",
+        "Hiking clockwise loop starting from hotel",
+        "Challenging second quarter with steep sections and roots",
+        "Reaching scenic overlooks and viewpoints",
+        "Visiting Balabu Dagsturhytta (day-trip cabin)",
+        "Planning next day's complex ferry/bus route"
+      ],
+      "dining": [
+        {
+          "location": "Coop grocery store",
+          "type": "bakery",
+          "dish": "Pastry for breakfast"
+        },
+        {
+          "location": "Pearl by Harbor",
+          "type": "Norwegian",
+          "dish": "Salmon and mashed potatoes (repeat meal)"
+        },
+        {
+          "location": "Kviknes Hotel bar",
+          "type": "European",
+          "dish": "Lobster bisque"
+        }
+      ],
+      "notable_experiences": [
+        "CPAP machine power plug issues causing broken sleep",
+        "Accidentally buying carbonated water for hike",
+        "Testing new Gregory Miko 20 daypack from REI",
+        "Only encountering one hiker on first half, many on second half",
+        "Discovering better in-and-out route would be preferable",
+        "Complex travel planning between Norled, Vy, and Skyss services",
+        "Evening attempt to get Bergen soup at Baalee (not available)"
+      ],
+      "weather": "Clear skies, comfortable hiking conditions"
     },
     {
       "title": "Norway and Denmark Day 6",
@@ -4074,7 +6661,73 @@
       "tags": [
         "may2025"
       ],
-      "rollup_key": "2025norway"
+      "rollup_key": "2025norway",
+      "trip_day": 6,
+      "location_start": "Balestrand, Norway",
+      "location_end": "Voss, Norway",
+      "locations_visited": [
+        "Balestrand ferry terminal",
+        "Vik",
+        "Vangsnes (unplanned fjord tour)",
+        "Voss town center"
+      ],
+      "transport": [
+        {
+          "type": "ferry",
+          "route": "Balestrand to Vik",
+          "carrier": "Norled Express Ferry",
+          "duration": "20 minutes",
+          "departure": "7:50am"
+        },
+        {
+          "type": "bus",
+          "route": "Vik to Voss via Vangsnes",
+          "carrier": "Skyss bus 810",
+          "duration": "~90 minutes",
+          "cost": "~$16 USD",
+          "notes": "Arrived 30 mins early, got bonus fjord tour to Vangsnes"
+        }
+      ],
+      "accommodation": {
+        "name": "Scandic Voss",
+        "location": "Voss, Norway",
+        "type": "chain hotel",
+        "notes": "Early check-in at 10:45am for $20, air-conditioned room",
+        "amenities": [
+          "Air conditioning",
+          "WiFi",
+          "Lake view"
+        ]
+      },
+      "activities": [
+        "Express ferry from Balestrand to Vik",
+        "Unplanned bonus tour to Vangsnes car ferry terminus",
+        "Bus journey through winter wonderland landscape",
+        "Exploring downtown Voss",
+        "Evening walk around town",
+        "Visiting Voss cemetery"
+      ],
+      "dining": [
+        {
+          "location": "Gas station across from Scandic Voss",
+          "type": "convenience",
+          "dish": "Mediocre tomato-basil-mozzarella sandwich"
+        },
+        {
+          "location": "Vossa Sushi",
+          "type": "Japanese",
+          "dish": "Nigiri (skipped expensive appetizers)"
+        }
+      ],
+      "notable_experiences": [
+        "Second night of broken sleep due to loud seagulls",
+        "Bus arriving 30 minutes early at Vik",
+        "Getting free bonus fjord tour on bus to Vangsnes",
+        "Winter landscape midway through bus journey (unexpected snow)",
+        "Pricing quirks at sushi restaurant (expensive starters, cheap nigiri)",
+        "No seagulls at Voss hotel!"
+      ],
+      "weather": "Overcast and gray initially, sunny in evening"
     },
     {
       "title": "Norway and Denmark Day 7",
@@ -4084,7 +6737,60 @@
       "tags": [
         "may2025"
       ],
-      "rollup_key": "2025norway"
+      "rollup_key": "2025norway",
+      "trip_day": 7,
+      "location_start": "Voss, Norway",
+      "location_end": "Voss, Norway",
+      "locations_visited": [
+        "Voss gondola (Hangurstoppen)",
+        "Mountain summit at 1295m above sea level",
+        "Bordalsgjelet Gorge",
+        "Downtown Voss"
+      ],
+      "transport": [
+        {
+          "type": "gondola",
+          "route": "Voss town to Hangurstoppen summit",
+          "cost": "~$18 each way"
+        }
+      ],
+      "accommodation": {
+        "name": "Scandic Voss",
+        "location": "Voss, Norway",
+        "type": "chain hotel"
+      },
+      "activities": [
+        "Gondola ride to mountain summit (1295m elevation)",
+        "Attempting panoramic trail at summit (gave up 1/4 way in)",
+        "Enjoying views from summit swing",
+        "3-mile Bordalsgjelet Gorge hike",
+        "Covered bridge crossing over Vosso river",
+        "Rocky gorge trail with handrails",
+        "Reading Kindle on hotel sun deck"
+      ],
+      "dining": [
+        {
+          "location": "Hangurstoppen Restaurant (summit)",
+          "type": "Norwegian",
+          "dish": "Shrimp salad (limited menu, no grilling/frying)",
+          "notes": "Expected burger, got shrimp salad instead but it was tasty"
+        },
+        {
+          "location": "Vossevangen Grill",
+          "type": "Steakhouse",
+          "dish": "Tenderloin (rare instead of medium-rare), asparagus, broccoli, mushrooms, au gratin potatoes"
+        }
+      ],
+      "notable_experiences": [
+        "First great night sleep with air conditioning and no seagulls",
+        "Limited restaurant menu at summit (no burger available)",
+        "Beautiful 55F sunny weather perfect for hiking",
+        "Wet slanted rocks in gorge requiring careful footing",
+        "Afternoon reading in the sun",
+        "Memorable au gratin potato dish to recreate at home",
+        "Lost Kindle somewhere in Norway (last photo shows it)"
+      ],
+      "weather": "Beautiful sunny day, high 50s F, perfect for outdoor activities"
     },
     {
       "title": "Norway and Denmark Day 8",
@@ -4094,7 +6800,69 @@
       "tags": [
         "may2025"
       ],
-      "rollup_key": "2025norway"
+      "rollup_key": "2025norway",
+      "trip_day": 8,
+      "location_start": "Voss, Norway",
+      "location_end": "Oslo, Norway",
+      "locations_visited": [
+        "Voss train station",
+        "Bergensbanen railway route",
+        "Oslo Central Station (Oslo S)",
+        "Oslo Opera House",
+        "Downtown Oslo"
+      ],
+      "transport": [
+        {
+          "type": "train",
+          "route": "Voss to Oslo",
+          "service": "Bergensbanen (Bergen Line)",
+          "carrier": "Vy",
+          "duration": "6+ hours (1:03pm to 7:20pm)",
+          "notes": "Right-side seat pre-booked for best views, arrived late"
+        }
+      ],
+      "accommodation": {
+        "name": "Clarion Hotel Oslo",
+        "location": "Oslo, Norway",
+        "type": "upscale chain hotel",
+        "notes": "Near Oslo Central Station, excessive number of pillows",
+        "amenities": [
+          "WiFi",
+          "Modern minimalist design",
+          "Desk area",
+          "Many decorative pillows"
+        ]
+      },
+      "activities": [
+        "75 minutes waiting on sunny train platform",
+        "6+ hour scenic train journey through varied Norwegian landscape",
+        "Evening walk around downtown Oslo",
+        "Visiting Oslo Opera House at dusk",
+        "Walking on Opera House marble roof",
+        "Photography session at twilight"
+      ],
+      "dining": [
+        {
+          "location": "Train dining car",
+          "type": "Norwegian",
+          "dish": "Meatballs with mashed potatoes and gravy"
+        },
+        {
+          "location": "El Camino (near hotel)",
+          "type": "Mexican",
+          "dish": "Burrito bowl"
+        }
+      ],
+      "notable_experiences": [
+        "Discovering scraped knee while boarding train",
+        "Varied biomes along train route (rivers, snow, forests)",
+        "Train motion sickness by 5pm from constant curves",
+        "Too many pillows in hotel room (humorous)",
+        "Stunning Oslo Opera House architecture at dusk",
+        "Walking on Opera House sloped marble roof",
+        "Ferris wheel lit up in evening"
+      ],
+      "weather": "Sunny and high 50s in Voss, clear evening in Oslo"
     },
     {
       "title": "Norway and Denmark Day 9",
@@ -4104,7 +6872,79 @@
       "tags": [
         "may2025"
       ],
-      "rollup_key": "2025norway"
+      "rollup_key": "2025norway",
+      "trip_day": 9,
+      "location_start": "Oslo, Norway",
+      "location_end": "DFDS Nordic Crown ferry (Oslo to Copenhagen)",
+      "locations_visited": [
+        "Vigeland Park",
+        "Royal Palace (Oslo)",
+        "Downtown Oslo malls",
+        "Oslo ferry terminal"
+      ],
+      "transport": [
+        {
+          "type": "light_rail",
+          "route": "Oslo S to Vigeland Park",
+          "carrier": "Ruter (tram 15)",
+          "duration": "~20 minutes"
+        },
+        {
+          "type": "ferry",
+          "route": "Oslo to Copenhagen",
+          "carrier": "DFDS Nordic Crown",
+          "boarding": "2:30pm",
+          "notes": "Overnight ferry, outside stateroom with window"
+        }
+      ],
+      "accommodation": {
+        "name": "DFDS Nordic Crown - Outside Stateroom",
+        "location": "Ferry between Oslo and Copenhagen",
+        "type": "ferry cabin",
+        "notes": "Small cabin with window, 4 beds total, towels hidden under bed",
+        "amenities": [
+          "Window",
+          "4 bunks",
+          "Private bathroom"
+        ]
+      },
+      "activities": [
+        "Visiting Vigeland Park sculpture garden (200+ sculptures)",
+        "Cafe breakfast at historic manor",
+        "Walking to Royal Palace",
+        "Exploring downtown Oslo malls",
+        "Walking to ferry terminal (25 minutes)",
+        "Exploring ship during daylight",
+        "Watching Norwegian fjords from deck"
+      ],
+      "dining": [
+        {
+          "location": "Vigeland Park cafe",
+          "type": "Cafe",
+          "dish": "Chocolate croissant and Americano (average quality)"
+        },
+        {
+          "location": "Mall near Oslo S",
+          "type": "Japanese",
+          "dish": "Sushi-to-go (best ever encountered)"
+        },
+        {
+          "location": "DFDS Nordic Crown buffet",
+          "type": "Buffet",
+          "dish": "Various items",
+          "cost": "~299 DKK (~$45 USD)"
+        }
+      ],
+      "notable_experiences": [
+        "Constitution Day preparations at Royal Palace (May 17th)",
+        "Tour groups from MSC cruise ship at Vigeland Park",
+        "Phenomenal mall sushi",
+        "Easy 25-minute walk to ferry terminal (not industrial)",
+        "Shower without towel (dried with LinkedIn sweatshirt)",
+        "Finding towels hidden under pull-down bed",
+        "Realizing Kindle was lost at Oslo hotel"
+      ],
+      "weather": "Bright, warm, beautiful day"
     },
     {
       "title": "Norway and Denmark Day 10",
@@ -4114,7 +6954,68 @@
       "tags": [
         "may2025"
       ],
-      "rollup_key": "2025norway"
+      "rollup_key": "2025norway",
+      "trip_day": 10,
+      "location_start": "DFDS Nordic Crown ferry",
+      "location_end": "Copenhagen, Denmark",
+      "locations_visited": [
+        "Copenhagen ferry terminal",
+        "Elgiganten electronics store",
+        "Downtown Copenhagen",
+        "Tivoli Gardens amusement park"
+      ],
+      "transport": [
+        {
+          "type": "metro",
+          "route": "Ferry terminal to hotel area",
+          "carrier": "Copenhagen Metro/S-train",
+          "notes": "Confusion between Metro and S-train systems, eventual success"
+        }
+      ],
+      "accommodation": {
+        "name": "Copenhagen Strand",
+        "location": "Copenhagen, Denmark",
+        "type": "boutique hotel",
+        "notes": "No early check-in available, stored luggage",
+        "amenities": [
+          "WiFi",
+          "Minimalist Scandinavian design",
+          "City view"
+        ]
+      },
+      "activities": [
+        "Navigating Copenhagen public transit systems",
+        "Failed quest to replace lost Kindle at Elgiganten",
+        "Walking and people-watching around Copenhagen",
+        "Evening visit to Tivoli Gardens amusement park",
+        "Exploring historic amusement park (opened 1843)"
+      ],
+      "dining": [
+        {
+          "location": "Thai restaurant near hotel",
+          "type": "Thai",
+          "dish": "Pad Thai",
+          "cost": "Charged $4+ for tap water, inappropriate",
+          "notes": "Negative experience with presumptuous USD currency selection"
+        },
+        {
+          "location": "Pakistani restaurant",
+          "type": "Pakistani",
+          "dish": "Excellent meal",
+          "notes": "70 meters from hotel"
+        }
+      ],
+      "notable_experiences": [
+        "Confusion navigating Metro vs S-train systems",
+        "No Kindles in stock anywhere in Copenhagen",
+        "Negative restaurant experience (tap water charge, forced USD)",
+        "Saturday people-watching in beautiful weather",
+        "Tivoli Gardens at night - \"amusement parks are better at night\"",
+        "Comparing Tivoli to Disney parks (perfect size, city oasis)",
+        "Missed visiting in 2000 due to colleagues preferring Hard Rock Cafe",
+        "Strong Copenhagen cycling culture"
+      ],
+      "weather": "Great weather, perfect for walking and people-watching"
     },
     {
       "title": "Norway and Denmark Day 11",
@@ -4124,7 +7025,37 @@
       "tags": [
         "may2025"
       ],
-      "rollup_key": "2025norway"
+      "rollup_key": "2025norway",
+      "trip_day": 11,
+      "location_start": "Copenhagen, Denmark",
+      "location_end": "Copenhagen, Denmark",
+      "locations_visited": [
+        "Copenhagen streets"
+      ],
+      "accommodation": {
+        "name": "Copenhagen Strand",
+        "location": "Copenhagen, Denmark",
+        "type": "boutique hotel"
+      },
+      "activities": [
+        "Limited walking around Copenhagen",
+        "Dealing with travel fatigue"
+      ],
+      "dining": [
+        {
+          "location": "Thai restaurant",
+          "type": "Thai",
+          "dish": "Giant Pad Thai and pseudo-Diet Coke"
+        }
+      ],
+      "notable_experiences": [
+        "Hitting the travel wall - tired of solo travel",
+        "Poor sleep",
+        "Rainy and gray weather matching mood",
+        "Ready to be home",
+        "Minimal activities due to exhaustion"
+      ],
+      "weather": "Rainy and gray"
     },
     {
       "title": "Norway and Denmark Day 12",
@@ -4134,7 +7065,69 @@
       "tags": [
         "may2025"
       ],
-      "rollup_key": "2025norway"
+      "rollup_key": "2025norway",
+      "trip_day": 12,
+      "location_start": "Copenhagen, Denmark",
+      "location_end": "Holly Springs, NC",
+      "locations_visited": [
+        "Copenhagen city center",
+        "Kongens Nytorv metro station",
+        "Copenhagen Airport (CPH)",
+        "Keflavik Airport (KEF), Iceland",
+        "Raleigh-Durham Airport (RDU)"
+      ],
+      "transport": [
+        {
+          "type": "metro",
+          "route": "Hotel to Copenhagen Airport",
+          "carrier": "Copenhagen Metro"
+        },
+        {
+          "type": "air",
+          "route": "Copenhagen (CPH) to Keflavik (KEF)",
+          "carrier": "Icelandair",
+          "departure": "2pm"
+        },
+        {
+          "type": "air",
+          "route": "Keflavik (KEF) to Raleigh-Durham (RDU)",
+          "carrier": "Icelandair",
+          "duration": "7 hours"
+        },
+        {
+          "type": "rideshare",
+          "route": "RDU to Holly Springs",
+          "carrier": "Uber"
+        }
+      ],
+      "accommodation": {
+        "name": "Home",
+        "location": "Holly Springs, NC"
+      },
+      "activities": [
+        "Late morning leisure at hotel",
+        "Metro ride to airport",
+        "Lunch at Copenhagen Airport",
+        "Flights via Iceland back to North Carolina",
+        "Aerial photography of Greenland",
+        "Viewing Blue Lagoon from airplane"
+      ],
+      "dining": [
+        {
+          "location": "Copenhagen Airport",
+          "type": "Airport dining",
+          "dish": "Light lunch"
+        }
+      ],
+      "notable_experiences": [
+        "Heaven is a flight that doesn't leave at 6am",
+        "Clean and nice (but confusing) Copenhagen Airport",
+        "Familiar Keflavik Airport experience",
+        "Clear weather allowing Greenland aerial photography",
+        "7 hour transatlantic flight",
+        "Successfully completing 11-night solo Norway/Denmark trip"
+      ],
+      "weather": "Clear and sunny in Copenhagen, clear skies over Greenland"
     },
     {
       "title": "Norway and Denmark in 2025",
@@ -4142,16 +7135,6 @@
       "subtitle": "Exploring Bergen, Balestrand, Voss, Oslo, and Copenhagen",
       "categories": "travel rollup",
       "tags": null,
-      "rollup_key": null
-    },
-    {
-      "title": "Reflecting on my writing",
-      "date": "2025-07-05",
-      "subtitle": "More how and why, less what",
-      "categories": "travel",
-      "tags": [
-        "meta"
-      ],
       "rollup_key": null
     },
     {
@@ -4200,7 +7183,7 @@
     {
       "title": "Switzerland and Germany Day 3",
       "date": "2025-07-31",
-      "subtitle": "Wengen, Lauterbrunne, and the panorama walk",
+      "subtitle": "Wengen, Lauterbrunnen, and the panorama walk",
       "categories": "travel switzerland germany",
       "tags": [
         "july2025"
@@ -4840,6 +7823,52 @@
       "categories": "travel rollup",
       "tags": null,
       "rollup_key": null
+    },
+    {
+      "title": "Some Things About Iceland",
+      "date": "2025-12-11",
+      "subtitle": "Random thoughts in no order",
+      "categories": "iceland travel",
+      "tags": [
+        "iceland",
+        "travel",
+        "tips"
+      ],
+      "rollup_key": null,
+      "transport": [
+        {
+          "type": "car_rental",
+          "provider": "Hertz Iceland",
+          "notes": "Franchise seems more reasonable than US operations, EV charging available around Golden Circle"
+        },
+        {
+          "type": "bus",
+          "from": "Keflavík Airport",
+          "to": "Reykjavík",
+          "duration": "45 minutes"
+        },
+        {
+          "type": "scooter_rental",
+          "location": "Reykjavík",
+          "notes": "Electric scooters available via app for getting around city"
+        }
+      ],
+      "activities": [
+        {
+          "type": "advice",
+          "description": "Tips and recommendations for visiting Iceland",
+          "topics": [
+            "car_rental_tips",
+            "driving_conditions",
+            "wind_awareness",
+            "cell_data_esim",
+            "grocery_shopping",
+            "dining_recommendations",
+            "visiting_natural_attractions",
+            "getting_around_reykjavik"
+          ]
+        }
+      ]
     }
   ]
 }
