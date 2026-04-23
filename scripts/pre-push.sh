@@ -57,14 +57,13 @@ if [ ${#changed_posts[@]} -gt 0 ]; then
     echo "pre-push: bh-add-jekyll-metadata failed. Aborting push." >&2
     exit 1
   fi
+  echo "pre-push: regenerating api/travel-data.json..." >&2
+  if ! ruby scripts/regen-travel-data.rb; then
+    echo "pre-push: regen-travel-data.rb failed. Aborting push." >&2
+    exit 1
+  fi
 else
-  echo "pre-push: no _posts changes in this push; skipping metadata skill." >&2
-fi
-
-echo "pre-push: regenerating api/travel-data.json..." >&2
-if ! ruby scripts/regen-travel-data.rb; then
-  echo "pre-push: regen-travel-data.rb failed. Aborting push." >&2
-  exit 1
+  echo "pre-push: no _posts changes in this push; skipping metadata skill and regen." >&2
 fi
 
 # If anything is dirty (skill edits, regenerated JSON, converted images),
