@@ -3,3 +3,15 @@
     /* max-height: 94vh; */
     /* aspect-ratio: 3 / 4; */
 }
+
+/* Make in-content links visibly distinct from body text.
+   Excludes navbar links and .btn anchors so the nav and
+   Previous/Next Post buttons keep their template styling. */
+a:not(.nav-link):not(.navbar-brand):not(.btn) {
+    color: #0085A1; /* template's $primary teal */
+}
+
+a:not(.nav-link):not(.navbar-brand):not(.btn):hover,
+a:not(.nav-link):not(.navbar-brand):not(.btn):focus {
+    color: #005f73;
+}
