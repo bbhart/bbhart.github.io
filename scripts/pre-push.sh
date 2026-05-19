@@ -37,9 +37,13 @@ while read -r local_ref local_sha remote_ref remote_sha; do
   done < <(git diff --name-only --diff-filter=AM "$range" -- '_posts/*.markdown' 2>/dev/null || true)
 done
 
-# De-duplicate.
+# De-duplicate. (mapfile is bash 4+; macOS ships bash 3.2, so use a while-read loop.)
 if [ ${#changed_posts[@]} -gt 0 ]; then
-  mapfile -t changed_posts < <(printf '%s\n' "${changed_posts[@]}" | sort -u)
+  dedup=()
+  while IFS= read -r f; do
+    [ -n "$f" ] && dedup+=("$f")
+  done < <(printf '%s\n' "${changed_posts[@]}" | sort -u)
+  changed_posts=("${dedup[@]}")
 fi
 
 if [ ${#changed_posts[@]} -gt 0 ]; then
