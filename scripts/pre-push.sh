@@ -64,7 +64,12 @@ if [ ${#changed_posts[@]} -gt 0 ]; then
         ;;
     esac
   done
-  changed_posts=("${filtered[@]}")
+  # Empty-array reassignment trips `set -u` on bash 3.2; guard with length.
+  if [ ${#filtered[@]} -gt 0 ]; then
+    changed_posts=("${filtered[@]}")
+  else
+    changed_posts=()
+  fi
 fi
 
 if [ ${#changed_posts[@]} -gt 0 ]; then
