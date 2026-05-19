@@ -46,6 +46,27 @@ if [ ${#changed_posts[@]} -gt 0 ]; then
   changed_posts=("${dedup[@]}")
 fi
 
+# Skip posts whose most recent commit was an auto-commit by this hook.
+# The /bh-add-jekyll-metadata skill is non-deterministic and finds new fields
+# to add on every invocation, which causes an infinite re-enrichment loop.
+# If the last edit to a post was made by the hook itself, there is no fresh
+# user content to enrich, so skip it.
+if [ ${#changed_posts[@]} -gt 0 ]; then
+  filtered=()
+  for f in "${changed_posts[@]}"; do
+    last_msg=$(git log -1 --format=%s -- "$f" 2>/dev/null || true)
+    case "$last_msg" in
+      auto:*)
+        echo "pre-push: skipping $f (last commit was auto-enrichment)" >&2
+        ;;
+      *)
+        filtered+=("$f")
+        ;;
+    esac
+  done
+  changed_posts=("${filtered[@]}")
+fi
+
 if [ ${#changed_posts[@]} -gt 0 ]; then
   echo "pre-push: enriching metadata for ${#changed_posts[@]} post file(s)..." >&2
   printf '  - %s\n' "${changed_posts[@]}" >&2
