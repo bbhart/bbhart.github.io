@@ -72,6 +72,7 @@ trip_planning:
   pre_cruise_stay: 3 nights in Rome
 trip_type: cruise
 trip_stage: outbound
+day_type: travel_day
 trip_duration_days: 1
 countries_visited:
   - United States
