@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T14:05:12Z",
-  "total_posts": 90,
+  "generated_at": "2026-05-19T14:16:49Z",
+  "total_posts": 91,
   "trips": [
     {
       "rollup_key": "2023iceland",
@@ -3725,9 +3725,78 @@
           ]
         }
       ]
+    },
+    {
+      "rollup_key": "2026romesilversea",
+      "posts": [
+        {
+          "title": "Rome and Silversea Day 1",
+          "date": "2026-05-04",
+          "subtitle": null,
+          "categories": "travel rome silversea",
+          "tags": [
+            "may2026"
+          ],
+          "rollup_key": "2026romesilversea",
+          "trip_day": 1,
+          "location_start": "Holly Springs, North Carolina, USA",
+          "location_end": "In flight over the Atlantic Ocean",
+          "locations_visited": [
+            "Holly Springs, North Carolina",
+            "Raleigh-Durham International Airport (RDU)",
+            "Hartsfield-Jackson Atlanta International Airport (ATL)",
+            "Amex Centurion Lounge, ATL Concourse E"
+          ],
+          "transport": [
+            {
+              "type": "rideshare",
+              "provider": "Uber",
+              "route": "Holly Springs to RDU",
+              "notes": "Switched from a scheduled Lyft after a tip-prompt notification"
+            },
+            {
+              "type": "air",
+              "route": "RDU to ATL",
+              "carrier": "Delta Air Lines",
+              "notes": "Short domestic connector"
+            },
+            {
+              "type": "air",
+              "route": "ATL to FCO",
+              "carrier": "Delta Air Lines",
+              "aircraft": "Airbus A330-900neo",
+              "cabin": "Premium Select (Premium Economy)",
+              "notes": "Overnight transatlantic flight; traded inside aisle for a bulkhead window seat so another passenger could sit with her husband"
+            }
+          ],
+          "activities": [
+            "International air travel",
+            "Wardrobe upgrade trips to Nordstrom and a Turtleson order in preparation for luxury cruise",
+            "May the 4th Star Wars cosplay sighting at RDU",
+            "Amex Centurion Lounge visit at ATL",
+            "In-flight dinner and sleep on transatlantic flight"
+          ],
+          "dining": [
+            {
+              "location": "Delta ATL-FCO flight",
+              "type": "in-flight Premium Select meal",
+              "meal": "Herb-and-lemon salmon over potatoes and peppers with green beans, side salad, brioche roll, berry cheesecake"
+            }
+          ],
+          "notable_experiences": [
+            "Booked the cruise (April 20) and flights (April 21) just two weeks before departure",
+            "Cancelled a scheduled Lyft after a tip-prompt notification, switched to Uber",
+            "Imperial-themed May the 4th cosplay presence at RDU",
+            "Unsolicited bulkhead window seat upgrade on the transatlantic leg",
+            "Managed roughly 3 hours of sleep against the odds in Premium Economy"
+          ],
+          "weather": "Not specified"
+        }
+      ]
     }
   ],
   "all_locations": [
+    "Amex Centurion Lounge, ATL Concourse E",
     "Balabu day-trip cabin",
     "Balestrand",
     "Balestrand Forest Trail (Skogstur)",
@@ -3754,6 +3823,8 @@
     "Efstidalur II Farm & Restaurant",
     "Elgiganten electronics store",
     "Fløyen Mountain",
+    "Hartsfield-Jackson Atlanta International Airport (ATL)",
+    "Holly Springs, North Carolina",
     "Keflavik Airport (KEF), Iceland",
     "Keflavík International Airport (KEF)",
     "Kongens Nytorv metro station",
@@ -3763,6 +3834,7 @@
     "Oslo Opera House",
     "Oslo ferry terminal",
     "Raleigh-Durham Airport (RDU)",
+    "Raleigh-Durham International Airport (RDU)",
     "Royal Palace (Oslo)",
     "Sandsstølen viewpoint",
     "Selfoss, Iceland",
@@ -3782,6 +3854,7 @@
     "6+ hour scenic train journey through varied Norwegian landscape",
     "75 minutes waiting on sunny train platform",
     "Aerial photography of Greenland",
+    "Amex Centurion Lounge visit at ATL",
     "Arrival home in Holly Springs",
     "Arrival in Bergen and early hotel check-in",
     "Attempting panoramic trail at summit (gave up 1/4 way in)",
@@ -3830,6 +3903,7 @@
     "Hiking clockwise loop starting from hotel",
     "Hiking down Fløyen mountain (~300m descent)",
     "Home cooking",
+    "In-flight dinner and sleep on transatlantic flight",
     "International air travel",
     "International flight from Munich to Detroit",
     "Italian dinner",
@@ -3839,6 +3913,7 @@
     "Limited walking around Copenhagen",
     "Lunch at BWI Concourse A",
     "Lunch at Copenhagen Airport",
+    "May the 4th Star Wars cosplay sighting at RDU",
     "Metro ride to airport",
     "Moonrise photography over fjord",
     "Navigating Copenhagen public transit systems",
@@ -3882,6 +3957,7 @@
     "Walking tour of Munich city center",
     "Walking tour of Wengen",
     "Walking tour of medieval Bergen with Bryggens Museum",
+    "Wardrobe upgrade trips to Nordstrom and a Turtleson order in preparation for luxury cruise",
     "Watching Norwegian fjords from deck",
     "Waterfront walk to Sun Voyager sculpture",
     "airport_transit",
@@ -7869,6 +7945,69 @@
           ]
         }
       ]
+    },
+    {
+      "title": "Rome and Silversea Day 1",
+      "date": "2026-05-04",
+      "subtitle": null,
+      "categories": "travel rome silversea",
+      "tags": [
+        "may2026"
+      ],
+      "rollup_key": "2026romesilversea",
+      "trip_day": 1,
+      "location_start": "Holly Springs, North Carolina, USA",
+      "location_end": "In flight over the Atlantic Ocean",
+      "locations_visited": [
+        "Holly Springs, North Carolina",
+        "Raleigh-Durham International Airport (RDU)",
+        "Hartsfield-Jackson Atlanta International Airport (ATL)",
+        "Amex Centurion Lounge, ATL Concourse E"
+      ],
+      "transport": [
+        {
+          "type": "rideshare",
+          "provider": "Uber",
+          "route": "Holly Springs to RDU",
+          "notes": "Switched from a scheduled Lyft after a tip-prompt notification"
+        },
+        {
+          "type": "air",
+          "route": "RDU to ATL",
+          "carrier": "Delta Air Lines",
+          "notes": "Short domestic connector"
+        },
+        {
+          "type": "air",
+          "route": "ATL to FCO",
+          "carrier": "Delta Air Lines",
+          "aircraft": "Airbus A330-900neo",
+          "cabin": "Premium Select (Premium Economy)",
+          "notes": "Overnight transatlantic flight; traded inside aisle for a bulkhead window seat so another passenger could sit with her husband"
+        }
+      ],
+      "activities": [
+        "International air travel",
+        "Wardrobe upgrade trips to Nordstrom and a Turtleson order in preparation for luxury cruise",
+        "May the 4th Star Wars cosplay sighting at RDU",
+        "Amex Centurion Lounge visit at ATL",
+        "In-flight dinner and sleep on transatlantic flight"
+      ],
+      "dining": [
+        {
+          "location": "Delta ATL-FCO flight",
+          "type": "in-flight Premium Select meal",
+          "meal": "Herb-and-lemon salmon over potatoes and peppers with green beans, side salad, brioche roll, berry cheesecake"
+        }
+      ],
+      "notable_experiences": [
+        "Booked the cruise (April 20) and flights (April 21) just two weeks before departure",
+        "Cancelled a scheduled Lyft after a tip-prompt notification, switched to Uber",
+        "Imperial-themed May the 4th cosplay presence at RDU",
+        "Unsolicited bulkhead window seat upgrade on the transatlantic leg",
+        "Managed roughly 3 hours of sleep against the odds in Premium Economy"
+      ],
+      "weather": "Not specified"
     }
   ]
 }

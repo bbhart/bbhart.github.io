@@ -7,7 +7,56 @@ categories: travel rome silversea
 rollup_key: 2026romesilversea
 tags: [may2026]
 background: '/assets/bg-rdu-airport-entrance.jpg'
-
+trip_day: 1
+location_start: Holly Springs, North Carolina, USA
+location_end: In flight over the Atlantic Ocean
+locations_visited:
+  - Holly Springs, North Carolina
+  - Raleigh-Durham International Airport (RDU)
+  - Hartsfield-Jackson Atlanta International Airport (ATL)
+  - Amex Centurion Lounge, ATL Concourse E
+transport:
+  - type: rideshare
+    provider: Uber
+    route: Holly Springs to RDU
+    notes: Switched from a scheduled Lyft after a tip-prompt notification
+  - type: air
+    route: RDU to ATL
+    carrier: Delta Air Lines
+    notes: Short domestic connector
+  - type: air
+    route: ATL to FCO
+    carrier: Delta Air Lines
+    aircraft: Airbus A330-900neo
+    cabin: Premium Select (Premium Economy)
+    notes: Overnight transatlantic flight; traded inside aisle for a bulkhead window seat so another passenger could sit with her husband
+lounges:
+  - name: Amex Centurion Lounge
+    location: Atlanta (ATL), Concourse E
+    notes: Brief visit before boarding; quiet outdoor terrace
+activities:
+  - International air travel
+  - Wardrobe upgrade trips to Nordstrom and a Turtleson order in preparation for luxury cruise
+  - May the 4th Star Wars cosplay sighting at RDU
+  - Amex Centurion Lounge visit at ATL
+  - In-flight dinner and sleep on transatlantic flight
+dining:
+  - location: Delta ATL-FCO flight
+    type: in-flight Premium Select meal
+    meal: Herb-and-lemon salmon over potatoes and peppers with green beans, side salad, brioche roll, berry cheesecake
+notable_experiences:
+  - Booked the cruise (April 20) and flights (April 21) just two weeks before departure
+  - Cancelled a scheduled Lyft after a tip-prompt notification, switched to Uber
+  - Imperial-themed May the 4th cosplay presence at RDU
+  - Unsolicited bulkhead window seat upgrade on the transatlantic leg
+  - Managed roughly 3 hours of sleep against the odds in Premium Economy
+trip_planning:
+  cruise_line: Silversea
+  cruise_duration_nights: 7
+  cruise_region: Mediterranean
+  cruise_departure_date: 2026-05-08
+  pre_cruise_stay: 3 nights in Rome
+weather: Not specified
 ---
 
 - **Start of day:** Home in North Carolina
