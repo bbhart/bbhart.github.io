@@ -34,6 +34,20 @@ lounges:
   - name: Amex Centurion Lounge
     location: Atlanta (ATL), Concourse E
     notes: Brief visit before boarding; quiet outdoor terrace
+venues:
+  - name: Raleigh-Durham International Airport (RDU)
+    type: airport
+    location: Raleigh-Durham, North Carolina, USA
+  - name: Hartsfield-Jackson Atlanta International Airport (ATL)
+    type: airport
+    location: Atlanta, Georgia, USA
+  - name: Amex Centurion Lounge
+    type: airport_lounge
+    location: ATL Concourse E
+    url: https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/ATL/the-centurion-lounge-concourse-e-KF4QDCUsaM/
+    notes: Outdoor terrace, hanging disc light fixtures, indoor tree centerpiece at bar
+days_at_location:
+  In flight (transatlantic): 1
 activities:
   - International air travel
   - Wardrobe upgrade trips to Nordstrom and a Turtleson order in preparation for luxury cruise
