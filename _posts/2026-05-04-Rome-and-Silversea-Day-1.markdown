@@ -56,6 +56,25 @@ trip_planning:
   cruise_region: Mediterranean
   cruise_departure_date: 2026-05-08
   pre_cruise_stay: 3 nights in Rome
+trip_type: cruise
+trip_stage: outbound
+trip_duration_days: 1
+countries_visited:
+  - United States
+travelers:
+  - solo
+airports:
+  - code: RDU
+    name: Raleigh-Durham International Airport
+    role: origin
+  - code: ATL
+    name: Hartsfield-Jackson Atlanta International Airport
+    role: connection
+  - code: FCO
+    name: Leonardo da Vinci-Fiumicino Airport
+    role: destination (arrives Day 2)
+airlines:
+  - Delta Air Lines
 weather: Not specified
 ---
 
@@ -86,7 +105,7 @@ Today's route was RDU to ATL then ATL to FCO (Rome). The first flight was fine, 
 
 On the plane, I settled into my Premium Economy seat on the inside aisle. About a minute later a woman asked if I'd be willing to trade for her bulkhead window seat so she could be with her husband. Yes. Yes, I would.
 
-<img src="/assets/20260504-atl-delta-one-bulkhead.jpg" alt="Delta One bulkhead suite pair onboard the ATL to FCO flight, with two seatback screens displaying the ATL-FCO route map, Delta amenity kits, and the passenger's sneakers visible in the foot well" width="100%" />
+<img src="/assets/20260504-atl-delta-one-bulkhead.jpg" alt="View from a Delta Premium Select bulkhead seat on the ATL to FCO flight, looking down at two bulkhead-mounted seatback screens displaying the ATL-FCO route map, two Delta amenity kits resting on the bulkhead shelf, and the passenger's sneakers in the open foot well" width="100%" />
 
 I won't do a whole Delta Premium Economy review here -- there are articles like [this one from The Points Guy](https://thepointsguy.com/airline/reviews/delta-a330-900neo-a339-premium-select-review/). For me, it met my expectations and was decent value for the money, especially considering I booked it on short notice. Dinner was Airplane Fine.
 
