@@ -90,6 +90,51 @@ airports:
     role: destination (arrives Day 2)
 airlines:
   - Delta Air Lines
+flight_legs:
+  - segment: RDU-ATL
+    carrier: Delta Air Lines
+    role: domestic_connector
+  - segment: ATL-FCO
+    carrier: Delta Air Lines
+    aircraft: Airbus A330-900neo
+    cabin: Premium Select
+    seat: bulkhead window (acquired via seat swap)
+    flight_type: transatlantic_overnight
+aircraft_flown:
+  - Airbus A330-900neo
+booking_timeline:
+  cruise_discovered: 2026-04-17
+  cruise_booked: 2026-04-20
+  flights_booked: 2026-04-21
+  departure: 2026-05-04
+  cruise_embarkation: 2026-05-08
+  lead_time_days: 14
+pre_trip_preparation:
+  - Two Nordstrom shopping trips for wardrobe upgrade
+  - Turtleson apparel order
+  - Reason: first luxury cruise dress code preparation
+sleep_summary:
+  on_flight_hours: ~3
+  on_flight: ATL-FCO Premium Select bulkhead window
+meals_count: 1
+pop_culture_moments:
+  - description: May the 4th Star Wars cosplayers (Boba Fett, red Imperial guard, Darth Vader, Imperial officers) photographed near Gates C3/C7
+    location: Raleigh-Durham International Airport
+    franchise: Star Wars
+    date_significance: May the 4th
+brands_referenced:
+  - Silversea
+  - Delta Air Lines
+  - American Express Centurion Lounge
+  - Lyft
+  - Uber
+  - Nordstrom
+  - Turtleson
+  - The Points Guy
+apps_services_referenced:
+  - Lyft (cancelled)
+  - Uber (used)
+  - Apple Watch (received Lyft tip notification)
 weather: Not specified
 ---
 
