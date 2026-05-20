@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rome and Silversea Day 4
-subtitle: 
+subtitle: The Vatican, Colosseum, Forum, Trevi, and Pantheon
 date:  2026-05-07
 categories: travel rome silversea
 rollup_key: 2026romesilversea
