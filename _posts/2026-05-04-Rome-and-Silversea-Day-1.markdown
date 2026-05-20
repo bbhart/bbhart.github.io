@@ -1,141 +1,47 @@
 ---
 layout: post
 title: Rome and Silversea Day 1
-subtitle:
+subtitle: Travels to Europe
 date:  2026-05-04
 categories: travel rome silversea
 rollup_key: 2026romesilversea
 tags: [may2026]
 background: '/assets/bg-rdu-airport-entrance.jpg'
-trip_day: 1
-location_start: Holly Springs, North Carolina, USA
-location_end: In flight over the Atlantic Ocean
-locations_visited:
-  - Holly Springs, North Carolina
-  - Raleigh-Durham International Airport (RDU)
-  - Hartsfield-Jackson Atlanta International Airport (ATL)
-  - Amex Centurion Lounge, ATL Concourse E
+locations:
+  - name: Holly Springs
+    type: town
+    country: United States
+  - name: Raleigh-Durham International Airport
+    type: airport
+    country: United States
+  - name: Hartsfield-Jackson Atlanta International Airport
+    type: airport
+    country: United States
+venues:
+  - name: Amex Centurion Lounge
+    type: airport_lounge
+    location: Hartsfield-Jackson Atlanta International Airport, Concourse E
 transport:
   - type: rideshare
     provider: Uber
-    route: Holly Springs to RDU
-    notes: Switched from a scheduled Lyft after a tip-prompt notification
-  - type: air
-    route: RDU to ATL
-    carrier: Delta Air Lines
-    notes: Short domestic connector
-  - type: air
-    route: ATL to FCO
-    carrier: Delta Air Lines
-    aircraft: Airbus A330-900neo
-    cabin: Premium Select (Premium Economy)
-    notes: Overnight transatlantic flight; traded inside aisle for a bulkhead window seat so another passenger could sit with her husband
-lounges:
-  - name: Amex Centurion Lounge
-    location: Atlanta (ATL), Concourse E
-    notes: Brief visit before boarding; quiet outdoor terrace
-venues:
-  - name: Raleigh-Durham International Airport (RDU)
-    type: airport
-    location: Raleigh-Durham, North Carolina, USA
-  - name: Hartsfield-Jackson Atlanta International Airport (ATL)
-    type: airport
-    location: Atlanta, Georgia, USA
-  - name: Amex Centurion Lounge
-    type: airport_lounge
-    location: ATL Concourse E
-    url: https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/ATL/the-centurion-lounge-concourse-e-KF4QDCUsaM/
-    notes: Outdoor terrace, hanging disc light fixtures, indoor tree centerpiece at bar
-days_at_location:
-  In flight (transatlantic): 1
-activities:
-  - International air travel
-  - Wardrobe upgrade trips to Nordstrom and a Turtleson order in preparation for luxury cruise
-  - May the 4th Star Wars cosplay sighting at RDU
-  - Amex Centurion Lounge visit at ATL
-  - In-flight dinner and sleep on transatlantic flight
-dining:
-  - location: Delta ATL-FCO flight
-    type: in-flight Premium Select meal
-    meal: Herb-and-lemon salmon over potatoes and peppers with green beans, side salad, brioche roll, berry cheesecake
-notable_experiences:
-  - Booked the cruise (April 20) and flights (April 21) just two weeks before departure
-  - Cancelled a scheduled Lyft after a tip-prompt notification, switched to Uber
-  - Imperial-themed May the 4th cosplay presence at RDU
-  - Unsolicited bulkhead window seat upgrade on the transatlantic leg
-  - Managed roughly 3 hours of sleep against the odds in Premium Economy
-trip_planning:
-  cruise_line: Silversea
-  cruise_duration_nights: 7
-  cruise_region: Mediterranean
-  cruise_departure_date: 2026-05-08
-  pre_cruise_stay: 3 nights in Rome
-trip_type: cruise
-trip_stage: outbound
-day_type: travel_day
-trip_duration_days: 1
-countries_visited:
-  - United States
-travelers:
-  - solo
-airports:
-  - code: RDU
-    name: Raleigh-Durham International Airport
-    role: origin
-  - code: ATL
-    name: Hartsfield-Jackson Atlanta International Airport
-    role: connection
-  - code: FCO
-    name: Leonardo da Vinci-Fiumicino Airport
-    role: destination (arrives Day 2)
-airlines:
-  - Delta Air Lines
-flight_legs:
-  - segment: RDU-ATL
-    carrier: Delta Air Lines
-    role: domestic_connector
-  - segment: ATL-FCO
-    carrier: Delta Air Lines
-    aircraft: Airbus A330-900neo
+    route: Holly Springs → RDU
+  - type: flight
+    carrier: Delta
+    route: RDU → ATL
+  - type: flight
+    carrier: Delta
     cabin: Premium Select
-    seat: bulkhead window (acquired via seat swap)
-    flight_type: transatlantic_overnight
-aircraft_flown:
-  - Airbus A330-900neo
-booking_timeline:
-  cruise_discovered: 2026-04-17
-  cruise_booked: 2026-04-20
-  flights_booked: 2026-04-21
-  departure: 2026-05-04
-  cruise_embarkation: 2026-05-08
-  lead_time_days: 14
-pre_trip_preparation:
-  - Two Nordstrom shopping trips for wardrobe upgrade
-  - Turtleson apparel order
-  - Reason: first luxury cruise dress code preparation
-sleep_summary:
-  on_flight_hours: ~3
-  on_flight: ATL-FCO Premium Select bulkhead window
-meals_count: 1
-pop_culture_moments:
-  - description: May the 4th Star Wars cosplayers (Boba Fett, red Imperial guard, Darth Vader, Imperial officers) photographed near Gates C3/C7
-    location: Raleigh-Durham International Airport
-    franchise: Star Wars
-    date_significance: May the 4th
-brands_referenced:
-  - Silversea
-  - Delta Air Lines
-  - American Express Centurion Lounge
-  - Lyft
-  - Uber
-  - Nordstrom
-  - Turtleson
-  - The Points Guy
-apps_services_referenced:
-  - Lyft (cancelled)
-  - Uber (used)
-  - Apple Watch (received Lyft tip notification)
-weather: Not specified
+    aircraft: Airbus A330-900neo
+    route: ATL → FCO
+    notes: Traded inside aisle for bulkhead window seat onboard
+activities:
+  - Lyft cancellation and Uber switch
+  - May the 4th Star Wars cosplay sighting at RDU
+  - Atlanta layover and Centurion Lounge visit
+  - Overnight transatlantic flight in Premium Select
+companions:
+  - solo
+trip_stage: outbound
 ---
 
 - **Start of day:** Home in North Carolina
