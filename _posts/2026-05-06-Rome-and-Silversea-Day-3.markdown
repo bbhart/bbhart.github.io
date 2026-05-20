@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rome and Silversea Day 3
-subtitle:
+subtitle: It's Rome, so walking and eating
 date:  2026-05-06
 categories: travel rome silversea
 rollup_key: 2026romesilversea
