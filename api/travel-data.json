@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T14:26:36Z",
-  "total_posts": 91,
+  "generated_at": "2026-05-20T00:32:12Z",
+  "total_posts": 92,
   "trips": [
     {
       "rollup_key": "2023iceland",
@@ -3732,71 +3732,123 @@
         {
           "title": "Rome and Silversea Day 1",
           "date": "2026-05-04",
-          "subtitle": null,
+          "subtitle": "Travels to Europe",
           "categories": "travel rome silversea",
           "tags": [
             "may2026"
           ],
           "rollup_key": "2026romesilversea",
-          "trip_day": 1,
-          "location_start": "Holly Springs, North Carolina, USA",
-          "location_end": "In flight over the Atlantic Ocean",
-          "locations_visited": [
-            "Holly Springs, North Carolina",
-            "Raleigh-Durham International Airport (RDU)",
-            "Hartsfield-Jackson Atlanta International Airport (ATL)",
-            "Amex Centurion Lounge, ATL Concourse E"
-          ],
           "transport": [
             {
               "type": "rideshare",
               "provider": "Uber",
-              "route": "Holly Springs to RDU",
-              "notes": "Switched from a scheduled Lyft after a tip-prompt notification"
+              "route": "Holly Springs → RDU",
+              "departure_time": "10:15am"
             },
             {
-              "type": "air",
-              "route": "RDU to ATL",
-              "carrier": "Delta Air Lines",
-              "notes": "Short domestic connector"
+              "type": "flight",
+              "carrier": "Delta",
+              "route": "RDU → ATL"
             },
             {
-              "type": "air",
-              "route": "ATL to FCO",
-              "carrier": "Delta Air Lines",
+              "type": "flight",
+              "carrier": "Delta",
+              "cabin": "Premium Select",
               "aircraft": "Airbus A330-900neo",
-              "cabin": "Premium Select (Premium Economy)",
-              "notes": "Overnight transatlantic flight; traded inside aisle for a bulkhead window seat so another passenger could sit with her husband"
+              "route": "ATL → FCO",
+              "overnight": true,
+              "seat": "bulkhead window (acquired via passenger swap)",
+              "notes": "Traded inside aisle for bulkhead window seat onboard"
             }
           ],
           "activities": [
-            "International air travel",
-            "Wardrobe upgrade trips to Nordstrom and a Turtleson order in preparation for luxury cruise",
+            "Lyft cancellation and Uber switch",
             "May the 4th Star Wars cosplay sighting at RDU",
-            "Amex Centurion Lounge visit at ATL",
-            "In-flight dinner and sleep on transatlantic flight"
+            "Atlanta layover and Centurion Lounge visit",
+            "Overnight transatlantic flight in Premium Select"
           ],
           "dining": [
             {
-              "location": "Delta ATL-FCO flight",
-              "type": "in-flight Premium Select meal",
-              "meal": "Herb-and-lemon salmon over potatoes and peppers with green beans, side salad, brioche roll, berry cheesecake"
+              "venue": "Delta ATL → FCO flight",
+              "type": "in-flight meal",
+              "cabin": "Premium Select",
+              "dishes": "Herb-and-lemon salmon over potatoes and peppers with green beans, side salad with cherry tomatoes and radishes, brioche roll with salted butter and olive oil, berry-topped cheesecake"
+            }
+          ]
+        },
+        {
+          "title": "Rome and Silversea Day 2",
+          "date": "2026-05-05",
+          "subtitle": "The day of many steps",
+          "categories": "travel rome silversea",
+          "tags": [
+            "may2026"
+          ],
+          "rollup_key": "2026romesilversea",
+          "transport": [
+            {
+              "type": "flight",
+              "carrier": "Delta",
+              "route": "ATL → FCO",
+              "arrival_time": "morning"
+            },
+            {
+              "type": "car_transfer",
+              "provider": "hotel-arranged private driver",
+              "route": "Fiumicino Airport → Hotel Campo de' Fiori",
+              "fare_eur": 65,
+              "duration": "~1 hour",
+              "arrival_time": "~10:30am",
+              "notes": "Driver Sergio; arranged via WhatsApp after no-show at arrivals; fuel stop on the way (gas ~€2.04/L diesel, ~€1.89/L unleaded)"
             }
           ],
-          "notable_experiences": [
-            "Booked the cruise (April 20) and flights (April 21) just two weeks before departure",
-            "Cancelled a scheduled Lyft after a tip-prompt notification, switched to Uber",
-            "Imperial-themed May the 4th cosplay presence at RDU",
-            "Unsolicited bulkhead window seat upgrade on the transatlantic leg",
-            "Managed roughly 3 hours of sleep against the odds in Premium Economy"
+          "activities": [
+            "Arrival in Rome and hotel check-in",
+            "Walking tour past Vittoriano, Roman Forum, and Colosseum",
+            "Lunch at Romoletto on Campo de' Fiori",
+            "Shopping for dinner shoes at Rinascente",
+            "Trevi Fountain and Pantheon encounters",
+            "Vatican Wednesday General Audience ticket pickup at the Bronze Doors",
+            "Dinner at Ristorante Verso Sera",
+            "Gelato at MYO",
+            "Rooftop hotel views",
+            "Late-night cake and people-watching at Taba Cafe"
           ],
-          "weather": "Not specified"
+          "dining": [
+            {
+              "venue": "Romoletto",
+              "meal": "lunch",
+              "location": "Campo de' Fiori, Rome",
+              "url": "https://romolettogroup.it/",
+              "dishes": "meatballs, tiramisu",
+              "notes": "Hotel recommendation; first tiramisu of the trip"
+            },
+            {
+              "venue": "Ristorante Verso Sera",
+              "meal": "dinner",
+              "location": "Piazza opposite Hotel Campo de' Fiori, Rome",
+              "url": "https://www.ristoranteversosera.it/"
+            },
+            {
+              "venue": "MYO Gelato",
+              "meal": "dessert",
+              "location": "Campo de' Fiori corner, Rome",
+              "url": "https://maps.app.goo.gl/YtxpvzypodbqSGi78",
+              "dishes": "two scoops of gelato"
+            },
+            {
+              "venue": "Taba Cafe",
+              "meal": "late-night dessert and people-watching",
+              "location": "Campo de' Fiori, Rome",
+              "url": "https://tabacafe.com/",
+              "dishes": "half white / half brown marble cake (too dry)"
+            }
+          ]
         }
       ]
     }
   ],
   "all_locations": [
-    "Amex Centurion Lounge, ATL Concourse E",
     "Balabu day-trip cabin",
     "Balestrand",
     "Balestrand Forest Trail (Skogstur)",
@@ -3823,8 +3875,6 @@
     "Efstidalur II Farm & Restaurant",
     "Elgiganten electronics store",
     "Fløyen Mountain",
-    "Hartsfield-Jackson Atlanta International Airport (ATL)",
-    "Holly Springs, North Carolina",
     "Keflavik Airport (KEF), Iceland",
     "Keflavík International Airport (KEF)",
     "Kongens Nytorv metro station",
@@ -3834,7 +3884,6 @@
     "Oslo Opera House",
     "Oslo ferry terminal",
     "Raleigh-Durham Airport (RDU)",
-    "Raleigh-Durham International Airport (RDU)",
     "Royal Palace (Oslo)",
     "Sandsstølen viewpoint",
     "Selfoss, Iceland",
@@ -3854,9 +3903,10 @@
     "6+ hour scenic train journey through varied Norwegian landscape",
     "75 minutes waiting on sunny train platform",
     "Aerial photography of Greenland",
-    "Amex Centurion Lounge visit at ATL",
     "Arrival home in Holly Springs",
     "Arrival in Bergen and early hotel check-in",
+    "Arrival in Rome and hotel check-in",
+    "Atlanta layover and Centurion Lounge visit",
     "Attempting panoramic trail at summit (gave up 1/4 way in)",
     "BMW Welt exhibition visit",
     "Bag reclaim and recheck in Detroit",
@@ -3874,6 +3924,7 @@
     "Dealing with travel fatigue",
     "Dinner at Irish pub",
     "Dinner at Mountain Hub Gourmet restaurant",
+    "Dinner at Ristorante Verso Sera",
     "Dinner with friends",
     "Domestic flight from Detroit to Raleigh-Durham",
     "EV charging introduction (DC Fast Charger in Selfoss)",
@@ -3897,28 +3948,32 @@
     "Flights via Iceland back to North Carolina",
     "Food truck lunch",
     "Four hour layover in Iceland with wild weather",
+    "Gelato at MYO",
     "Geothermal hot tub",
     "Gondola ride to mountain summit (1295m elevation)",
     "Grocery shopping at Bónus supermarket",
     "Hiking clockwise loop starting from hotel",
     "Hiking down Fløyen mountain (~300m descent)",
     "Home cooking",
-    "In-flight dinner and sleep on transatlantic flight",
     "International air travel",
     "International flight from Munich to Detroit",
     "Italian dinner",
     "Late evening walk around Balestrand",
     "Late morning leisure at hotel",
+    "Late-night cake and people-watching at Taba Cafe",
     "Learning about Bergen's fire history",
     "Limited walking around Copenhagen",
     "Lunch at BWI Concourse A",
     "Lunch at Copenhagen Airport",
+    "Lunch at Romoletto on Campo de' Fiori",
+    "Lyft cancellation and Uber switch",
     "May the 4th Star Wars cosplay sighting at RDU",
     "Metro ride to airport",
     "Moonrise photography over fjord",
     "Navigating Copenhagen public transit systems",
     "Navigating baggage tag confusion at Southwest check-in",
     "Overnight flight to Iceland",
+    "Overnight transatlantic flight in Premium Select",
     "Park walking",
     "Passport control and baggage claim at Keflavik",
     "People-watching at harbor fish market",
@@ -3931,16 +3986,20 @@
     "Reading Kindle on hotel sun deck",
     "Riding Fløibanen funicular to Fløyen summit",
     "Rocky gorge trail with handrails",
+    "Rooftop hotel views",
     "Scooter rental and ride",
     "Seven hour layover at BWI",
     "Shopping at REWE grocery store",
     "Shopping for breakfast and water at Coop grocery",
+    "Shopping for dinner shoes at Rinascente",
     "Sightseeing in Marienplatz",
     "Solo exploration of English Garden",
     "Solo time in historic church",
     "Special occasion dinner",
     "Train connections through Switzerland",
+    "Trevi Fountain and Pantheon encounters",
     "Unplanned bonus tour to Vangsnes car ferry terminus",
+    "Vatican Wednesday General Audience ticket pickup at the Bronze Doors",
     "Viewing Blue Lagoon from airplane",
     "Visited Marienplatz and Rathaus Glockenspiel",
     "Visiting Balabu Dagsturhytta (day-trip cabin)",
@@ -3957,7 +4016,7 @@
     "Walking tour of Munich city center",
     "Walking tour of Wengen",
     "Walking tour of medieval Bergen with Bryggens Museum",
-    "Wardrobe upgrade trips to Nordstrom and a Turtleson order in preparation for luxury cruise",
+    "Walking tour past Vittoriano, Roman Forum, and Colosseum",
     "Watching Norwegian fjords from deck",
     "Waterfront walk to Sun Voyager sculpture",
     "airport_transit",
@@ -7949,65 +8008,118 @@
     {
       "title": "Rome and Silversea Day 1",
       "date": "2026-05-04",
-      "subtitle": null,
+      "subtitle": "Travels to Europe",
       "categories": "travel rome silversea",
       "tags": [
         "may2026"
       ],
       "rollup_key": "2026romesilversea",
-      "trip_day": 1,
-      "location_start": "Holly Springs, North Carolina, USA",
-      "location_end": "In flight over the Atlantic Ocean",
-      "locations_visited": [
-        "Holly Springs, North Carolina",
-        "Raleigh-Durham International Airport (RDU)",
-        "Hartsfield-Jackson Atlanta International Airport (ATL)",
-        "Amex Centurion Lounge, ATL Concourse E"
-      ],
       "transport": [
         {
           "type": "rideshare",
           "provider": "Uber",
-          "route": "Holly Springs to RDU",
-          "notes": "Switched from a scheduled Lyft after a tip-prompt notification"
+          "route": "Holly Springs → RDU",
+          "departure_time": "10:15am"
         },
         {
-          "type": "air",
-          "route": "RDU to ATL",
-          "carrier": "Delta Air Lines",
-          "notes": "Short domestic connector"
+          "type": "flight",
+          "carrier": "Delta",
+          "route": "RDU → ATL"
         },
         {
-          "type": "air",
-          "route": "ATL to FCO",
-          "carrier": "Delta Air Lines",
+          "type": "flight",
+          "carrier": "Delta",
+          "cabin": "Premium Select",
           "aircraft": "Airbus A330-900neo",
-          "cabin": "Premium Select (Premium Economy)",
-          "notes": "Overnight transatlantic flight; traded inside aisle for a bulkhead window seat so another passenger could sit with her husband"
+          "route": "ATL → FCO",
+          "overnight": true,
+          "seat": "bulkhead window (acquired via passenger swap)",
+          "notes": "Traded inside aisle for bulkhead window seat onboard"
         }
       ],
       "activities": [
-        "International air travel",
-        "Wardrobe upgrade trips to Nordstrom and a Turtleson order in preparation for luxury cruise",
+        "Lyft cancellation and Uber switch",
         "May the 4th Star Wars cosplay sighting at RDU",
-        "Amex Centurion Lounge visit at ATL",
-        "In-flight dinner and sleep on transatlantic flight"
+        "Atlanta layover and Centurion Lounge visit",
+        "Overnight transatlantic flight in Premium Select"
       ],
       "dining": [
         {
-          "location": "Delta ATL-FCO flight",
-          "type": "in-flight Premium Select meal",
-          "meal": "Herb-and-lemon salmon over potatoes and peppers with green beans, side salad, brioche roll, berry cheesecake"
+          "venue": "Delta ATL → FCO flight",
+          "type": "in-flight meal",
+          "cabin": "Premium Select",
+          "dishes": "Herb-and-lemon salmon over potatoes and peppers with green beans, side salad with cherry tomatoes and radishes, brioche roll with salted butter and olive oil, berry-topped cheesecake"
+        }
+      ]
+    },
+    {
+      "title": "Rome and Silversea Day 2",
+      "date": "2026-05-05",
+      "subtitle": "The day of many steps",
+      "categories": "travel rome silversea",
+      "tags": [
+        "may2026"
+      ],
+      "rollup_key": "2026romesilversea",
+      "transport": [
+        {
+          "type": "flight",
+          "carrier": "Delta",
+          "route": "ATL → FCO",
+          "arrival_time": "morning"
+        },
+        {
+          "type": "car_transfer",
+          "provider": "hotel-arranged private driver",
+          "route": "Fiumicino Airport → Hotel Campo de' Fiori",
+          "fare_eur": 65,
+          "duration": "~1 hour",
+          "arrival_time": "~10:30am",
+          "notes": "Driver Sergio; arranged via WhatsApp after no-show at arrivals; fuel stop on the way (gas ~€2.04/L diesel, ~€1.89/L unleaded)"
         }
       ],
-      "notable_experiences": [
-        "Booked the cruise (April 20) and flights (April 21) just two weeks before departure",
-        "Cancelled a scheduled Lyft after a tip-prompt notification, switched to Uber",
-        "Imperial-themed May the 4th cosplay presence at RDU",
-        "Unsolicited bulkhead window seat upgrade on the transatlantic leg",
-        "Managed roughly 3 hours of sleep against the odds in Premium Economy"
+      "activities": [
+        "Arrival in Rome and hotel check-in",
+        "Walking tour past Vittoriano, Roman Forum, and Colosseum",
+        "Lunch at Romoletto on Campo de' Fiori",
+        "Shopping for dinner shoes at Rinascente",
+        "Trevi Fountain and Pantheon encounters",
+        "Vatican Wednesday General Audience ticket pickup at the Bronze Doors",
+        "Dinner at Ristorante Verso Sera",
+        "Gelato at MYO",
+        "Rooftop hotel views",
+        "Late-night cake and people-watching at Taba Cafe"
       ],
-      "weather": "Not specified"
+      "dining": [
+        {
+          "venue": "Romoletto",
+          "meal": "lunch",
+          "location": "Campo de' Fiori, Rome",
+          "url": "https://romolettogroup.it/",
+          "dishes": "meatballs, tiramisu",
+          "notes": "Hotel recommendation; first tiramisu of the trip"
+        },
+        {
+          "venue": "Ristorante Verso Sera",
+          "meal": "dinner",
+          "location": "Piazza opposite Hotel Campo de' Fiori, Rome",
+          "url": "https://www.ristoranteversosera.it/"
+        },
+        {
+          "venue": "MYO Gelato",
+          "meal": "dessert",
+          "location": "Campo de' Fiori corner, Rome",
+          "url": "https://maps.app.goo.gl/YtxpvzypodbqSGi78",
+          "dishes": "two scoops of gelato"
+        },
+        {
+          "venue": "Taba Cafe",
+          "meal": "late-night dessert and people-watching",
+          "location": "Campo de' Fiori, Rome",
+          "url": "https://tabacafe.com/",
+          "dishes": "half white / half brown marble cake (too dry)"
+        }
+      ]
     }
   ]
 }

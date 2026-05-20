@@ -25,6 +25,7 @@ transport:
   - type: rideshare
     provider: Uber
     route: Holly Springs → RDU
+    departure_time: 10:15am
   - type: flight
     carrier: Delta
     route: RDU → ATL
@@ -33,7 +34,14 @@ transport:
     cabin: Premium Select
     aircraft: Airbus A330-900neo
     route: ATL → FCO
+    overnight: true
+    seat: bulkhead window (acquired via passenger swap)
     notes: Traded inside aisle for bulkhead window seat onboard
+dining:
+  - venue: Delta ATL → FCO flight
+    type: in-flight meal
+    cabin: Premium Select
+    dishes: Herb-and-lemon salmon over potatoes and peppers with green beans, side salad with cherry tomatoes and radishes, brioche roll with salted butter and olive oil, berry-topped cheesecake
 activities:
   - Lyft cancellation and Uber switch
   - May the 4th Star Wars cosplay sighting at RDU

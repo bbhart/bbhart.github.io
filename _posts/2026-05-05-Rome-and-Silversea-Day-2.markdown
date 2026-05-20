@@ -21,6 +21,12 @@ accommodations:
   - name: Hotel Campo de' Fiori
     location: Rome
     url: https://www.hotelcampodefiori.com/en/
+    nights: 3
+    checkin: true
+    checkout: false
+    room: '603'
+    floor: 6th (walk-up from elevator stop at 5)
+    notes: Adjacent to rooftop terrace access; check-in handled by Valentina at front desk
 venues:
   - name: Altare della Patria (Vittoriano)
     type: monument
@@ -68,7 +74,31 @@ transport:
   - type: car_transfer
     provider: hotel-arranged private driver
     route: Fiumicino Airport → Hotel Campo de' Fiori
-    notes: €65 fare; driver Sergio; fuel stop on the way
+    fare_eur: 65
+    duration: ~1 hour
+    arrival_time: ~10:30am
+    notes: Driver Sergio; arranged via WhatsApp after no-show at arrivals; fuel stop on the way (gas ~€2.04/L diesel, ~€1.89/L unleaded)
+dining:
+  - venue: Romoletto
+    meal: lunch
+    location: Campo de' Fiori, Rome
+    url: https://romolettogroup.it/
+    dishes: meatballs, tiramisu
+    notes: Hotel recommendation; first tiramisu of the trip
+  - venue: Ristorante Verso Sera
+    meal: dinner
+    location: Piazza opposite Hotel Campo de' Fiori, Rome
+    url: https://www.ristoranteversosera.it/
+  - venue: MYO Gelato
+    meal: dessert
+    location: Campo de' Fiori corner, Rome
+    url: https://maps.app.goo.gl/YtxpvzypodbqSGi78
+    dishes: two scoops of gelato
+  - venue: Taba Cafe
+    meal: late-night dessert and people-watching
+    location: Campo de' Fiori, Rome
+    url: https://tabacafe.com/
+    dishes: half white / half brown marble cake (too dry)
 activities:
   - Arrival in Rome and hotel check-in
   - Walking tour past Vittoriano, Roman Forum, and Colosseum
