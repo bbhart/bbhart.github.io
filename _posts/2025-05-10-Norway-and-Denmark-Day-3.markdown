@@ -76,7 +76,7 @@ After the tour I wandered around the museum some on my own, after which I stroll
 
 <img src="/assets/20250510-bergen9.jpg" alt="A close-up of a table at an outdoor restaurant in Bergen, Norway, near the harbor. On the table is a silver tray holding a burger with lettuce, a patty, sprouts, and pickled onions. Beside it is a glass, a fork with a napkin, and a bottle of Coca-Cola. The restaurant area is under a red canopy with string lights, and outside, people are walking along the harbor with colorful historic buildings and a green hillside in the background under a clear blue sky." />
 
-The rest of the afternoon I wandered aimlessly. I did have to stop in an "apothecary" for some flossers and took a momment to check out the sunscreen prices. These are about $40 US, so I'd advise bringing your own.
+The rest of the afternoon I wandered aimlessly. I did have to stop in an "apothecary" for some flossers and took a moment to check out the sunscreen prices. These are about $40 US, so I'd advise bringing your own.
 
 <img src="/assets/20250510-sunscreen.jpg" alt="Several tubes of Cliniderm Caring Protection Sun Lotion SPF 25 are displayed on a store shelf. The white tubes have a simple design with the brand name and a circular logo at the top, an orange circle indicating Big Size, and text highlighting medium protection with UVA and UVB coverage. A shelf label below shows a 30% discount when buying two or more, with the price listed as 419.90 Norwegian kroner." />
 
@@ -86,4 +86,4 @@ For dinner I opted for another bento box, this one from a place at the main trai
 
 With a 7:50am express ferry in the morning, I call it an early night.
 
-[^1]: My understanding is this tour accomodates up to 25 people and can sell out in the summer.
+[^1]: My understanding is this tour accommodates up to 25 people and can sell out in the summer.

@@ -64,7 +64,7 @@ I took the gondola up around 11:30am with the plan to wander around the top a bi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XBbIgcBZ_Mc?si=P4NKW-x9vwykWGFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Once I reached the top I attempted to hike the ~1km panoramic trail but it was poorly marked and I gave up about a quarter in. Nothing lost; the views were will outstanding, with or without panoramic trail.
+Once I reached the top I attempted to hike the ~1km panoramic trail but it was poorly marked and I gave up about a quarter in. Nothing lost; the views were still outstanding, with or without panoramic trail.
 
 <img src="/assets/20250514-top1.jpg" alt="The image shows a small, dark-colored wooden cabin with a hexagonal shape, situated in a natural, open area in Voss, Norway. The cabin has a shingled roof with a central chimney and a front door featuring a geometric window design. It sits on a raised wooden platform with a ramp or walkway leading up to it. In front of the cabin, there is a wooden box or container and a tilted panel, possibly used for seating or storage. The surrounding landscape consists of grassy and rocky terrain with patches of moss and sparse vegetation. In the distance, snow-capped mountains and a line of evergreen trees are visible under a mostly cloudy sky." />
 

@@ -8,7 +8,7 @@ rollup_key: 2025norway
 tags: [may2025]
 background: '/assets/20250508-flighttracker.jpg'
 trip_day: 1
-location_start: Holy Springs, NC
+location_start: Holly Springs, NC
 location_end: Over the North Atlantic
 locations_visited:
   - Raleigh-Durham Airport (RDU)
@@ -36,7 +36,7 @@ notable_experiences:
 weather: Clear for departure
 ---
 
-- **Start of day:** Holy Springs, NC
+- **Start of day:** Holly Springs, NC
 - **End of day:** Over the North Atlantic somewhere?
 
 This is the beginning of an 11 night trip to mostly Norway with a little bit of Denmark. I booked the flights for this trip only a few weeks ago. At inception my trip plan is: 2 nights in Bergen, Norway; 2 nights in Balestrand, Norway; 2 nights in Voss, Norway; 2 nights in Oslo, Norway; and 1 night in Copenhagen. I'm leaving the house mid-morning on May 8 to head to the airport.

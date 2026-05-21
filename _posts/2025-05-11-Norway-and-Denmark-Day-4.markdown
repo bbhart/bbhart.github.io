@@ -71,7 +71,7 @@ The [ferry website](https://www.norled.no/en/express-boat-ferry/) is a little tr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vIblD_WgPbQ?si=20QrPplcPTnxo_VU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I don't think I realized how very "express" the express ferry was. Once we're out of the Bergen harbor, they gun it. Per my GPS we were hauling it at 37mph through these fjords, slowing for the ocassional No Wake zones. If their paperwork didn't show anyone with a certain town as a stop, and there wasn't anybody waiting shoreside, they skipped the stop. We made perfect time to Balestrand.
+I don't think I realized how very "express" the express ferry was. Once we're out of the Bergen harbor, they gun it. Per my GPS we were hauling it at 37mph through these fjords, slowing for the occasional No Wake zones. If their paperwork didn't show anyone with a certain town as a stop, and there wasn't anybody waiting shoreside, they skipped the stop. We made perfect time to Balestrand.
 
 There's no way for me to adequately describe how amazing the trip was. Even my videos won't do it justice. Thirty minutes in and I'm thinking to myself "This might be the best $100 I've ever spent."
 
@@ -79,7 +79,7 @@ There's no way for me to adequately describe how amazing the trip was. Even my v
 
 **One note for future Express Ferry travelers:** when you're nearing the stop, be sure you're ready to leave! This means fetching your bag from the aft storage and making your way to the front of the ferry. They aren't wasting a lot of time at each stop! Unfortunately I got stuck behind someone whose approach to problem-solving was to stand in the aisle and hope that everything worked out. I had to play my Loud American card, which I do sparingly.
 
-Regardless, I made it off, barely, and made the 100m walk to the [Hotel Kviknes](https://www.kviknes.no/), my home for the next two nights. There are two sections to the Kviknes: the historic part, with 25 rooms, and the modern (1960's) part with 165 rooms. I'm in the modern part, with the main reason being I wanted a nice, affordable balcony. It is not an attractive building, though; it's at odds with its surroundings. Frankly, it looks like one of the budget accomodations you'd find somewhere like Daytona Beach. But the room itself is nice, the view from the balcony is undeniable, and the staff is friendly. I relax in my room for a bit, then set out around 2pm for some lunch.
+Regardless, I made it off, barely, and made the 100m walk to the [Hotel Kviknes](https://www.kviknes.no/), my home for the next two nights. There are two sections to the Kviknes: the historic part, with 25 rooms, and the modern (1960's) part with 165 rooms. I'm in the modern part, with the main reason being I wanted a nice, affordable balcony. It is not an attractive building, though; it's at odds with its surroundings. Frankly, it looks like one of the budget accommodations you'd find somewhere like Daytona Beach. But the room itself is nice, the view from the balcony is undeniable, and the staff is friendly. I relax in my room for a bit, then set out around 2pm for some lunch.
 
 I don't have to go far. I find [Pearl by Harbor](https://www.instagram.com/pearl_by_harbor/) just outside the hotel. The grilled salmon, mashed potatoes, and grilled vegetables with teriyaki sauce exceeds all expectations! 
 
@@ -105,6 +105,6 @@ I ate my dinner and worked on my laptop, then went for a late evening walk aroun
 
 I tried to go to sleep around 12:30am. The seagulls, of course, never sleep. 
 
-[^1]: Ubers in Norway _seem_ to be regulated by the taxi commision, which _seems_ to dictate a ~$17 minimum fare regardless of time or distance. 
+[^1]: Ubers in Norway _seem_ to be regulated by the taxi commission, which _seems_ to dictate a ~$17 minimum fare regardless of time or distance. 
 [^2]: [https://en.wikipedia.org/wiki/St._Olaf%27s_Church,_Balestrand](https://en.wikipedia.org/wiki/St._Olaf%27s_Church,_Balestrand)
 

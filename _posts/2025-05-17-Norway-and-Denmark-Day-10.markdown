@@ -75,7 +75,7 @@ The Pad Thai was good at least:
 
 ***
 
-I spent most of the afternoon either walking or sitting + people watching. Copenhagen seems fantastic for this. The weather was great, tour groups were out in force (always fun to watch), and I enjoyed seeing Copenhagers go about their Saturday activities. 
+I spent most of the afternoon either walking or sitting + people watching. Copenhagen seems fantastic for this. The weather was great, tour groups were out in force (always fun to watch), and I enjoyed seeing Copenhageners go about their Saturday activities. 
 
 Later in the afternoon I checked into my hotel and relaxed for a bit. 
 
@@ -98,7 +98,7 @@ But anyway, on to Tivoli! Let me digress for a minute. If you don't know, Tivoli
 
 I had a chance to visit in 2000 when I visited Copenhagen for an evening when I worked for Celebrity Cruises, but the people I was with weren't interested. They were South Americans who were drawn like moths to flame to the Hard Rock Cafe instead, so that's what we did. It was _okay_. I overpaid for the iconic Hard Rock Cafe Copenhagen shirt and then managed to lose it within the year. Aaaaanyway...
 
-Tivoi was incredible. I'm so glad I went at night. Amusement parks are just better at night. I have yet to be convinced otherwise. I paid my admission and spent the next few hours walking around, snacking, and people-watching. It's so great! It's the perfect size. It's an oasis in the city. It's still very much part of the city -- you can see the nearby office buildings and sometimes spot traffic beyond the fences -- but exists as its own thing, too. It's such an odyssey getting to any of the Disney parks in Orlando that the idea of hopping off a subway and within a few minutes you're through the gates of an amusement park... I just love it. 
+Tivoli was incredible. I'm so glad I went at night. Amusement parks are just better at night. I have yet to be convinced otherwise. I paid my admission and spent the next few hours walking around, snacking, and people-watching. It's so great! It's the perfect size. It's an oasis in the city. It's still very much part of the city -- you can see the nearby office buildings and sometimes spot traffic beyond the fences -- but exists as its own thing, too. It's such an odyssey getting to any of the Disney parks in Orlando that the idea of hopping off a subway and within a few minutes you're through the gates of an amusement park... I just love it. 
 
 I'll share some photos here but really it needs to be visited.
 
