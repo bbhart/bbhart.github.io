@@ -42,18 +42,58 @@ module TravelDataGenerator
           rollup_key: data['rollup_key']
         }
 
-        # Add all the rich metadata fields
+        # Add all the rich travel metadata fields.
+        # Explicit allow-list (not a passthrough of post.data) so Jekyll's
+        # internal keys never leak into the structured output.
         [
+          # day / trip framing
           'trip_day',
+          'day_number',
+          'day_type',
+          'trip_stage',
+          'trip_type',
+          'trip_duration',
+          'trip_duration_days',
+          # locations
           'location_start',
           'location_end',
+          'start_location',
+          'end_location',
+          'location',
+          'locations',
           'locations_visited',
-          'transport',
+          'countries_visited',
+          'days_at_location',
+          # lodging
           'accommodation',
+          'accommodations',
+          'hotels',
+          # places
+          'venues',
+          'points_of_interest',
+          'nearby_attractions_mentioned',
+          # getting around
+          'transport',
+          'flights',
+          'next_day_logistics',
+          'walking_distance',
+          # what happened
           'activities',
           'dining',
+          'highlights',
           'notable_experiences',
-          'weather'
+          'notable_events',
+          'notable_mentions',
+          'challenges',
+          # context
+          'weather',
+          'companions',
+          'travel_companions',
+          'travelers',
+          'travel_sentiment',
+          'cultural_references',
+          'references',
+          'skipped'
         ].each do |field|
           post_entry[field] = data[field] if data[field]
         end
@@ -71,10 +111,15 @@ module TravelDataGenerator
           travel_data[:trips][rollup_key][:posts] << post_entry
         end
 
-        # Collect unique locations
-        if data['locations_visited']
-          locations = data['locations_visited'].is_a?(Array) ? data['locations_visited'] : [data['locations_visited']]
-          travel_data[:all_locations].concat(locations)
+        # Collect unique location names (entries may be strings or hashes)
+        %w[locations locations_visited].each do |loc_field|
+          next unless data[loc_field]
+
+          entries = data[loc_field].is_a?(Array) ? data[loc_field] : [data[loc_field]]
+          entries.each do |entry|
+            name = entry.is_a?(Hash) ? (entry['name'] || entry['location'] || entry['place']) : entry
+            travel_data[:all_locations] << name if name
+          end
         end
 
         # Collect unique activities

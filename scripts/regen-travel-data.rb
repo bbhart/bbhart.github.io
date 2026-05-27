@@ -36,17 +36,50 @@ Dir.glob('_posts/*.markdown').each do |file|
     rollup_key: frontmatter['rollup_key']
   }
 
+  # Explicit allow-list of rich travel metadata fields.
+  # Keep in sync with _plugins/travel_data_generator.rb.
   %w[
     trip_day
+    day_number
+    day_type
+    trip_stage
+    trip_type
+    trip_duration
+    trip_duration_days
     location_start
     location_end
+    start_location
+    end_location
+    location
+    locations
     locations_visited
-    transport
+    countries_visited
+    days_at_location
     accommodation
+    accommodations
+    hotels
+    venues
+    points_of_interest
+    nearby_attractions_mentioned
+    transport
+    flights
+    next_day_logistics
+    walking_distance
     activities
     dining
+    highlights
     notable_experiences
+    notable_events
+    notable_mentions
+    challenges
     weather
+    companions
+    travel_companions
+    travelers
+    travel_sentiment
+    cultural_references
+    references
+    skipped
   ].each do |field|
     post_entry[field] = frontmatter[field] if frontmatter[field]
   end
@@ -59,9 +92,15 @@ Dir.glob('_posts/*.markdown').each do |file|
     travel_data[:trips][rollup_key][:posts] << post_entry
   end
 
-  if frontmatter['locations_visited']
-    locations = frontmatter['locations_visited'].is_a?(Array) ? frontmatter['locations_visited'] : [frontmatter['locations_visited']]
-    travel_data[:all_locations].concat(locations)
+  # Collect unique location names (entries may be strings or hashes)
+  %w[locations locations_visited].each do |loc_field|
+    next unless frontmatter[loc_field]
+
+    entries = frontmatter[loc_field].is_a?(Array) ? frontmatter[loc_field] : [frontmatter[loc_field]]
+    entries.each do |entry|
+      name = entry.is_a?(Hash) ? (entry['name'] || entry['location'] || entry['place']) : entry
+      travel_data[:all_locations] << name if name
+    end
   end
 
   if frontmatter['activities']
