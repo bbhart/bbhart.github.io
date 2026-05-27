@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T16:30:31Z",
-  "total_posts": 96,
+  "generated_at": "2026-05-27T17:03:58Z",
+  "total_posts": 97,
   "trips": [
     {
       "rollup_key": "2023iceland",
@@ -5967,6 +5967,83 @@
           "companions": [
             "solo"
           ]
+        },
+        {
+          "title": "Rome and Silversea Day 7",
+          "date": "2026-05-10",
+          "subtitle": "A full day at sea between Italy and Spain",
+          "categories": "travel rome silversea",
+          "tags": [
+            "may2026"
+          ],
+          "rollup_key": "2026romesilversea",
+          "day_type": "at_sea",
+          "trip_stage": "cruise",
+          "locations": [
+            {
+              "name": "Balearic Sea",
+              "type": "sea",
+              "country": "International waters",
+              "notes": "Full sea day crossing the western Mediterranean on the Livorno → València leg"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Silversea Silver Spirit",
+              "type": "cruise_ship",
+              "url": "https://www.silversea.com/",
+              "night": "3 of 7",
+              "suite": "757",
+              "suite_category": "Deluxe Veranda"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Shore Excursions Desk",
+              "type": "service_desk",
+              "location": "Silver Spirit",
+              "notes": "Booked an excursion in Cartagena and two in Portimão (the more scenery-focused port)"
+            },
+            {
+              "name": "Atlantide",
+              "type": "restaurant",
+              "location": "Silver Spirit",
+              "notes": "Group dinner with the travel advisors"
+            },
+            {
+              "name": "Panorama Lounge",
+              "type": "lounge",
+              "location": "Silver Spirit",
+              "notes": "After-dinner drinks with members of the group"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise",
+              "vessel": "Silversea Silver Spirit",
+              "route": "Livorno, Italy → València, Spain",
+              "notes": "Full day at sea crossing the western Mediterranean toward València"
+            }
+          ],
+          "activities": [
+            "Relaxing and reading on a sun-deck lounger",
+            "Changed return flights to fly home Friday after disembarkation, skipping two nights in Lisbon",
+            "Booked shore excursions for Cartagena and Portimão (two for Portimão)",
+            "Group dinner at Atlantide",
+            "After-dinner drinks in the Panorama Lounge"
+          ],
+          "dining": [
+            {
+              "venue": "Atlantide",
+              "meal": "dinner",
+              "location": "Silver Spirit",
+              "notes": "Group dinner with the travel advisors; menu featured roast duck, grilled halibut, and a caramel coconut tart"
+            }
+          ],
+          "companions": [
+            "solo",
+            "travel advisor group"
+          ]
         }
       ]
     }
@@ -5974,6 +6051,7 @@
   "all_locations": [
     "Appenzell",
     "Balabu day-trip cabin",
+    "Balearic Sea",
     "Balestrand",
     "Balestrand Forest Trail (Skogstur)",
     "Balestrand ferry terminal",
@@ -6087,6 +6165,7 @@
     "6:30pm sailaway",
     "75 minutes waiting on sunny train platform",
     "Aerial photography of Greenland",
+    "After-dinner drinks in the Panorama Lounge",
     "Arrival home in Holly Springs",
     "Arrival in Bergen and early hotel check-in",
     "Arrival in Rome and hotel check-in",
@@ -6096,11 +6175,13 @@
     "Bag reclaim and recheck in Detroit",
     "Bakery visit in Selfoss",
     "Balestrand Forest Hike - 5.2 miles, 1700ft elevation gain",
+    "Booked shore excursions for Cartagena and Portimão (two for Portimão)",
     "Bus journey through winter wonderland landscape",
     "Butler and housekeeper room orientation",
     "Cafe breakfast at historic manor",
     "Car return and walk through Reykjavik",
     "Challenging second quarter with steep sections and roots",
+    "Changed return flights to fly home Friday after disembarkation, skipping two nights in Lisbon",
     "Checked bags at Munich Airport",
     "Church visit (Hallgrímskirkja interior tour)",
     "Climbed St. Peter's dome via stairs/ramp through the inner gallery up to the lantern viewing platform",
@@ -6146,6 +6227,7 @@
     "Geothermal hot tub",
     "Gondola ride to mountain summit (1295m elevation)",
     "Grocery shopping at Bónus supermarket",
+    "Group dinner at Atlantide",
     "Group dinner at S.A.L.T. Kitchen",
     "Hiking clockwise loop starting from hotel",
     "Hiking down Fløyen mountain (~300m descent)",
@@ -6191,6 +6273,7 @@
     "Reading Kindle on hotel sun deck",
     "Reading on the veranda with a Kindle",
     "Regional train from Rome to Civitavecchia",
+    "Relaxing and reading on a sun-deck lounger",
     "Riding Fløibanen funicular to Fløyen summit",
     "Rocky gorge trail with handrails",
     "Rooftop hotel views",
@@ -12523,6 +12606,83 @@
       ],
       "companions": [
         "solo"
+      ]
+    },
+    {
+      "title": "Rome and Silversea Day 7",
+      "date": "2026-05-10",
+      "subtitle": "A full day at sea between Italy and Spain",
+      "categories": "travel rome silversea",
+      "tags": [
+        "may2026"
+      ],
+      "rollup_key": "2026romesilversea",
+      "day_type": "at_sea",
+      "trip_stage": "cruise",
+      "locations": [
+        {
+          "name": "Balearic Sea",
+          "type": "sea",
+          "country": "International waters",
+          "notes": "Full sea day crossing the western Mediterranean on the Livorno → València leg"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Silversea Silver Spirit",
+          "type": "cruise_ship",
+          "url": "https://www.silversea.com/",
+          "night": "3 of 7",
+          "suite": "757",
+          "suite_category": "Deluxe Veranda"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Shore Excursions Desk",
+          "type": "service_desk",
+          "location": "Silver Spirit",
+          "notes": "Booked an excursion in Cartagena and two in Portimão (the more scenery-focused port)"
+        },
+        {
+          "name": "Atlantide",
+          "type": "restaurant",
+          "location": "Silver Spirit",
+          "notes": "Group dinner with the travel advisors"
+        },
+        {
+          "name": "Panorama Lounge",
+          "type": "lounge",
+          "location": "Silver Spirit",
+          "notes": "After-dinner drinks with members of the group"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise",
+          "vessel": "Silversea Silver Spirit",
+          "route": "Livorno, Italy → València, Spain",
+          "notes": "Full day at sea crossing the western Mediterranean toward València"
+        }
+      ],
+      "activities": [
+        "Relaxing and reading on a sun-deck lounger",
+        "Changed return flights to fly home Friday after disembarkation, skipping two nights in Lisbon",
+        "Booked shore excursions for Cartagena and Portimão (two for Portimão)",
+        "Group dinner at Atlantide",
+        "After-dinner drinks in the Panorama Lounge"
+      ],
+      "dining": [
+        {
+          "venue": "Atlantide",
+          "meal": "dinner",
+          "location": "Silver Spirit",
+          "notes": "Group dinner with the travel advisors; menu featured roast duck, grilled halibut, and a caramel coconut tart"
+        }
+      ],
+      "companions": [
+        "solo",
+        "travel advisor group"
       ]
     }
   ]
