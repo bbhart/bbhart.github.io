@@ -7,14 +7,127 @@ categories: travel rome silversea
 rollup_key: 2026romesilversea
 tags: [may2026]
 background: '/assets/bg-silversea-coffee-bar.jpg'
-
+locations:
+  - name: Rome
+    type: city
+    country: Italy
+  - name: Civitavecchia
+    type: port_town
+    country: Italy
+  - name: Tyrrhenian Sea
+    type: sea
+    country: International waters
+accommodations:
+  - name: Hotel Campo de' Fiori
+    location: Rome
+    url: https://www.hotelcampodefiori.com/en/
+    night: 3 of 3
+    room: '603'
+    checkout: true
+    notes: Settled bill and had the front desk call a taxi to the train station
+  - name: Silversea Silver Spirit
+    type: cruise_ship
+    location: Civitavecchia (embarkation)
+    url: https://www.silversea.com/
+    night: 1 of 7
+    suite: '757'
+    suite_category: Deluxe Veranda
+    suite_size: ~311 sq ft interior + 64 sq ft veranda (~375 sq ft total)
+    notes: First voyage after 61 days in dry dock; butler and housekeeper service; butlers reachable via WhatsApp QR code
+venues:
+  - name: Statua di Poseidone
+    type: monument
+    location: Civitavecchia
+    url: https://maps.app.goo.gl/cHGPsRqDKCDUtQQD9
+    notes: Recommended map destination for walking to the cruise port bus plaza
+  - name: Hasekura Tsunenaga Statue
+    type: monument
+    location: Civitavecchia
+    notes: Statue of the Japanese samurai ambassador near the seafront promenade
+  - name: Largo della Pace
+    type: transit_hub
+    location: Civitavecchia
+    notes: Bus plaza for boarding cruise ship shuttles
+  - name: La Terrazza
+    type: restaurant
+    location: Silver Spirit, Deck 7
+    notes: Lunch venue
+  - name: Show Lounge
+    type: theater
+    location: Silver Spirit, Deck 5
+    notes: Renovated during dry dock; served as the muster station for the safety drill
+  - name: Coffee Bar
+    type: lounge
+    location: Silver Spirit
+    notes: Became a favorite spot over the span of the cruise
+  - name: La Dolce Vita
+    type: lounge
+    location: Silver Spirit
+    notes: First group cocktail hour; also the solo cruisers' meetup
+  - name: S.A.L.T. Kitchen
+    type: restaurant
+    location: Silver Spirit
+    url: https://www.silversea.com/introducing-silversea-salt.html
+    notes: Sea And Land Taste; group dinner
+transport:
+  - type: taxi
+    route: Hotel Campo de' Fiori → Stazione San Pietro, Rome
+    fare_eur: 12
+    duration: ~10 minutes
+    notes: Hotel called the taxi; accidentally offered a 20 Swiss Franc note before paying with a €50
+  - type: train
+    provider: Trenitalia
+    service: regional
+    route: Roma San Pietro → Civitavecchia
+    fare_eur: 4.60
+    duration: ~1 hour
+    notes: Ticket bought from a cash/coin-only machine; stood with luggage the whole ride; accelerated plans ahead of a possible 11am train strike
+  - type: walk
+    route: Civitavecchia station → cruise port bus plaza
+    duration: ~25 minutes
+  - type: shuttle_bus
+    route: Largo della Pace → ship pier
+    notes: Cruise port shuttle; buses loaded to ~110% full
+  - type: cruise
+    vessel: Silversea Silver Spirit
+    route: Civitavecchia → Tyrrhenian Sea (toward Livorno)
+    departure_time: 6:30pm
+    notes: Embark day sailaway; no sailaway party, unlike mainstream lines
+dining:
+  - venue: La Terrazza
+    meal: lunch
+    location: Silver Spirit, Deck 7
+  - venue: La Dolce Vita
+    meal: cocktail hour
+    location: Silver Spirit
+    notes: Group gathering with the travel advisors at the 6:30pm sailaway
+  - venue: S.A.L.T. Kitchen
+    meal: dinner
+    location: Silver Spirit
+    url: https://www.silversea.com/introducing-silversea-salt.html
+    notes: Group dinner; food, service, and company all top notch
+activities:
+  - Hotel checkout and taxi to Stazione San Pietro
+  - Regional train from Rome to Civitavecchia
+  - Walk from Civitavecchia station to the cruise port
+  - Shuttle bus to the ship pier
+  - Embarkation on the Silversea Silver Spirit
+  - Lunch at La Terrazza
+  - Ship exploration (theater, grand staircase, coffee bar)
+  - Sunbathing on the top deck
+  - Butler and housekeeper room orientation
+  - Muster station safety drill in the Show Lounge
+  - 6:30pm sailaway
+  - Cocktail hour in La Dolce Vita with the travel advisor group
+  - Group dinner at S.A.L.T. Kitchen
+companions:
+  - solo
+  - travel advisor group (and partners)
+trip_stage: embarkation
 ---
 
 - **Start of day:** Rome, Italy
 - **End of day:** Tyrrhenian Sea, between Rome and Livorno
-
-
-
 
 Embark day! Today I'm boarding a 7 night Mediterranean cruise aboard the [Silversea](https://www.silversea.com/) Silver Spirit. It's my first time on Silversea, an ultra-luxury, all-inclusive cruise line known for its small, intimate ships, butler service in every suite, and destination-focused itineraries. It's also my first time cruising solo.
 
