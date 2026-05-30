@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T17:03:58Z",
-  "total_posts": 97,
+  "generated_at": "2026-05-30T21:10:00Z",
+  "total_posts": 102,
   "trips": [
     {
       "rollup_key": "2023iceland",
@@ -6044,11 +6044,507 @@
             "solo",
             "travel advisor group"
           ]
+        },
+        {
+          "title": "Rome and Silversea Day 8",
+          "date": "2026-05-11",
+          "subtitle": "A day in València",
+          "categories": "travel rome silversea",
+          "tags": [
+            "may2026"
+          ],
+          "rollup_key": "2026romesilversea",
+          "day_type": "port",
+          "trip_stage": "cruise",
+          "locations": [
+            {
+              "name": "València",
+              "type": "city",
+              "country": "Spain",
+              "notes": "Mediterranean coastal city, home of paella; ship docked for the day"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Silversea Silver Spirit",
+              "type": "cruise_ship",
+              "url": "https://www.silversea.com/",
+              "night": "4 of 7",
+              "suite": "757",
+              "suite_category": "Deluxe Veranda"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Ciudad de las Artes y las Ciencias",
+              "type": "landmark",
+              "location": "València",
+              "visited": "walked the grounds, exterior only",
+              "notes": "City of Arts & Sciences complex, about a 2-mile walk from the cruise terminal; did not enter the museums"
+            },
+            {
+              "name": "Príncipe Felipe Science Museum",
+              "type": "museum",
+              "location": "València",
+              "notes": "Photographed the exterior at the City of Arts & Sciences; did not go inside"
+            },
+            {
+              "name": "Hemisfèric",
+              "type": "landmark",
+              "location": "València",
+              "notes": "IMAX cinema and planetarium building at the City of Arts & Sciences; photographed from outside"
+            },
+            {
+              "name": "Riviera",
+              "type": "restaurant",
+              "location": "Silver Spirit",
+              "notes": "New open-air restaurant aboard the ship; late lunch after the walk"
+            }
+          ],
+          "transport": [
+            {
+              "type": "shuttle_bus",
+              "operator": "Silversea",
+              "route": "València cruise terminal ↔ city center",
+              "notes": "Complimentary ship shuttle offered; skipped it in favor of walking"
+            },
+            {
+              "type": "walk",
+              "route": "Cruise terminal → City of Arts & Sciences and back",
+              "distance": "~2 miles each way",
+              "notes": "Well-marked pedestrian path out of the cruise port"
+            },
+            {
+              "type": "cruise",
+              "vessel": "Silversea Silver Spirit",
+              "route": "València, Spain → Cartagena, Spain",
+              "notes": "Evening sailaway from València toward Cartagena"
+            }
+          ],
+          "activities": [
+            "Walking about 2 miles from the cruise terminal into València",
+            "Strolling the City of Arts & Sciences grounds (exterior only)",
+            "Recording a walk-and-talk video of first impressions",
+            "Lunch from a hot dog stand outside the museum",
+            "Late lunch at the ship's new open-air Riviera restaurant",
+            "Photographing the sunset from the balcony and deck at sailaway"
+          ],
+          "dining": [
+            {
+              "venue": "València lunch stand",
+              "meal": "lunch",
+              "location": "Outside the City of Arts & Sciences, València",
+              "notes": "Long hot dog topped with fried-onion \"crunchies\""
+            },
+            {
+              "venue": "Riviera",
+              "meal": "lunch",
+              "location": "Silver Spirit",
+              "notes": "Late open-air lunch back aboard; ceviche and a fish course"
+            }
+          ],
+          "companions": [
+            "solo"
+          ]
+        },
+        {
+          "title": "Rome and Silversea Day 9",
+          "date": "2026-05-12",
+          "subtitle": "A day in Cartagena, Spain",
+          "categories": "travel rome silversea",
+          "tags": [
+            "may2026"
+          ],
+          "rollup_key": "2026romesilversea",
+          "day_type": "port",
+          "trip_stage": "cruise",
+          "locations": [
+            {
+              "name": "Cartagena",
+              "type": "city",
+              "country": "Spain",
+              "region": "Murcia",
+              "notes": "Ancient Mediterranean port city in the Murcia region; ship docked for the day right at the old town"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Silversea Silver Spirit",
+              "type": "cruise_ship",
+              "url": "https://www.silversea.com/",
+              "night": "5 of 7",
+              "suite": "757",
+              "suite_category": "Deluxe Veranda"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Palacio Consistorial",
+              "type": "landmark",
+              "location": "Cartagena",
+              "notes": "Ornate Belle Époque city hall on the main plaza near the port; visited on the walking tour, exterior only"
+            },
+            {
+              "name": "Calle Mayor",
+              "type": "street",
+              "location": "Cartagena",
+              "notes": "Pedestrian high street lined with historic buildings and a modernist white-cube canopy installation"
+            },
+            {
+              "name": "Mercado central",
+              "type": "market",
+              "location": "Cartagena",
+              "notes": "Covered market with fresh fish, meat, and vegetable stalls; wandered through on my own after the tour"
+            },
+            {
+              "name": "Cartagena waterfront promenade",
+              "type": "landmark",
+              "location": "Cartagena",
+              "notes": "Palm-lined seafront walk with a bronze sailor statue and Spanish flag, between the old town and the cruise dock"
+            },
+            {
+              "name": "Riviera",
+              "type": "restaurant",
+              "location": "Silver Spirit",
+              "notes": "Open-air restaurant aboard the ship; joined fellow passengers for dinner, which turned into a dance party"
+            }
+          ],
+          "transport": [
+            {
+              "type": "walk",
+              "route": "Cruise dock → Cartagena old town and back",
+              "notes": "Port sits right at the old town, so the day was walked entirely on foot"
+            },
+            {
+              "type": "cruise",
+              "vessel": "Silversea Silver Spirit",
+              "route": "Cartagena, Spain → at sea toward Portimão, Portugal",
+              "notes": "Evening sailaway from Cartagena"
+            }
+          ],
+          "activities": [
+            "Secrets of Cartagena with Paella walking tour",
+            "Photographing the Palacio Consistorial and Calle Mayor",
+            "Paella lunch with fellow passengers",
+            "Wandering Cartagena's central market on my own",
+            "Caprese and olives at an outdoor café",
+            "Walking the waterfront promenade back to the ship",
+            "Sunbathing and reading on the pool deck",
+            "Dinner at the ship's open-air Riviera restaurant",
+            "People-watching at the after-dinner dance party"
+          ],
+          "dining": [
+            {
+              "venue": "Tour lunch restaurant",
+              "meal": "lunch",
+              "location": "Cartagena old town",
+              "notes": "Featured a traditional Spanish rice dish (paella); served beneath stone archways"
+            },
+            {
+              "venue": "Café off the main strip",
+              "meal": "snack",
+              "location": "Cartagena",
+              "notes": "Caprese salad with some of the best olives I have ever tasted"
+            },
+            {
+              "venue": "Riviera",
+              "meal": "dinner",
+              "location": "Silver Spirit",
+              "notes": "Joined fellow passengers Jennifer and her husband for an excellent meal in the open-air restaurant"
+            }
+          ],
+          "weather": "Mostly cloudy",
+          "companions": [
+            "solo",
+            "fellow passengers (Jennifer and her husband) at dinner"
+          ]
+        },
+        {
+          "title": "Rome and Silversea Day 10",
+          "date": "2026-05-13",
+          "subtitle": "A sea day and the passage past Gibraltar",
+          "categories": "travel rome silversea",
+          "tags": [
+            "may2026"
+          ],
+          "rollup_key": "2026romesilversea",
+          "day_type": "at_sea",
+          "trip_stage": "cruise",
+          "locations": [
+            {
+              "name": "Alborán Sea",
+              "type": "sea",
+              "country": "International waters",
+              "notes": "Western Mediterranean leg from Cartagena toward the Strait of Gibraltar"
+            },
+            {
+              "name": "Strait of Gibraltar",
+              "type": "strait",
+              "country": "International waters",
+              "notes": "Passage from the Mediterranean into the Atlantic; the Rock of Gibraltar visible to starboard"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Silversea Silver Spirit",
+              "type": "cruise_ship",
+              "url": "https://www.silversea.com/",
+              "night": "6 of 7",
+              "suite": "757",
+              "suite_category": "Deluxe Veranda"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Atlantide",
+              "type": "restaurant",
+              "location": "Silver Spirit",
+              "notes": "Casual solo dinner around 6pm; a fish main followed by a dessert"
+            },
+            {
+              "name": "La Dolce Vita",
+              "type": "lounge",
+              "location": "Silver Spirit",
+              "notes": "Lounge with live piano; strolled through in the evening"
+            },
+            {
+              "name": "Coffee bar",
+              "type": "cafe",
+              "location": "Silver Spirit",
+              "notes": "Decaf Americano and journaling before an early night"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise",
+              "vessel": "Silversea Silver Spirit",
+              "route": "Cartagena, Spain → at sea toward Portimão, Portugal",
+              "notes": "Full day at sea, passing through the Strait of Gibraltar from the Mediterranean into the Atlantic"
+            }
+          ],
+          "next_day_logistics": [
+            "Arriving Portimão, Portugal with two shore excursions planned"
+          ],
+          "activities": [
+            "Relaxing sea day aboard the ship",
+            "Watching the ship pass through the Strait of Gibraltar and past the Rock of Gibraltar",
+            "Casual solo dinner at Atlantide",
+            "Strolling through La Dolce Vita during the live piano",
+            "Journaling over a decaf Americano in the coffee bar"
+          ],
+          "dining": [
+            {
+              "venue": "Atlantide",
+              "meal": "dinner",
+              "location": "Silver Spirit",
+              "notes": "Casual solo dinner around 6pm; pan-fried white fish with capers and cherry tomatoes, followed by a millefeuille-style dessert"
+            },
+            {
+              "venue": "Coffee bar",
+              "meal": "coffee",
+              "location": "Silver Spirit",
+              "notes": "Decaf Americano while journaling in the evening"
+            }
+          ],
+          "notable_experiences": [
+            "Sailing through the Strait of Gibraltar from the Mediterranean into the Atlantic, with the Rif coast of Morocco to port and the Rock of Gibraltar to starboard"
+          ],
+          "notable_mentions": [
+            "Recalled a prior visit to Gibraltar during a 2007 European honeymoon cruise aboard the Celebrity Millennium — toured the Rock's caverns and tunnels and saw the Barbary macaques"
+          ],
+          "companions": [
+            "solo"
+          ],
+          "cultural_references": [
+            "Pillars of Hercules, the ancient Greek name for the headlands flanking the strait, once regarded as the edge of the known world"
+          ]
+        },
+        {
+          "title": "Rome and Silversea Day 11",
+          "date": "2026-05-14",
+          "subtitle": "A day in Portimão and Silves",
+          "categories": "travel rome silversea",
+          "tags": [
+            "may2026"
+          ],
+          "rollup_key": "2026romesilversea",
+          "day_type": "port",
+          "trip_stage": "cruise",
+          "locations": [
+            {
+              "name": "Portimão",
+              "type": "city",
+              "country": "Portugal",
+              "region": "Algarve",
+              "notes": "Algarve port city at the mouth of the Arade River; ship docked for the day"
+            },
+            {
+              "name": "Silves",
+              "type": "town",
+              "country": "Portugal",
+              "region": "Algarve",
+              "notes": "Historic inland town up the Arade River; former Moorish capital of the Algarve"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Silversea Silver Spirit",
+              "type": "cruise_ship",
+              "url": "https://www.silversea.com/",
+              "night": "7 of 7",
+              "suite": "757",
+              "suite_category": "Deluxe Veranda"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Mercado Municipal de Silves",
+              "type": "market",
+              "location": "Silves",
+              "notes": "Covered municipal market; walked through on the morning tour"
+            },
+            {
+              "name": "Museu Municipal de Arqueologia de Silves",
+              "type": "museum",
+              "location": "Silves",
+              "notes": "Archaeology museum built around an Almohad-era Moorish well-cistern"
+            },
+            {
+              "name": "Sé de Silves",
+              "type": "cathedral",
+              "location": "Silves",
+              "notes": "Silves cathedral; brief stop on the walk up to the castle"
+            },
+            {
+              "name": "Castelo de Silves",
+              "type": "castle",
+              "location": "Silves",
+              "notes": "Red sandstone Moorish castle; best-preserved in Portugal and the largest in the Algarve"
+            },
+            {
+              "name": "S.A.L.T.",
+              "type": "restaurant",
+              "location": "Silver Spirit",
+              "notes": "Farewell group dinner on the last evening aboard"
+            }
+          ],
+          "points_of_interest": [
+            {
+              "name": "Benagil cave",
+              "type": "sea_cave",
+              "location": "Algarve coast, east of Portimão",
+              "notes": "Collapsed-roof sea cave with a round skylight; visited on an afternoon RIB tour"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise",
+              "vessel": "Silversea Silver Spirit",
+              "route": "At sea → Portimão, Portugal",
+              "notes": "Morning arrival into Portimão after the Gibraltar passage"
+            },
+            {
+              "type": "tour_coach",
+              "route": "Portimão pier → Silves and back",
+              "notes": "Silversea shore excursion to the Moorish city of Silves"
+            },
+            {
+              "type": "boat",
+              "route": "Algarve coast sea caves",
+              "notes": "Afternoon RIB tour of the sea caves, including Benagil"
+            }
+          ],
+          "next_day_logistics": [
+            "Final night aboard before disembarkation and the flight home"
+          ],
+          "activities": [
+            "Morning shore excursion to Silves (market, archaeology museum, cathedral, and castle)",
+            "Afternoon RIB boat tour of the Algarve sea caves, including Benagil",
+            "Farewell group dinner aboard at S.A.L.T."
+          ],
+          "dining": [
+            {
+              "venue": "S.A.L.T.",
+              "meal": "dinner",
+              "location": "Silver Spirit",
+              "notes": "Farewell group dinner with the travel advisor group on the last night aboard"
+            }
+          ],
+          "notable_experiences": [
+            "Walking tour of Silves, the former Moorish capital, up to the Castelo de Silves -- the best-preserved Moorish castle in Portugal",
+            "Boating into the Benagil sea cave with its collapsed-roof skylight"
+          ],
+          "weather": "Sunny",
+          "companions": [
+            "solo",
+            "travel advisor group"
+          ]
+        },
+        {
+          "title": "Rome and Silversea Day 12",
+          "date": "2026-05-15",
+          "subtitle": "Disembarkation in Lisbon and the flight home",
+          "categories": "travel rome silversea",
+          "tags": [
+            "may2026"
+          ],
+          "rollup_key": "2026romesilversea",
+          "day_type": "travel",
+          "trip_stage": "return_travel",
+          "locations": [
+            {
+              "name": "Lisbon",
+              "type": "city",
+              "country": "Portugal",
+              "notes": "Disembarked here; departed via Humberto Delgado Airport (LIS)"
+            },
+            {
+              "name": "Boston",
+              "type": "city",
+              "country": "United States",
+              "notes": "Connection through Boston Logan (BOS); cleared U.S. customs and immigration via Global Entry"
+            }
+          ],
+          "countries_visited": [
+            "Portugal",
+            "United States"
+          ],
+          "transport": [
+            {
+              "type": "cruise",
+              "vessel": "Silversea Silver Spirit",
+              "route": "Portimão → Lisbon, Portugal",
+              "notes": "Overnight sail; disembarkation in Lisbon"
+            },
+            {
+              "type": "air",
+              "carrier": "Delta",
+              "route": "Lisbon (LIS) → Boston (BOS) → Raleigh-Durham (RDU)",
+              "notes": "Checked a bag with Delta; first flight pushed back a few minutes late waiting for passengers; tight but uneventful Boston connection after clearing customs with Global Entry"
+            }
+          ],
+          "activities": [
+            "Disembarkation in Lisbon",
+            "Navigating departures and Schengen-exit border control at LIS",
+            "EES exit enrollment",
+            "Flying home"
+          ],
+          "notable_experiences": [
+            "First time through the EU's new EES biometric process, on the way out of the Schengen zone"
+          ],
+          "challenges": [
+            "Schengen-exit border control at LIS took 1h37m; the EES e-gates failed and funneled everyone to a human officer"
+          ],
+          "weather": "Gray and cold-ish in Boston (around 53°F)",
+          "companions": [
+            "solo"
+          ]
         }
       ]
     }
   ],
   "all_locations": [
+    "Alborán Sea",
     "Appenzell",
     "Balabu day-trip cabin",
     "Balearic Sea",
@@ -6067,11 +6563,13 @@
     "Blauherd",
     "Bordalsgjelet Gorge",
     "Borgarnes",
+    "Boston",
     "Bregenz",
     "Bryggen (historic wharf district)",
     "Bryggens Museum",
     "Brúarfoss",
     "Buchloe",
+    "Cartagena",
     "Civitavecchia",
     "Copenhagen Airport (CPH)",
     "Copenhagen city center",
@@ -6113,6 +6611,7 @@
     "Laugarvatn area",
     "Lauterbrunnen",
     "Leonardo da Vinci-Fiumicino Airport",
+    "Lisbon",
     "Livorno",
     "Mountain summit at 1295m above sea level",
     "Munich",
@@ -6123,6 +6622,7 @@
     "Oslo Opera House",
     "Oslo ferry terminal",
     "Pflach",
+    "Portimão",
     "Raleigh-Durham Airport (RDU)",
     "Raleigh-Durham International Airport",
     "Reykholt",
@@ -6132,17 +6632,20 @@
     "Sandsstølen viewpoint",
     "Schwangau",
     "Selfoss, Iceland",
+    "Silves",
     "Sognefjord (via express ferry)",
     "Sognefjord overlook",
     "St. Gallen",
     "St. Margrethen SG",
     "St. Olaf's Church",
+    "Strait of Gibraltar",
     "Sturlureykir Visiting Horse Farm",
     "Sun Voyager sculpture",
     "Sunnegga",
     "Thingvellir National Park",
     "Tivoli Gardens amusement park",
     "Tyrrhenian Sea",
+    "València",
     "Vangsnes (unplanned fjord tour)",
     "Vatican City",
     "Vigeland Park",
@@ -6166,6 +6669,7 @@
     "75 minutes waiting on sunny train platform",
     "Aerial photography of Greenland",
     "After-dinner drinks in the Panorama Lounge",
+    "Afternoon RIB boat tour of the Algarve sea caves, including Benagil",
     "Arrival home in Holly Springs",
     "Arrival in Bergen and early hotel check-in",
     "Arrival in Rome and hotel check-in",
@@ -6179,7 +6683,9 @@
     "Bus journey through winter wonderland landscape",
     "Butler and housekeeper room orientation",
     "Cafe breakfast at historic manor",
+    "Caprese and olives at an outdoor café",
     "Car return and walk through Reykjavik",
+    "Casual solo dinner at Atlantide",
     "Challenging second quarter with steep sections and roots",
     "Changed return flights to fly home Friday after disembarkation, skipping two nights in Lisbon",
     "Checked bags at Munich Airport",
@@ -6198,8 +6704,11 @@
     "Dinner at Pancrazio",
     "Dinner at Ristorante Verso Sera",
     "Dinner at Romoletto (carbonara)",
+    "Dinner at the ship's open-air Riviera restaurant",
     "Dinner with friends",
+    "Disembarkation in Lisbon",
     "Domestic flight from Detroit to Raleigh-Durham",
+    "EES exit enrollment",
     "EV charging introduction (DC Fast Charger in Selfoss)",
     "Early check-in at Kviknes Hotel",
     "Embarkation on the Silversea Silver Spirit",
@@ -6217,10 +6726,12 @@
     "Express ferry from Balestrand to Vik",
     "Express ferry journey through Sognefjord",
     "Failed quest to replace lost Kindle at Elgiganten",
+    "Farewell group dinner aboard at S.A.L.T.",
     "Farm visit at Efstidalur II",
     "Finding EAT HAPPY sushi stall",
     "Fish and chips lunch",
     "Flights via Iceland back to North Carolina",
+    "Flying home",
     "Food truck lunch",
     "Four hour layover in Iceland with wild weather",
     "Gelato at MYO",
@@ -6237,9 +6748,11 @@
     "International air travel",
     "International flight from Munich to Detroit",
     "Italian dinner",
+    "Journaling over a decaf Americano in the coffee bar",
     "Kindle reading on the hotel rooftop terrace",
     "Largo di Torre Argentina",
     "Late evening walk around Balestrand",
+    "Late lunch at the ship's new open-air Riviera restaurant",
     "Late morning leisure at hotel",
     "Late-night cake and people-watching at Taba Cafe",
     "Late-night visit to the Trevi Fountain",
@@ -6249,20 +6762,27 @@
     "Lunch at Copenhagen Airport",
     "Lunch at La Terrazza",
     "Lunch at Romoletto on Campo de' Fiori",
+    "Lunch from a hot dog stand outside the museum",
     "Lyft cancellation and Uber switch",
     "May the 4th Star Wars cosplay sighting at RDU",
     "Metro ride to airport",
     "Moonrise photography over fjord",
+    "Morning shore excursion to Silves (market, archaeology museum, cathedral, and castle)",
     "Muster station safety drill in the Show Lounge",
     "Navigating Copenhagen public transit systems",
     "Navigating baggage tag confusion at Southwest check-in",
+    "Navigating departures and Schengen-exit border control at LIS",
     "Overnight flight to Iceland",
     "Overnight transatlantic flight in Premium Select",
+    "Paella lunch with fellow passengers",
     "Palazzo della Cancelleria courtyard and Sant'Agostino facade",
     "Park walking",
     "Passport control and baggage claim at Keflavik",
     "People-watching at harbor fish market",
+    "People-watching at the after-dinner dance party",
     "People-watching from chairs in front of hotel",
+    "Photographing the Palacio Consistorial and Calle Mayor",
+    "Photographing the sunset from the balcony and deck at sailaway",
     "Photography session at twilight",
     "Piazza Navona and Fontana dei Quattro Fiumi",
     "Planning next day's complex ferry/bus route",
@@ -6272,12 +6792,15 @@
     "Read Business Punk magazine issue 101",
     "Reading Kindle on hotel sun deck",
     "Reading on the veranda with a Kindle",
+    "Recording a walk-and-talk video of first impressions",
     "Regional train from Rome to Civitavecchia",
     "Relaxing and reading on a sun-deck lounger",
+    "Relaxing sea day aboard the ship",
     "Riding Fløibanen funicular to Fløyen summit",
     "Rocky gorge trail with handrails",
     "Rooftop hotel views",
     "Scooter rental and ride",
+    "Secrets of Cartagena with Paella walking tour",
     "Seven hour layover at BWI",
     "Ship exploration (theater, grand staircase, coffee bar)",
     "Shopping at REWE grocery store",
@@ -6292,6 +6815,9 @@
     "Spanish Steps visit",
     "Special occasion dinner",
     "St. Peter's Basilica interior visit",
+    "Strolling the City of Arts & Sciences grounds (exterior only)",
+    "Strolling through La Dolce Vita during the live piano",
+    "Sunbathing and reading on the pool deck",
     "Sunbathing on the top deck",
     "Time-lapse of the Livorno sailaway from the dinner window",
     "Tiramisu and people-watching at the Pantheon piazza",
@@ -6309,9 +6835,11 @@
     "Visiting historic church and timber buildings",
     "Walk from Civitavecchia station to the cruise port",
     "Walking Livorno's covered portico and downtown",
+    "Walking about 2 miles from the cruise terminal into València",
     "Walking and people-watching around Copenhagen",
     "Walking around Munich Airport",
     "Walking on Opera House marble roof",
+    "Walking the waterfront promenade back to the ship",
     "Walking to Royal Palace",
     "Walking to ferry terminal (25 minutes)",
     "Walking tour of Munich city center",
@@ -6320,7 +6848,9 @@
     "Walking tour past Vittoriano, Roman Forum, and Colosseum",
     "Walking tour through Rome's historic center",
     "Walking visit through the Roman Forum and Palatine Hill",
+    "Wandering Cartagena's central market on my own",
     "Watching Norwegian fjords from deck",
+    "Watching the ship pass through the Strait of Gibraltar and past the Rock of Gibraltar",
     "Waterfront walk to Sun Voyager sculpture",
     "Working on the travel journal at the Coffee Bar",
     "airport_transit",
@@ -12683,6 +13213,501 @@
       "companions": [
         "solo",
         "travel advisor group"
+      ]
+    },
+    {
+      "title": "Rome and Silversea Day 8",
+      "date": "2026-05-11",
+      "subtitle": "A day in València",
+      "categories": "travel rome silversea",
+      "tags": [
+        "may2026"
+      ],
+      "rollup_key": "2026romesilversea",
+      "day_type": "port",
+      "trip_stage": "cruise",
+      "locations": [
+        {
+          "name": "València",
+          "type": "city",
+          "country": "Spain",
+          "notes": "Mediterranean coastal city, home of paella; ship docked for the day"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Silversea Silver Spirit",
+          "type": "cruise_ship",
+          "url": "https://www.silversea.com/",
+          "night": "4 of 7",
+          "suite": "757",
+          "suite_category": "Deluxe Veranda"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Ciudad de las Artes y las Ciencias",
+          "type": "landmark",
+          "location": "València",
+          "visited": "walked the grounds, exterior only",
+          "notes": "City of Arts & Sciences complex, about a 2-mile walk from the cruise terminal; did not enter the museums"
+        },
+        {
+          "name": "Príncipe Felipe Science Museum",
+          "type": "museum",
+          "location": "València",
+          "notes": "Photographed the exterior at the City of Arts & Sciences; did not go inside"
+        },
+        {
+          "name": "Hemisfèric",
+          "type": "landmark",
+          "location": "València",
+          "notes": "IMAX cinema and planetarium building at the City of Arts & Sciences; photographed from outside"
+        },
+        {
+          "name": "Riviera",
+          "type": "restaurant",
+          "location": "Silver Spirit",
+          "notes": "New open-air restaurant aboard the ship; late lunch after the walk"
+        }
+      ],
+      "transport": [
+        {
+          "type": "shuttle_bus",
+          "operator": "Silversea",
+          "route": "València cruise terminal ↔ city center",
+          "notes": "Complimentary ship shuttle offered; skipped it in favor of walking"
+        },
+        {
+          "type": "walk",
+          "route": "Cruise terminal → City of Arts & Sciences and back",
+          "distance": "~2 miles each way",
+          "notes": "Well-marked pedestrian path out of the cruise port"
+        },
+        {
+          "type": "cruise",
+          "vessel": "Silversea Silver Spirit",
+          "route": "València, Spain → Cartagena, Spain",
+          "notes": "Evening sailaway from València toward Cartagena"
+        }
+      ],
+      "activities": [
+        "Walking about 2 miles from the cruise terminal into València",
+        "Strolling the City of Arts & Sciences grounds (exterior only)",
+        "Recording a walk-and-talk video of first impressions",
+        "Lunch from a hot dog stand outside the museum",
+        "Late lunch at the ship's new open-air Riviera restaurant",
+        "Photographing the sunset from the balcony and deck at sailaway"
+      ],
+      "dining": [
+        {
+          "venue": "València lunch stand",
+          "meal": "lunch",
+          "location": "Outside the City of Arts & Sciences, València",
+          "notes": "Long hot dog topped with fried-onion \"crunchies\""
+        },
+        {
+          "venue": "Riviera",
+          "meal": "lunch",
+          "location": "Silver Spirit",
+          "notes": "Late open-air lunch back aboard; ceviche and a fish course"
+        }
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Rome and Silversea Day 9",
+      "date": "2026-05-12",
+      "subtitle": "A day in Cartagena, Spain",
+      "categories": "travel rome silversea",
+      "tags": [
+        "may2026"
+      ],
+      "rollup_key": "2026romesilversea",
+      "day_type": "port",
+      "trip_stage": "cruise",
+      "locations": [
+        {
+          "name": "Cartagena",
+          "type": "city",
+          "country": "Spain",
+          "region": "Murcia",
+          "notes": "Ancient Mediterranean port city in the Murcia region; ship docked for the day right at the old town"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Silversea Silver Spirit",
+          "type": "cruise_ship",
+          "url": "https://www.silversea.com/",
+          "night": "5 of 7",
+          "suite": "757",
+          "suite_category": "Deluxe Veranda"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Palacio Consistorial",
+          "type": "landmark",
+          "location": "Cartagena",
+          "notes": "Ornate Belle Époque city hall on the main plaza near the port; visited on the walking tour, exterior only"
+        },
+        {
+          "name": "Calle Mayor",
+          "type": "street",
+          "location": "Cartagena",
+          "notes": "Pedestrian high street lined with historic buildings and a modernist white-cube canopy installation"
+        },
+        {
+          "name": "Mercado central",
+          "type": "market",
+          "location": "Cartagena",
+          "notes": "Covered market with fresh fish, meat, and vegetable stalls; wandered through on my own after the tour"
+        },
+        {
+          "name": "Cartagena waterfront promenade",
+          "type": "landmark",
+          "location": "Cartagena",
+          "notes": "Palm-lined seafront walk with a bronze sailor statue and Spanish flag, between the old town and the cruise dock"
+        },
+        {
+          "name": "Riviera",
+          "type": "restaurant",
+          "location": "Silver Spirit",
+          "notes": "Open-air restaurant aboard the ship; joined fellow passengers for dinner, which turned into a dance party"
+        }
+      ],
+      "transport": [
+        {
+          "type": "walk",
+          "route": "Cruise dock → Cartagena old town and back",
+          "notes": "Port sits right at the old town, so the day was walked entirely on foot"
+        },
+        {
+          "type": "cruise",
+          "vessel": "Silversea Silver Spirit",
+          "route": "Cartagena, Spain → at sea toward Portimão, Portugal",
+          "notes": "Evening sailaway from Cartagena"
+        }
+      ],
+      "activities": [
+        "Secrets of Cartagena with Paella walking tour",
+        "Photographing the Palacio Consistorial and Calle Mayor",
+        "Paella lunch with fellow passengers",
+        "Wandering Cartagena's central market on my own",
+        "Caprese and olives at an outdoor café",
+        "Walking the waterfront promenade back to the ship",
+        "Sunbathing and reading on the pool deck",
+        "Dinner at the ship's open-air Riviera restaurant",
+        "People-watching at the after-dinner dance party"
+      ],
+      "dining": [
+        {
+          "venue": "Tour lunch restaurant",
+          "meal": "lunch",
+          "location": "Cartagena old town",
+          "notes": "Featured a traditional Spanish rice dish (paella); served beneath stone archways"
+        },
+        {
+          "venue": "Café off the main strip",
+          "meal": "snack",
+          "location": "Cartagena",
+          "notes": "Caprese salad with some of the best olives I have ever tasted"
+        },
+        {
+          "venue": "Riviera",
+          "meal": "dinner",
+          "location": "Silver Spirit",
+          "notes": "Joined fellow passengers Jennifer and her husband for an excellent meal in the open-air restaurant"
+        }
+      ],
+      "weather": "Mostly cloudy",
+      "companions": [
+        "solo",
+        "fellow passengers (Jennifer and her husband) at dinner"
+      ]
+    },
+    {
+      "title": "Rome and Silversea Day 10",
+      "date": "2026-05-13",
+      "subtitle": "A sea day and the passage past Gibraltar",
+      "categories": "travel rome silversea",
+      "tags": [
+        "may2026"
+      ],
+      "rollup_key": "2026romesilversea",
+      "day_type": "at_sea",
+      "trip_stage": "cruise",
+      "locations": [
+        {
+          "name": "Alborán Sea",
+          "type": "sea",
+          "country": "International waters",
+          "notes": "Western Mediterranean leg from Cartagena toward the Strait of Gibraltar"
+        },
+        {
+          "name": "Strait of Gibraltar",
+          "type": "strait",
+          "country": "International waters",
+          "notes": "Passage from the Mediterranean into the Atlantic; the Rock of Gibraltar visible to starboard"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Silversea Silver Spirit",
+          "type": "cruise_ship",
+          "url": "https://www.silversea.com/",
+          "night": "6 of 7",
+          "suite": "757",
+          "suite_category": "Deluxe Veranda"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Atlantide",
+          "type": "restaurant",
+          "location": "Silver Spirit",
+          "notes": "Casual solo dinner around 6pm; a fish main followed by a dessert"
+        },
+        {
+          "name": "La Dolce Vita",
+          "type": "lounge",
+          "location": "Silver Spirit",
+          "notes": "Lounge with live piano; strolled through in the evening"
+        },
+        {
+          "name": "Coffee bar",
+          "type": "cafe",
+          "location": "Silver Spirit",
+          "notes": "Decaf Americano and journaling before an early night"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise",
+          "vessel": "Silversea Silver Spirit",
+          "route": "Cartagena, Spain → at sea toward Portimão, Portugal",
+          "notes": "Full day at sea, passing through the Strait of Gibraltar from the Mediterranean into the Atlantic"
+        }
+      ],
+      "next_day_logistics": [
+        "Arriving Portimão, Portugal with two shore excursions planned"
+      ],
+      "activities": [
+        "Relaxing sea day aboard the ship",
+        "Watching the ship pass through the Strait of Gibraltar and past the Rock of Gibraltar",
+        "Casual solo dinner at Atlantide",
+        "Strolling through La Dolce Vita during the live piano",
+        "Journaling over a decaf Americano in the coffee bar"
+      ],
+      "dining": [
+        {
+          "venue": "Atlantide",
+          "meal": "dinner",
+          "location": "Silver Spirit",
+          "notes": "Casual solo dinner around 6pm; pan-fried white fish with capers and cherry tomatoes, followed by a millefeuille-style dessert"
+        },
+        {
+          "venue": "Coffee bar",
+          "meal": "coffee",
+          "location": "Silver Spirit",
+          "notes": "Decaf Americano while journaling in the evening"
+        }
+      ],
+      "notable_experiences": [
+        "Sailing through the Strait of Gibraltar from the Mediterranean into the Atlantic, with the Rif coast of Morocco to port and the Rock of Gibraltar to starboard"
+      ],
+      "notable_mentions": [
+        "Recalled a prior visit to Gibraltar during a 2007 European honeymoon cruise aboard the Celebrity Millennium — toured the Rock's caverns and tunnels and saw the Barbary macaques"
+      ],
+      "companions": [
+        "solo"
+      ],
+      "cultural_references": [
+        "Pillars of Hercules, the ancient Greek name for the headlands flanking the strait, once regarded as the edge of the known world"
+      ]
+    },
+    {
+      "title": "Rome and Silversea Day 11",
+      "date": "2026-05-14",
+      "subtitle": "A day in Portimão and Silves",
+      "categories": "travel rome silversea",
+      "tags": [
+        "may2026"
+      ],
+      "rollup_key": "2026romesilversea",
+      "day_type": "port",
+      "trip_stage": "cruise",
+      "locations": [
+        {
+          "name": "Portimão",
+          "type": "city",
+          "country": "Portugal",
+          "region": "Algarve",
+          "notes": "Algarve port city at the mouth of the Arade River; ship docked for the day"
+        },
+        {
+          "name": "Silves",
+          "type": "town",
+          "country": "Portugal",
+          "region": "Algarve",
+          "notes": "Historic inland town up the Arade River; former Moorish capital of the Algarve"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Silversea Silver Spirit",
+          "type": "cruise_ship",
+          "url": "https://www.silversea.com/",
+          "night": "7 of 7",
+          "suite": "757",
+          "suite_category": "Deluxe Veranda"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Mercado Municipal de Silves",
+          "type": "market",
+          "location": "Silves",
+          "notes": "Covered municipal market; walked through on the morning tour"
+        },
+        {
+          "name": "Museu Municipal de Arqueologia de Silves",
+          "type": "museum",
+          "location": "Silves",
+          "notes": "Archaeology museum built around an Almohad-era Moorish well-cistern"
+        },
+        {
+          "name": "Sé de Silves",
+          "type": "cathedral",
+          "location": "Silves",
+          "notes": "Silves cathedral; brief stop on the walk up to the castle"
+        },
+        {
+          "name": "Castelo de Silves",
+          "type": "castle",
+          "location": "Silves",
+          "notes": "Red sandstone Moorish castle; best-preserved in Portugal and the largest in the Algarve"
+        },
+        {
+          "name": "S.A.L.T.",
+          "type": "restaurant",
+          "location": "Silver Spirit",
+          "notes": "Farewell group dinner on the last evening aboard"
+        }
+      ],
+      "points_of_interest": [
+        {
+          "name": "Benagil cave",
+          "type": "sea_cave",
+          "location": "Algarve coast, east of Portimão",
+          "notes": "Collapsed-roof sea cave with a round skylight; visited on an afternoon RIB tour"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise",
+          "vessel": "Silversea Silver Spirit",
+          "route": "At sea → Portimão, Portugal",
+          "notes": "Morning arrival into Portimão after the Gibraltar passage"
+        },
+        {
+          "type": "tour_coach",
+          "route": "Portimão pier → Silves and back",
+          "notes": "Silversea shore excursion to the Moorish city of Silves"
+        },
+        {
+          "type": "boat",
+          "route": "Algarve coast sea caves",
+          "notes": "Afternoon RIB tour of the sea caves, including Benagil"
+        }
+      ],
+      "next_day_logistics": [
+        "Final night aboard before disembarkation and the flight home"
+      ],
+      "activities": [
+        "Morning shore excursion to Silves (market, archaeology museum, cathedral, and castle)",
+        "Afternoon RIB boat tour of the Algarve sea caves, including Benagil",
+        "Farewell group dinner aboard at S.A.L.T."
+      ],
+      "dining": [
+        {
+          "venue": "S.A.L.T.",
+          "meal": "dinner",
+          "location": "Silver Spirit",
+          "notes": "Farewell group dinner with the travel advisor group on the last night aboard"
+        }
+      ],
+      "notable_experiences": [
+        "Walking tour of Silves, the former Moorish capital, up to the Castelo de Silves -- the best-preserved Moorish castle in Portugal",
+        "Boating into the Benagil sea cave with its collapsed-roof skylight"
+      ],
+      "weather": "Sunny",
+      "companions": [
+        "solo",
+        "travel advisor group"
+      ]
+    },
+    {
+      "title": "Rome and Silversea Day 12",
+      "date": "2026-05-15",
+      "subtitle": "Disembarkation in Lisbon and the flight home",
+      "categories": "travel rome silversea",
+      "tags": [
+        "may2026"
+      ],
+      "rollup_key": "2026romesilversea",
+      "day_type": "travel",
+      "trip_stage": "return_travel",
+      "locations": [
+        {
+          "name": "Lisbon",
+          "type": "city",
+          "country": "Portugal",
+          "notes": "Disembarked here; departed via Humberto Delgado Airport (LIS)"
+        },
+        {
+          "name": "Boston",
+          "type": "city",
+          "country": "United States",
+          "notes": "Connection through Boston Logan (BOS); cleared U.S. customs and immigration via Global Entry"
+        }
+      ],
+      "countries_visited": [
+        "Portugal",
+        "United States"
+      ],
+      "transport": [
+        {
+          "type": "cruise",
+          "vessel": "Silversea Silver Spirit",
+          "route": "Portimão → Lisbon, Portugal",
+          "notes": "Overnight sail; disembarkation in Lisbon"
+        },
+        {
+          "type": "air",
+          "carrier": "Delta",
+          "route": "Lisbon (LIS) → Boston (BOS) → Raleigh-Durham (RDU)",
+          "notes": "Checked a bag with Delta; first flight pushed back a few minutes late waiting for passengers; tight but uneventful Boston connection after clearing customs with Global Entry"
+        }
+      ],
+      "activities": [
+        "Disembarkation in Lisbon",
+        "Navigating departures and Schengen-exit border control at LIS",
+        "EES exit enrollment",
+        "Flying home"
+      ],
+      "notable_experiences": [
+        "First time through the EU's new EES biometric process, on the way out of the Schengen zone"
+      ],
+      "challenges": [
+        "Schengen-exit border control at LIS took 1h37m; the EES e-gates failed and funneled everyone to a human officer"
+      ],
+      "weather": "Gray and cold-ish in Boston (around 53°F)",
+      "companions": [
+        "solo"
       ]
     }
   ]
