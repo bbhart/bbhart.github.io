@@ -9,13 +9,62 @@ Parse $ARGUMENTS to get the following values:
 
 - [glob]: File glob (e.g. 2025-08-*) or specific file to process
 
+Posts live in `_posts/`, and filenames use hyphenated dates (`YYYY-MM-DD-...markdown`).
+Normalize the argument before resolving: a compact date like `20260512` becomes
+`2026-05-12`, so the lookup is `_posts/2026-05-12*`. A bare `2025-08-*` resolves to
+`_posts/2025-08-*`.
+
+## How the metadata is used
+
+The metadata you add goes in the **post's YAML front matter**. It is consumed by the
+Jekyll plugin `_plugins/travel_data_generator.rb`, which generates the structured data
+file at `api/travel-data.json` (a build artifact — never edit it directly). You can
+refresh it manually with `ruby scripts/regen-travel-data.rb`.
+
+**The schema is the allow-list in `_plugins/travel_data_generator.rb` (the array of
+field names passed to `post_entry`). Read that file first.** Only emit front-matter
+keys that appear in that allow-list — any other key is silently dropped by the
+generator. Do NOT reverse-engineer the schema from `api/travel-data.json` or from other
+posts; the allow-list is authoritative.
+
 ## Task
 
-The user will pass either a single file name or a file glob. Inspect each jekyll markdown file located at `glob` 
-and edit the file to include additional metadata entries that will provide an optimized experience for our structured data file @travel-data.json. This might include hotels, venues, transport, days at location, activities, and so on. 
+The user will pass either a single file name or a file glob. For each Jekyll markdown
+file matching `glob`:
 
-Some referenced images may be too large to do recognition on. In that case, use a standard macos CLI to convert and resize the image temporarily for analysis. 
+1. **Skip if already done.** If the front matter already contains a `locations:` block,
+   skip the file unless it is clearly missing fields the post content supports. Report
+   skipped files at the end. This keeps multi-file globs cheap.
 
-If you come across img tags referencing images in webp or avif format, convert them using standard macos clis to either jpg or png, ensuring to retain the same resolution and quality. Update the img tag src accordingly and delete the replaced image from the assets folder.
+2. **Add metadata.** Read the post body and add the relevant fields from the
+   `travel_data_generator.rb` allow-list — e.g. `locations`, `accommodations`, `venues`,
+   `transport`, `activities`, `dining`, `day_type`, `trip_stage`, `companions`,
+   `weather`, `notable_experiences`, and so on. Use only what the post content
+   factually supports; do not invent specifics (names, distances) that aren't in the
+   text or images. Match the structure used by recent sibling posts in the same trip
+   (same `rollup_key`) for consistency.
 
-Further, if an image tag is missing alt text, analyse the image and provide alt text.
+3. **Validate the YAML** after editing. Use this one command (handles the `date:`
+   field, which trips up `safe_load`):
+
+   ```
+   awk 'BEGIN{c=0} /^---[[:space:]]*$/{c++; if(c==2){exit} next} c==1{print}' <file> \
+     | ruby -rdate -ryaml -e "YAML.safe_load(STDIN.read, permitted_classes:[Date]); puts 'YAML OK'"
+   ```
+
+## Images
+
+Most posts arrive already alt-texted by the upstream image skill. To avoid unnecessary
+analysis, only inspect images that need work:
+
+- **Missing alt text:** if an `<img>` tag has no `alt=`, analyze the image and add
+  factual, verbose alt text. (Videos do not take alt text.)
+- **webp/avif:** if an `<img>` references a `.webp` or `.avif` file, convert it to `.jpg`
+  or `.png` with a standard macOS CLI (`sips`), retaining the same resolution and
+  quality. Update the `src` and delete the replaced file from `assets/`.
+- **Too large for recognition:** if an image is too large to analyze, use a standard
+  macOS CLI (`sips`) to make a temporary resized copy for analysis only — do not alter
+  the published asset.
+
+Grep the file once for `<img` / `.webp` / `.avif` and tags missing `alt=` rather than
+opening every image.

@@ -25,5 +25,5 @@ argument-hint: Prefix
     - Append the html tag to the bottom of `markdown_file` referencing that image 
     in the '/assets/' subdirectory
     - Specify the width to be 100%, using the width attribute of the tag.
-    - Add suitable alt text based on the content of the image.
+    - Add factual, verbose alt text based on the content of the image.
 - Try to order the tags by the timestamp of the media, ascending. 
