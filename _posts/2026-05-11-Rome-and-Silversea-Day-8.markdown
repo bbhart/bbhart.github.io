@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rome and Silversea Day 8
-subtitle: A day in València
+subtitle: A day in València, Spain
 date:  2026-05-11
 categories: travel rome silversea
 rollup_key: 2026romesilversea

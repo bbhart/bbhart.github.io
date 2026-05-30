@@ -142,7 +142,18 @@ Of the 20+ selfies I took at the Colosseum, **this** was the best one, which sho
 
 <img src="/assets/20260505-rome-colosseum-selfie.jpg" alt="Selfie outside the Colosseum in Rome, with the ancient amphitheater's tiered stone arches and crowds of tourists visible behind the photographer" width="100%" />
 
+<video width="100%" controls muted playsinline aria-label="Video panning across the Colosseum in Rome next to the Arch of Constantine, showing the ancient stone amphitheater and the triumphal arch under a clear sky.">
+  <source src="/assets/20260505-rome-colosseum-arch.mp4" type="video/mp4">
+  Your browser does not support the video tag. The clip shows the Colosseum and the Arch of Constantine in Rome.
+</video>
+
 I walked back to the hotel and inquired about a lunch spot. There are numerous restaurants ringing Campo de' Fiori but the hotel recommended [Romoletto](https://romolettogroup.it/) specifically. I had perfect meatballs and the first of too many tiramisus on the trip.
+
+_(this video fueled by caffeine and adrenaline and little else)_
+<video width="100%" controls muted playsinline aria-label="Video of a plate of classic Roman meatballs in tomato sauce served at Romoletto restaurant during dinner.">
+  <source src="/assets/20260505-rome-romoletto-meatballs.mp4" type="video/mp4">
+  Your browser does not support the video tag. The clip shows meatballs in tomato sauce at Romoletto restaurant.
+</video>
 
 <img src="/assets/20260505-rome-romoletto-tiramisu.jpg" alt="A glass jar of tiramisu layered with mascarpone cream, espresso-soaked ladyfingers, and dusted cocoa, served with a spoon on a napkin atop a Romoletto-branded ceramic plate at a Rome trattoria" width="100%" />
 
@@ -154,7 +165,7 @@ My room is on the 6th floor, #603. The elevator goes as high as 5 and then it's 
 
 I ended up loving my room location as it was right next to the door to go up to the rooftop patio. I'd end up spending a few hours up there over the course of the trip.
 
-For the cruise part of this trip, the missing piece of my wardrobe was some nice shoes to wear to dinner, so this was my next quest. My research turned up a department store called [Rinascente](https://www.rinascente.it/en/store-roma-via-del-tritone) about a 20-minute walk away. Along the way I happened across Trevi Fountain and The Pantheon, as you do. This blew my mind, as you'd just be casually walking through the streets, turn a corner, then BAM: major cultural artifact.
+For the cruise part of this trip, the missing piece of my wardrobe was some nice shoes to wear to dinner, so this was my next quest. My research turned up a department store called [Rinascente](https://www.rinascente.it/en/store-roma-via-del-tritone) about a 20-minute walk away. Along the way I happened across Trevi Fountain and the Pantheon, as you do. This blew my mind, as you'd just be casually walking through the streets, turn a corner, then BAM: major cultural artifact.
 
 <img src="/assets/20260505-rome-trevi-fountain.jpg" alt="The Trevi Fountain in Rome at midday with its Baroque sculptures of Oceanus on a shell chariot drawn by sea horses cascading into turquoise water, surrounded by dense crowds of tourists and a Roma Di Trevi guide visible in a blue vest in the foreground" width="100%" />
 
@@ -183,4 +194,6 @@ I left the hotel one more time, visiting [Taba Cafe](https://tabacafe.com/) on C
 <img src="/assets/20260505-rome-marble-cake-dessert.jpg" alt="A slice of marbled chocolate and vanilla pound cake dusted with cocoa, served on a rose-patterned china plate on a cafe table in Rome" width="100%" />
 
 <img src="/assets/20260505-rome-campo-di-fiori-night.jpg" alt="Night street scene on Campo de' Fiori with a small table in the foreground, cobblestones glistening under streetlights, and warmly lit pastel buildings lining the piazza" width="100%" />
+
+
 

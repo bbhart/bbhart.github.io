@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rome and Silversea Day 11
-subtitle: A day in Portimão and Silves
+subtitle: A day in Portimão and Silves, Portugal  
 date:  2026-05-14
 categories: travel rome silversea
 rollup_key: 2026romesilversea
