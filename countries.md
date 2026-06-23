@@ -12,7 +12,7 @@ land (hotel, guesthouse, Airbnb, or someone's home). Cruise port-of-call stops,
 where the night was actually spent aboard the ship, are not counted here — those
 live over in the [cruise journal](https://serentistravel.com/journal).
 
-**10 countries · 34 cities** and counting.
+**11 countries · 39 cities** and counting.
 
 ---
 
@@ -79,3 +79,11 @@ live over in the [cruise journal](https://serentistravel.com/journal).
 ## India
 
 - **Bengaluru (Bangalore)** — The Oberoi (1 visit), The Leela Palace (2 visits)
+
+## Canada
+
+- **Halifax** — Halifax Marriott Harbourfront; The Westin Nova Scotian
+- **Montreal** — Downtown Montreal (don't recall the hotel)
+- **Toronto** — ~8 visits; The Fairmont Royal York (1 visit), Yonge & Eglinton area (the rest, with my now-wife)
+- **Vancouver** — one night before an Alaska cruise
+- **Whistler** — 2 visits; a hostel on Alta Lake, then Pan Pacific Whistler Village Centre
