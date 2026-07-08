@@ -11,6 +11,12 @@ location:
   city: Munich
   country: Germany
   region: Bavaria
+locations:
+  - name: Munich
+    country: Germany
+    region: Bavaria
+trip_day: 13
+travel_companions: [Rowan]
 transport:
   - Munich U-Bahn (subway/metro)
 venues:

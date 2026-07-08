@@ -58,6 +58,34 @@ transport:
     distance: 2km
 days_at_location:
   Tokyo: 1
+locations:
+  - name: Tokyo
+    type: city
+    country: Japan
+    notes: Asakusa and Ueno neighborhoods
+accommodations:
+  - name: Asakusa View Annex Rokku
+    location: Asakusa, Tokyo
+    notes: Breakfast mixing Western and Japanese options; lounge with a view
+dining:
+  - venue: Asakusa View Annex Rokku
+    meal: breakfast
+    location: Asakusa, Tokyo
+    notes: Western plate plus seaweed salad and a creamy soup
+  - venue: Kura Sushi
+    meal: lunch
+    location: Asakusa, Tokyo
+    notes: Revolving sushi; self check-in kiosk and QR-code ordering navigated with Google Translate
+  - venue: FamilyMart
+    meal: dinner
+    location: Asakusa, Tokyo
+    notes: Konbini items; too tired for a proper dinner
+companions:
+  - solo
+weather: Cold winter morning, too cold to wander before sunrise
+notable_experiences:
+  - Photographing Senso-Ji at 5:30am without the usual crowds
+  - Eating at a restaurant with zero English using Google Translate screenshots
 ---
 
 **Day 3**

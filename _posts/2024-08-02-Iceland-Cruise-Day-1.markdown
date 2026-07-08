@@ -8,6 +8,13 @@ rollup_key: 2024icelandcruise
 background: '/assets/20240802-delta.jpg'
 redirect_from:
 - /travel/cruise/iceland/2024/08/01/Iceland-Cruise-Day-1.html
+locations:
+  - name: Raleigh
+    type: city
+    country: USA
+day_type: travel_day
+trip_stage: pre_cruise
+weather: Severe weather along the East Coast causing flight cancellations
 transport:
   - type: flight
     from: Raleigh-Durham (RDU)

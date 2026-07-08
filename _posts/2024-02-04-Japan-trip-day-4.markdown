@@ -62,6 +62,27 @@ activities:
     location: Asakusa, Tokyo
 days_at_location:
   Tokyo: 1
+locations:
+  - name: Tokyo
+    type: city
+    country: Japan
+    notes: Asakusa and Shibuya neighborhoods
+dining:
+  - venue: CAFÉ Mori no Terrace
+    meal: coffee
+    location: Near Meiji Shrine entrance, Tokyo
+    url: https://www.meijikinenkan.gr.jp/forestterrace-en/facility/moricafe.html
+    notes: Warm-up and people-watching stop before entering the park
+  - venue: Sushi restaurant across from hotel
+    meal: dinner
+    location: Asakusa, Tokyo
+companions:
+  - solo
+weather: Chilly, overcast winter day
+notable_mentions:
+  - Comparison of Japanese hotel toilets versus the Toto S550E at home
+  - Asakusa Underground Street was underwhelming despite its cyberpunk description
+  - Restaurant area near Meiji Shrine evoked Northern California
 ---
 
 Before we get into Day 4, I want to talk toilets. Japan is known for having fancy toilets, but how fancy? Here are the hotels I stayed at, in order: 

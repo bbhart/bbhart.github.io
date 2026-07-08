@@ -43,6 +43,36 @@ activities:
     location: Embassy Suites
 days_at_location:
   Fort Lauderdale: 1
+locations:
+  - name: Raleigh
+    type: city
+    country: United States
+    notes: Departure city, home airport RDU
+  - name: Fort Lauderdale
+    type: city
+    country: United States
+accommodations:
+  - name: Embassy Suites Fort Lauderdale
+    location: Fort Lauderdale, FL
+    night: 1 of 1
+    notes: Room not ready 30 minutes after check-in time, key-cutting machine broken; hotel provided a $50 restaurant voucher
+dining:
+  - venue: Publix
+    meal: dinner
+    location: Hotel room, Fort Lauderdale
+    notes: Deli sandwiches
+day_number: 0
+day_type: travel_day
+trip_stage: outbound
+companions:
+  - wife
+  - son
+  - daughter
+challenges:
+  - 55-minute wait for an arrival gate at FLL despite landing 10 minutes early
+  - Hotel room not ready and key machine broken at check-in
+notable_experiences:
+  - Taxi driver's handy book showing 8 cruise ships in port that day
 ---
 
 Today we flew to Fort Lauderdale. 

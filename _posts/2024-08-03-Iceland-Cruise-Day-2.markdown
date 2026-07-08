@@ -9,6 +9,31 @@ rollup_key: 2024icelandcruise
 background: '/assets/20240803-nyc-night-jerseycity.jpg'
 redirect_from:
 - /travel/cruise/iceland/2024/08/03/Iceland-Cruise-Day-2.html
+locations:
+  - name: Raleigh
+    type: city
+    country: USA
+  - name: Newark
+    type: city
+    country: USA
+  - name: Jersey City
+    type: city
+    country: USA
+  - name: Manhattan
+    type: city
+    country: USA
+day_type: travel_day
+trip_stage: pre_cruise
+weather: Clear and sunny morning, hot and humid, with severe storms arriving in the afternoon
+companions:
+  - Sherri
+  - Siena
+accommodations:
+  - name: Hyatt House Jersey City
+    type: hotel
+    location: Jersey City, NJ
+    url: https://www.hyatt.com/hyatt-house/en-US/lgaxj-hyatt-house-jersey-city
+    notes: Room available on early arrival since the previous night was already paid; digital key issues
 transport:
   - type: uber
     from: Home

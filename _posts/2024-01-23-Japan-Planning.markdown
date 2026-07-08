@@ -5,6 +5,20 @@ subtitle: Where Brian realizes he probably shouldn't try to YOLO a 12 day trip t
 rollup_key: 2024japan
 date: 2024-01-23 12:31:47
 categories: travel japan
+trip_stage: planning
+trip_type: solo
+locations:
+  - name: Tokyo
+    type: city
+    country: Japan
+    notes: Hotel booked for the first two nights to burn off jet lag; planned home base
+  - name: Kyoto
+    type: city
+    country: Japan
+    notes: Planned home base for day trips
+companions:
+  - solo
+travel_sentiment: Started 90% excited and 10% anxious when booking; closer to 50/50 a week later
 ---
 
 > “Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.”

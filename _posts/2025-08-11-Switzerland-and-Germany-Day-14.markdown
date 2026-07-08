@@ -8,6 +8,18 @@ rollup_key: 2025chde
 tags: [august2025]
 background: '/assets/20250811-munich-airport-entrance-bg.jpg'
 location: Munich, Germany
+locations:
+  - name: Munich
+    country: Germany
+    region: Bavaria
+    type: departure
+  - name: Munich Airport
+    type: airport
+    code: MUC
+    city: Munich
+    country: Germany
+trip_day: 14
+travel_companions: [Rowan]
 hotels:
   - name: Mercure Hotel München Altstadt
     status: checkout

@@ -11,6 +11,13 @@ location:
   city: Garmisch-Partenkirchen
   country: Germany
   region: Bavaria
+locations:
+  - name: Garmisch-Partenkirchen
+    country: Germany
+    region: Bavaria
+trip_day: 11
+travel_companions: [Rowan]
+weather: Sunny and warm, comfortable on the balcony in shorts by morning
 activities:
   - hiking
   - walking

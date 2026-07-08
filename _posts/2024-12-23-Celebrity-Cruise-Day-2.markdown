@@ -28,6 +28,21 @@ activities:
     location: Celebrity Eclipse
 days_at_location:
   At sea: 1
+locations:
+  - name: Caribbean Sea
+    type: sea
+    country: International waters
+    notes: Sea day between Fort Lauderdale and Grand Cayman
+day_number: 2
+day_type: sea_day
+companions:
+  - wife
+  - son
+  - daughter
+notable_experiences:
+  - Cloud formation on the horizon resembling a partially constructed Death Star
+  - Son adapting to crutches better than expected, with periodic waves of emotion over missed opportunities
+next_day_logistics: Tender stop at George Town, Grand Cayman; plan to stay aboard having visited three years ago
 ---
 
 Today was a sea day as we navigate from Fort Lauderdale to our first stop Grand Cayman.

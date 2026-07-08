@@ -52,6 +52,25 @@ activities:
     location: Near hotel, Asakusa
 days_at_location:
   Tokyo: 2
+locations:
+  - name: Raleigh
+    type: city
+    country: United States
+    notes: Departure from RDU
+  - name: Minneapolis
+    type: city
+    country: United States
+    notes: Layover
+  - name: Tokyo
+    type: city
+    country: Japan
+    notes: Asakusa neighborhood
+trip_stage: outbound
+companions:
+  - solo
+notable_experiences:
+  - Cruised through Japan immigration in about five minutes using the online QR code arrival form
+  - Happened upon the famous Nakamise-dori Street while walking to the hotel
 ---
 
 There is a 14-hour time difference between the US East Coast and Japan. Upon arriving in Japan, I seemed to recover from the time difference pretty quickly, and was in decent shape by day 3 or so. Now that I’m back in the US, I’m struggling a lot more. The night before last I slept from 9pm to 1am and that was it; the evening before that, I didn’t fall asleep until 5am! Wicked. I think it might be under control after last night. 

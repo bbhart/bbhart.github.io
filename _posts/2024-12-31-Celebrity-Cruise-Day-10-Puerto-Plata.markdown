@@ -51,6 +51,30 @@ activities:
     location: Taino Bay
 days_at_location:
   Puerto Plata: 1
+locations:
+  - name: Puerto Plata
+    type: city
+    country: Dominican Republic
+    notes: Last port stop of the cruise before heading home
+day_number: 10
+day_type: port_day
+companions:
+  - wife
+  - son
+  - daughter
+dining:
+  - venue: Coffee shop at Taino Bay
+    meal: coffee
+    location: Taino Bay, Puerto Plata
+    notes: Great coffee; mall wifi was pretty bad
+challenges:
+  - AT&T suspended data service on all family phones; restored after a ~20 minute call from the ship
+  - Uncertainty about what the cell bill will look like
+notable_experiences:
+  - At zipline six, a staff member on horseback tows lighter riders the final ~20 meters
+  - Tuk tuk ride from Taino Bay back to the ship at daughter's request
+  - Pushiest port of the trip for forced reviews and tips; several places had never heard of Diet Coke
+  - Taino Bay pool, lazy river, and splash surfing all free for cruise passengers
 ---
 
 Puerto Plata is a city and major cruise port located on the north side of the Dominican Republic. This was our last stop of the cruise before heading home.

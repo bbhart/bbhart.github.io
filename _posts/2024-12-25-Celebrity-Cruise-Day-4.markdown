@@ -32,6 +32,23 @@ activities:
     location: Celebrity Eclipse
 days_at_location:
   Celebrity Eclipse: 1
+locations:
+  - name: Caribbean Sea
+    type: sea
+    country: International waters
+    notes: Christmas Day at sea between Grand Cayman and Aruba
+day_number: 4
+day_type: sea_day
+companions:
+  - wife
+  - son
+  - daughter
+notable_experiences:
+  - Santa handing out presents and taking photos in the grand foyer
+  - Families adapting Christmas traditions aboard, including a dedicated suitcase of wrapped presents
+  - Wife and daughter befriended an extended family from Quebec, sharing lunch and a show
+  - Son able to put some weight on his injured foot; binging the US version of The Office
+  - Found a peaceful late-afternoon writing spot at the aft of the ship
 ---
 
 Merry Christmas! Another Christmas where we wake up in a hotel room. Last year was at the Contemporary at Disney World. This year is somewhere between Grand Cayman and Aruba.

@@ -9,6 +9,16 @@ rollup_key: 2024icelandcruise
 background: '/assets/20240809-sunset.jpg'
 redirect_from:
 - /travel/cruise/iceland/2024/08/09/Iceland-Cruise-Day-8.html
+day_type: sea_day
+locations:
+  - name: Labrador Sea
+    type: sea
+    country: International waters
+weather: Low 50s F, calm seas; shorts weather on the wind-sheltered western balcony in the afternoon
+companions:
+  - Sherri
+  - Siena
+  - Rowan
 transport:
   - type: cruise_ship
     vessel: Celebrity Eclipse

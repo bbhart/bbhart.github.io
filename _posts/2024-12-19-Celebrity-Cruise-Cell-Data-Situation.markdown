@@ -8,6 +8,10 @@ rollup_key: 2024wintercaribbean
 tags: [celebrity, cruise, dec2024]
 background:
 published: false
+trip_stage: pre-trip
+day_type: planning
+notable_mentions:
+  - AT&T Unlimited Starter SL plan
 activities:
   - day: -2
     type: planning

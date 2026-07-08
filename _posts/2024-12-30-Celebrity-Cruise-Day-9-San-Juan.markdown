@@ -47,6 +47,25 @@ activities:
     location: Old San Juan
 days_at_location:
   San Juan: 1
+locations:
+  - name: San Juan
+    type: city
+    country: Puerto Rico (United States)
+    notes: Third visit for the couple, second with the kids
+day_number: 9
+day_type: port_day
+weather: Rain threatening; only light sprinkles, not a drenching downpour
+walking_distance: A little more than 4.5 miles per watch
+companions:
+  - wife
+  - son
+  - daughter
+notable_experiences:
+  - Quiet paved path between the harbor and El Morro with waves smashing the rocks on the north side
+  - Zumba class in the open field in front of Castillo San Felipe del Morro
+  - Inauguration setup at the Capitol Building for the new governor taking office January 2
+  - Island-wide power outage hit Puerto Rico about 12 hours after the ship departed
+next_day_logistics: Puerto Plata, Dominican Republic
 ---
 
 This is the third visit to Old San Juan for my wife and I and the second with the kids, the last time being a few years ago on Disney. As such, we opted for low-key this time.

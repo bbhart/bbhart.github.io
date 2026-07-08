@@ -37,6 +37,26 @@ activities:
     location: Celebrity Eclipse
 days_at_location:
   Bonaire: 1
+locations:
+  - name: Kralendijk
+    type: town
+    country: Bonaire
+    notes: Last of the ABC Islands, smallest in land area (~112 sq miles) and population (~21,000)
+day_number: 7
+day_type: port_day
+companions:
+  - wife
+  - son
+  - daughter
+dining:
+  - venue: Murano
+    meal: dinner
+    location: Celebrity Eclipse
+    notes: Premium French restaurant; milestone celebration with wife, second best Dover sole ever
+notable_experiences:
+  - 5:30pm departure delayed about an hour for two people leaving by ambulance
+  - Island's calmer pace — one large-ship pier, golf-cart travel, app-based electric scooters
+  - Researching each ABC Island as a possible snowbird destination; Bonaire's small population limits medical care availability
 ---
 
 Bonaire is the last of the "ABC Islands" we'll visit. It's the smallest, both in term of land area and population, encompassing around 112 square miles[^1] and ~21,000 people. 

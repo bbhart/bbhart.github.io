@@ -50,6 +50,26 @@ activities:
     location: Celebrity Eclipse
 days_at_location:
   Curaçao: 1
+locations:
+  - name: Willemstad
+    type: city
+    country: Curaçao
+    notes: Capital city, second of the ABC Islands, constituent country within the Kingdom of the Netherlands
+day_number: 6
+day_type: port_day
+weather: Very hot and sticky
+companions:
+  - wife
+  - son
+  - daughter
+cultural_references:
+  - Papiamentu, the island's most widely spoken language, a Creole blending African, Portuguese, Spanish, Dutch, and English influences
+  - Dutch Colonial architecture along the Willemstad waterfront
+notable_experiences:
+  - Tour guide facts — 15 wind turbines generating 47.3 MW, walls around houses due to wild goats, iguana on the menu for some residents
+  - Venezuelan vendors at Kraspassi Market who live on their boats while docked in Willemstad
+  - Morning hello from Santa aboard the ship
+next_day_logistics: Bonaire
 ---
 
 Curaçao (or Curacao) is the second of our "ABC" or "Caribbean Netherlands" islands. Like yesterday, and for the same reasons, it was just Siena and I on our scheduled shore excursion. I'd like to say this one was drier than the snorkeling trip yesterday, but it was *very* hot and sticky out today.

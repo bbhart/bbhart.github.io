@@ -9,6 +9,20 @@ rollup_key: 2024icelandcruise
 background: '/assets/20240806-halifax-wide.jpg'
 redirect_from:
 - /travel/cruise/iceland/2024/08/05/Iceland-Cruise-Day-5-Halifax.html
+day_type: port_day
+locations:
+  - name: Halifax
+    type: city
+    country: Canada
+  - name: Halifax Harbor
+    type: port
+    country: Canada
+weather: Foggy early morning giving way to cloudy skies
+companions:
+  - Sherri
+  - Siena
+  - Rowan
+walking_distance: 8 miles (Brian), 14 miles (Sherri)
 transport:
   - type: cruise_ship
     vessel: Celebrity Eclipse

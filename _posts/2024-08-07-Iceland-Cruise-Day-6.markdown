@@ -9,6 +9,16 @@ rollup_key: 2024icelandcruise
 background: '/assets/20240807-sunset.jpg'
 redirect_from:
 - /travel/cruise/iceland/2024/08/07/Iceland-Cruise-Day-6.html
+day_type: sea_day
+locations:
+  - name: Atlantic Ocean (between Halifax and St. John's)
+    type: sea
+    country: International waters
+weather: Overcast and gray, mid-60s F, moderate winds
+companions:
+  - Sherri
+  - Siena
+  - Rowan
 transport:
   - type: cruise_ship
     vessel: Celebrity Eclipse

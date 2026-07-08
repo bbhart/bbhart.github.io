@@ -9,6 +9,19 @@ rollup_key: 2024icelandcruise
 background: '/assets/20240808-signalhill-wide.jpg'
 redirect_from:
 - /travel/cruise/iceland/2024/08/08/Iceland-Cruise-Day-7-StJohns.html
+day_type: port_day
+locations:
+  - name: St. John's
+    type: city
+    country: Canada
+  - name: Signal Hill
+    type: historic_site
+    country: Canada
+weather: Incredible weather day, only a few scattered clouds, highs around 75F, very windy on Signal Hill
+companions:
+  - Sherri
+  - Siena
+  - Rowan
 transport:
   - type: cruise_ship
     vessel: Celebrity Eclipse

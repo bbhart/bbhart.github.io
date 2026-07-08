@@ -9,6 +9,28 @@ rollup_key: 2024icelandcruise
 background: '/assets/20240804-harbor2.jpg'
 redirect_from:
 - /travel/cruise/iceland/2024/08/04/Iceland-Cruise-Day-3.html
+locations:
+  - name: Jersey City
+    type: city
+    country: USA
+  - name: Bayonne
+    type: port_town
+    country: USA
+  - name: New York Harbor
+    type: harbor
+    country: USA
+day_type: travel_day
+trip_stage: embarkation
+weather: Thunderstorms gathered around the NYC area during sailaway; rainy and foggy the rest of the day with a break for sunset
+companions:
+  - Sherri
+  - Siena
+  - Rowan
+accommodations:
+  - name: Celebrity Eclipse
+    type: cruise_ship
+    location: Departed Bayonne, NJ
+    notes: First night aboard in the stateroom
 transport:
   - type: uber
     from: Jersey City

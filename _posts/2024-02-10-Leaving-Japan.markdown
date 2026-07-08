@@ -21,6 +21,31 @@ activities:
     description: Reflecting on first Japan trip and planning for future visits
 days_at_location:
   Tokyo: 1
+locations:
+  - name: Kyoto
+    type: city
+    country: Japan
+  - name: Tokyo
+    type: city
+    country: Japan
+    notes: Departure from Haneda Airport
+trip_stage: return_travel
+trip_duration: 10 days (truncated from 13 on day 4)
+companions:
+  - solo
+challenges:
+  - Cold and windy weather made it hard to enjoy being outside
+  - Language barrier wore down the experience and limited connection with locals
+  - Loneliness as a solo traveler was a key factor in ending the trip early
+  - Only 15 days to prepare for the trip
+highlights:
+  - Airalo eSIM data service worked flawlessly for nearly the whole trip
+  - Navigated trains and subways with ease
+  - Hotel choices in Asakusa, Kamakura, and Kyoto all worked out well
+  - Everything packed into one Osprey backpack
+  - Mobile Suica card for transit and konbini payments
+  - Never felt concerned about safety, anywhere, at any hour
+travel_sentiment: Trip cut short, but seen as the beginning of a relationship with Japan, not the end
 ---
 
 I’ve been in Japan since February 2, and am leaving in about an hour. 

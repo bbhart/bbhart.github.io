@@ -24,6 +24,22 @@ activities:
     location: Celebrity Eclipse
 days_at_location:
   Celebrity Eclipse: 1
+locations:
+  - name: Caribbean Sea
+    type: sea
+    country: International waters
+    notes: Sea day between Bonaire and San Juan
+day_number: 8
+day_type: sea_day
+companions:
+  - wife
+  - son
+  - daughter
+highlights:
+  - Really good croissants onboard
+notable_experiences:
+  - Noticeably more ship motion heading toward Puerto Rico than the smooth first half of the cruise
+next_day_logistics: San Juan, Puerto Rico
 ---
 
 Sea day travelling between Bonaire and San Juan, Puerto Rico. Not much to write about.

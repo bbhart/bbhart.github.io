@@ -9,6 +9,13 @@ rollup_key: 2024icelandcruise
 background: '/assets/20240804-fog.jpg'
 redirect_from:
 - /travel/cruise/iceland/2024/08/05/Iceland-Cruise-Day-4.html
+locations:
+  - name: Atlantic Ocean
+    type: sea
+    country: International waters
+day_type: sea_day
+trip_stage: cruise
+weather: Dense fog all day, growing thicker as the day progressed; ship sounded its horn every minute mid-afternoon onward
 transport:
   - type: cruise_ship
     vessel: Celebrity Eclipse

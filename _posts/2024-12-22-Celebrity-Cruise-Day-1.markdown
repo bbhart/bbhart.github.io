@@ -41,6 +41,28 @@ activities:
 days_at_location:
   Fort Lauderdale: 1
   Celebrity Eclipse: 1
+locations:
+  - name: Fort Lauderdale
+    type: city
+    country: United States
+    notes: Embarkation at Port Everglades
+day_number: 1
+day_type: embarkation
+trip_stage: embarkation
+trip_duration: 11 nights
+companions:
+  - wife
+  - son
+  - daughter
+challenges:
+  - 20+ minute elevator waits and a jam-packed lobby getting bags down at the hotel
+  - Port Everglades entrances overwhelmed by traffic, 25 minutes to travel 4 miles
+  - Son rolled his ankle in the first hour of the 11-night cruise
+  - Canceling at least three pre-purchased shore excursions for the family
+notable_experiences:
+  - Ship Medical Center visit with X-rays showing no break; son on loaner crutches for the voyage
+  - Ship departed more than an hour and a half late due to embarkation traffic
+travel_sentiment: Dread and disappointment after son's first-hour ankle injury, tempered by gratitude to be heading to the warm Caribbean
 ---
 
 The Embassy Suites free breakfast is a madhouse, a tradition that has carried on for at least 23 years when I stayed in the one in Indianapolis for a month. 

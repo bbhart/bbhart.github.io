@@ -1,0 +1,21 @@
+# Brian Hart — bbhart.com
+
+> Personal site of Brian Hart (Holly Springs, NC): long-form travel journals and
+> occasional tech posts. Trips are documented day-by-day with locations,
+> accommodations, activities, and dining, then summarized in trip recaps.
+
+Brian Hart is a software engineering leader (formerly Head of Engineering at
+GlossGenius; prior roles at LinkedIn, Jaunt VR, BT, Royal Caribbean, and Disney).
+Profiles: https://www.linkedin.com/in/bhart, https://github.com/bbhart,
+https://bsky.app/profile/bbhart.com
+
+## Structured data
+
+- [Travel Data API](https://bbhart.com/api/travel-data.json): machine-readable JSON of every travel post — trips, locations, accommodations, activities, dining, and a full timeline. Best starting point for questions about where Brian has traveled.
+- [Sitemap](https://bbhart.com/sitemap.xml): all pages.
+
+## Key pages
+
+- [Trip Recaps](https://bbhart.com/recaps/): complete journals for each trip, one recap per trip.
+- [About](https://bbhart.com/about/): who Brian is.
+- [All posts](https://bbhart.com/posts/): reverse-chronological index.

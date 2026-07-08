@@ -46,6 +46,25 @@ activities:
     location: Celebrity Eclipse
 days_at_location:
   Aruba: 1
+locations:
+  - name: Oranjestad
+    type: city
+    country: Aruba
+    notes: First of the ABC Islands, constituent country within the Kingdom of the Netherlands
+day_number: 5
+day_type: port_day
+companions:
+  - wife
+  - son
+  - daughter
+dining:
+  - venue: Main Dining Room
+    meal: dinner
+    location: Celebrity Eclipse
+notable_experiences:
+  - Son made a new friend, Jonathan, through their shared interest in Brawl Stars
+  - Snorkeling itself was just okay, but the catamaran ride there and back was enjoyable
+next_day_logistics: Curaçao
 ---
 
 Today we are in Aruba. This is the first of our "ABC Islands": Aruba, Bonaire, and Curaçao. All three islands are constituent countries within the Kingdom of the Netherlands. It has its own government, led by a Prime Minister, but the King of the Netherlands serves as its head of state.

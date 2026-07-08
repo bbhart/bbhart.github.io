@@ -37,6 +37,27 @@ activities:
 days_at_location:
   George Town: 1
   Celebrity Eclipse: 1
+locations:
+  - name: George Town
+    type: city
+    country: Cayman Islands
+    notes: Tendered port stop; stayed aboard
+day_number: 3
+day_type: port_day
+weather: Gray most of the day, temperatures in the high 70s and humid
+companions:
+  - wife
+  - son
+  - daughter
+dining:
+  - venue: Main Dining Room
+    meal: dinner
+    location: Celebrity Eclipse
+    notes: Special Christmas Eve menu
+notable_experiences:
+  - Two other ships tendered nearby, including RCCL Brilliance of the Seas
+  - What felt like ~40 knot winds on the top deck lawn after dinner
+  - Skipped the Christmas Eve Party With Party Band Next Stage for an early night
 ---
 
 Not a lot to share today. The ship was tendered outside George Town, Grand Cayman. The weather was gray most of the day, with temperatures in the high 70's and humid. 

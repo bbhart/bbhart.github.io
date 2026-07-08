@@ -72,6 +72,36 @@ activities:
     location: Kyoto
 days_at_location:
   Kyoto: 2
+locations:
+  - name: Kyoto
+    type: city
+    country: Japan
+accommodations:
+  - name: Hotel Granvia Kyoto
+    location: Kyoto Station, Kyoto
+    notes: Built into the main train station above an extensive mall complex; chosen for central transit access
+dining:
+  - venue: Kyoto Station mall
+    meal: late lunch
+    location: Kyoto Station
+    notes: Tempura set
+  - venue: Kyoto Station mall
+    meal: dinner
+    location: Kyoto Station
+    notes: Tonkatsu
+  - venue: 7-Eleven
+    meal: dinner
+    location: Kyoto
+    notes: Final night meal after shopping
+companions:
+  - solo
+weather: Cold with threatening rain on day 8; clear blue sky on day 9
+highlights:
+  - Practicing mindfulness while walking the grounds of Nijo-jo Castle
+  - Early morning visit to Kiyomizu-dera before the crowds
+notable_experiences:
+  - Spotted a Shiba Inu basking in the sun on the walk back from Kiyomizu-dera
+next_day_logistics: Bullet train to Shinagawa Station, then a local train to Haneda Airport
 ---
  
 **Kyoto**

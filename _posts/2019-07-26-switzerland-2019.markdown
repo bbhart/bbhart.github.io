@@ -7,6 +7,123 @@ categories: travel switzerland
 background: '/assets/interlaken-harder-kulm.jpg'
 redirect_from:
   - /travels/switzerland-2019.html
+trip_type: solo
+trip_duration: June 27 - July 7, 2019
+countries_visited:
+  - Switzerland
+  - France
+locations:
+  - name: Geneva
+    country: Switzerland
+    type: city
+    notes: Home base; first two nights, then again from Day 6 through the end of the trip
+    visited: true
+  - name: Chamonix-Mont-Blanc
+    country: France
+    type: mountain town
+    notes: Spontaneous two-night stop, ~90 minutes from Geneva
+    visited: true
+  - name: Interlaken
+    country: Switzerland
+    type: town
+    notes: One night; intended as a base for Lauterbrunnen and Murren day trips but ran out of time
+    visited: true
+  - name: Istanbul
+    country: Turkey
+    type: layover
+    notes: Layover at the new Istanbul Airport in both directions
+    visited: true
+accommodations:
+  - name: ibis Styles Geneve Carouge Hotel
+    location: Carouge, Geneva
+    url: https://www.accorhotels.com/gb/hotel-6863-ibis-styles-geneve-carouge/index.shtml
+    notes: The "home" hotel; new building with air conditioning during a heat wave, across the street from friend Joshua
+  - name: Hotel Mercure Chamonix Les Bossons
+    location: Outskirts of Chamonix
+    url: https://www.accorhotels.com/gb/hotel-0411-mercure-chamonix-les-bossons-hotel/index.shtml
+    nights: 1
+    notes: AlpyBus dropped off directly at the hotel door
+  - name: Heliopic Hotel
+    location: Chamonix Sud
+    url: https://www.heliopic-hotel-spa.com/
+    nights: 1
+    notes: Room balcony overlooked the Aiguille du Midi cable cars
+  - name: Hotel Lotschberg
+    location: Interlaken
+    nights: 1
+    notes: No-frills single room around $110/night, very close to Interlaken-West station and a mall
+transport:
+  - type: air
+    route: San Francisco (SFO) to Geneva via Istanbul
+    carrier: Turkish Airlines
+    notes: Business class; 13-hour SFO-Istanbul leg plus 3.5-hour Istanbul-Geneva leg
+  - type: bus
+    route: Geneva Airport to Chamonix
+    provider: AlpyBus
+    notes: Booked after the rental car fell through; airport-to-hotel-door service (35 Sfr/euro)
+  - type: bus
+    route: Chamonix to Geneva
+    provider: Swisstours
+    notes: 9 euro
+  - type: train
+    route: Geneva to Interlaken and back
+  - type: tram
+    location: Geneva
+    notes: 12 and 18 trams stop outside the hotel; transit free for tourists
+  - type: cable car
+    name: Aiguille du Midi
+    location: Chamonix
+  - type: funicular
+    name: Harderbahn
+    route: Interlaken to Harder Kulm
+activities:
+  - Street food festival in Geneva
+  - Carouge farmers market
+  - Swimming at Bains des Paquis
+  - Evening at the UN Club beach with friends
+  - Walking Geneva old town
+  - Aiguille du Midi cable car to 3842m
+  - Harder Kulm funicular up and ~400m vertical hike down
+  - CERN visit
+  - Tomato festival
+  - Walk through Parc de la Grange
+  - Walking in the Geneva Pride Parade
+points_of_interest:
+  - Aiguille du Midi
+  - Brevent / Plan Praz (attempted; lift already closed for the day)
+  - Harder Kulm
+  - Bains des Paquis
+  - CERN
+  - Lake Geneva (Lac Leman)
+  - Montenvers Train to Mer de Glace (noted, not taken)
+dining:
+  - name: Pointe Isabelle
+    location: Chamonix
+    notes: Rain-soaked dash back to the hotel afterward
+  - location: Aiguille du Midi mid-point
+    food: Hot dog
+  - location: Harder Kulm
+    food: $7 Cup Noodles
+  - location: Interlaken
+    notes: Italian place across from the mall
+weather:
+  - location: Geneva
+    conditions: Heat wave; hotel air conditioning was a lifesaver
+  - location: Chamonix
+    conditions: About 92F in town, dropping to 36F at the top of Aiguille du Midi; intense evening thunderstorm
+challenges:
+  - type: Transport
+    description: Geneva Airport Swiss/French sector rental car snafu; reservation was on the French side and inaccessible without a same-day boarding pass, so the car was scrapped in favor of AlpyBus
+  - type: Logistics
+    description: Keeping arrangements flexible meant daily re-planning and mid-day hotel moves, which caused more friction than benefit
+  - type: Physical
+    description: The hike down from Harder Kulm left leg soreness lasting more than a week
+highlights:
+  - Aiguille du Midi
+  - Interlaken scenery
+  - Bains des Paquis
+  - Geneva as the first European city that felt livable
+companions: Solo trip; met up with friends Joshua and Max in Geneva
 ---
 
 Switzerland Trip - July 2019

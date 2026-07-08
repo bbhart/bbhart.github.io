@@ -90,6 +90,32 @@ activities:
     location: Kamakura
 days_at_location:
   Kamakura: 3
+locations:
+  - name: Kamakura
+    type: town
+    country: Japan
+  - name: Yokohama
+    type: city
+    country: Japan
+    notes: Train transfer en route from Tokyo
+accommodations:
+  - name: Hotel Metropolitan Kamakura
+    location: Kamakura
+    notes: Two short blocks from the train station; room overlooked one of the main streets
+dining:
+  - venue: 7-Eleven
+    meal: lunch
+    location: Kamakura
+    notes: Fried chicken, onigiri, and Coke Zero during the snow storm
+companions:
+  - solo
+weather: Rain/sleet mix with 20-30 mph wind gusts turning to a snow storm on day 5; sunny and warmer by day 7
+highlights:
+  - Sugimotodera Temple, the smallest and favorite temple of the trip
+  - Early morning visit to Kotoku-in Great Buddha with nice weather and no crowds
+notable_experiences:
+  - Tonkatsu restaurant closed early and turned him away due to the storm
+  - Kamakura was where the differentness of language and culture started to feel less overwhelming
 ---
 
 **Thank You**

@@ -8,6 +8,12 @@ rollup_key: 2025chde
 tags: [august2025]
 background: '/assets/20250807-garmisch-quanter-building-bg.jpg'
 location: Garmisch-Partenkirchen, Germany
+locations:
+  - name: Garmisch-Partenkirchen
+    country: Germany
+    region: Bavaria
+trip_day: 10
+travel_companions: [Rowan]
 hotels:
   - name: Hyperion Hotel Garmisch-Partenkirchen
     type: accommodation

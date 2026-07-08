@@ -5,6 +5,37 @@ subtitle: As ready as I'm going to be
 date: 2024-01-29
 rollup_key: 2024japan
 categories: travel japan
+trip_stage: planning
+companions:
+  - solo
+locations:
+  - name: Tokyo
+    type: city
+    country: Japan
+    notes: First three nights booked in the Asakusa area
+  - name: Kamakura
+    type: town
+    country: Japan
+    notes: Two nights booked
+  - name: Kyoto
+    type: city
+    country: Japan
+    notes: Three nights booked; last three nights of the trip still open
+flights:
+  - route: Raleigh → Minneapolis
+    departure_time: 6:00am
+    duration: 3 hours
+  - route: Minneapolis → Tokyo-Haneda
+    departure_time: 10:30am
+    duration: 13.5 hours
+activities:
+  - Researching cities, towns, and villages between Tokyo and Kyoto/Osaka
+  - Booking eight nights of lodging (Asakusa, Kamakura, Kyoto)
+  - Filling out Japan customs and immigration form online
+  - Purchasing a mobile Suica IC card for Apple Wallet
+  - Purchasing an Airalo eSIM data plan (10GB for $9)
+  - Purchasing travel medical insurance
+  - Learning Japanese phrases with Pimsleur
 ---
 
  As you may know from my previous post, I’m heading to Japan this Thursday for the first half of February. The first flight to Minneapolis is 3 hours and leaves at 6am. There’s around a 2½ hour layover there, and then the second flight to Tokyo-Haneda leaves at 10:30am. That flight is 13½ hours. The Kindle is pre-loaded, and I’ll hope to catch up on some movie-watching. ([Ford vs Ferrari](https://www.imdb.com/title/tt1950186/), my last airplane movie, was excellent BTW) 
