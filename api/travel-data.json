@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T21:10:00Z",
-  "total_posts": 102,
+  "generated_at": "2026-07-08T18:40:46Z",
+  "total_posts": 103,
   "trips": [
     {
       "rollup_key": "2023iceland",
@@ -1076,7 +1076,27 @@
           "subtitle": "Where Brian realizes he probably shouldn't try to YOLO a 12 day trip to Japan",
           "categories": "travel japan",
           "tags": null,
-          "rollup_key": "2024japan"
+          "rollup_key": "2024japan",
+          "trip_stage": "planning",
+          "trip_type": "solo",
+          "locations": [
+            {
+              "name": "Tokyo",
+              "type": "city",
+              "country": "Japan",
+              "notes": "Hotel booked for the first two nights to burn off jet lag; planned home base"
+            },
+            {
+              "name": "Kyoto",
+              "type": "city",
+              "country": "Japan",
+              "notes": "Planned home base for day trips"
+            }
+          ],
+          "companions": [
+            "solo"
+          ],
+          "travel_sentiment": "Started 90% excited and 10% anxious when booking; closer to 50/50 a week later"
         },
         {
           "title": "Japan T-minus 3 days",
@@ -1084,7 +1104,52 @@
           "subtitle": "As ready as I'm going to be",
           "categories": "travel japan",
           "tags": null,
-          "rollup_key": "2024japan"
+          "rollup_key": "2024japan",
+          "trip_stage": "planning",
+          "locations": [
+            {
+              "name": "Tokyo",
+              "type": "city",
+              "country": "Japan",
+              "notes": "First three nights booked in the Asakusa area"
+            },
+            {
+              "name": "Kamakura",
+              "type": "town",
+              "country": "Japan",
+              "notes": "Two nights booked"
+            },
+            {
+              "name": "Kyoto",
+              "type": "city",
+              "country": "Japan",
+              "notes": "Three nights booked; last three nights of the trip still open"
+            }
+          ],
+          "flights": [
+            {
+              "route": "Raleigh → Minneapolis",
+              "departure_time": "6:00am",
+              "duration": "3 hours"
+            },
+            {
+              "route": "Minneapolis → Tokyo-Haneda",
+              "departure_time": "10:30am",
+              "duration": "13.5 hours"
+            }
+          ],
+          "activities": [
+            "Researching cities, towns, and villages between Tokyo and Kyoto/Osaka",
+            "Booking eight nights of lodging (Asakusa, Kamakura, Kyoto)",
+            "Filling out Japan customs and immigration form online",
+            "Purchasing a mobile Suica IC card for Apple Wallet",
+            "Purchasing an Airalo eSIM data plan (10GB for $9)",
+            "Purchasing travel medical insurance",
+            "Learning Japanese phrases with Pimsleur"
+          ],
+          "companions": [
+            "solo"
+          ]
         },
         {
           "title": "Japan Trip Days 1 and 2",
@@ -1093,6 +1158,27 @@
           "categories": "travel japan",
           "tags": null,
           "rollup_key": "2024japan",
+          "trip_stage": "outbound",
+          "locations": [
+            {
+              "name": "Raleigh",
+              "type": "city",
+              "country": "United States",
+              "notes": "Departure from RDU"
+            },
+            {
+              "name": "Minneapolis",
+              "type": "city",
+              "country": "United States",
+              "notes": "Layover"
+            },
+            {
+              "name": "Tokyo",
+              "type": "city",
+              "country": "Japan",
+              "notes": "Asakusa neighborhood"
+            }
+          ],
           "days_at_location": {
             "Tokyo": 2
           },
@@ -1163,6 +1249,13 @@
               "description": "Neighborhood tour and convenience store visit",
               "location": "Near hotel, Asakusa"
             }
+          ],
+          "notable_experiences": [
+            "Cruised through Japan immigration in about five minutes using the online QR code arrival form",
+            "Happened upon the famous Nakamise-dori Street while walking to the hotel"
+          ],
+          "companions": [
+            "solo"
           ]
         },
         {
@@ -1172,9 +1265,24 @@
           "categories": "travel japan",
           "tags": null,
           "rollup_key": "2024japan",
+          "locations": [
+            {
+              "name": "Tokyo",
+              "type": "city",
+              "country": "Japan",
+              "notes": "Asakusa and Ueno neighborhoods"
+            }
+          ],
           "days_at_location": {
             "Tokyo": 1
           },
+          "accommodations": [
+            {
+              "name": "Asakusa View Annex Rokku",
+              "location": "Asakusa, Tokyo",
+              "notes": "Breakfast mixing Western and Japanese options; lounge with a view"
+            }
+          ],
           "venues": [
             {
               "name": "Senso-Ji Temple",
@@ -1251,6 +1359,34 @@
               "description": "Light dinner from convenience store",
               "location": "FamilyMart, Asakusa"
             }
+          ],
+          "dining": [
+            {
+              "venue": "Asakusa View Annex Rokku",
+              "meal": "breakfast",
+              "location": "Asakusa, Tokyo",
+              "notes": "Western plate plus seaweed salad and a creamy soup"
+            },
+            {
+              "venue": "Kura Sushi",
+              "meal": "lunch",
+              "location": "Asakusa, Tokyo",
+              "notes": "Revolving sushi; self check-in kiosk and QR-code ordering navigated with Google Translate"
+            },
+            {
+              "venue": "FamilyMart",
+              "meal": "dinner",
+              "location": "Asakusa, Tokyo",
+              "notes": "Konbini items; too tired for a proper dinner"
+            }
+          ],
+          "notable_experiences": [
+            "Photographing Senso-Ji at 5:30am without the usual crowds",
+            "Eating at a restaurant with zero English using Google Translate screenshots"
+          ],
+          "weather": "Cold winter morning, too cold to wander before sunrise",
+          "companions": [
+            "solo"
           ]
         },
         {
@@ -1260,6 +1396,14 @@
           "categories": "travel japan",
           "tags": null,
           "rollup_key": "2024japan",
+          "locations": [
+            {
+              "name": "Tokyo",
+              "type": "city",
+              "country": "Japan",
+              "notes": "Asakusa and Shibuya neighborhoods"
+            }
+          ],
           "days_at_location": {
             "Tokyo": 1
           },
@@ -1345,6 +1489,29 @@
               "description": "Sushi dinner at restaurant near hotel",
               "location": "Asakusa, Tokyo"
             }
+          ],
+          "dining": [
+            {
+              "venue": "CAFÉ Mori no Terrace",
+              "meal": "coffee",
+              "location": "Near Meiji Shrine entrance, Tokyo",
+              "url": "https://www.meijikinenkan.gr.jp/forestterrace-en/facility/moricafe.html",
+              "notes": "Warm-up and people-watching stop before entering the park"
+            },
+            {
+              "venue": "Sushi restaurant across from hotel",
+              "meal": "dinner",
+              "location": "Asakusa, Tokyo"
+            }
+          ],
+          "notable_mentions": [
+            "Comparison of Japanese hotel toilets versus the Toto S550E at home",
+            "Asakusa Underground Street was underwhelming despite its cyberpunk description",
+            "Restaurant area near Meiji Shrine evoked Northern California"
+          ],
+          "weather": "Chilly, overcast winter day",
+          "companions": [
+            "solo"
           ]
         },
         {
@@ -1354,9 +1521,29 @@
           "categories": "travel japan",
           "tags": null,
           "rollup_key": "2024japan",
+          "locations": [
+            {
+              "name": "Kamakura",
+              "type": "town",
+              "country": "Japan"
+            },
+            {
+              "name": "Yokohama",
+              "type": "city",
+              "country": "Japan",
+              "notes": "Train transfer en route from Tokyo"
+            }
+          ],
           "days_at_location": {
             "Kamakura": 3
           },
+          "accommodations": [
+            {
+              "name": "Hotel Metropolitan Kamakura",
+              "location": "Kamakura",
+              "notes": "Two short blocks from the train station; room overlooked one of the main streets"
+            }
+          ],
           "venues": [
             {
               "name": "Yokohama Station",
@@ -1483,6 +1670,26 @@
               "description": "2km walk back to hotel from Kotoku-in",
               "location": "Kamakura"
             }
+          ],
+          "dining": [
+            {
+              "venue": "7-Eleven",
+              "meal": "lunch",
+              "location": "Kamakura",
+              "notes": "Fried chicken, onigiri, and Coke Zero during the snow storm"
+            }
+          ],
+          "highlights": [
+            "Sugimotodera Temple, the smallest and favorite temple of the trip",
+            "Early morning visit to Kotoku-in Great Buddha with nice weather and no crowds"
+          ],
+          "notable_experiences": [
+            "Tonkatsu restaurant closed early and turned him away due to the storm",
+            "Kamakura was where the differentness of language and culture started to feel less overwhelming"
+          ],
+          "weather": "Rain/sleet mix with 20-30 mph wind gusts turning to a snow storm on day 5; sunny and warmer by day 7",
+          "companions": [
+            "solo"
           ]
         },
         {
@@ -1492,9 +1699,23 @@
           "categories": "travel japan",
           "tags": null,
           "rollup_key": "2024japan",
+          "locations": [
+            {
+              "name": "Kyoto",
+              "type": "city",
+              "country": "Japan"
+            }
+          ],
           "days_at_location": {
             "Kyoto": 2
           },
+          "accommodations": [
+            {
+              "name": "Hotel Granvia Kyoto",
+              "location": "Kyoto Station, Kyoto",
+              "notes": "Built into the main train station above an extensive mall complex; chosen for central transit access"
+            }
+          ],
           "venues": [
             {
               "name": "Kyoto Station",
@@ -1548,6 +1769,7 @@
               "to": "Kyoto Station"
             }
           ],
+          "next_day_logistics": "Bullet train to Shinagawa Station, then a local train to Haneda Airport",
           "activities": [
             {
               "day": 8,
@@ -1593,6 +1815,37 @@
               "description": "Shopping and 7-Eleven meal",
               "location": "Kyoto"
             }
+          ],
+          "dining": [
+            {
+              "venue": "Kyoto Station mall",
+              "meal": "late lunch",
+              "location": "Kyoto Station",
+              "notes": "Tempura set"
+            },
+            {
+              "venue": "Kyoto Station mall",
+              "meal": "dinner",
+              "location": "Kyoto Station",
+              "notes": "Tonkatsu"
+            },
+            {
+              "venue": "7-Eleven",
+              "meal": "dinner",
+              "location": "Kyoto",
+              "notes": "Final night meal after shopping"
+            }
+          ],
+          "highlights": [
+            "Practicing mindfulness while walking the grounds of Nijo-jo Castle",
+            "Early morning visit to Kiyomizu-dera before the crowds"
+          ],
+          "notable_experiences": [
+            "Spotted a Shiba Inu basking in the sun on the walk back from Kiyomizu-dera"
+          ],
+          "weather": "Cold with threatening rain on day 8; clear blue sky on day 9",
+          "companions": [
+            "solo"
           ]
         },
         {
@@ -1602,6 +1855,21 @@
           "categories": "travel japan",
           "tags": null,
           "rollup_key": "2024japan",
+          "trip_stage": "return_travel",
+          "trip_duration": "10 days (truncated from 13 on day 4)",
+          "locations": [
+            {
+              "name": "Kyoto",
+              "type": "city",
+              "country": "Japan"
+            },
+            {
+              "name": "Tokyo",
+              "type": "city",
+              "country": "Japan",
+              "notes": "Departure from Haneda Airport"
+            }
+          ],
           "days_at_location": {
             "Tokyo": 1
           },
@@ -1626,7 +1894,25 @@
               "type": "reflection",
               "description": "Reflecting on first Japan trip and planning for future visits"
             }
-          ]
+          ],
+          "highlights": [
+            "Airalo eSIM data service worked flawlessly for nearly the whole trip",
+            "Navigated trains and subways with ease",
+            "Hotel choices in Asakusa, Kamakura, and Kyoto all worked out well",
+            "Everything packed into one Osprey backpack",
+            "Mobile Suica card for transit and konbini payments",
+            "Never felt concerned about safety, anywhere, at any hour"
+          ],
+          "challenges": [
+            "Cold and windy weather made it hard to enjoy being outside",
+            "Language barrier wore down the experience and limited connection with locals",
+            "Loneliness as a solo traveler was a key factor in ending the trip early",
+            "Only 15 days to prepare for the trip"
+          ],
+          "companions": [
+            "solo"
+          ],
+          "travel_sentiment": "Trip cut short, but seen as the beginning of a relationship with Japan, not the end"
         },
         {
           "title": "Shinkansen",
@@ -1666,6 +1952,15 @@
           "categories": "travel cruise iceland",
           "tags": null,
           "rollup_key": "2024icelandcruise",
+          "day_type": "travel_day",
+          "trip_stage": "pre_cruise",
+          "locations": [
+            {
+              "name": "Raleigh",
+              "type": "city",
+              "country": "USA"
+            }
+          ],
           "days_at_location": {
             "Raleigh": 1
           },
@@ -1686,7 +1981,8 @@
               "description": "Dealing with cancelled flight and rebooking travel",
               "location": "Raleigh, NC"
             }
-          ]
+          ],
+          "weather": "Severe weather along the East Coast causing flight cancellations"
         },
         {
           "title": "Iceland Cruise Day 2",
@@ -1698,10 +1994,43 @@
             "jersey city"
           ],
           "rollup_key": "2024icelandcruise",
+          "day_type": "travel_day",
+          "trip_stage": "pre_cruise",
+          "locations": [
+            {
+              "name": "Raleigh",
+              "type": "city",
+              "country": "USA"
+            },
+            {
+              "name": "Newark",
+              "type": "city",
+              "country": "USA"
+            },
+            {
+              "name": "Jersey City",
+              "type": "city",
+              "country": "USA"
+            },
+            {
+              "name": "Manhattan",
+              "type": "city",
+              "country": "USA"
+            }
+          ],
           "days_at_location": {
             "Jersey City": 1,
             "Manhattan": 1
           },
+          "accommodations": [
+            {
+              "name": "Hyatt House Jersey City",
+              "type": "hotel",
+              "location": "Jersey City, NJ",
+              "url": "https://www.hyatt.com/hyatt-house/en-US/lgaxj-hyatt-house-jersey-city",
+              "notes": "Room available on early arrival since the previous night was already paid; digital key issues"
+            }
+          ],
           "venues": [
             {
               "name": "United Club",
@@ -1803,6 +2132,11 @@
               "description": "Playground visit and photos by river after rain stopped",
               "location": "Jersey City waterfront"
             }
+          ],
+          "weather": "Clear and sunny morning, hot and humid, with severe storms arriving in the afternoon",
+          "companions": [
+            "Sherri",
+            "Siena"
           ]
         },
         {
@@ -1817,10 +2151,37 @@
             "celebrity eclipse"
           ],
           "rollup_key": "2024icelandcruise",
+          "day_type": "travel_day",
+          "trip_stage": "embarkation",
+          "locations": [
+            {
+              "name": "Jersey City",
+              "type": "city",
+              "country": "USA"
+            },
+            {
+              "name": "Bayonne",
+              "type": "port_town",
+              "country": "USA"
+            },
+            {
+              "name": "New York Harbor",
+              "type": "harbor",
+              "country": "USA"
+            }
+          ],
           "days_at_location": {
             "Jersey City": 0.5,
             "Celebrity Eclipse": 0.5
           },
+          "accommodations": [
+            {
+              "name": "Celebrity Eclipse",
+              "type": "cruise_ship",
+              "location": "Departed Bayonne, NJ",
+              "notes": "First night aboard in the stateroom"
+            }
+          ],
           "venues": [
             {
               "name": "Jersey City Riverwalk",
@@ -1882,6 +2243,12 @@
               "time": "8:30pm",
               "location": "Celebrity Eclipse"
             }
+          ],
+          "weather": "Thunderstorms gathered around the NYC area during sailaway; rainy and foggy the rest of the day with a break for sunset",
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
           ]
         },
         {
@@ -1894,6 +2261,15 @@
             "celebrity eclipse"
           ],
           "rollup_key": "2024icelandcruise",
+          "day_type": "sea_day",
+          "trip_stage": "cruise",
+          "locations": [
+            {
+              "name": "Atlantic Ocean",
+              "type": "sea",
+              "country": "International waters"
+            }
+          ],
           "days_at_location": {
             "Celebrity Eclipse": 1
           },
@@ -1926,7 +2302,8 @@
               "description": "Kids racing around ship and playing elevator tag",
               "location": "Celebrity Eclipse"
             }
-          ]
+          ],
+          "weather": "Dense fog all day, growing thicker as the day progressed; ship sounded its horn every minute mid-afternoon onward"
         },
         {
           "title": "Iceland Cruise Day 5",
@@ -1939,6 +2316,19 @@
             "celebrity eclipse"
           ],
           "rollup_key": "2024icelandcruise",
+          "day_type": "port_day",
+          "locations": [
+            {
+              "name": "Halifax",
+              "type": "city",
+              "country": "Canada"
+            },
+            {
+              "name": "Halifax Harbor",
+              "type": "port",
+              "country": "Canada"
+            }
+          ],
           "days_at_location": {
             "Halifax": 1,
             "Celebrity Eclipse": 1
@@ -1999,6 +2389,7 @@
               "notes": "Ship performed 180-degree turn to dock starboard side"
             }
           ],
+          "walking_distance": "8 miles (Brian), 14 miles (Sherri)",
           "activities": [
             {
               "day": 5,
@@ -2066,6 +2457,12 @@
               "time": "Evening",
               "location": "Celebrity Eclipse"
             }
+          ],
+          "weather": "Foggy early morning giving way to cloudy skies",
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
           ]
         },
         {
@@ -2078,6 +2475,14 @@
             "celebrity eclipse"
           ],
           "rollup_key": "2024icelandcruise",
+          "day_type": "sea_day",
+          "locations": [
+            {
+              "name": "Atlantic Ocean (between Halifax and St. John's)",
+              "type": "sea",
+              "country": "International waters"
+            }
+          ],
           "days_at_location": {
             "Celebrity Eclipse": 1
           },
@@ -2117,6 +2522,12 @@
               "description": "Reading in deck chairs",
               "location": "Celebrity Eclipse"
             }
+          ],
+          "weather": "Overcast and gray, mid-60s F, moderate winds",
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
           ]
         },
         {
@@ -2130,6 +2541,19 @@
             "celebrity eclipse"
           ],
           "rollup_key": "2024icelandcruise",
+          "day_type": "port_day",
+          "locations": [
+            {
+              "name": "St. John's",
+              "type": "city",
+              "country": "Canada"
+            },
+            {
+              "name": "Signal Hill",
+              "type": "historic_site",
+              "country": "Canada"
+            }
+          ],
           "days_at_location": {
             "St. John's": 1,
             "Celebrity Eclipse": 1
@@ -2237,6 +2661,12 @@
               "time": "Evening",
               "location": "Celebrity Eclipse"
             }
+          ],
+          "weather": "Incredible weather day, only a few scattered clouds, highs around 75F, very windy on Signal Hill",
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
           ]
         },
         {
@@ -2249,6 +2679,14 @@
             "celebrity eclipse"
           ],
           "rollup_key": "2024icelandcruise",
+          "day_type": "sea_day",
+          "locations": [
+            {
+              "name": "Labrador Sea",
+              "type": "sea",
+              "country": "International waters"
+            }
+          ],
           "days_at_location": {
             "Celebrity Eclipse": 1
           },
@@ -2314,6 +2752,12 @@
               "time": "Afternoon",
               "location": "Celebrity Eclipse balcony"
             }
+          ],
+          "weather": "Low 50s F, calm seas; shorts weather on the wind-sheltered western balcony in the afternoon",
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
           ]
         },
         {
@@ -2325,7 +2769,69 @@
             "celebrity",
             "celebrity eclipse"
           ],
-          "rollup_key": "2024icelandcruise"
+          "rollup_key": "2024icelandcruise",
+          "trip_day": 9,
+          "day_type": "sea_day",
+          "locations": [
+            {
+              "name": "Labrador Sea",
+              "type": "sea",
+              "country": "International waters"
+            }
+          ],
+          "days_at_location": {
+            "Celebrity Eclipse": 1
+          },
+          "venues": [
+            {
+              "name": "Le Petit Chef",
+              "type": "restaurant",
+              "location": "Celebrity Eclipse",
+              "notes": "Specialty restaurant with animated projection shows presented before courses"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise_ship",
+              "vessel": "Celebrity Eclipse",
+              "from": "St. John's, Newfoundland",
+              "to": "Qaqortoq, Greenland",
+              "notes": "Second of two sea days between St. John's and Greenland"
+            }
+          ],
+          "activities": [
+            {
+              "day": 9,
+              "type": "dining",
+              "description": "Birthday dinner for Rowan at Le Petit Chef, with projection shows on the history of tomatoes and the history of art before the courses",
+              "time": "Evening",
+              "location": "Celebrity Eclipse"
+            },
+            {
+              "day": 9,
+              "type": "celebration",
+              "description": "Celebrated Rowan's birthday with Shirley Temples and a chocolate birthday cake",
+              "time": "Evening",
+              "location": "Le Petit Chef, Celebrity Eclipse"
+            },
+            {
+              "day": 9,
+              "type": "social",
+              "description": "The kids spent time with friends they have made on the ship",
+              "location": "Celebrity Eclipse"
+            }
+          ],
+          "dining": [
+            {
+              "venue": "Le Petit Chef",
+              "meal": "dinner",
+              "location": "Celebrity Eclipse",
+              "notes": "Food was main-restaurant quality with the main course a step up; chalky chocolate birthday cake for dessert"
+            }
+          ],
+          "notable_events": [
+            "Rowan's birthday"
+          ]
         },
         {
           "title": "Iceland Cruise Day 10",
@@ -2404,7 +2910,142 @@
             "reykjavik",
             "iceland"
           ],
-          "rollup_key": "2024icelandonland"
+          "rollup_key": "2024icelandonland",
+          "trip_day": 1,
+          "day_type": "road_trip",
+          "trip_stage": "post-cruise",
+          "locations": [
+            {
+              "name": "Reykjavik",
+              "type": "city",
+              "country": "Iceland"
+            },
+            {
+              "name": "Selfoss",
+              "type": "town",
+              "country": "Iceland"
+            },
+            {
+              "name": "Steinar",
+              "type": "rural_area",
+              "country": "Iceland",
+              "notes": "Airbnb base on the south coast"
+            },
+            {
+              "name": "Vik",
+              "type": "town",
+              "country": "Iceland"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Airbnb in Steinar",
+              "location": "Steinar, South Iceland",
+              "night": 1,
+              "notes": "Two bedrooms with two queen beds; well-stocked kitchen; no grill, hot tub, or patio furniture; great view"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Hertz Downtown Office",
+              "type": "car_rental",
+              "location": "Reykjavik, by the domestic airport"
+            },
+            {
+              "name": "Almar bakari",
+              "type": "bakery",
+              "location": "Selfoss",
+              "url": "https://almarbakari.is/"
+            },
+            {
+              "name": "Bónus",
+              "type": "grocery",
+              "location": "Selfoss",
+              "url": "https://bonus.is/"
+            },
+            {
+              "name": "LAVA Centre",
+              "type": "museum",
+              "url": "https://lavacentre.is/",
+              "notes": "Volcano and earthquake exhibits with observation deck"
+            },
+            {
+              "name": "Seljalandsfoss",
+              "type": "waterfall",
+              "location": "South Iceland, off the Ring Road",
+              "url": "https://www.icelandtravel.is/attractions/seljalandsfoss/"
+            },
+            {
+              "name": "Heimamenn",
+              "type": "restaurant",
+              "location": "A few miles past Steinar, South Iceland",
+              "url": "https://maps.app.goo.gl/GMydJepKQkfjPeBH7"
+            },
+            {
+              "name": "Black sand beach at Vik",
+              "type": "beach",
+              "location": "Vik"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise_ship",
+              "notes": "Disembarked in Reykjavik"
+            },
+            {
+              "type": "bus",
+              "route": "Reykjavik cruise terminal → Reykjavik central bus terminal",
+              "notes": "Celebrity transfer at $20 per person for a 20 minute trip"
+            },
+            {
+              "type": "rental_car",
+              "vehicle": "Tesla Model Y",
+              "notes": "Picked up at Hertz Downtown Office instead of the originally planned location near the cruise terminal"
+            }
+          ],
+          "activities": [
+            "Disembarked cruise ship in Reykjavik",
+            "Picked up rental car (Tesla Model Y) from Hertz",
+            "Bakery breakfast and grocery stop in Selfoss",
+            "LAVA Centre exhibits and observation deck",
+            "Seljalandsfoss waterfall stop, including the path to a secondary waterfall",
+            "Black sand beach at Vik",
+            "Grocery stop in Vik",
+            "Checked in to Airbnb in Steinar"
+          ],
+          "dining": [
+            {
+              "venue": "Almar bakari",
+              "meal": "breakfast",
+              "location": "Selfoss",
+              "url": "https://almarbakari.is/",
+              "dishes": "Pastries and warm drinks",
+              "notes": "Same bakery as first stop on last year's trip"
+            },
+            {
+              "venue": "Heimamenn",
+              "meal": "lunch",
+              "location": "A few miles past Steinar, South Iceland",
+              "url": "https://maps.app.goo.gl/GMydJepKQkfjPeBH7",
+              "dishes": "Fish and chips",
+              "notes": "3500 ISK (~USD 26); some of the best fish and chips I've had anywhere"
+            }
+          ],
+          "notable_experiences": [
+            "Happened across Seljalandsfoss unplanned while driving the Ring Road",
+            "Black sand beach at Vik was uncrowded and felt like a special place"
+          ],
+          "challenges": [
+            "Sherri powered through the day feeling under the weather, later confirmed as COVID",
+            "Second-guessed car rental pickup logistics; original plan near the cruise terminal would have worked"
+          ],
+          "weather": {
+            "conditions": "Breezy but amazing at Vik",
+            "temperature": "Mid-50s F"
+          },
+          "companions": [
+            "family (Sherri, Rowan, and the girls)"
+          ]
         },
         {
           "title": "Iceland Visit 2024 Day 2",
@@ -2455,6 +3096,8 @@
             "dec2024"
           ],
           "rollup_key": "2024wintercaribbean",
+          "day_type": "planning",
+          "trip_stage": "pre-trip",
           "activities": [
             {
               "day": -2,
@@ -2462,6 +3105,9 @@
               "description": "Researching cell data options for cruise",
               "location": "Planning phase"
             }
+          ],
+          "notable_mentions": [
+            "AT&T Unlimited Starter SL plan"
           ]
         },
         {
@@ -2475,9 +3121,33 @@
             "dec2024"
           ],
           "rollup_key": "2024wintercaribbean",
+          "day_number": 0,
+          "day_type": "travel_day",
+          "trip_stage": "outbound",
+          "locations": [
+            {
+              "name": "Raleigh",
+              "type": "city",
+              "country": "United States",
+              "notes": "Departure city, home airport RDU"
+            },
+            {
+              "name": "Fort Lauderdale",
+              "type": "city",
+              "country": "United States"
+            }
+          ],
           "days_at_location": {
             "Fort Lauderdale": 1
           },
+          "accommodations": [
+            {
+              "name": "Embassy Suites Fort Lauderdale",
+              "location": "Fort Lauderdale, FL",
+              "night": "1 of 1",
+              "notes": "Room not ready 30 minutes after check-in time, key-cutting machine broken; hotel provided a $50 restaurant voucher"
+            }
+          ],
           "venues": [
             {
               "name": "Raleigh-Durham International Airport (RDU)",
@@ -2530,6 +3200,26 @@
               "description": "Dinner from Publix deli in hotel room",
               "location": "Embassy Suites"
             }
+          ],
+          "dining": [
+            {
+              "venue": "Publix",
+              "meal": "dinner",
+              "location": "Hotel room, Fort Lauderdale",
+              "notes": "Deli sandwiches"
+            }
+          ],
+          "notable_experiences": [
+            "Taxi driver's handy book showing 8 cruise ships in port that day"
+          ],
+          "challenges": [
+            "55-minute wait for an arrival gate at FLL despite landing 10 minutes early",
+            "Hotel room not ready and key machine broken at check-in"
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
           ]
         },
         {
@@ -2543,6 +3233,18 @@
             "dec2024"
           ],
           "rollup_key": "2024wintercaribbean",
+          "day_number": 1,
+          "day_type": "embarkation",
+          "trip_stage": "embarkation",
+          "trip_duration": "11 nights",
+          "locations": [
+            {
+              "name": "Fort Lauderdale",
+              "type": "city",
+              "country": "United States",
+              "notes": "Embarkation at Port Everglades"
+            }
+          ],
           "days_at_location": {
             "Fort Lauderdale": 1,
             "Celebrity Eclipse": 1
@@ -2594,7 +3296,23 @@
               "description": "Visit to ship Medical Center for X-rays and crutches",
               "location": "Celebrity Eclipse Medical Center"
             }
-          ]
+          ],
+          "notable_experiences": [
+            "Ship Medical Center visit with X-rays showing no break; son on loaner crutches for the voyage",
+            "Ship departed more than an hour and a half late due to embarkation traffic"
+          ],
+          "challenges": [
+            "20+ minute elevator waits and a jam-packed lobby getting bags down at the hotel",
+            "Port Everglades entrances overwhelmed by traffic, 25 minutes to travel 4 miles",
+            "Son rolled his ankle in the first hour of the 11-night cruise",
+            "Canceling at least three pre-purchased shore excursions for the family"
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
+          ],
+          "travel_sentiment": "Dread and disappointment after son's first-hour ankle injury, tempered by gratitude to be heading to the warm Caribbean"
         },
         {
           "title": "Celebrity Cruise Day 2",
@@ -2607,6 +3325,16 @@
             "dec2024"
           ],
           "rollup_key": "2024wintercaribbean",
+          "day_number": 2,
+          "day_type": "sea_day",
+          "locations": [
+            {
+              "name": "Caribbean Sea",
+              "type": "sea",
+              "country": "International waters",
+              "notes": "Sea day between Fort Lauderdale and Grand Cayman"
+            }
+          ],
           "days_at_location": {
             "At sea": 1
           },
@@ -2618,6 +3346,7 @@
               "operator": "Celebrity Cruises"
             }
           ],
+          "next_day_logistics": "Tender stop at George Town, Grand Cayman; plan to stay aboard having visited three years ago",
           "activities": [
             {
               "day": 2,
@@ -2638,6 +3367,15 @@
               "description": "Sunset viewing on balcony",
               "location": "Celebrity Eclipse"
             }
+          ],
+          "notable_experiences": [
+            "Cloud formation on the horizon resembling a partially constructed Death Star",
+            "Son adapting to crutches better than expected, with periodic waves of emotion over missed opportunities"
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
           ]
         },
         {
@@ -2651,6 +3389,16 @@
             "dec2024"
           ],
           "rollup_key": "2024wintercaribbean",
+          "day_number": 3,
+          "day_type": "port_day",
+          "locations": [
+            {
+              "name": "George Town",
+              "type": "city",
+              "country": "Cayman Islands",
+              "notes": "Tendered port stop; stayed aboard"
+            }
+          ],
           "days_at_location": {
             "George Town": 1,
             "Celebrity Eclipse": 1
@@ -2696,6 +3444,25 @@
               "description": "Special Christmas Eve menu in main dining room",
               "location": "Celebrity Eclipse"
             }
+          ],
+          "dining": [
+            {
+              "venue": "Main Dining Room",
+              "meal": "dinner",
+              "location": "Celebrity Eclipse",
+              "notes": "Special Christmas Eve menu"
+            }
+          ],
+          "notable_experiences": [
+            "Two other ships tendered nearby, including RCCL Brilliance of the Seas",
+            "What felt like ~40 knot winds on the top deck lawn after dinner",
+            "Skipped the Christmas Eve Party With Party Band Next Stage for an early night"
+          ],
+          "weather": "Gray most of the day, temperatures in the high 70s and humid",
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
           ]
         },
         {
@@ -2709,6 +3476,16 @@
             "dec2024"
           ],
           "rollup_key": "2024wintercaribbean",
+          "day_number": 4,
+          "day_type": "sea_day",
+          "locations": [
+            {
+              "name": "Caribbean Sea",
+              "type": "sea",
+              "country": "International waters",
+              "notes": "Christmas Day at sea between Grand Cayman and Aruba"
+            }
+          ],
           "days_at_location": {
             "Celebrity Eclipse": 1
           },
@@ -2746,6 +3523,18 @@
               "description": "Wife and daughter met family from Quebec, shared lunch and attended show",
               "location": "Celebrity Eclipse"
             }
+          ],
+          "notable_experiences": [
+            "Santa handing out presents and taking photos in the grand foyer",
+            "Families adapting Christmas traditions aboard, including a dedicated suitcase of wrapped presents",
+            "Wife and daughter befriended an extended family from Quebec, sharing lunch and a show",
+            "Son able to put some weight on his injured foot; binging the US version of The Office",
+            "Found a peaceful late-afternoon writing spot at the aft of the ship"
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
           ]
         },
         {
@@ -2759,6 +3548,16 @@
             "dec2024"
           ],
           "rollup_key": "2024wintercaribbean",
+          "day_number": 5,
+          "day_type": "port_day",
+          "locations": [
+            {
+              "name": "Oranjestad",
+              "type": "city",
+              "country": "Aruba",
+              "notes": "First of the ABC Islands, constituent country within the Kingdom of the Netherlands"
+            }
+          ],
           "days_at_location": {
             "Aruba": 1
           },
@@ -2796,6 +3595,7 @@
               "duration": "3 hours"
             }
           ],
+          "next_day_logistics": "Curaçao",
           "activities": [
             {
               "day": 5,
@@ -2817,6 +3617,22 @@
               "description": "Main dining room dinner",
               "location": "Celebrity Eclipse"
             }
+          ],
+          "dining": [
+            {
+              "venue": "Main Dining Room",
+              "meal": "dinner",
+              "location": "Celebrity Eclipse"
+            }
+          ],
+          "notable_experiences": [
+            "Son made a new friend, Jonathan, through their shared interest in Brawl Stars",
+            "Snorkeling itself was just okay, but the catamaran ride there and back was enjoyable"
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
           ]
         },
         {
@@ -2830,6 +3646,16 @@
             "dec2024"
           ],
           "rollup_key": "2024wintercaribbean",
+          "day_number": 6,
+          "day_type": "port_day",
+          "locations": [
+            {
+              "name": "Willemstad",
+              "type": "city",
+              "country": "Curaçao",
+              "notes": "Capital city, second of the ABC Islands, constituent country within the Kingdom of the Netherlands"
+            }
+          ],
           "days_at_location": {
             "Curaçao": 1
           },
@@ -2870,6 +3696,7 @@
               "description": "Tour bus to Hato Caves and downtown Willemstad"
             }
           ],
+          "next_day_logistics": "Bonaire",
           "activities": [
             {
               "day": 6,
@@ -2896,6 +3723,21 @@
               "description": "Enjoyed twilight hours at solarium and aft deck",
               "location": "Celebrity Eclipse"
             }
+          ],
+          "notable_experiences": [
+            "Tour guide facts — 15 wind turbines generating 47.3 MW, walls around houses due to wild goats, iguana on the menu for some residents",
+            "Venezuelan vendors at Kraspassi Market who live on their boats while docked in Willemstad",
+            "Morning hello from Santa aboard the ship"
+          ],
+          "weather": "Very hot and sticky",
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
+          ],
+          "cultural_references": [
+            "Papiamentu, the island's most widely spoken language, a Creole blending African, Portuguese, Spanish, Dutch, and English influences",
+            "Dutch Colonial architecture along the Willemstad waterfront"
           ]
         },
         {
@@ -2909,6 +3751,16 @@
             "dec2024"
           ],
           "rollup_key": "2024wintercaribbean",
+          "day_number": 7,
+          "day_type": "port_day",
+          "locations": [
+            {
+              "name": "Kralendijk",
+              "type": "town",
+              "country": "Bonaire",
+              "notes": "Last of the ABC Islands, smallest in land area (~112 sq miles) and population (~21,000)"
+            }
+          ],
           "days_at_location": {
             "Bonaire": 1
           },
@@ -2954,6 +3806,24 @@
               "description": "Premium dining at Murano French restaurant celebrating milestone",
               "location": "Celebrity Eclipse"
             }
+          ],
+          "dining": [
+            {
+              "venue": "Murano",
+              "meal": "dinner",
+              "location": "Celebrity Eclipse",
+              "notes": "Premium French restaurant; milestone celebration with wife, second best Dover sole ever"
+            }
+          ],
+          "notable_experiences": [
+            "5:30pm departure delayed about an hour for two people leaving by ambulance",
+            "Island's calmer pace — one large-ship pier, golf-cart travel, app-based electric scooters",
+            "Researching each ABC Island as a possible snowbird destination; Bonaire's small population limits medical care availability"
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
           ]
         },
         {
@@ -2967,6 +3837,16 @@
             "dec2024"
           ],
           "rollup_key": "2024wintercaribbean",
+          "day_number": 8,
+          "day_type": "sea_day",
+          "locations": [
+            {
+              "name": "Caribbean Sea",
+              "type": "sea",
+              "country": "International waters",
+              "notes": "Sea day between Bonaire and San Juan"
+            }
+          ],
           "days_at_location": {
             "Celebrity Eclipse": 1
           },
@@ -2986,6 +3866,7 @@
               "notes": "Sea day, rougher waters than first half of cruise"
             }
           ],
+          "next_day_logistics": "San Juan, Puerto Rico",
           "activities": [
             {
               "day": 8,
@@ -2993,6 +3874,17 @@
               "description": "Sea day, relaxing aboard ship",
               "location": "Celebrity Eclipse"
             }
+          ],
+          "highlights": [
+            "Really good croissants onboard"
+          ],
+          "notable_experiences": [
+            "Noticeably more ship motion heading toward Puerto Rico than the smooth first half of the cruise"
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
           ]
         },
         {
@@ -3006,6 +3898,16 @@
             "dec2024"
           ],
           "rollup_key": "2024wintercaribbean",
+          "day_number": 9,
+          "day_type": "port_day",
+          "locations": [
+            {
+              "name": "San Juan",
+              "type": "city",
+              "country": "Puerto Rico (United States)",
+              "notes": "Third visit for the couple, second with the kids"
+            }
+          ],
           "days_at_location": {
             "San Juan": 1
           },
@@ -3052,6 +3954,8 @@
               "description": "4.5 mile walking tour of Old San Juan"
             }
           ],
+          "next_day_logistics": "Puerto Plata, Dominican Republic",
+          "walking_distance": "A little more than 4.5 miles per watch",
           "activities": [
             {
               "day": 9,
@@ -3067,6 +3971,18 @@
               "description": "Explored waterfront path between harbor and El Morro, viewed waves crashing on north side",
               "location": "Old San Juan"
             }
+          ],
+          "notable_experiences": [
+            "Quiet paved path between the harbor and El Morro with waves smashing the rocks on the north side",
+            "Zumba class in the open field in front of Castillo San Felipe del Morro",
+            "Inauguration setup at the Capitol Building for the new governor taking office January 2",
+            "Island-wide power outage hit Puerto Rico about 12 hours after the ship departed"
+          ],
+          "weather": "Rain threatening; only light sprinkles, not a drenching downpour",
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
           ]
         },
         {
@@ -3080,6 +3996,16 @@
             "dec2024"
           ],
           "rollup_key": "2024wintercaribbean",
+          "day_number": 10,
+          "day_type": "port_day",
+          "locations": [
+            {
+              "name": "Puerto Plata",
+              "type": "city",
+              "country": "Dominican Republic",
+              "notes": "Last port stop of the cruise before heading home"
+            }
+          ],
           "days_at_location": {
             "Puerto Plata": 1
           },
@@ -3147,6 +4073,29 @@
               "description": "Daughter tried splash surfing attraction",
               "location": "Taino Bay"
             }
+          ],
+          "dining": [
+            {
+              "venue": "Coffee shop at Taino Bay",
+              "meal": "coffee",
+              "location": "Taino Bay, Puerto Plata",
+              "notes": "Great coffee; mall wifi was pretty bad"
+            }
+          ],
+          "notable_experiences": [
+            "At zipline six, a staff member on horseback tows lighter riders the final ~20 meters",
+            "Tuk tuk ride from Taino Bay back to the ship at daughter's request",
+            "Pushiest port of the trip for forced reviews and tips; several places had never heard of Diet Coke",
+            "Taino Bay pool, lazy river, and splash surfing all free for cruise passengers"
+          ],
+          "challenges": [
+            "AT&T suspended data service on all family phones; restored after a ~20 minute call from the ship",
+            "Uncertainty about what the cell bill will look like"
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
           ]
         }
       ]
@@ -4825,8 +5774,16 @@
             "august2025"
           ],
           "rollup_key": "2025chde",
+          "trip_day": 10,
           "day_type": "leisure",
           "location": "Garmisch-Partenkirchen, Germany",
+          "locations": [
+            {
+              "name": "Garmisch-Partenkirchen",
+              "country": "Germany",
+              "region": "Bavaria"
+            }
+          ],
           "hotels": [
             {
               "name": "Hyperion Hotel Garmisch-Partenkirchen",
@@ -4857,6 +5814,9 @@
             "shopping for supplies",
             "researching Munich hotels"
           ],
+          "travel_companions": [
+            "Rowan"
+          ],
           "references": [
             {
               "name": "Mercure Hotel München Altstadt",
@@ -4881,11 +5841,19 @@
             "august2025"
           ],
           "rollup_key": "2025chde",
+          "trip_day": 11,
           "location": {
             "city": "Garmisch-Partenkirchen",
             "country": "Germany",
             "region": "Bavaria"
           },
+          "locations": [
+            {
+              "name": "Garmisch-Partenkirchen",
+              "country": "Germany",
+              "region": "Bavaria"
+            }
+          ],
           "venues": [
             {
               "name": "Riessersee Lake",
@@ -4930,6 +5898,10 @@
             "walking",
             "sightseeing",
             "dining"
+          ],
+          "weather": "Sunny and warm, comfortable on the balcony in shorts by morning",
+          "travel_companions": [
+            "Rowan"
           ]
         },
         {
@@ -5017,12 +5989,20 @@
             "august2025"
           ],
           "rollup_key": "2025chde",
+          "trip_day": 13,
           "day_type": "leisure",
           "location": {
             "city": "Munich",
             "country": "Germany",
             "region": "Bavaria"
           },
+          "locations": [
+            {
+              "name": "Munich",
+              "country": "Germany",
+              "region": "Bavaria"
+            }
+          ],
           "venues": [
             {
               "name": "BMW Welt",
@@ -5068,6 +6048,9 @@
             "Sunday in Germany (many stores/restaurants closed)",
             "Special occasion celebration dinner",
             "Last night in downtown Munich"
+          ],
+          "travel_companions": [
+            "Rowan"
           ]
         },
         {
@@ -5079,7 +6062,23 @@
             "august2025"
           ],
           "rollup_key": "2025chde",
+          "trip_day": 14,
           "location": "Munich, Germany",
+          "locations": [
+            {
+              "name": "Munich",
+              "country": "Germany",
+              "region": "Bavaria",
+              "type": "departure"
+            },
+            {
+              "name": "Munich Airport",
+              "type": "airport",
+              "code": "MUC",
+              "city": "Munich",
+              "country": "Germany"
+            }
+          ],
           "days_at_location": 1,
           "hotels": [
             {
@@ -5119,6 +6118,9 @@
             "Finding EAT HAPPY sushi stall",
             "Walking around Munich Airport",
             "Dinner at Mountain Hub Gourmet restaurant"
+          ],
+          "travel_companions": [
+            "Rowan"
           ],
           "travel_sentiment": "tired, ready to go home"
         },
@@ -6048,7 +7050,7 @@
         {
           "title": "Rome and Silversea Day 8",
           "date": "2026-05-11",
-          "subtitle": "A day in València",
+          "subtitle": "A day in València, Spain",
           "categories": "travel rome silversea",
           "tags": [
             "may2026"
@@ -6362,7 +7364,7 @@
         {
           "title": "Rome and Silversea Day 11",
           "date": "2026-05-14",
-          "subtitle": "A day in Portimão and Silves",
+          "subtitle": "A day in Portimão and Silves, Portugal",
           "categories": "travel rome silversea",
           "tags": [
             "may2026"
@@ -6546,18 +7548,23 @@
   "all_locations": [
     "Alborán Sea",
     "Appenzell",
+    "Atlantic Ocean",
+    "Atlantic Ocean (between Halifax and St. John's)",
     "Balabu day-trip cabin",
     "Balearic Sea",
     "Balestrand",
     "Balestrand Forest Trail (Skogstur)",
     "Balestrand ferry terminal",
     "Balestrand town",
+    "Balestrand, Norway",
     "Baltimore-Washington Airport (BWI)",
     "Baulan",
+    "Bayonne",
     "Bergen Airport (BGO), Norway",
     "Bergen Ferry Terminal",
     "Bergen Harbor/Waterfront",
     "Bergen Train Station",
+    "Bergen, Norway",
     "Bergensbanen railway route",
     "Bern",
     "Blauherd",
@@ -6569,12 +7576,15 @@
     "Bryggens Museum",
     "Brúarfoss",
     "Buchloe",
+    "Caribbean Sea",
     "Cartagena",
+    "Chamonix-Mont-Blanc",
     "Civitavecchia",
     "Copenhagen Airport (CPH)",
     "Copenhagen city center",
     "Copenhagen ferry terminal",
     "Copenhagen streets",
+    "Copenhagen, Denmark",
     "Deildartunguhver",
     "Detroit Airport",
     "Downtown Bergen",
@@ -6587,12 +7597,17 @@
     "Efstidalur II Farm & Restaurant",
     "Elgiganten electronics store",
     "Fløyen Mountain",
+    "Fort Lauderdale",
     "Füssen",
     "Garmisch-Partenkirchen",
+    "Geneva",
+    "George Town",
     "Geysir",
     "Gorner Gorge",
     "Gornergrat",
     "Gullfoss",
+    "Halifax",
+    "Halifax Harbor",
     "Hartsfield-Jackson Atlanta International Airport",
     "Holly Springs",
     "Holly Springs, NC",
@@ -6601,49 +7616,70 @@
     "Húsafell",
     "Húsafell Hotel Bistro",
     "Icelandic Punk Museum",
+    "Interlaken",
     "Interlaken Ost",
+    "Istanbul",
     "JFK Airport",
+    "Jersey City",
+    "Kamakura",
     "Keflavik Airport (KEF), Iceland",
     "Keflavík International Airport (KEF)",
     "Kleine Scheidegg",
     "Kongens Nytorv metro station",
+    "Kralendijk",
+    "Kyoto",
+    "Labrador Sea",
     "Laugarvatn",
     "Laugarvatn area",
     "Lauterbrunnen",
     "Leonardo da Vinci-Fiumicino Airport",
     "Lisbon",
     "Livorno",
+    "Manhattan",
+    "Minneapolis",
     "Mountain summit at 1295m above sea level",
     "Munich",
     "Munich Airport",
     "Männlichen",
     "Neuschwanstein Castle",
+    "New York Harbor",
+    "Newark",
+    "Oranjestad",
     "Oslo Central Station (Oslo S)",
     "Oslo Opera House",
     "Oslo ferry terminal",
+    "Oslo, Norway",
     "Pflach",
     "Portimão",
+    "Puerto Plata",
+    "Raleigh",
     "Raleigh-Durham Airport (RDU)",
     "Raleigh-Durham International Airport",
     "Reykholt",
     "Reykjavik",
     "Rome",
     "Royal Palace (Oslo)",
+    "San Juan",
     "Sandsstølen viewpoint",
     "Schwangau",
+    "Selfoss",
     "Selfoss, Iceland",
+    "Signal Hill",
     "Silves",
     "Sognefjord (via express ferry)",
     "Sognefjord overlook",
     "St. Gallen",
+    "St. John's",
     "St. Margrethen SG",
     "St. Olaf's Church",
+    "Steinar",
     "Strait of Gibraltar",
     "Sturlureykir Visiting Horse Farm",
     "Sun Voyager sculpture",
     "Sunnegga",
     "Thingvellir National Park",
     "Tivoli Gardens amusement park",
+    "Tokyo",
     "Tyrrhenian Sea",
     "València",
     "Vangsnes (unplanned fjord tour)",
@@ -6654,9 +7690,12 @@
     "Voss gondola (Hangurstoppen)",
     "Voss town center",
     "Voss train station",
+    "Voss, Norway",
     "Víðgelmir lava tube",
     "Wasserauen",
     "Wengen",
+    "Willemstad",
+    "Yokohama",
     "Zermatt",
     "Zurich",
     "Zurich Airport",
@@ -6670,6 +7709,7 @@
     "Aerial photography of Greenland",
     "After-dinner drinks in the Panorama Lounge",
     "Afternoon RIB boat tour of the Algarve sea caves, including Benagil",
+    "Aiguille du Midi cable car to 3842m",
     "Arrival home in Holly Springs",
     "Arrival in Bergen and early hotel check-in",
     "Arrival in Rome and hotel check-in",
@@ -6677,18 +7717,24 @@
     "Attempting panoramic trail at summit (gave up 1/4 way in)",
     "BMW Welt exhibition visit",
     "Bag reclaim and recheck in Detroit",
+    "Bakery breakfast and grocery stop in Selfoss",
     "Bakery visit in Selfoss",
     "Balestrand Forest Hike - 5.2 miles, 1700ft elevation gain",
+    "Black sand beach at Vik",
     "Booked shore excursions for Cartagena and Portimão (two for Portimão)",
+    "Booking eight nights of lodging (Asakusa, Kamakura, Kyoto)",
     "Bus journey through winter wonderland landscape",
     "Butler and housekeeper room orientation",
+    "CERN visit",
     "Cafe breakfast at historic manor",
     "Caprese and olives at an outdoor café",
     "Car return and walk through Reykjavik",
+    "Carouge farmers market",
     "Casual solo dinner at Atlantide",
     "Challenging second quarter with steep sections and roots",
     "Changed return flights to fly home Friday after disembarkation, skipping two nights in Lisbon",
     "Checked bags at Munich Airport",
+    "Checked in to Airbnb in Steinar",
     "Church visit (Hallgrímskirkja interior tour)",
     "Climbed St. Peter's dome via stairs/ramp through the inner gallery up to the lantern viewing platform",
     "Cocktail hour in La Dolce Vita with the travel advisor group",
@@ -6707,12 +7753,14 @@
     "Dinner at the ship's open-air Riviera restaurant",
     "Dinner with friends",
     "Disembarkation in Lisbon",
+    "Disembarked cruise ship in Reykjavik",
     "Domestic flight from Detroit to Raleigh-Durham",
     "EES exit enrollment",
     "EV charging introduction (DC Fast Charger in Selfoss)",
     "Early check-in at Kviknes Hotel",
     "Embarkation on the Silversea Silver Spirit",
     "Enjoying views from summit swing",
+    "Evening at the UN Club beach with friends",
     "Evening on the pool deck after sunset",
     "Evening visit to Tivoli Gardens amusement park",
     "Evening walk around downtown Oslo",
@@ -6728,6 +7776,7 @@
     "Failed quest to replace lost Kindle at Elgiganten",
     "Farewell group dinner aboard at S.A.L.T.",
     "Farm visit at Efstidalur II",
+    "Filling out Japan customs and immigration form online",
     "Finding EAT HAPPY sushi stall",
     "Fish and chips lunch",
     "Flights via Iceland back to North Carolina",
@@ -6738,8 +7787,10 @@
     "Geothermal hot tub",
     "Gondola ride to mountain summit (1295m elevation)",
     "Grocery shopping at Bónus supermarket",
+    "Grocery stop in Vik",
     "Group dinner at Atlantide",
     "Group dinner at S.A.L.T. Kitchen",
+    "Harder Kulm funicular up and ~400m vertical hike down",
     "Hiking clockwise loop starting from hotel",
     "Hiking down Fløyen mountain (~300m descent)",
     "Home cooking",
@@ -6750,12 +7801,14 @@
     "Italian dinner",
     "Journaling over a decaf Americano in the coffee bar",
     "Kindle reading on the hotel rooftop terrace",
+    "LAVA Centre exhibits and observation deck",
     "Largo di Torre Argentina",
     "Late evening walk around Balestrand",
     "Late lunch at the ship's new open-air Riviera restaurant",
     "Late morning leisure at hotel",
     "Late-night cake and people-watching at Taba Cafe",
     "Late-night visit to the Trevi Fountain",
+    "Learning Japanese phrases with Pimsleur",
     "Learning about Bergen's fire history",
     "Limited walking around Copenhagen",
     "Lunch at BWI Concourse A",
@@ -6785,9 +7838,13 @@
     "Photographing the sunset from the balcony and deck at sailaway",
     "Photography session at twilight",
     "Piazza Navona and Fontana dei Quattro Fiumi",
+    "Picked up rental car (Tesla Model Y) from Hertz",
     "Planning next day's complex ferry/bus route",
     "Playground visit",
     "Public transit experience (U-Bahn)",
+    "Purchasing a mobile Suica IC card for Apple Wallet",
+    "Purchasing an Airalo eSIM data plan (10GB for $9)",
+    "Purchasing travel medical insurance",
     "Reaching scenic overlooks and viewpoints",
     "Read Business Punk magazine issue 101",
     "Reading Kindle on hotel sun deck",
@@ -6796,11 +7853,13 @@
     "Regional train from Rome to Civitavecchia",
     "Relaxing and reading on a sun-deck lounger",
     "Relaxing sea day aboard the ship",
+    "Researching cities, towns, and villages between Tokyo and Kyoto/Osaka",
     "Riding Fløibanen funicular to Fløyen summit",
     "Rocky gorge trail with handrails",
     "Rooftop hotel views",
     "Scooter rental and ride",
     "Secrets of Cartagena with Paella walking tour",
+    "Seljalandsfoss waterfall stop, including the path to a secondary waterfall",
     "Seven hour layover at BWI",
     "Ship exploration (theater, grand staircase, coffee bar)",
     "Shopping at REWE grocery store",
@@ -6815,12 +7874,15 @@
     "Spanish Steps visit",
     "Special occasion dinner",
     "St. Peter's Basilica interior visit",
+    "Street food festival in Geneva",
     "Strolling the City of Arts & Sciences grounds (exterior only)",
     "Strolling through La Dolce Vita during the live piano",
     "Sunbathing and reading on the pool deck",
     "Sunbathing on the top deck",
+    "Swimming at Bains des Paquis",
     "Time-lapse of the Livorno sailaway from the dinner window",
     "Tiramisu and people-watching at the Pantheon piazza",
+    "Tomato festival",
     "Train connections through Switzerland",
     "Trevi Fountain and Pantheon encounters",
     "Unplanned bonus tour to Vangsnes car ferry terminus",
@@ -6834,10 +7896,13 @@
     "Visiting Voss cemetery",
     "Visiting historic church and timber buildings",
     "Walk from Civitavecchia station to the cruise port",
+    "Walk through Parc de la Grange",
+    "Walking Geneva old town",
     "Walking Livorno's covered portico and downtown",
     "Walking about 2 miles from the cruise terminal into València",
     "Walking and people-watching around Copenhagen",
     "Walking around Munich Airport",
+    "Walking in the Geneva Pride Parade",
     "Walking on Opera House marble roof",
     "Walking the waterfront promenade back to the ship",
     "Walking to Royal Palace",
@@ -6962,10 +8027,13 @@
     "{\"day\"=>8, \"type\"=>\"sightseeing\", \"description\"=>\"Walking tour to Nijo-jo Castle\", \"location\"=>\"Nijo-jo, Kyoto\", \"distance\"=>\"3.6km walk\"}",
     "{\"day\"=>8, \"type\"=>\"social\", \"description\"=>\"Kids finally made friends at Teen Lounge and played shipwide Hide & Seek past midnight\", \"time\"=>\"Evening\", \"location\"=>\"Celebrity Eclipse\"}",
     "{\"day\"=>8, \"type\"=>\"travel\", \"description\"=>\"Shinkansen train journey from Yokohama to Kyoto\", \"location\"=>\"Yokohama to Kyoto\"}",
+    "{\"day\"=>9, \"type\"=>\"celebration\", \"description\"=>\"Celebrated Rowan's birthday with Shirley Temples and a chocolate birthday cake\", \"time\"=>\"Evening\", \"location\"=>\"Le Petit Chef, Celebrity Eclipse\"}",
+    "{\"day\"=>9, \"type\"=>\"dining\", \"description\"=>\"Birthday dinner for Rowan at Le Petit Chef, with projection shows on the history of tomatoes and the history of art before the courses\", \"time\"=>\"Evening\", \"location\"=>\"Celebrity Eclipse\"}",
     "{\"day\"=>9, \"type\"=>\"shopping\", \"description\"=>\"Shopping and 7-Eleven meal\", \"location\"=>\"Kyoto\"}",
     "{\"day\"=>9, \"type\"=>\"sightseeing\", \"description\"=>\"4.5 mile clockwise walking loop from cruise terminal along harbor path to El Morro, then east to Capitol Building\", \"duration\"=>\"several hours\", \"location\"=>\"Old San Juan\", \"participants\"=>\"Parents (kids stayed aboard due to son's ankle and daughter not being a big walker)\"}",
     "{\"day\"=>9, \"type\"=>\"sightseeing\", \"description\"=>\"Early morning visit to Kiyomizu-dera Temple\", \"location\"=>\"Kiyomizu-dera, Kyoto\"}",
     "{\"day\"=>9, \"type\"=>\"sightseeing\", \"description\"=>\"Explored waterfront path between harbor and El Morro, viewed waves crashing on north side\", \"location\"=>\"Old San Juan\"}",
+    "{\"day\"=>9, \"type\"=>\"social\", \"description\"=>\"The kids spent time with friends they have made on the ship\", \"location\"=>\"Celebrity Eclipse\"}",
     "{\"type\"=>\"adventure\", \"name\"=>\"Kickbike ride\", \"location\"=>\"Sunnegga to Zermatt\"}",
     "{\"type\"=>\"adventure\", \"name\"=>\"Mountaincart ride\", \"location\"=>\"Blauherd to Sunnegga\", \"duration\"=>\"~20min\"}",
     "{\"type\"=>\"advice\", \"description\"=>\"Tips and recommendations for visiting Iceland\", \"topics\"=>[\"car_rental_tips\", \"driving_conditions\", \"wind_awareness\", \"cell_data_esim\", \"grocery_shopping\", \"dining_recommendations\", \"visiting_natural_attractions\", \"getting_around_reykjavik\"]}",
@@ -7033,7 +8101,182 @@
       "subtitle": "Travels to Geneva, Chamonix (France), and Interlaken",
       "categories": "travel switzerland",
       "tags": null,
-      "rollup_key": null
+      "rollup_key": null,
+      "trip_type": "solo",
+      "trip_duration": "June 27 - July 7, 2019",
+      "locations": [
+        {
+          "name": "Geneva",
+          "country": "Switzerland",
+          "type": "city",
+          "notes": "Home base; first two nights, then again from Day 6 through the end of the trip",
+          "visited": true
+        },
+        {
+          "name": "Chamonix-Mont-Blanc",
+          "country": "France",
+          "type": "mountain town",
+          "notes": "Spontaneous two-night stop, ~90 minutes from Geneva",
+          "visited": true
+        },
+        {
+          "name": "Interlaken",
+          "country": "Switzerland",
+          "type": "town",
+          "notes": "One night; intended as a base for Lauterbrunnen and Murren day trips but ran out of time",
+          "visited": true
+        },
+        {
+          "name": "Istanbul",
+          "country": "Turkey",
+          "type": "layover",
+          "notes": "Layover at the new Istanbul Airport in both directions",
+          "visited": true
+        }
+      ],
+      "countries_visited": [
+        "Switzerland",
+        "France"
+      ],
+      "accommodations": [
+        {
+          "name": "ibis Styles Geneve Carouge Hotel",
+          "location": "Carouge, Geneva",
+          "url": "https://www.accorhotels.com/gb/hotel-6863-ibis-styles-geneve-carouge/index.shtml",
+          "notes": "The \"home\" hotel; new building with air conditioning during a heat wave, across the street from friend Joshua"
+        },
+        {
+          "name": "Hotel Mercure Chamonix Les Bossons",
+          "location": "Outskirts of Chamonix",
+          "url": "https://www.accorhotels.com/gb/hotel-0411-mercure-chamonix-les-bossons-hotel/index.shtml",
+          "nights": 1,
+          "notes": "AlpyBus dropped off directly at the hotel door"
+        },
+        {
+          "name": "Heliopic Hotel",
+          "location": "Chamonix Sud",
+          "url": "https://www.heliopic-hotel-spa.com/",
+          "nights": 1,
+          "notes": "Room balcony overlooked the Aiguille du Midi cable cars"
+        },
+        {
+          "name": "Hotel Lotschberg",
+          "location": "Interlaken",
+          "nights": 1,
+          "notes": "No-frills single room around $110/night, very close to Interlaken-West station and a mall"
+        }
+      ],
+      "points_of_interest": [
+        "Aiguille du Midi",
+        "Brevent / Plan Praz (attempted; lift already closed for the day)",
+        "Harder Kulm",
+        "Bains des Paquis",
+        "CERN",
+        "Lake Geneva (Lac Leman)",
+        "Montenvers Train to Mer de Glace (noted, not taken)"
+      ],
+      "transport": [
+        {
+          "type": "air",
+          "route": "San Francisco (SFO) to Geneva via Istanbul",
+          "carrier": "Turkish Airlines",
+          "notes": "Business class; 13-hour SFO-Istanbul leg plus 3.5-hour Istanbul-Geneva leg"
+        },
+        {
+          "type": "bus",
+          "route": "Geneva Airport to Chamonix",
+          "provider": "AlpyBus",
+          "notes": "Booked after the rental car fell through; airport-to-hotel-door service (35 Sfr/euro)"
+        },
+        {
+          "type": "bus",
+          "route": "Chamonix to Geneva",
+          "provider": "Swisstours",
+          "notes": "9 euro"
+        },
+        {
+          "type": "train",
+          "route": "Geneva to Interlaken and back"
+        },
+        {
+          "type": "tram",
+          "location": "Geneva",
+          "notes": "12 and 18 trams stop outside the hotel; transit free for tourists"
+        },
+        {
+          "type": "cable car",
+          "name": "Aiguille du Midi",
+          "location": "Chamonix"
+        },
+        {
+          "type": "funicular",
+          "name": "Harderbahn",
+          "route": "Interlaken to Harder Kulm"
+        }
+      ],
+      "activities": [
+        "Street food festival in Geneva",
+        "Carouge farmers market",
+        "Swimming at Bains des Paquis",
+        "Evening at the UN Club beach with friends",
+        "Walking Geneva old town",
+        "Aiguille du Midi cable car to 3842m",
+        "Harder Kulm funicular up and ~400m vertical hike down",
+        "CERN visit",
+        "Tomato festival",
+        "Walk through Parc de la Grange",
+        "Walking in the Geneva Pride Parade"
+      ],
+      "dining": [
+        {
+          "name": "Pointe Isabelle",
+          "location": "Chamonix",
+          "notes": "Rain-soaked dash back to the hotel afterward"
+        },
+        {
+          "location": "Aiguille du Midi mid-point",
+          "food": "Hot dog"
+        },
+        {
+          "location": "Harder Kulm",
+          "food": "$7 Cup Noodles"
+        },
+        {
+          "location": "Interlaken",
+          "notes": "Italian place across from the mall"
+        }
+      ],
+      "highlights": [
+        "Aiguille du Midi",
+        "Interlaken scenery",
+        "Bains des Paquis",
+        "Geneva as the first European city that felt livable"
+      ],
+      "challenges": [
+        {
+          "type": "Transport",
+          "description": "Geneva Airport Swiss/French sector rental car snafu; reservation was on the French side and inaccessible without a same-day boarding pass, so the car was scrapped in favor of AlpyBus"
+        },
+        {
+          "type": "Logistics",
+          "description": "Keeping arrangements flexible meant daily re-planning and mid-day hotel moves, which caused more friction than benefit"
+        },
+        {
+          "type": "Physical",
+          "description": "The hike down from Harder Kulm left leg soreness lasting more than a week"
+        }
+      ],
+      "weather": [
+        {
+          "location": "Geneva",
+          "conditions": "Heat wave; hotel air conditioning was a lifesaver"
+        },
+        {
+          "location": "Chamonix",
+          "conditions": "About 92F in town, dropping to 36F at the top of Aiguille du Midi; intense evening thunderstorm"
+        }
+      ],
+      "companions": "Solo trip; met up with friends Joshua and Max in Geneva"
     },
     {
       "title": "Iceland 2023 Day 1",
@@ -8109,7 +9352,27 @@
       "subtitle": "Where Brian realizes he probably shouldn't try to YOLO a 12 day trip to Japan",
       "categories": "travel japan",
       "tags": null,
-      "rollup_key": "2024japan"
+      "rollup_key": "2024japan",
+      "trip_stage": "planning",
+      "trip_type": "solo",
+      "locations": [
+        {
+          "name": "Tokyo",
+          "type": "city",
+          "country": "Japan",
+          "notes": "Hotel booked for the first two nights to burn off jet lag; planned home base"
+        },
+        {
+          "name": "Kyoto",
+          "type": "city",
+          "country": "Japan",
+          "notes": "Planned home base for day trips"
+        }
+      ],
+      "companions": [
+        "solo"
+      ],
+      "travel_sentiment": "Started 90% excited and 10% anxious when booking; closer to 50/50 a week later"
     },
     {
       "title": "Japan T-minus 3 days",
@@ -8117,7 +9380,52 @@
       "subtitle": "As ready as I'm going to be",
       "categories": "travel japan",
       "tags": null,
-      "rollup_key": "2024japan"
+      "rollup_key": "2024japan",
+      "trip_stage": "planning",
+      "locations": [
+        {
+          "name": "Tokyo",
+          "type": "city",
+          "country": "Japan",
+          "notes": "First three nights booked in the Asakusa area"
+        },
+        {
+          "name": "Kamakura",
+          "type": "town",
+          "country": "Japan",
+          "notes": "Two nights booked"
+        },
+        {
+          "name": "Kyoto",
+          "type": "city",
+          "country": "Japan",
+          "notes": "Three nights booked; last three nights of the trip still open"
+        }
+      ],
+      "flights": [
+        {
+          "route": "Raleigh → Minneapolis",
+          "departure_time": "6:00am",
+          "duration": "3 hours"
+        },
+        {
+          "route": "Minneapolis → Tokyo-Haneda",
+          "departure_time": "10:30am",
+          "duration": "13.5 hours"
+        }
+      ],
+      "activities": [
+        "Researching cities, towns, and villages between Tokyo and Kyoto/Osaka",
+        "Booking eight nights of lodging (Asakusa, Kamakura, Kyoto)",
+        "Filling out Japan customs and immigration form online",
+        "Purchasing a mobile Suica IC card for Apple Wallet",
+        "Purchasing an Airalo eSIM data plan (10GB for $9)",
+        "Purchasing travel medical insurance",
+        "Learning Japanese phrases with Pimsleur"
+      ],
+      "companions": [
+        "solo"
+      ]
     },
     {
       "title": "Japan Trip Days 1 and 2",
@@ -8126,6 +9434,27 @@
       "categories": "travel japan",
       "tags": null,
       "rollup_key": "2024japan",
+      "trip_stage": "outbound",
+      "locations": [
+        {
+          "name": "Raleigh",
+          "type": "city",
+          "country": "United States",
+          "notes": "Departure from RDU"
+        },
+        {
+          "name": "Minneapolis",
+          "type": "city",
+          "country": "United States",
+          "notes": "Layover"
+        },
+        {
+          "name": "Tokyo",
+          "type": "city",
+          "country": "Japan",
+          "notes": "Asakusa neighborhood"
+        }
+      ],
       "days_at_location": {
         "Tokyo": 2
       },
@@ -8196,6 +9525,13 @@
           "description": "Neighborhood tour and convenience store visit",
           "location": "Near hotel, Asakusa"
         }
+      ],
+      "notable_experiences": [
+        "Cruised through Japan immigration in about five minutes using the online QR code arrival form",
+        "Happened upon the famous Nakamise-dori Street while walking to the hotel"
+      ],
+      "companions": [
+        "solo"
       ]
     },
     {
@@ -8205,9 +9541,24 @@
       "categories": "travel japan",
       "tags": null,
       "rollup_key": "2024japan",
+      "locations": [
+        {
+          "name": "Tokyo",
+          "type": "city",
+          "country": "Japan",
+          "notes": "Asakusa and Ueno neighborhoods"
+        }
+      ],
       "days_at_location": {
         "Tokyo": 1
       },
+      "accommodations": [
+        {
+          "name": "Asakusa View Annex Rokku",
+          "location": "Asakusa, Tokyo",
+          "notes": "Breakfast mixing Western and Japanese options; lounge with a view"
+        }
+      ],
       "venues": [
         {
           "name": "Senso-Ji Temple",
@@ -8284,6 +9635,34 @@
           "description": "Light dinner from convenience store",
           "location": "FamilyMart, Asakusa"
         }
+      ],
+      "dining": [
+        {
+          "venue": "Asakusa View Annex Rokku",
+          "meal": "breakfast",
+          "location": "Asakusa, Tokyo",
+          "notes": "Western plate plus seaweed salad and a creamy soup"
+        },
+        {
+          "venue": "Kura Sushi",
+          "meal": "lunch",
+          "location": "Asakusa, Tokyo",
+          "notes": "Revolving sushi; self check-in kiosk and QR-code ordering navigated with Google Translate"
+        },
+        {
+          "venue": "FamilyMart",
+          "meal": "dinner",
+          "location": "Asakusa, Tokyo",
+          "notes": "Konbini items; too tired for a proper dinner"
+        }
+      ],
+      "notable_experiences": [
+        "Photographing Senso-Ji at 5:30am without the usual crowds",
+        "Eating at a restaurant with zero English using Google Translate screenshots"
+      ],
+      "weather": "Cold winter morning, too cold to wander before sunrise",
+      "companions": [
+        "solo"
       ]
     },
     {
@@ -8293,6 +9672,14 @@
       "categories": "travel japan",
       "tags": null,
       "rollup_key": "2024japan",
+      "locations": [
+        {
+          "name": "Tokyo",
+          "type": "city",
+          "country": "Japan",
+          "notes": "Asakusa and Shibuya neighborhoods"
+        }
+      ],
       "days_at_location": {
         "Tokyo": 1
       },
@@ -8378,6 +9765,29 @@
           "description": "Sushi dinner at restaurant near hotel",
           "location": "Asakusa, Tokyo"
         }
+      ],
+      "dining": [
+        {
+          "venue": "CAFÉ Mori no Terrace",
+          "meal": "coffee",
+          "location": "Near Meiji Shrine entrance, Tokyo",
+          "url": "https://www.meijikinenkan.gr.jp/forestterrace-en/facility/moricafe.html",
+          "notes": "Warm-up and people-watching stop before entering the park"
+        },
+        {
+          "venue": "Sushi restaurant across from hotel",
+          "meal": "dinner",
+          "location": "Asakusa, Tokyo"
+        }
+      ],
+      "notable_mentions": [
+        "Comparison of Japanese hotel toilets versus the Toto S550E at home",
+        "Asakusa Underground Street was underwhelming despite its cyberpunk description",
+        "Restaurant area near Meiji Shrine evoked Northern California"
+      ],
+      "weather": "Chilly, overcast winter day",
+      "companions": [
+        "solo"
       ]
     },
     {
@@ -8387,9 +9797,29 @@
       "categories": "travel japan",
       "tags": null,
       "rollup_key": "2024japan",
+      "locations": [
+        {
+          "name": "Kamakura",
+          "type": "town",
+          "country": "Japan"
+        },
+        {
+          "name": "Yokohama",
+          "type": "city",
+          "country": "Japan",
+          "notes": "Train transfer en route from Tokyo"
+        }
+      ],
       "days_at_location": {
         "Kamakura": 3
       },
+      "accommodations": [
+        {
+          "name": "Hotel Metropolitan Kamakura",
+          "location": "Kamakura",
+          "notes": "Two short blocks from the train station; room overlooked one of the main streets"
+        }
+      ],
       "venues": [
         {
           "name": "Yokohama Station",
@@ -8516,6 +9946,26 @@
           "description": "2km walk back to hotel from Kotoku-in",
           "location": "Kamakura"
         }
+      ],
+      "dining": [
+        {
+          "venue": "7-Eleven",
+          "meal": "lunch",
+          "location": "Kamakura",
+          "notes": "Fried chicken, onigiri, and Coke Zero during the snow storm"
+        }
+      ],
+      "highlights": [
+        "Sugimotodera Temple, the smallest and favorite temple of the trip",
+        "Early morning visit to Kotoku-in Great Buddha with nice weather and no crowds"
+      ],
+      "notable_experiences": [
+        "Tonkatsu restaurant closed early and turned him away due to the storm",
+        "Kamakura was where the differentness of language and culture started to feel less overwhelming"
+      ],
+      "weather": "Rain/sleet mix with 20-30 mph wind gusts turning to a snow storm on day 5; sunny and warmer by day 7",
+      "companions": [
+        "solo"
       ]
     },
     {
@@ -8525,9 +9975,23 @@
       "categories": "travel japan",
       "tags": null,
       "rollup_key": "2024japan",
+      "locations": [
+        {
+          "name": "Kyoto",
+          "type": "city",
+          "country": "Japan"
+        }
+      ],
       "days_at_location": {
         "Kyoto": 2
       },
+      "accommodations": [
+        {
+          "name": "Hotel Granvia Kyoto",
+          "location": "Kyoto Station, Kyoto",
+          "notes": "Built into the main train station above an extensive mall complex; chosen for central transit access"
+        }
+      ],
       "venues": [
         {
           "name": "Kyoto Station",
@@ -8581,6 +10045,7 @@
           "to": "Kyoto Station"
         }
       ],
+      "next_day_logistics": "Bullet train to Shinagawa Station, then a local train to Haneda Airport",
       "activities": [
         {
           "day": 8,
@@ -8626,6 +10091,37 @@
           "description": "Shopping and 7-Eleven meal",
           "location": "Kyoto"
         }
+      ],
+      "dining": [
+        {
+          "venue": "Kyoto Station mall",
+          "meal": "late lunch",
+          "location": "Kyoto Station",
+          "notes": "Tempura set"
+        },
+        {
+          "venue": "Kyoto Station mall",
+          "meal": "dinner",
+          "location": "Kyoto Station",
+          "notes": "Tonkatsu"
+        },
+        {
+          "venue": "7-Eleven",
+          "meal": "dinner",
+          "location": "Kyoto",
+          "notes": "Final night meal after shopping"
+        }
+      ],
+      "highlights": [
+        "Practicing mindfulness while walking the grounds of Nijo-jo Castle",
+        "Early morning visit to Kiyomizu-dera before the crowds"
+      ],
+      "notable_experiences": [
+        "Spotted a Shiba Inu basking in the sun on the walk back from Kiyomizu-dera"
+      ],
+      "weather": "Cold with threatening rain on day 8; clear blue sky on day 9",
+      "companions": [
+        "solo"
       ]
     },
     {
@@ -8635,6 +10131,21 @@
       "categories": "travel japan",
       "tags": null,
       "rollup_key": "2024japan",
+      "trip_stage": "return_travel",
+      "trip_duration": "10 days (truncated from 13 on day 4)",
+      "locations": [
+        {
+          "name": "Kyoto",
+          "type": "city",
+          "country": "Japan"
+        },
+        {
+          "name": "Tokyo",
+          "type": "city",
+          "country": "Japan",
+          "notes": "Departure from Haneda Airport"
+        }
+      ],
       "days_at_location": {
         "Tokyo": 1
       },
@@ -8659,7 +10170,25 @@
           "type": "reflection",
           "description": "Reflecting on first Japan trip and planning for future visits"
         }
-      ]
+      ],
+      "highlights": [
+        "Airalo eSIM data service worked flawlessly for nearly the whole trip",
+        "Navigated trains and subways with ease",
+        "Hotel choices in Asakusa, Kamakura, and Kyoto all worked out well",
+        "Everything packed into one Osprey backpack",
+        "Mobile Suica card for transit and konbini payments",
+        "Never felt concerned about safety, anywhere, at any hour"
+      ],
+      "challenges": [
+        "Cold and windy weather made it hard to enjoy being outside",
+        "Language barrier wore down the experience and limited connection with locals",
+        "Loneliness as a solo traveler was a key factor in ending the trip early",
+        "Only 15 days to prepare for the trip"
+      ],
+      "companions": [
+        "solo"
+      ],
+      "travel_sentiment": "Trip cut short, but seen as the beginning of a relationship with Japan, not the end"
     },
     {
       "title": "Shinkansen",
@@ -8710,6 +10239,15 @@
       "categories": "travel cruise iceland",
       "tags": null,
       "rollup_key": "2024icelandcruise",
+      "day_type": "travel_day",
+      "trip_stage": "pre_cruise",
+      "locations": [
+        {
+          "name": "Raleigh",
+          "type": "city",
+          "country": "USA"
+        }
+      ],
       "days_at_location": {
         "Raleigh": 1
       },
@@ -8730,7 +10268,8 @@
           "description": "Dealing with cancelled flight and rebooking travel",
           "location": "Raleigh, NC"
         }
-      ]
+      ],
+      "weather": "Severe weather along the East Coast causing flight cancellations"
     },
     {
       "title": "Iceland Cruise Day 2",
@@ -8742,10 +10281,43 @@
         "jersey city"
       ],
       "rollup_key": "2024icelandcruise",
+      "day_type": "travel_day",
+      "trip_stage": "pre_cruise",
+      "locations": [
+        {
+          "name": "Raleigh",
+          "type": "city",
+          "country": "USA"
+        },
+        {
+          "name": "Newark",
+          "type": "city",
+          "country": "USA"
+        },
+        {
+          "name": "Jersey City",
+          "type": "city",
+          "country": "USA"
+        },
+        {
+          "name": "Manhattan",
+          "type": "city",
+          "country": "USA"
+        }
+      ],
       "days_at_location": {
         "Jersey City": 1,
         "Manhattan": 1
       },
+      "accommodations": [
+        {
+          "name": "Hyatt House Jersey City",
+          "type": "hotel",
+          "location": "Jersey City, NJ",
+          "url": "https://www.hyatt.com/hyatt-house/en-US/lgaxj-hyatt-house-jersey-city",
+          "notes": "Room available on early arrival since the previous night was already paid; digital key issues"
+        }
+      ],
       "venues": [
         {
           "name": "United Club",
@@ -8847,6 +10419,11 @@
           "description": "Playground visit and photos by river after rain stopped",
           "location": "Jersey City waterfront"
         }
+      ],
+      "weather": "Clear and sunny morning, hot and humid, with severe storms arriving in the afternoon",
+      "companions": [
+        "Sherri",
+        "Siena"
       ]
     },
     {
@@ -8861,10 +10438,37 @@
         "celebrity eclipse"
       ],
       "rollup_key": "2024icelandcruise",
+      "day_type": "travel_day",
+      "trip_stage": "embarkation",
+      "locations": [
+        {
+          "name": "Jersey City",
+          "type": "city",
+          "country": "USA"
+        },
+        {
+          "name": "Bayonne",
+          "type": "port_town",
+          "country": "USA"
+        },
+        {
+          "name": "New York Harbor",
+          "type": "harbor",
+          "country": "USA"
+        }
+      ],
       "days_at_location": {
         "Jersey City": 0.5,
         "Celebrity Eclipse": 0.5
       },
+      "accommodations": [
+        {
+          "name": "Celebrity Eclipse",
+          "type": "cruise_ship",
+          "location": "Departed Bayonne, NJ",
+          "notes": "First night aboard in the stateroom"
+        }
+      ],
       "venues": [
         {
           "name": "Jersey City Riverwalk",
@@ -8926,6 +10530,12 @@
           "time": "8:30pm",
           "location": "Celebrity Eclipse"
         }
+      ],
+      "weather": "Thunderstorms gathered around the NYC area during sailaway; rainy and foggy the rest of the day with a break for sunset",
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
       ]
     },
     {
@@ -8938,6 +10548,15 @@
         "celebrity eclipse"
       ],
       "rollup_key": "2024icelandcruise",
+      "day_type": "sea_day",
+      "trip_stage": "cruise",
+      "locations": [
+        {
+          "name": "Atlantic Ocean",
+          "type": "sea",
+          "country": "International waters"
+        }
+      ],
       "days_at_location": {
         "Celebrity Eclipse": 1
       },
@@ -8970,7 +10589,8 @@
           "description": "Kids racing around ship and playing elevator tag",
           "location": "Celebrity Eclipse"
         }
-      ]
+      ],
+      "weather": "Dense fog all day, growing thicker as the day progressed; ship sounded its horn every minute mid-afternoon onward"
     },
     {
       "title": "Iceland Cruise Day 5",
@@ -8983,6 +10603,19 @@
         "celebrity eclipse"
       ],
       "rollup_key": "2024icelandcruise",
+      "day_type": "port_day",
+      "locations": [
+        {
+          "name": "Halifax",
+          "type": "city",
+          "country": "Canada"
+        },
+        {
+          "name": "Halifax Harbor",
+          "type": "port",
+          "country": "Canada"
+        }
+      ],
       "days_at_location": {
         "Halifax": 1,
         "Celebrity Eclipse": 1
@@ -9043,6 +10676,7 @@
           "notes": "Ship performed 180-degree turn to dock starboard side"
         }
       ],
+      "walking_distance": "8 miles (Brian), 14 miles (Sherri)",
       "activities": [
         {
           "day": 5,
@@ -9110,6 +10744,12 @@
           "time": "Evening",
           "location": "Celebrity Eclipse"
         }
+      ],
+      "weather": "Foggy early morning giving way to cloudy skies",
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
       ]
     },
     {
@@ -9122,6 +10762,14 @@
         "celebrity eclipse"
       ],
       "rollup_key": "2024icelandcruise",
+      "day_type": "sea_day",
+      "locations": [
+        {
+          "name": "Atlantic Ocean (between Halifax and St. John's)",
+          "type": "sea",
+          "country": "International waters"
+        }
+      ],
       "days_at_location": {
         "Celebrity Eclipse": 1
       },
@@ -9161,6 +10809,12 @@
           "description": "Reading in deck chairs",
           "location": "Celebrity Eclipse"
         }
+      ],
+      "weather": "Overcast and gray, mid-60s F, moderate winds",
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
       ]
     },
     {
@@ -9174,6 +10828,19 @@
         "celebrity eclipse"
       ],
       "rollup_key": "2024icelandcruise",
+      "day_type": "port_day",
+      "locations": [
+        {
+          "name": "St. John's",
+          "type": "city",
+          "country": "Canada"
+        },
+        {
+          "name": "Signal Hill",
+          "type": "historic_site",
+          "country": "Canada"
+        }
+      ],
       "days_at_location": {
         "St. John's": 1,
         "Celebrity Eclipse": 1
@@ -9281,6 +10948,12 @@
           "time": "Evening",
           "location": "Celebrity Eclipse"
         }
+      ],
+      "weather": "Incredible weather day, only a few scattered clouds, highs around 75F, very windy on Signal Hill",
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
       ]
     },
     {
@@ -9293,6 +10966,14 @@
         "celebrity eclipse"
       ],
       "rollup_key": "2024icelandcruise",
+      "day_type": "sea_day",
+      "locations": [
+        {
+          "name": "Labrador Sea",
+          "type": "sea",
+          "country": "International waters"
+        }
+      ],
       "days_at_location": {
         "Celebrity Eclipse": 1
       },
@@ -9358,6 +11039,12 @@
           "time": "Afternoon",
           "location": "Celebrity Eclipse balcony"
         }
+      ],
+      "weather": "Low 50s F, calm seas; shorts weather on the wind-sheltered western balcony in the afternoon",
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
       ]
     },
     {
@@ -9369,7 +11056,69 @@
         "celebrity",
         "celebrity eclipse"
       ],
-      "rollup_key": "2024icelandcruise"
+      "rollup_key": "2024icelandcruise",
+      "trip_day": 9,
+      "day_type": "sea_day",
+      "locations": [
+        {
+          "name": "Labrador Sea",
+          "type": "sea",
+          "country": "International waters"
+        }
+      ],
+      "days_at_location": {
+        "Celebrity Eclipse": 1
+      },
+      "venues": [
+        {
+          "name": "Le Petit Chef",
+          "type": "restaurant",
+          "location": "Celebrity Eclipse",
+          "notes": "Specialty restaurant with animated projection shows presented before courses"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise_ship",
+          "vessel": "Celebrity Eclipse",
+          "from": "St. John's, Newfoundland",
+          "to": "Qaqortoq, Greenland",
+          "notes": "Second of two sea days between St. John's and Greenland"
+        }
+      ],
+      "activities": [
+        {
+          "day": 9,
+          "type": "dining",
+          "description": "Birthday dinner for Rowan at Le Petit Chef, with projection shows on the history of tomatoes and the history of art before the courses",
+          "time": "Evening",
+          "location": "Celebrity Eclipse"
+        },
+        {
+          "day": 9,
+          "type": "celebration",
+          "description": "Celebrated Rowan's birthday with Shirley Temples and a chocolate birthday cake",
+          "time": "Evening",
+          "location": "Le Petit Chef, Celebrity Eclipse"
+        },
+        {
+          "day": 9,
+          "type": "social",
+          "description": "The kids spent time with friends they have made on the ship",
+          "location": "Celebrity Eclipse"
+        }
+      ],
+      "dining": [
+        {
+          "venue": "Le Petit Chef",
+          "meal": "dinner",
+          "location": "Celebrity Eclipse",
+          "notes": "Food was main-restaurant quality with the main course a step up; chalky chocolate birthday cake for dessert"
+        }
+      ],
+      "notable_events": [
+        "Rowan's birthday"
+      ]
     },
     {
       "title": "Iceland Cruise Day 10",
@@ -9451,7 +11200,142 @@
         "reykjavik",
         "iceland"
       ],
-      "rollup_key": "2024icelandonland"
+      "rollup_key": "2024icelandonland",
+      "trip_day": 1,
+      "day_type": "road_trip",
+      "trip_stage": "post-cruise",
+      "locations": [
+        {
+          "name": "Reykjavik",
+          "type": "city",
+          "country": "Iceland"
+        },
+        {
+          "name": "Selfoss",
+          "type": "town",
+          "country": "Iceland"
+        },
+        {
+          "name": "Steinar",
+          "type": "rural_area",
+          "country": "Iceland",
+          "notes": "Airbnb base on the south coast"
+        },
+        {
+          "name": "Vik",
+          "type": "town",
+          "country": "Iceland"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Airbnb in Steinar",
+          "location": "Steinar, South Iceland",
+          "night": 1,
+          "notes": "Two bedrooms with two queen beds; well-stocked kitchen; no grill, hot tub, or patio furniture; great view"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Hertz Downtown Office",
+          "type": "car_rental",
+          "location": "Reykjavik, by the domestic airport"
+        },
+        {
+          "name": "Almar bakari",
+          "type": "bakery",
+          "location": "Selfoss",
+          "url": "https://almarbakari.is/"
+        },
+        {
+          "name": "Bónus",
+          "type": "grocery",
+          "location": "Selfoss",
+          "url": "https://bonus.is/"
+        },
+        {
+          "name": "LAVA Centre",
+          "type": "museum",
+          "url": "https://lavacentre.is/",
+          "notes": "Volcano and earthquake exhibits with observation deck"
+        },
+        {
+          "name": "Seljalandsfoss",
+          "type": "waterfall",
+          "location": "South Iceland, off the Ring Road",
+          "url": "https://www.icelandtravel.is/attractions/seljalandsfoss/"
+        },
+        {
+          "name": "Heimamenn",
+          "type": "restaurant",
+          "location": "A few miles past Steinar, South Iceland",
+          "url": "https://maps.app.goo.gl/GMydJepKQkfjPeBH7"
+        },
+        {
+          "name": "Black sand beach at Vik",
+          "type": "beach",
+          "location": "Vik"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise_ship",
+          "notes": "Disembarked in Reykjavik"
+        },
+        {
+          "type": "bus",
+          "route": "Reykjavik cruise terminal → Reykjavik central bus terminal",
+          "notes": "Celebrity transfer at $20 per person for a 20 minute trip"
+        },
+        {
+          "type": "rental_car",
+          "vehicle": "Tesla Model Y",
+          "notes": "Picked up at Hertz Downtown Office instead of the originally planned location near the cruise terminal"
+        }
+      ],
+      "activities": [
+        "Disembarked cruise ship in Reykjavik",
+        "Picked up rental car (Tesla Model Y) from Hertz",
+        "Bakery breakfast and grocery stop in Selfoss",
+        "LAVA Centre exhibits and observation deck",
+        "Seljalandsfoss waterfall stop, including the path to a secondary waterfall",
+        "Black sand beach at Vik",
+        "Grocery stop in Vik",
+        "Checked in to Airbnb in Steinar"
+      ],
+      "dining": [
+        {
+          "venue": "Almar bakari",
+          "meal": "breakfast",
+          "location": "Selfoss",
+          "url": "https://almarbakari.is/",
+          "dishes": "Pastries and warm drinks",
+          "notes": "Same bakery as first stop on last year's trip"
+        },
+        {
+          "venue": "Heimamenn",
+          "meal": "lunch",
+          "location": "A few miles past Steinar, South Iceland",
+          "url": "https://maps.app.goo.gl/GMydJepKQkfjPeBH7",
+          "dishes": "Fish and chips",
+          "notes": "3500 ISK (~USD 26); some of the best fish and chips I've had anywhere"
+        }
+      ],
+      "notable_experiences": [
+        "Happened across Seljalandsfoss unplanned while driving the Ring Road",
+        "Black sand beach at Vik was uncrowded and felt like a special place"
+      ],
+      "challenges": [
+        "Sherri powered through the day feeling under the weather, later confirmed as COVID",
+        "Second-guessed car rental pickup logistics; original plan near the cruise terminal would have worked"
+      ],
+      "weather": {
+        "conditions": "Breezy but amazing at Vik",
+        "temperature": "Mid-50s F"
+      },
+      "companions": [
+        "family (Sherri, Rowan, and the girls)"
+      ]
     },
     {
       "title": "Iceland Visit 2024 Day 2",
@@ -9505,6 +11389,8 @@
         "dec2024"
       ],
       "rollup_key": "2024wintercaribbean",
+      "day_type": "planning",
+      "trip_stage": "pre-trip",
       "activities": [
         {
           "day": -2,
@@ -9512,6 +11398,9 @@
           "description": "Researching cell data options for cruise",
           "location": "Planning phase"
         }
+      ],
+      "notable_mentions": [
+        "AT&T Unlimited Starter SL plan"
       ]
     },
     {
@@ -9525,9 +11414,33 @@
         "dec2024"
       ],
       "rollup_key": "2024wintercaribbean",
+      "day_number": 0,
+      "day_type": "travel_day",
+      "trip_stage": "outbound",
+      "locations": [
+        {
+          "name": "Raleigh",
+          "type": "city",
+          "country": "United States",
+          "notes": "Departure city, home airport RDU"
+        },
+        {
+          "name": "Fort Lauderdale",
+          "type": "city",
+          "country": "United States"
+        }
+      ],
       "days_at_location": {
         "Fort Lauderdale": 1
       },
+      "accommodations": [
+        {
+          "name": "Embassy Suites Fort Lauderdale",
+          "location": "Fort Lauderdale, FL",
+          "night": "1 of 1",
+          "notes": "Room not ready 30 minutes after check-in time, key-cutting machine broken; hotel provided a $50 restaurant voucher"
+        }
+      ],
       "venues": [
         {
           "name": "Raleigh-Durham International Airport (RDU)",
@@ -9580,6 +11493,26 @@
           "description": "Dinner from Publix deli in hotel room",
           "location": "Embassy Suites"
         }
+      ],
+      "dining": [
+        {
+          "venue": "Publix",
+          "meal": "dinner",
+          "location": "Hotel room, Fort Lauderdale",
+          "notes": "Deli sandwiches"
+        }
+      ],
+      "notable_experiences": [
+        "Taxi driver's handy book showing 8 cruise ships in port that day"
+      ],
+      "challenges": [
+        "55-minute wait for an arrival gate at FLL despite landing 10 minutes early",
+        "Hotel room not ready and key machine broken at check-in"
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
       ]
     },
     {
@@ -9593,6 +11526,18 @@
         "dec2024"
       ],
       "rollup_key": "2024wintercaribbean",
+      "day_number": 1,
+      "day_type": "embarkation",
+      "trip_stage": "embarkation",
+      "trip_duration": "11 nights",
+      "locations": [
+        {
+          "name": "Fort Lauderdale",
+          "type": "city",
+          "country": "United States",
+          "notes": "Embarkation at Port Everglades"
+        }
+      ],
       "days_at_location": {
         "Fort Lauderdale": 1,
         "Celebrity Eclipse": 1
@@ -9644,7 +11589,23 @@
           "description": "Visit to ship Medical Center for X-rays and crutches",
           "location": "Celebrity Eclipse Medical Center"
         }
-      ]
+      ],
+      "notable_experiences": [
+        "Ship Medical Center visit with X-rays showing no break; son on loaner crutches for the voyage",
+        "Ship departed more than an hour and a half late due to embarkation traffic"
+      ],
+      "challenges": [
+        "20+ minute elevator waits and a jam-packed lobby getting bags down at the hotel",
+        "Port Everglades entrances overwhelmed by traffic, 25 minutes to travel 4 miles",
+        "Son rolled his ankle in the first hour of the 11-night cruise",
+        "Canceling at least three pre-purchased shore excursions for the family"
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
+      ],
+      "travel_sentiment": "Dread and disappointment after son's first-hour ankle injury, tempered by gratitude to be heading to the warm Caribbean"
     },
     {
       "title": "Celebrity Cruise Day 2",
@@ -9657,6 +11618,16 @@
         "dec2024"
       ],
       "rollup_key": "2024wintercaribbean",
+      "day_number": 2,
+      "day_type": "sea_day",
+      "locations": [
+        {
+          "name": "Caribbean Sea",
+          "type": "sea",
+          "country": "International waters",
+          "notes": "Sea day between Fort Lauderdale and Grand Cayman"
+        }
+      ],
       "days_at_location": {
         "At sea": 1
       },
@@ -9668,6 +11639,7 @@
           "operator": "Celebrity Cruises"
         }
       ],
+      "next_day_logistics": "Tender stop at George Town, Grand Cayman; plan to stay aboard having visited three years ago",
       "activities": [
         {
           "day": 2,
@@ -9688,6 +11660,15 @@
           "description": "Sunset viewing on balcony",
           "location": "Celebrity Eclipse"
         }
+      ],
+      "notable_experiences": [
+        "Cloud formation on the horizon resembling a partially constructed Death Star",
+        "Son adapting to crutches better than expected, with periodic waves of emotion over missed opportunities"
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
       ]
     },
     {
@@ -9701,6 +11682,16 @@
         "dec2024"
       ],
       "rollup_key": "2024wintercaribbean",
+      "day_number": 3,
+      "day_type": "port_day",
+      "locations": [
+        {
+          "name": "George Town",
+          "type": "city",
+          "country": "Cayman Islands",
+          "notes": "Tendered port stop; stayed aboard"
+        }
+      ],
       "days_at_location": {
         "George Town": 1,
         "Celebrity Eclipse": 1
@@ -9746,6 +11737,25 @@
           "description": "Special Christmas Eve menu in main dining room",
           "location": "Celebrity Eclipse"
         }
+      ],
+      "dining": [
+        {
+          "venue": "Main Dining Room",
+          "meal": "dinner",
+          "location": "Celebrity Eclipse",
+          "notes": "Special Christmas Eve menu"
+        }
+      ],
+      "notable_experiences": [
+        "Two other ships tendered nearby, including RCCL Brilliance of the Seas",
+        "What felt like ~40 knot winds on the top deck lawn after dinner",
+        "Skipped the Christmas Eve Party With Party Band Next Stage for an early night"
+      ],
+      "weather": "Gray most of the day, temperatures in the high 70s and humid",
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
       ]
     },
     {
@@ -9759,6 +11769,16 @@
         "dec2024"
       ],
       "rollup_key": "2024wintercaribbean",
+      "day_number": 4,
+      "day_type": "sea_day",
+      "locations": [
+        {
+          "name": "Caribbean Sea",
+          "type": "sea",
+          "country": "International waters",
+          "notes": "Christmas Day at sea between Grand Cayman and Aruba"
+        }
+      ],
       "days_at_location": {
         "Celebrity Eclipse": 1
       },
@@ -9796,6 +11816,18 @@
           "description": "Wife and daughter met family from Quebec, shared lunch and attended show",
           "location": "Celebrity Eclipse"
         }
+      ],
+      "notable_experiences": [
+        "Santa handing out presents and taking photos in the grand foyer",
+        "Families adapting Christmas traditions aboard, including a dedicated suitcase of wrapped presents",
+        "Wife and daughter befriended an extended family from Quebec, sharing lunch and a show",
+        "Son able to put some weight on his injured foot; binging the US version of The Office",
+        "Found a peaceful late-afternoon writing spot at the aft of the ship"
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
       ]
     },
     {
@@ -9809,6 +11841,16 @@
         "dec2024"
       ],
       "rollup_key": "2024wintercaribbean",
+      "day_number": 5,
+      "day_type": "port_day",
+      "locations": [
+        {
+          "name": "Oranjestad",
+          "type": "city",
+          "country": "Aruba",
+          "notes": "First of the ABC Islands, constituent country within the Kingdom of the Netherlands"
+        }
+      ],
       "days_at_location": {
         "Aruba": 1
       },
@@ -9846,6 +11888,7 @@
           "duration": "3 hours"
         }
       ],
+      "next_day_logistics": "Curaçao",
       "activities": [
         {
           "day": 5,
@@ -9867,6 +11910,22 @@
           "description": "Main dining room dinner",
           "location": "Celebrity Eclipse"
         }
+      ],
+      "dining": [
+        {
+          "venue": "Main Dining Room",
+          "meal": "dinner",
+          "location": "Celebrity Eclipse"
+        }
+      ],
+      "notable_experiences": [
+        "Son made a new friend, Jonathan, through their shared interest in Brawl Stars",
+        "Snorkeling itself was just okay, but the catamaran ride there and back was enjoyable"
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
       ]
     },
     {
@@ -9880,6 +11939,16 @@
         "dec2024"
       ],
       "rollup_key": "2024wintercaribbean",
+      "day_number": 6,
+      "day_type": "port_day",
+      "locations": [
+        {
+          "name": "Willemstad",
+          "type": "city",
+          "country": "Curaçao",
+          "notes": "Capital city, second of the ABC Islands, constituent country within the Kingdom of the Netherlands"
+        }
+      ],
       "days_at_location": {
         "Curaçao": 1
       },
@@ -9920,6 +11989,7 @@
           "description": "Tour bus to Hato Caves and downtown Willemstad"
         }
       ],
+      "next_day_logistics": "Bonaire",
       "activities": [
         {
           "day": 6,
@@ -9946,6 +12016,21 @@
           "description": "Enjoyed twilight hours at solarium and aft deck",
           "location": "Celebrity Eclipse"
         }
+      ],
+      "notable_experiences": [
+        "Tour guide facts — 15 wind turbines generating 47.3 MW, walls around houses due to wild goats, iguana on the menu for some residents",
+        "Venezuelan vendors at Kraspassi Market who live on their boats while docked in Willemstad",
+        "Morning hello from Santa aboard the ship"
+      ],
+      "weather": "Very hot and sticky",
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
+      ],
+      "cultural_references": [
+        "Papiamentu, the island's most widely spoken language, a Creole blending African, Portuguese, Spanish, Dutch, and English influences",
+        "Dutch Colonial architecture along the Willemstad waterfront"
       ]
     },
     {
@@ -9959,6 +12044,16 @@
         "dec2024"
       ],
       "rollup_key": "2024wintercaribbean",
+      "day_number": 7,
+      "day_type": "port_day",
+      "locations": [
+        {
+          "name": "Kralendijk",
+          "type": "town",
+          "country": "Bonaire",
+          "notes": "Last of the ABC Islands, smallest in land area (~112 sq miles) and population (~21,000)"
+        }
+      ],
       "days_at_location": {
         "Bonaire": 1
       },
@@ -10004,6 +12099,24 @@
           "description": "Premium dining at Murano French restaurant celebrating milestone",
           "location": "Celebrity Eclipse"
         }
+      ],
+      "dining": [
+        {
+          "venue": "Murano",
+          "meal": "dinner",
+          "location": "Celebrity Eclipse",
+          "notes": "Premium French restaurant; milestone celebration with wife, second best Dover sole ever"
+        }
+      ],
+      "notable_experiences": [
+        "5:30pm departure delayed about an hour for two people leaving by ambulance",
+        "Island's calmer pace — one large-ship pier, golf-cart travel, app-based electric scooters",
+        "Researching each ABC Island as a possible snowbird destination; Bonaire's small population limits medical care availability"
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
       ]
     },
     {
@@ -10017,6 +12130,16 @@
         "dec2024"
       ],
       "rollup_key": "2024wintercaribbean",
+      "day_number": 8,
+      "day_type": "sea_day",
+      "locations": [
+        {
+          "name": "Caribbean Sea",
+          "type": "sea",
+          "country": "International waters",
+          "notes": "Sea day between Bonaire and San Juan"
+        }
+      ],
       "days_at_location": {
         "Celebrity Eclipse": 1
       },
@@ -10036,6 +12159,7 @@
           "notes": "Sea day, rougher waters than first half of cruise"
         }
       ],
+      "next_day_logistics": "San Juan, Puerto Rico",
       "activities": [
         {
           "day": 8,
@@ -10043,6 +12167,17 @@
           "description": "Sea day, relaxing aboard ship",
           "location": "Celebrity Eclipse"
         }
+      ],
+      "highlights": [
+        "Really good croissants onboard"
+      ],
+      "notable_experiences": [
+        "Noticeably more ship motion heading toward Puerto Rico than the smooth first half of the cruise"
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
       ]
     },
     {
@@ -10056,6 +12191,16 @@
         "dec2024"
       ],
       "rollup_key": "2024wintercaribbean",
+      "day_number": 9,
+      "day_type": "port_day",
+      "locations": [
+        {
+          "name": "San Juan",
+          "type": "city",
+          "country": "Puerto Rico (United States)",
+          "notes": "Third visit for the couple, second with the kids"
+        }
+      ],
       "days_at_location": {
         "San Juan": 1
       },
@@ -10102,6 +12247,8 @@
           "description": "4.5 mile walking tour of Old San Juan"
         }
       ],
+      "next_day_logistics": "Puerto Plata, Dominican Republic",
+      "walking_distance": "A little more than 4.5 miles per watch",
       "activities": [
         {
           "day": 9,
@@ -10117,6 +12264,18 @@
           "description": "Explored waterfront path between harbor and El Morro, viewed waves crashing on north side",
           "location": "Old San Juan"
         }
+      ],
+      "notable_experiences": [
+        "Quiet paved path between the harbor and El Morro with waves smashing the rocks on the north side",
+        "Zumba class in the open field in front of Castillo San Felipe del Morro",
+        "Inauguration setup at the Capitol Building for the new governor taking office January 2",
+        "Island-wide power outage hit Puerto Rico about 12 hours after the ship departed"
+      ],
+      "weather": "Rain threatening; only light sprinkles, not a drenching downpour",
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
       ]
     },
     {
@@ -10130,6 +12289,16 @@
         "dec2024"
       ],
       "rollup_key": "2024wintercaribbean",
+      "day_number": 10,
+      "day_type": "port_day",
+      "locations": [
+        {
+          "name": "Puerto Plata",
+          "type": "city",
+          "country": "Dominican Republic",
+          "notes": "Last port stop of the cruise before heading home"
+        }
+      ],
       "days_at_location": {
         "Puerto Plata": 1
       },
@@ -10197,6 +12366,29 @@
           "description": "Daughter tried splash surfing attraction",
           "location": "Taino Bay"
         }
+      ],
+      "dining": [
+        {
+          "venue": "Coffee shop at Taino Bay",
+          "meal": "coffee",
+          "location": "Taino Bay, Puerto Plata",
+          "notes": "Great coffee; mall wifi was pretty bad"
+        }
+      ],
+      "notable_experiences": [
+        "At zipline six, a staff member on horseback tows lighter riders the final ~20 meters",
+        "Tuk tuk ride from Taino Bay back to the ship at daughter's request",
+        "Pushiest port of the trip for forced reviews and tips; several places had never heard of Diet Coke",
+        "Taino Bay pool, lazy river, and splash surfing all free for cruise passengers"
+      ],
+      "challenges": [
+        "AT&T suspended data service on all family phones; restored after a ~20 minute call from the ship",
+        "Uncertainty about what the cell bill will look like"
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
       ]
     },
     {
@@ -11061,7 +13253,25 @@
       "subtitle": "Exploring Bergen, Balestrand, Voss, Oslo, and Copenhagen",
       "categories": "travel rollup",
       "tags": null,
-      "rollup_key": null
+      "rollup_key": null,
+      "trip_type": "rollup",
+      "trip_duration": "May 8-19, 2025",
+      "trip_duration_days": 12,
+      "locations_visited": [
+        "Bergen, Norway",
+        "Balestrand, Norway",
+        "Voss, Norway",
+        "Oslo, Norway",
+        "Copenhagen, Denmark"
+      ],
+      "countries_visited": [
+        "Norway",
+        "Denmark"
+      ],
+      "transport": [
+        "transatlantic flights",
+        "DFDS Nordic Crown ferry (Oslo to Copenhagen)"
+      ]
     },
     {
       "title": "Switzerland and Germany Day 1",
@@ -11886,8 +14096,16 @@
         "august2025"
       ],
       "rollup_key": "2025chde",
+      "trip_day": 10,
       "day_type": "leisure",
       "location": "Garmisch-Partenkirchen, Germany",
+      "locations": [
+        {
+          "name": "Garmisch-Partenkirchen",
+          "country": "Germany",
+          "region": "Bavaria"
+        }
+      ],
       "hotels": [
         {
           "name": "Hyperion Hotel Garmisch-Partenkirchen",
@@ -11918,6 +14136,9 @@
         "shopping for supplies",
         "researching Munich hotels"
       ],
+      "travel_companions": [
+        "Rowan"
+      ],
       "references": [
         {
           "name": "Mercure Hotel München Altstadt",
@@ -11942,11 +14163,19 @@
         "august2025"
       ],
       "rollup_key": "2025chde",
+      "trip_day": 11,
       "location": {
         "city": "Garmisch-Partenkirchen",
         "country": "Germany",
         "region": "Bavaria"
       },
+      "locations": [
+        {
+          "name": "Garmisch-Partenkirchen",
+          "country": "Germany",
+          "region": "Bavaria"
+        }
+      ],
       "venues": [
         {
           "name": "Riessersee Lake",
@@ -11991,6 +14220,10 @@
         "walking",
         "sightseeing",
         "dining"
+      ],
+      "weather": "Sunny and warm, comfortable on the balcony in shorts by morning",
+      "travel_companions": [
+        "Rowan"
       ]
     },
     {
@@ -12078,12 +14311,20 @@
         "august2025"
       ],
       "rollup_key": "2025chde",
+      "trip_day": 13,
       "day_type": "leisure",
       "location": {
         "city": "Munich",
         "country": "Germany",
         "region": "Bavaria"
       },
+      "locations": [
+        {
+          "name": "Munich",
+          "country": "Germany",
+          "region": "Bavaria"
+        }
+      ],
       "venues": [
         {
           "name": "BMW Welt",
@@ -12129,6 +14370,9 @@
         "Sunday in Germany (many stores/restaurants closed)",
         "Special occasion celebration dinner",
         "Last night in downtown Munich"
+      ],
+      "travel_companions": [
+        "Rowan"
       ]
     },
     {
@@ -12140,7 +14384,23 @@
         "august2025"
       ],
       "rollup_key": "2025chde",
+      "trip_day": 14,
       "location": "Munich, Germany",
+      "locations": [
+        {
+          "name": "Munich",
+          "country": "Germany",
+          "region": "Bavaria",
+          "type": "departure"
+        },
+        {
+          "name": "Munich Airport",
+          "type": "airport",
+          "code": "MUC",
+          "city": "Munich",
+          "country": "Germany"
+        }
+      ],
       "days_at_location": 1,
       "hotels": [
         {
@@ -12180,6 +14440,9 @@
         "Finding EAT HAPPY sushi stall",
         "Walking around Munich Airport",
         "Dinner at Mountain Hub Gourmet restaurant"
+      ],
+      "travel_companions": [
+        "Rowan"
       ],
       "travel_sentiment": "tired, ready to go home"
     },
@@ -13218,7 +15481,7 @@
     {
       "title": "Rome and Silversea Day 8",
       "date": "2026-05-11",
-      "subtitle": "A day in València",
+      "subtitle": "A day in València, Spain",
       "categories": "travel rome silversea",
       "tags": [
         "may2026"
@@ -13532,7 +15795,7 @@
     {
       "title": "Rome and Silversea Day 11",
       "date": "2026-05-14",
-      "subtitle": "A day in Portimão and Silves",
+      "subtitle": "A day in Portimão and Silves, Portugal",
       "categories": "travel rome silversea",
       "tags": [
         "may2026"
@@ -13709,6 +15972,14 @@
       "companions": [
         "solo"
       ]
+    },
+    {
+      "title": "Rome and Silversea in 2026",
+      "date": "2026-05-16",
+      "subtitle": "Exploring Rome, Livorno, València, Cartagena, Portimão, and Lisbon",
+      "categories": "travel rollup",
+      "tags": null,
+      "rollup_key": null
     }
   ]
 }
