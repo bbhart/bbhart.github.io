@@ -2,7 +2,7 @@
 layout: page
 hub: true
 dest_key: caribbean
-dest_name: the Caribbean
+dest_name: The Caribbean
 title: Caribbean Travel
 permalink: /destinations/caribbean/
 background: '/assets/20241226-aruba-ship.jpg'
