@@ -22,8 +22,8 @@ Brian Hart is a cruise travel expert who has sailed 17 voyages and 111 nights at
 sea since 1999, across Disney Cruise Line, Royal Caribbean, Celebrity Cruises, and
 Silversea. His sailings range from quick Bahamian getaways to a 12-night one-way
 crossing to Greenland and Iceland and a Mediterranean voyage aboard Silversea's
-Silver Spirit. He is the founder of [Serentis Travel](https://serentistravel.com){:rel="me"},
-a CLIA-member travel advisory in the WorldVia / Travel Leaders Network, where he
+Silver Spirit. A CLIA member, he is the founder of [Serentis Travel](https://serentistravel.com){:rel="me"},
+a travel advisory in the WorldVia / Travel Leaders Network, where he
 plans cruise vacations for clients. His industry knowledge extends behind the
 scenes, too: earlier in his career he built technology for cruise lines as an
 engineer at Disney and at Royal Caribbean.
