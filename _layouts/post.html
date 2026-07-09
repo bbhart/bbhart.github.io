@@ -34,6 +34,23 @@ layout: default
 
         {{ content }}
 
+        {% if page.rollup_key %}
+        {% assign trip_posts = site.posts | where: "rollup_key", page.rollup_key | sort: 'date' %}
+        {% if trip_posts.size > 1 %}
+        <hr>
+        <aside class="more-from-trip">
+          <h3>More from this trip</h3>
+          <ul>
+          {% for tp in trip_posts %}
+            {% unless tp.url == page.url %}
+            <li><a href="{{ tp.url | prepend: site.baseurl | replace: '//', '/' }}">{{ tp.title }}</a>{% if tp.subtitle %} — <span class="text-muted">{{ tp.subtitle }}</span>{% endif %}</li>
+            {% endunless %}
+          {% endfor %}
+          </ul>
+        </aside>
+        {% endif %}
+        {% endif %}
+
         <hr>
 
         <div class="clearfix">

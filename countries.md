@@ -87,3 +87,32 @@ live over in the [cruise journal](https://serentistravel.com/journal).
 - **Toronto** — ~8 visits; The Fairmont Royal York (1 visit), Yonge & Eglinton area (the rest, with my now-wife)
 - **Vancouver** — one night before an Alaska cruise
 - **Whistler** — 2 visits; a hostel on Alta Lake, then Pan Pacific Whistler Village Centre
+
+<!-- Keep the countries in the ItemList below in sync with the ## headings above. -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": {{ page.title | jsonify }},
+  "url": "{{ page.url | absolute_url }}",
+  "description": {{ page.description | jsonify }},
+  "author": { "@type": "Person", "@id": "{{ site.url }}{{ site.baseurl }}/#person" },
+  "about": {
+    "@type": "ItemList",
+    "name": "Countries where I have spent at least one night",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1,  "item": { "@type": "Country", "name": "Switzerland", "sameAs": "https://www.wikidata.org/wiki/Q39" } },
+      { "@type": "ListItem", "position": 2,  "item": { "@type": "Country", "name": "France", "sameAs": "https://www.wikidata.org/wiki/Q142" } },
+      { "@type": "ListItem", "position": 3,  "item": { "@type": "Country", "name": "Iceland", "sameAs": "https://www.wikidata.org/wiki/Q189" } },
+      { "@type": "ListItem", "position": 4,  "item": { "@type": "Country", "name": "Japan", "sameAs": "https://www.wikidata.org/wiki/Q17" } },
+      { "@type": "ListItem", "position": 5,  "item": { "@type": "Country", "name": "Norway", "sameAs": "https://www.wikidata.org/wiki/Q20" } },
+      { "@type": "ListItem", "position": 6,  "item": { "@type": "Country", "name": "Denmark", "sameAs": "https://www.wikidata.org/wiki/Q35" } },
+      { "@type": "ListItem", "position": 7,  "item": { "@type": "Country", "name": "Germany", "sameAs": "https://www.wikidata.org/wiki/Q183" } },
+      { "@type": "ListItem", "position": 8,  "item": { "@type": "Country", "name": "Italy", "sameAs": "https://www.wikidata.org/wiki/Q38" } },
+      { "@type": "ListItem", "position": 9,  "item": { "@type": "Country", "name": "United Arab Emirates", "sameAs": "https://www.wikidata.org/wiki/Q878" } },
+      { "@type": "ListItem", "position": 10, "item": { "@type": "Country", "name": "India", "sameAs": "https://www.wikidata.org/wiki/Q668" } },
+      { "@type": "ListItem", "position": 11, "item": { "@type": "Country", "name": "Canada", "sameAs": "https://www.wikidata.org/wiki/Q16" } }
+    ]
+  }
+}
+</script>
