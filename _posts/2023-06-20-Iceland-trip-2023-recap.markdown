@@ -4,6 +4,7 @@ title: Iceland 2023 - our first family trip to Iceland
 subtitle: Our first trip to Iceland and the kids' first real trip to Europe
 date:  2023-06-30
 categories: travel rollup
+destination: iceland
 background: /assets/20230620-iceland-recap-banner.jpg
 locations_visited:
   - Reykholt

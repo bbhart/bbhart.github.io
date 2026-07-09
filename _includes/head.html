@@ -76,6 +76,8 @@
       {
         "@type": "Place",
         "name": "{{ location.name }}"
+        {% assign pl = site.data.places[location.name] %}{% if pl %},
+        "sameAs": [ "{{ pl.wikidata }}"{% if pl.wikipedia %}, "{{ pl.wikipedia }}"{% endif %} ]{% endif %}
         {% if location.country %},
         "address": {
           "@type": "PostalAddress",
@@ -88,6 +90,34 @@
     {% endif %}
   }
   </script>
+
+  {% if page.categories contains 'rollup' %}
+  <!-- Trip-level structured data for recap posts -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "TouristTrip",
+    "name": {{ page.title | jsonify }},
+    "description": {{ page.subtitle | default: site.description | jsonify }},
+    "url": "{{ page.url | replace:'index.html','' | absolute_url }}",
+    "provider": { "@type": "Person", "@id": "{{ site.url }}{{ site.baseurl }}/#person" }
+    {% if page.locations_visited %},
+    "itinerary": {
+      "@type": "ItemList",
+      "itemListElement": [
+        {% for loc in page.locations_visited %}
+        {
+          "@type": "ListItem",
+          "position": {{ forloop.index }},
+          "item": { "@type": "TouristDestination", "name": {{ loc | jsonify }} }
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ]
+    }
+    {% endif %}
+  }
+  </script>
+  {% endif %}
 
   {% if page.accommodation %}
   <!-- Hotel/Accommodation Metadata -->
@@ -112,10 +142,16 @@
 
   {% if page.url == '/about/' %}
   <!-- Canonical Person entity — posts reference this via author @id -->
+  {% assign hub_pages = site.pages | where: "hub", true | sort: "dest_name" %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "ProfilePage",
+    "relatedLink": [
+      "{{ "/destinations/" | absolute_url }}",
+      "{{ "/recaps/" | absolute_url }}",
+      "{{ "/countries/" | absolute_url }}"
+    ],
     "mainEntity": {
       "@type": "Person",
       "@id": "{{ site.url }}{{ site.baseurl }}/#person",
@@ -127,6 +163,17 @@
         "@type": "Place",
         "name": "Holly Springs, North Carolina, United States"
       },
+      "knowsAbout": [
+        "Independent international travel",
+        "Cruise travel",
+        "Alpine hiking and mountain railways",
+        "Travel photography and journaling"{% for hub in hub_pages %},
+        {
+          "@type": "Place",
+          "name": {{ hub.dest_name | jsonify }},
+          "sameAs": [ "{{ hub.wikipedia }}", "{{ hub.wikidata }}" ]
+        }{% endfor %}
+      ],
       "sameAs": [
         "https://www.linkedin.com/in/{{ site.linkedin_username }}",
         "https://github.com/{{ site.github_username }}",

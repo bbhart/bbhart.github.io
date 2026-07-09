@@ -1,0 +1,52 @@
+{% assign k = page.dest_key %}
+{% assign recaps = site.posts | where_exp: "post", "post.destination == k" | sort: 'date' %}
+{% assign entries = site.posts | where_exp: "post", "post.categories contains k" | sort: 'date' %}
+
+{% if recaps.size > 0 %}
+<h2>Trip recaps</h2>
+<ul>
+{% for post in recaps %}
+  <li><strong><a href="{{ post.url }}">{{ post.title }}</a></strong>{% if post.subtitle %}: {{ post.subtitle }}{% endif %}</li>
+{% endfor %}
+</ul>
+{% endif %}
+
+<h2>All {{ page.dest_name }} posts</h2>
+<ul>
+{% for post in entries %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> — <span class="text-muted">{{ post.date | date: "%B %Y" }}</span>{% if post.subtitle %}<br>{{ post.subtitle }}{% endif %}</li>
+{% endfor %}
+</ul>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": {{ page.title | jsonify }},
+  "url": "{{ page.url | absolute_url }}",
+  "description": {{ page.description | jsonify }},
+  "author": { "@type": "Person", "@id": "{{ site.url }}{{ site.baseurl }}/#person" },
+  "about": {
+    "@type": "TouristDestination",
+    "name": {{ page.dest_name | jsonify }},
+    "sameAs": [
+      "{{ page.wikipedia }}",
+      "{{ page.wikidata }}"
+    ]
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "itemListElement": [
+      {% assign all = recaps | concat: entries %}
+      {% for post in all %}
+      {
+        "@type": "ListItem",
+        "position": {{ forloop.index }},
+        "url": "{{ post.url | absolute_url }}",
+        "name": {{ post.title | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+}
+</script>

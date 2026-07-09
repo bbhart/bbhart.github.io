@@ -4,6 +4,7 @@ title: Rome and Silversea in 2026
 subtitle: Exploring Rome, Livorno, València, Cartagena, Portimão, and Lisbon
 date:  2026-05-16
 categories: travel rollup
+destination: rome
 background: '/assets/bg-silversea-riviera-sunset.jpg'
 trip_type: rollup
 trip_duration: May 4-15, 2026

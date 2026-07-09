@@ -4,6 +4,7 @@ title: Celebrity Eclipse Southern Caribbean in Winter 2024
 subtitle: A family trip to the Cayman Islands, Aruba, Curaçoa, Bonaire, Puerto Rico, and the DR aboard the Celebrity Eclipse
 date:  2025-01-15
 categories: travel rollup
+destination: caribbean
 background: '/assets/20241231-lazyriver.jpg'
 trip_type: cruise
 companions:
