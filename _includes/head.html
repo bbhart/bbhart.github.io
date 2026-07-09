@@ -51,8 +51,9 @@
       "@id": "{{ site.url }}{{ site.baseurl }}/#person",
       "name": "{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}",
       "url": "{{ site.url }}{{ site.baseurl }}/",
-      "description": "Travel and technology writer based in Holly Springs, NC.",
+      "description": "Travel writer and luxury cruise travel advisor based in Holly Springs, NC; founder of Serentis Travel.",
       "sameAs": [
+        "https://serentistravel.com/",
         "https://www.linkedin.com/in/{{ site.linkedin_username }}",
         "https://github.com/{{ site.github_username }}",
         "https://bsky.app/profile/{{ site.bluesky_username }}"
@@ -179,15 +180,29 @@
       "@id": "{{ site.url }}{{ site.baseurl }}/#person",
       "name": "{{ site.author }}",
       "url": "{{ site.url }}{{ site.baseurl }}/",
-      "description": "Software engineering leader and travel writer based in Holly Springs, North Carolina. Formerly Head of Engineering at GlossGenius, with prior engineering roles at LinkedIn, Jaunt VR, BT, Royal Caribbean, and Disney.",
-      "jobTitle": "Software Engineering Leader",
+      "description": "Travel writer and luxury cruise travel advisor based in Holly Springs, North Carolina, and founder of Serentis Travel. Publishes firsthand journals from independent trips across Iceland, Switzerland, Japan, Norway, and beyond. Earlier career as a software engineering leader (Head of Engineering at GlossGenius; roles at LinkedIn, Jaunt VR, Royal Caribbean, and Disney).",
+      "jobTitle": "Travel Writer & Luxury Cruise Advisor",
       "homeLocation": {
         "@type": "Place",
         "name": "Holly Springs, North Carolina, United States"
       },
+      "worksFor": {
+        "@type": "TravelAgency",
+        "@id": "https://serentistravel.com/#organization",
+        "name": "Serentis Travel",
+        "legalName": "Serentis Travel LLC",
+        "url": "https://serentistravel.com/",
+        "sameAs": [
+          "https://www.instagram.com/serentistravel/",
+          "https://www.youtube.com/@SerentisTravels"
+        ]
+      },
       "knowsAbout": [
         "Independent international travel",
-        "Cruise travel",
+        "Luxury cruise travel",
+        "Expedition cruising (Antarctica, the Galápagos, the Arctic)",
+        "Silversea Cruises",
+        "Regent Seven Seas Cruises",
         "Alpine hiking and mountain railways",
         "Travel photography and journaling"{% for hub in hub_pages %},
         {
@@ -197,6 +212,7 @@
         }{% endfor %}
       ],
       "sameAs": [
+        "https://serentistravel.com/",
         "https://www.linkedin.com/in/{{ site.linkedin_username }}",
         "https://github.com/{{ site.github_username }}",
         "https://bsky.app/profile/{{ site.bluesky_username }}"
