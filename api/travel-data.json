@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T18:40:46Z",
+  "generated_at": "2026-07-09T00:58:57Z",
   "total_posts": 103,
   "trips": [
     {
@@ -684,6 +684,16 @@
             "alternate_name": "Old Charm Reykjavik",
             "url": "https://oldreykjavik.is/"
           },
+          "locations": [
+            {
+              "name": "Húsafell",
+              "country": "Iceland"
+            },
+            {
+              "name": "Reykjavik",
+              "country": "Iceland"
+            }
+          ],
           "days_at_location": 1,
           "venues": [
             {
@@ -1921,6 +1931,18 @@
           "categories": "travel japan",
           "tags": null,
           "rollup_key": "2024japan",
+          "locations": [
+            {
+              "name": "Tokyo",
+              "type": "city",
+              "country": "Japan"
+            },
+            {
+              "name": "Kyoto",
+              "type": "city",
+              "country": "Japan"
+            }
+          ],
           "transport": [
             {
               "type": "train",
@@ -1938,7 +1960,16 @@
               "description": "High-speed bullet train journey from Tokyo to Kyoto",
               "location": "Shinkansen"
             }
-          ]
+          ],
+          "notable_experiences": [
+            "Confusing Shinkansen ticket machines that are inaccessible to mobile Suica pass users, requiring a customer service agent to issue two physical tickets",
+            "Ordering rock-hard ice cream via the Green Car wifi snack service",
+            "A tiny onboard urinal room with a transparent folding door"
+          ],
+          "companions": [
+            "solo"
+          ],
+          "travel_sentiment": "Positive overall on the high-speed train experience despite the ticketing hassle; prefers it to flying once the reduced airport hassle is factored in"
         }
       ]
     },
@@ -2844,7 +2875,83 @@
             "celebrity",
             "celebrityeclipse"
           ],
-          "rollup_key": "2024icelandcruise"
+          "rollup_key": "2024icelandcruise",
+          "trip_day": 10,
+          "day_type": "port_day",
+          "locations": [
+            {
+              "name": "Qaqortoq",
+              "type": "town",
+              "country": "Greenland"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Coffee shop near Sermilik Lake",
+              "type": "cafe",
+              "location": "Qaqortoq, Greenland",
+              "notes": "Reached by 9am but found closed to those not on a tour"
+            },
+            {
+              "name": "Grocery store",
+              "type": "store",
+              "location": "Qaqortoq, Greenland",
+              "notes": "Hoped to shop and use internet, but language barrier prevented interaction"
+            }
+          ],
+          "points_of_interest": [
+            {
+              "name": "Prince Christian Sound",
+              "type": "sound",
+              "location": "Southern Greenland",
+              "notes": "Planned scenic sailing that weather conditions did not allow"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise_ship",
+              "vessel": "Celebrity Eclipse",
+              "from": "At sea",
+              "to": "Qaqortoq, Greenland",
+              "notes": "Tendered to shore in Qaqortoq"
+            }
+          ],
+          "activities": [
+            {
+              "day": 10,
+              "type": "sightseeing",
+              "description": "Tendered ashore, walked up a hill in the rain and took photos of the ship, then tendered back",
+              "location": "Qaqortoq, Greenland"
+            },
+            {
+              "day": 10,
+              "type": "sightseeing",
+              "description": "On departure the captain and pilots took the ship near an iceberg and performed several 360-degree turns for photos and videos",
+              "location": "Off the coast of Qaqortoq, Greenland"
+            },
+            {
+              "day": 10,
+              "type": "celebration",
+              "description": "Cake and singing at main dining for Rowan's birthday, since the family had been at a specialty restaurant the previous night",
+              "time": "Evening",
+              "location": "Celebrity Eclipse"
+            }
+          ],
+          "notable_events": [
+            "Rowan's birthday celebration at main dining"
+          ],
+          "challenges": [
+            "Coffee shop near Sermilik Lake was closed to guests not on a tour",
+            "Language barrier at the grocery store, with no Greenlandic language pack downloaded for Google Translate",
+            "Not prepared with weather-appropriate shoes for the cold rain",
+            "Storm conditions and rough seas expected overnight"
+          ],
+          "weather": "Drizzly, chilly rain and overcast; storm conditions expected overnight with winds to 50 knots and seas to 15 feet",
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
         },
         {
           "title": "Iceland Cruise Days 11 and 12",
@@ -2855,7 +2962,43 @@
             "celebrity",
             "celebrity eclipse"
           ],
-          "rollup_key": "2024icelandcruise"
+          "rollup_key": "2024icelandcruise",
+          "trip_day": "11-12",
+          "day_type": "sea_day",
+          "locations": [
+            {
+              "name": "North Atlantic between Greenland and Iceland",
+              "type": "sea"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise_ship",
+              "vessel": "Celebrity Eclipse",
+              "from": "Qaqortoq, Greenland",
+              "to": "At sea toward Akureyri, Iceland",
+              "notes": "Two sea days crossing from Greenland to Iceland in rough conditions"
+            }
+          ],
+          "activities": [
+            {
+              "day": 11,
+              "type": "rest",
+              "description": "Largely confined to the cabin recovering from a cold, buying Nyquil from the onboard store on the second day",
+              "location": "Celebrity Eclipse"
+            }
+          ],
+          "challenges": [
+            "Rough seas and heavy rocking after leaving Qaqortoq",
+            "Brian battling a cold and sleeping poorly for several nights",
+            "Siena's phone became unresponsive and would not hard power cycle, fixed only after the battery drained"
+          ],
+          "weather": "Rough seas after leaving Qaqortoq, with the captain later reporting winds around 60 mph and seas to 5 meters; seas remained rough across both days",
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
         },
         {
           "title": "Iceland Cruise Day 13",
@@ -2868,7 +3011,72 @@
             "celebrity",
             "celebrityeclipse"
           ],
-          "rollup_key": "2024icelandcruise"
+          "rollup_key": "2024icelandcruise",
+          "trip_day": 13,
+          "day_type": "port_day",
+          "locations": [
+            {
+              "name": "Akureyri",
+              "type": "city",
+              "country": "Iceland"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Laufás Heritage Site",
+              "type": "historic_site",
+              "location": "Near Akureyri, Iceland",
+              "url": "https://www.akureyriguide.is/portfolio/laufas-heritage-site/",
+              "notes": "19th century timber church and turf-roofed vicarage, a church site since early Christianity in Iceland"
+            },
+            {
+              "name": "Goðafoss Waterfall",
+              "type": "waterfall",
+              "location": "Northern Iceland",
+              "url": "https://www.northiceland.is/en/place/godafoss-waterfall"
+            },
+            {
+              "name": "Akureyri Botanical Garden",
+              "type": "garden",
+              "location": "Akureyri, Iceland",
+              "url": "https://www.lystigardur.akureyri.is/en",
+              "notes": "Iceland's first public park, opened in 1912"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise_ship",
+              "vessel": "Celebrity Eclipse",
+              "from": "At sea",
+              "to": "Akureyri, Iceland",
+              "notes": "Arrived at 8am instead of the scheduled 1pm after skipping Prince Christian Sound"
+            },
+            {
+              "type": "shore_excursion",
+              "notes": "Booked tour departing at 2:30pm visiting three sites; the only booked shore excursion of the trip"
+            }
+          ],
+          "activities": [
+            {
+              "day": 13,
+              "type": "shore_excursion",
+              "description": "Guided tour visiting Laufás Heritage Site, Goðafoss Waterfall, and the Akureyri Botanical Garden",
+              "location": "Akureyri area, Iceland"
+            }
+          ],
+          "notable_experiences": [
+            "Only booked shore excursion of the trip",
+            "Akureyri, Iceland's second most populous city, felt like a place worth returning to on a Ring Road trip"
+          ],
+          "challenges": [
+            "Brian was still sick during the excursion",
+            "Kids had expected hiking and got more history than they wanted"
+          ],
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
         },
         {
           "title": "Iceland Cruise Day 14",
@@ -2881,7 +3089,54 @@
             "celebrity",
             "celebrityeclipse"
           ],
-          "rollup_key": "2024icelandcruise"
+          "rollup_key": "2024icelandcruise",
+          "trip_day": 14,
+          "day_type": "port_day",
+          "locations": [
+            {
+              "name": "Ísafjörður",
+              "type": "town",
+              "country": "Iceland"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Tourist information booth",
+              "type": "visitor_center",
+              "location": "Pier, Ísafjörður, Iceland",
+              "notes": "Stopped in to use the wifi"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise_ship",
+              "vessel": "Celebrity Eclipse",
+              "from": "At sea",
+              "to": "Ísafjörður, Iceland",
+              "notes": "Arrived at 8am; a working-town port with a similar vibe to Qaqortoq"
+            }
+          ],
+          "activities": [
+            {
+              "day": 14,
+              "type": "walking",
+              "description": "Brian and Sherri left the kids onboard and walked through the town and back once the rain mostly stopped",
+              "location": "Ísafjörður, Iceland"
+            }
+          ],
+          "notable_mentions": [
+            "Spotted a Tesla Cybertruck in town",
+            "Isafjordur reminded Brian of photos of the Scottish Highlands"
+          ],
+          "challenges": [
+            "Brian at the tail end of being sick while Sherri began coming down with the same illness"
+          ],
+          "weather": "Arrived at 8am to chilly temperatures and pouring rain; the rain mostly stopped by midmorning",
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
         },
         {
           "title": "Iceland Cruise Day 15",
@@ -2894,7 +3149,46 @@
             "celebrity",
             "celebrityeclipse"
           ],
-          "rollup_key": "2024icelandcruise"
+          "rollup_key": "2024icelandcruise",
+          "trip_day": 15,
+          "day_type": "disembarkation",
+          "trip_stage": "end_of_cruise",
+          "locations": [
+            {
+              "name": "Reykjavik",
+              "type": "city",
+              "country": "Iceland"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise_ship",
+              "vessel": "Celebrity Eclipse",
+              "notes": "Disembarked in Reykjavik at the end of a 12-night cruise from Bayonne, NJ"
+            },
+            {
+              "type": "bus",
+              "notes": "Reported to the theater meeting spot for the arranged bus transfer, but with no crew direction walked off the ship to find the bus"
+            }
+          ],
+          "activities": [
+            {
+              "day": 15,
+              "type": "disembarkation",
+              "description": "Walked off the ship carrying all luggage rather than putting suitcases out the night before, then found the transfer bus",
+              "location": "Reykjavik, Iceland"
+            }
+          ],
+          "notable_experiences": [
+            "Ended a 12-night cruise from Bayonne, NJ, to Reykjavik, Iceland",
+            "First time carrying all luggage off rather than using the night-before luggage drop, expected to become the family norm"
+          ],
+          "weather": "Crisp, cloudless day with temperatures in the low 50s F",
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
         }
       ]
     },
@@ -3056,7 +3350,71 @@
             "reykjavik",
             "iceland"
           ],
-          "rollup_key": "2024icelandonland"
+          "rollup_key": "2024icelandonland",
+          "trip_day": 2,
+          "day_type": "rest_day",
+          "trip_stage": "post-cruise",
+          "locations": [
+            {
+              "name": "Steinar",
+              "type": "rural_area",
+              "country": "Iceland",
+              "notes": "Airbnb base on the south coast, second day"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Airbnb in Steinar",
+              "location": "Steinar, South Iceland",
+              "night": 2
+            }
+          ],
+          "venues": [
+            {
+              "name": "Faxi Bakery",
+              "type": "bakery",
+              "location": "A few minutes from the Airbnb in Steinar, South Iceland",
+              "url": "https://www.instagram.com/faxi_bakery_/?hl=en"
+            }
+          ],
+          "transport": [
+            {
+              "type": "rental_car",
+              "vehicle": "Tesla Model Y",
+              "notes": "Evening drive with Siena to a nearby waterfall"
+            }
+          ],
+          "activities": [
+            "Morning run to Faxi Bakery for drinks and pastries",
+            "Lazy day hanging around the Airbnb",
+            "Evening drive with Siena to see a nearby waterfall",
+            "Cooking bacon for a breakfast-dinner"
+          ],
+          "dining": [
+            {
+              "venue": "Faxi Bakery",
+              "meal": "breakfast",
+              "location": "Near Steinar, South Iceland",
+              "dishes": "Hot drinks and pastries"
+            },
+            {
+              "venue": "Airbnb in Steinar",
+              "meal": "dinner",
+              "dishes": "Bacon breakfast-dinner cooked at the Airbnb",
+              "notes": "Running low on food"
+            }
+          ],
+          "notable_experiences": [
+            "A brief interaction at Faxi Bakery where Brian instinctively switched to Spanish (\"Puerta, por favor?\") to ask a man to hold the door"
+          ],
+          "challenges": [
+            "Sherri sick in bed all day, likely COVID",
+            "Low on food at the Airbnb",
+            "Travel weariness after more than two weeks away, with the family craving home"
+          ],
+          "companions": [
+            "family (Sherri, Rowan, and the girls)"
+          ]
         },
         {
           "title": "Iceland Visit 2024 Day 3",
@@ -3067,7 +3425,102 @@
             "reykjavik",
             "iceland"
           ],
-          "rollup_key": "2024icelandonland"
+          "rollup_key": "2024icelandonland",
+          "trip_day": 3,
+          "day_type": "road_trip",
+          "trip_stage": "post-cruise",
+          "locations": [
+            {
+              "name": "Steinar",
+              "type": "rural_area",
+              "country": "Iceland",
+              "notes": "Departed the south coast Airbnb"
+            },
+            {
+              "name": "Reykjavik",
+              "type": "city",
+              "country": "Iceland"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Rental apartment in Reykjavik",
+              "location": "Central Reykjavik, Iceland",
+              "night": 3,
+              "notes": "Same set of rental units as the previous year, a different unit; reliable rentals in a great spot but weak check-in instructions"
+            }
+          ],
+          "venues": [
+            {
+              "name": "LAVA Centre Tesla Supercharger",
+              "type": "ev_charger",
+              "location": "Near Hvolsvöllur, South Iceland",
+              "notes": "Charged next to the LAVA Centre; Siena tried a roadside bounce pillow while charging"
+            },
+            {
+              "name": "Reykjavik Tesla Supercharger",
+              "type": "ev_charger",
+              "location": "Reykjavik, Iceland",
+              "url": "https://maps.app.goo.gl/RHRBRR6GmEQKHR119",
+              "notes": "Same Supercharger as the previous year; grabbed the last spot just in time"
+            },
+            {
+              "name": "The Sun Voyager",
+              "type": "sculpture",
+              "location": "Reykjavik waterfront",
+              "url": "https://en.wikipedia.org/wiki/The_Sun_Voyager"
+            },
+            {
+              "name": "Reykjavik City Hall",
+              "type": "landmark",
+              "location": "Reykjavik, Iceland"
+            },
+            {
+              "name": "Bónus",
+              "type": "grocery",
+              "location": "Reykjavik, Iceland"
+            }
+          ],
+          "points_of_interest": [
+            {
+              "name": "Tjörnin",
+              "type": "pond",
+              "location": "Central Reykjavik",
+              "notes": "City-center pond passed on the walk"
+            }
+          ],
+          "transport": [
+            {
+              "type": "rental_car",
+              "vehicle": "Tesla Model Y",
+              "notes": "Drove from Steinar to Reykjavik with Supercharger stops, then returned the car near the domestic airport and walked back"
+            }
+          ],
+          "activities": [
+            "Drove from the south coast to Reykjavik with Tesla Supercharger stops",
+            "Checked into the Reykjavik rental apartment",
+            "Returned the rental car near the domestic airport and walked back",
+            "Walked to The Sun Voyager sculpture and along the waterfront toward City Hall",
+            "Grocery run to Bónus and a home-cooked dinner"
+          ],
+          "dining": [
+            {
+              "venue": "Rental apartment in Reykjavik",
+              "meal": "dinner",
+              "dishes": "Baked pork chops, skillet potatoes, and peas and carrots"
+            }
+          ],
+          "challenges": [
+            "Rowan still too sick to get out and about",
+            "Reykjavik Supercharger nearly full; grabbed the last spot just before another car had to wait"
+          ],
+          "weather": {
+            "conditions": "Sunny",
+            "temperature": "51 F"
+          },
+          "companions": [
+            "family (Sherri, Rowan, and the girls)"
+          ]
         },
         {
           "title": "Iceland Visit 2024 Day 4",
@@ -3078,7 +3531,53 @@
             "reykjavik",
             "iceland"
           ],
-          "rollup_key": "2024icelandonland"
+          "rollup_key": "2024icelandonland",
+          "trip_day": 4,
+          "day_type": "travel_day",
+          "trip_stage": "post-cruise",
+          "locations": [
+            {
+              "name": "Reykjavik",
+              "type": "city",
+              "country": "Iceland",
+              "notes": "Departed Iceland from the airport"
+            },
+            {
+              "name": "Holly Springs",
+              "type": "town",
+              "country": "USA",
+              "notes": "Home; returned via Raleigh-Durham (RDU)"
+            }
+          ],
+          "transport": [
+            {
+              "type": "private_car",
+              "notes": "Airport pickup at the 11am checkout time"
+            },
+            {
+              "type": "flight",
+              "from": "Iceland",
+              "to": "Raleigh-Durham (RDU)",
+              "notes": "Departed at 4:45pm after several hours of waiting at the airport"
+            },
+            {
+              "type": "rideshare",
+              "notes": "Not-great Uber experience from RDU"
+            }
+          ],
+          "activities": [
+            "Checked out of the Reykjavik apartment at 11am",
+            "Waited roughly four hours at the airport with luggage before the flight",
+            "Flew home to Raleigh-Durham, with a quick Global Entry return"
+          ],
+          "challenges": [
+            "Killing about four hours at the airport with luggage in tow",
+            "A not-great Uber experience from RDU"
+          ],
+          "companions": [
+            "family (Sherri, Rowan, and the girls)"
+          ],
+          "travel_sentiment": "Ready to be home after 17 days of travel, tired and still a little sick and homesick"
         }
       ]
     },
@@ -3098,6 +3597,7 @@
           "rollup_key": "2024wintercaribbean",
           "day_type": "planning",
           "trip_stage": "pre-trip",
+          "trip_type": "cruise",
           "activities": [
             {
               "day": -2,
@@ -4113,6 +4613,14 @@
             "disney"
           ],
           "rollup_key": "2025springbreak",
+          "locations": [
+            {
+              "name": "Amelia Island",
+              "type": "island",
+              "country": "United States",
+              "notes": "First stop of a nine-day drive from the Raleigh-Durham area to Walt Disney World; three-night stay at the Omni Amelia Island Resort"
+            }
+          ],
           "days_at_location": {
             "Amelia Island": 4
           },
@@ -4406,7 +4914,26 @@
           "tags": [
             "may2025"
           ],
-          "rollup_key": "2025norway"
+          "rollup_key": "2025norway",
+          "day_type": "video",
+          "location_start": "Bergen, Norway",
+          "location_end": "Balestrand, Norway",
+          "locations_visited": [
+            "Bergen, Norway",
+            "Sognefjord",
+            "Balestrand, Norway"
+          ],
+          "transport": [
+            {
+              "type": "ferry",
+              "route": "Bergen to Balestrand via Sognefjord",
+              "carrier": "Norled Express Ferry"
+            }
+          ],
+          "notable_experiences": [
+            "Filming the express ferry voyage from Bergen to Balestrand",
+            "Teaching myself video editing techniques in DaVinci Resolve"
+          ]
         },
         {
           "title": "Norway and Denmark Day 5",
@@ -7546,8 +8073,12 @@
     }
   ],
   "all_locations": [
+    "Akureyri",
+    "Akureyri, Iceland",
     "Alborán Sea",
+    "Amelia Island",
     "Appenzell",
+    "Appenzell, Switzerland",
     "Atlantic Ocean",
     "Atlantic Ocean (between Halifax and St. John's)",
     "Balabu day-trip cabin",
@@ -7560,6 +8091,8 @@
     "Baltimore-Washington Airport (BWI)",
     "Baulan",
     "Bayonne",
+    "Bayonne, New Jersey, USA",
+    "Bengaluru",
     "Bergen Airport (BGO), Norway",
     "Bergen Ferry Terminal",
     "Bergen Harbor/Waterfront",
@@ -7567,17 +8100,20 @@
     "Bergen, Norway",
     "Bergensbanen railway route",
     "Bern",
+    "Bettmeralp",
     "Blauherd",
     "Bordalsgjelet Gorge",
     "Borgarnes",
     "Boston",
     "Bregenz",
+    "Brig",
     "Bryggen (historic wharf district)",
     "Bryggens Museum",
     "Brúarfoss",
     "Buchloe",
     "Caribbean Sea",
     "Cartagena",
+    "Cartagena, Spain",
     "Chamonix-Mont-Blanc",
     "Civitavecchia",
     "Copenhagen Airport (CPH)",
@@ -7592,6 +8128,7 @@
     "Downtown Oslo",
     "Downtown Oslo malls",
     "Downtown Voss",
+    "Dubai",
     "Durham, NC",
     "Efstidalur II",
     "Efstidalur II Farm & Restaurant",
@@ -7599,15 +8136,19 @@
     "Fløyen Mountain",
     "Fort Lauderdale",
     "Füssen",
+    "Füssen, Germany",
     "Garmisch-Partenkirchen",
+    "Garmisch-Partenkirchen, Germany",
     "Geneva",
     "George Town",
     "Geysir",
     "Gorner Gorge",
     "Gornergrat",
+    "Gornergrat, Switzerland",
     "Gullfoss",
     "Halifax",
     "Halifax Harbor",
+    "Halifax, Nova Scotia, Canada",
     "Hartsfield-Jackson Atlanta International Airport",
     "Holly Springs",
     "Holly Springs, NC",
@@ -7632,18 +8173,23 @@
     "Laugarvatn",
     "Laugarvatn area",
     "Lauterbrunnen",
+    "Lauterbrunnen, Switzerland",
     "Leonardo da Vinci-Fiumicino Airport",
     "Lisbon",
+    "Lisbon, Portugal",
     "Livorno",
+    "Livorno, Italy",
     "Manhattan",
     "Minneapolis",
     "Mountain summit at 1295m above sea level",
     "Munich",
     "Munich Airport",
+    "Munich, Germany",
     "Männlichen",
     "Neuschwanstein Castle",
     "New York Harbor",
     "Newark",
+    "North Atlantic between Greenland and Iceland",
     "Oranjestad",
     "Oslo Central Station (Oslo S)",
     "Oslo Opera House",
@@ -7651,14 +8197,20 @@
     "Oslo, Norway",
     "Pflach",
     "Portimão",
+    "Portimão, Portugal",
     "Puerto Plata",
+    "Qaqortoq",
+    "Qaqortoq, Greenland",
     "Raleigh",
     "Raleigh-Durham Airport (RDU)",
     "Raleigh-Durham International Airport",
     "Reykholt",
     "Reykjavik",
+    "Reykjavik, Iceland",
     "Rome",
+    "Rome, Italy",
     "Royal Palace (Oslo)",
+    "San Francisco",
     "San Juan",
     "Sandsstølen viewpoint",
     "Schwangau",
@@ -7666,22 +8218,28 @@
     "Selfoss, Iceland",
     "Signal Hill",
     "Silves",
+    "Silves, Portugal",
+    "Sognefjord",
     "Sognefjord (via express ferry)",
     "Sognefjord overlook",
     "St. Gallen",
     "St. John's",
+    "St. John's, Newfoundland, Canada",
     "St. Margrethen SG",
     "St. Olaf's Church",
     "Steinar",
+    "Steinar, South Iceland",
     "Strait of Gibraltar",
     "Sturlureykir Visiting Horse Farm",
     "Sun Voyager sculpture",
     "Sunnegga",
     "Thingvellir National Park",
+    "Thun",
     "Tivoli Gardens amusement park",
     "Tokyo",
     "Tyrrhenian Sea",
     "València",
+    "València, Spain",
     "Vangsnes (unplanned fjord tour)",
     "Vatican City",
     "Vigeland Park",
@@ -7691,15 +8249,21 @@
     "Voss town center",
     "Voss train station",
     "Voss, Norway",
+    "Vík, Iceland",
     "Víðgelmir lava tube",
     "Wasserauen",
     "Wengen",
+    "Wengen, Switzerland",
     "Willemstad",
     "Yokohama",
     "Zermatt",
+    "Zermatt, Switzerland",
     "Zurich",
     "Zurich Airport",
-    "Zurich Hauptbahnhof"
+    "Zurich Hauptbahnhof",
+    "Zurich, Switzerland",
+    "Ísafjörður",
+    "Ísafjörður, Iceland"
   ],
   "all_activities": [
     "3-mile Bordalsgjelet Gorge hike",
@@ -7710,6 +8274,7 @@
     "After-dinner drinks in the Panorama Lounge",
     "Afternoon RIB boat tour of the Algarve sea caves, including Benagil",
     "Aiguille du Midi cable car to 3842m",
+    "Aletsch Glacier hikes (Riederalp and Bettmeralp)",
     "Arrival home in Holly Springs",
     "Arrival in Bergen and early hotel check-in",
     "Arrival in Rome and hotel check-in",
@@ -7735,11 +8300,14 @@
     "Changed return flights to fly home Friday after disembarkation, skipping two nights in Lisbon",
     "Checked bags at Munich Airport",
     "Checked in to Airbnb in Steinar",
+    "Checked into the Reykjavik rental apartment",
+    "Checked out of the Reykjavik apartment at 11am",
     "Church visit (Hallgrímskirkja interior tour)",
     "Climbed St. Peter's dome via stairs/ramp through the inner gallery up to the lantern viewing platform",
     "Cocktail hour in La Dolce Vita with the travel advisor group",
     "Colosseum self-guided tour",
     "Complimentary shuttle from the cruise pier into central Livorno",
+    "Cooking bacon for a breakfast-dinner",
     "Covered bridge crossing over Vosso river",
     "Customs and Immigration",
     "Customs and Immigration in Detroit with Global Entry",
@@ -7755,12 +8323,14 @@
     "Disembarkation in Lisbon",
     "Disembarked cruise ship in Reykjavik",
     "Domestic flight from Detroit to Raleigh-Durham",
+    "Drove from the south coast to Reykjavik with Tesla Supercharger stops",
     "EES exit enrollment",
     "EV charging introduction (DC Fast Charger in Selfoss)",
     "Early check-in at Kviknes Hotel",
     "Embarkation on the Silversea Silver Spirit",
     "Enjoying views from summit swing",
     "Evening at the UN Club beach with friends",
+    "Evening drive with Siena to see a nearby waterfall",
     "Evening on the pool deck after sunset",
     "Evening visit to Tivoli Gardens amusement park",
     "Evening walk around downtown Oslo",
@@ -7779,6 +8349,7 @@
     "Filling out Japan customs and immigration form online",
     "Finding EAT HAPPY sushi stall",
     "Fish and chips lunch",
+    "Flew home to Raleigh-Durham, with a quick Global Entry return",
     "Flights via Iceland back to North Carolina",
     "Flying home",
     "Food truck lunch",
@@ -7786,6 +8357,8 @@
     "Gelato at MYO",
     "Geothermal hot tub",
     "Gondola ride to mountain summit (1295m elevation)",
+    "Gourmet Trail hike (Zermatt)",
+    "Grocery run to Bónus and a home-cooked dinner",
     "Grocery shopping at Bónus supermarket",
     "Grocery stop in Vik",
     "Group dinner at Atlantide",
@@ -7808,6 +8381,7 @@
     "Late morning leisure at hotel",
     "Late-night cake and people-watching at Taba Cafe",
     "Late-night visit to the Trevi Fountain",
+    "Lazy day hanging around the Airbnb",
     "Learning Japanese phrases with Pimsleur",
     "Learning about Bergen's fire history",
     "Limited walking around Copenhagen",
@@ -7820,8 +8394,10 @@
     "May the 4th Star Wars cosplay sighting at RDU",
     "Metro ride to airport",
     "Moonrise photography over fjord",
+    "Morning run to Faxi Bakery for drinks and pastries",
     "Morning shore excursion to Silves (market, archaeology museum, cathedral, and castle)",
     "Muster station safety drill in the Show Lounge",
+    "Mürren to Grütschalp hike",
     "Navigating Copenhagen public transit systems",
     "Navigating baggage tag confusion at Southwest check-in",
     "Navigating departures and Schengen-exit border control at LIS",
@@ -7829,6 +8405,7 @@
     "Overnight transatlantic flight in Premium Select",
     "Paella lunch with fellow passengers",
     "Palazzo della Cancelleria courtyard and Sant'Agostino facade",
+    "Panorama Trail hike (Männlichen to Kleine Scheidegg)",
     "Park walking",
     "Passport control and baggage claim at Keflavik",
     "People-watching at harbor fish market",
@@ -7854,9 +8431,11 @@
     "Relaxing and reading on a sun-deck lounger",
     "Relaxing sea day aboard the ship",
     "Researching cities, towns, and villages between Tokyo and Kyoto/Osaka",
+    "Returned the rental car near the domestic airport and walked back",
     "Riding Fløibanen funicular to Fløyen summit",
     "Rocky gorge trail with handrails",
     "Rooftop hotel views",
+    "Schloss Thun castle visit",
     "Scooter rental and ride",
     "Secrets of Cartagena with Paella walking tour",
     "Seljalandsfoss waterfall stop, including the path to a secondary waterfall",
@@ -7895,8 +8474,10 @@
     "Visiting Vigeland Park sculpture garden (200+ sculptures)",
     "Visiting Voss cemetery",
     "Visiting historic church and timber buildings",
+    "Waited roughly four hours at the airport with luggage before the flight",
     "Walk from Civitavecchia station to the cruise port",
     "Walk through Parc de la Grange",
+    "Walked to The Sun Voyager sculpture and along the waterfront toward City Hall",
     "Walking Geneva old town",
     "Walking Livorno's covered portico and downtown",
     "Walking about 2 miles from the cruise terminal into València",
@@ -7927,6 +8508,7 @@
     "researching Munich hotels",
     "shopping for supplies",
     "sightseeing",
+    "train travel",
     "walking",
     "{\"day\"=>-2, \"type\"=>\"planning\", \"description\"=>\"Researching cell data options for cruise\", \"location\"=>\"Planning phase\"}",
     "{\"day\"=>0, \"type\"=>\"dining\", \"description\"=>\"Dinner from Publix deli in hotel room\", \"location\"=>\"Embassy Suites\"}",
@@ -7938,10 +8520,17 @@
     "{\"day\"=>1, \"type\"=>\"travel\", \"description\"=>\"Transfer from hotel to cruise ship\", \"location\"=>\"Fort Lauderdale\"}",
     "{\"day\"=>1, \"type\"=>\"travel_planning\", \"description\"=>\"Dealing with cancelled flight and rebooking travel\", \"location\"=>\"Raleigh, NC\"}",
     "{\"day\"=>10, \"type\"=>\"activity\", \"description\"=>\"Daughter tried splash surfing attraction\", \"location\"=>\"Taino Bay\"}",
+    "{\"day\"=>10, \"type\"=>\"celebration\", \"description\"=>\"Cake and singing at main dining for Rowan's birthday, since the family had been at a specialty restaurant the previous night\", \"time\"=>\"Evening\", \"location\"=>\"Celebrity Eclipse\"}",
     "{\"day\"=>10, \"type\"=>\"reflection\", \"description\"=>\"Reflecting on first Japan trip and planning for future visits\"}",
     "{\"day\"=>10, \"type\"=>\"relaxation\", \"description\"=>\"Enjoyed lazy river and pool area at Taino Bay\", \"location\"=>\"Taino Bay, Puerto Plata\"}",
     "{\"day\"=>10, \"type\"=>\"shore_excursion\", \"description\"=>\"Zipline excursion at San Felipe De Puerto Plata\", \"location\"=>\"Puerto Plata area\", \"participants\"=>\"Father and daughter (son's ankle still healing, wife didn't care for heights)\"}",
+    "{\"day\"=>10, \"type\"=>\"sightseeing\", \"description\"=>\"On departure the captain and pilots took the ship near an iceberg and performed several 360-degree turns for photos and videos\", \"location\"=>\"Off the coast of Qaqortoq, Greenland\"}",
+    "{\"day\"=>10, \"type\"=>\"sightseeing\", \"description\"=>\"Tendered ashore, walked up a hill in the rain and took photos of the ship, then tendered back\", \"location\"=>\"Qaqortoq, Greenland\"}",
     "{\"day\"=>10, \"type\"=>\"travel\", \"description\"=>\"Departure from Japan, returning to US\", \"location\"=>\"Haneda Airport, Tokyo\"}",
+    "{\"day\"=>11, \"type\"=>\"rest\", \"description\"=>\"Largely confined to the cabin recovering from a cold, buying Nyquil from the onboard store on the second day\", \"location\"=>\"Celebrity Eclipse\"}",
+    "{\"day\"=>13, \"type\"=>\"shore_excursion\", \"description\"=>\"Guided tour visiting Laufás Heritage Site, Goðafoss Waterfall, and the Akureyri Botanical Garden\", \"location\"=>\"Akureyri area, Iceland\"}",
+    "{\"day\"=>14, \"type\"=>\"walking\", \"description\"=>\"Brian and Sherri left the kids onboard and walked through the town and back once the rain mostly stopped\", \"location\"=>\"Ísafjörður, Iceland\"}",
+    "{\"day\"=>15, \"type\"=>\"disembarkation\", \"description\"=>\"Walked off the ship carrying all luggage rather than putting suitcases out the night before, then found the transfer bus\", \"location\"=>\"Reykjavik, Iceland\"}",
     "{\"day\"=>2, \"type\"=>\"dining\", \"description\"=>\"Crepes at Brookfield Place, later Subway and Sweetgreen\", \"location\"=>\"Manhattan and Jersey City\"}",
     "{\"day\"=>2, \"type\"=>\"photography\", \"description\"=>\"Morning photography and writing on deck\", \"location\"=>\"Celebrity Eclipse\", \"time\"=>\"7:00-8:00am\"}",
     "{\"day\"=>2, \"type\"=>\"recreation\", \"description\"=>\"Playground visit and photos by river after rain stopped\", \"location\"=>\"Jersey City waterfront\"}",
@@ -8085,7 +8674,44 @@
       "subtitle": "This time with travel buddies",
       "categories": "travel india",
       "tags": null,
-      "rollup_key": null
+      "rollup_key": null,
+      "day_type": "travel",
+      "trip_type": "business",
+      "location": "Bengaluru, India",
+      "locations": [
+        {
+          "name": "San Francisco",
+          "country": "USA",
+          "region": "California"
+        },
+        {
+          "name": "Dubai",
+          "country": "United Arab Emirates"
+        },
+        {
+          "name": "Bengaluru",
+          "country": "India",
+          "region": "Karnataka"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Airbnb apartment",
+          "location": "Dubai, United Arab Emirates",
+          "type": "accommodation"
+        }
+      ],
+      "transport": [
+        {
+          "type": "air",
+          "route": "San Francisco to Bengaluru",
+          "notes": "Overnight extended layover in Dubai"
+        }
+      ],
+      "travel_companions": [
+        "Walter",
+        "Andy"
+      ]
     },
     {
       "title": "India day 2",
@@ -8093,7 +8719,24 @@
       "subtitle": null,
       "categories": "travel india",
       "tags": null,
-      "rollup_key": null
+      "rollup_key": null,
+      "trip_type": "business",
+      "location": "Bengaluru, India",
+      "locations": [
+        {
+          "name": "Bengaluru",
+          "country": "India",
+          "region": "Karnataka"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "The Leela",
+          "location": "Bengaluru, India",
+          "type": "accommodation"
+        }
+      ],
+      "weather": "Foggy, damp, and cold"
     },
     {
       "title": "Switzerland Travels 2019",
@@ -8957,6 +9600,16 @@
         "alternate_name": "Old Charm Reykjavik",
         "url": "https://oldreykjavik.is/"
       },
+      "locations": [
+        {
+          "name": "Húsafell",
+          "country": "Iceland"
+        },
+        {
+          "name": "Reykjavik",
+          "country": "Iceland"
+        }
+      ],
       "days_at_location": 1,
       "venues": [
         {
@@ -9344,7 +9997,16 @@
       "subtitle": "Our first trip to Iceland and the kids' first real trip to Europe",
       "categories": "travel rollup",
       "tags": null,
-      "rollup_key": null
+      "rollup_key": null,
+      "trip_type": "family",
+      "locations_visited": [
+        "Reykholt",
+        "Húsafell",
+        "Reykjavik"
+      ],
+      "countries_visited": [
+        "Iceland"
+      ]
     },
     {
       "title": "Japan Planning",
@@ -10197,6 +10859,18 @@
       "categories": "travel japan",
       "tags": null,
       "rollup_key": "2024japan",
+      "locations": [
+        {
+          "name": "Tokyo",
+          "type": "city",
+          "country": "Japan"
+        },
+        {
+          "name": "Kyoto",
+          "type": "city",
+          "country": "Japan"
+        }
+      ],
       "transport": [
         {
           "type": "train",
@@ -10214,7 +10888,16 @@
           "description": "High-speed bullet train journey from Tokyo to Kyoto",
           "location": "Shinkansen"
         }
-      ]
+      ],
+      "notable_experiences": [
+        "Confusing Shinkansen ticket machines that are inaccessible to mobile Suica pass users, requiring a customer service agent to issue two physical tickets",
+        "Ordering rock-hard ice cream via the Green Car wifi snack service",
+        "A tiny onboard urinal room with a transparent folding door"
+      ],
+      "companions": [
+        "solo"
+      ],
+      "travel_sentiment": "Positive overall on the high-speed train experience despite the ticketing hassle; prefers it to flying once the reduced airport hassle is factored in"
     },
     {
       "title": "Brian's first trip to Japan in 2024",
@@ -10222,7 +10905,15 @@
       "subtitle": "Exploring Tokyo, Kamakura, and Kyoto",
       "categories": "travel rollup",
       "tags": null,
-      "rollup_key": null
+      "rollup_key": null,
+      "locations_visited": [
+        "Tokyo",
+        "Kamakura",
+        "Kyoto"
+      ],
+      "countries_visited": [
+        "Japan"
+      ]
     },
     {
       "title": "Switzerland Travels 2024",
@@ -10230,7 +10921,165 @@
       "subtitle": "Travels through Zurich, Wengen, Brig, Zermatt, and Thun.",
       "categories": "travel switzerland",
       "tags": null,
-      "rollup_key": null
+      "rollup_key": null,
+      "trip_type": "solo",
+      "trip_duration": "July 10-22, 2024",
+      "locations": [
+        {
+          "name": "Zurich",
+          "country": "Switzerland",
+          "region": "Canton of Zürich"
+        },
+        {
+          "name": "Wengen",
+          "country": "Switzerland",
+          "region": "Bernese Oberland"
+        },
+        {
+          "name": "Brig",
+          "country": "Switzerland",
+          "region": "Valais"
+        },
+        {
+          "name": "Zermatt",
+          "country": "Switzerland",
+          "region": "Valais"
+        },
+        {
+          "name": "Bettmeralp",
+          "country": "Switzerland",
+          "region": "Valais"
+        },
+        {
+          "name": "Thun",
+          "country": "Switzerland",
+          "region": "Bernese Oberland"
+        }
+      ],
+      "countries_visited": [
+        "Switzerland"
+      ],
+      "hotels": [
+        {
+          "name": "Hotel Alpenruhe",
+          "location": "Wengen, Switzerland",
+          "type": "accommodation",
+          "url": "https://www.alpenruhe-wengen.ch/"
+        },
+        {
+          "name": "Hotel de Londres",
+          "location": "Brig, Switzerland",
+          "type": "accommodation",
+          "url": "https://www.hotel-delondres.ch/"
+        },
+        {
+          "name": "Hotel Tannenhof",
+          "location": "Zermatt, Switzerland",
+          "type": "accommodation"
+        },
+        {
+          "name": "Hotel Waldhaus",
+          "location": "Bettmeralp, Switzerland",
+          "type": "accommodation"
+        },
+        {
+          "name": "Hotel Krone Thun",
+          "location": "Thun, Switzerland",
+          "type": "accommodation",
+          "url": "https://en.krone-thun.ch/"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Negishi",
+          "type": "restaurant",
+          "location": "Zurich, Switzerland",
+          "cuisine": "Japanese",
+          "url": "https://www.negishi.ch/en/zuerich-pelikanplatz"
+        },
+        {
+          "name": "Pret a Manger",
+          "type": "cafe",
+          "location": "Zurich, Switzerland"
+        },
+        {
+          "name": "Pasta and More",
+          "type": "restaurant",
+          "location": "Wengen, Switzerland"
+        },
+        {
+          "name": "Restaurant Augenblick",
+          "type": "restaurant",
+          "location": "Brig, Switzerland",
+          "url": "https://www.restaurant-augenblick.ch/"
+        },
+        {
+          "name": "Derby",
+          "type": "restaurant",
+          "location": "Zermatt, Switzerland"
+        },
+        {
+          "name": "Golden Lok",
+          "type": "restaurant",
+          "location": "Zermatt, Switzerland",
+          "url": "https://goldenlok.ch/"
+        },
+        {
+          "name": "Alpina",
+          "type": "restaurant",
+          "location": "Bettmeralp, Switzerland"
+        },
+        {
+          "name": "Restaurant Bergdohle Riederalp",
+          "type": "restaurant",
+          "location": "Riederalp, Switzerland"
+        }
+      ],
+      "points_of_interest": [
+        {
+          "name": "Matterhorn",
+          "type": "mountain"
+        },
+        {
+          "name": "Aletsch Glacier",
+          "type": "glacier"
+        },
+        {
+          "name": "Schloss Thun",
+          "type": "castle",
+          "url": "https://schlossthun.ch/en/"
+        },
+        {
+          "name": "Männlichen",
+          "type": "viewpoint"
+        },
+        {
+          "name": "Mürren",
+          "type": "village"
+        }
+      ],
+      "transport": [
+        {
+          "type": "air",
+          "route": "RDU to JFK to Zurich",
+          "carrier": "Delta"
+        },
+        {
+          "type": "rail",
+          "notes": "Extensive Swiss rail travel between towns; Swiss Half Fare card"
+        }
+      ],
+      "activities": [
+        "hiking",
+        "train travel",
+        "sightseeing",
+        "Panorama Trail hike (Männlichen to Kleine Scheidegg)",
+        "Mürren to Grütschalp hike",
+        "Gourmet Trail hike (Zermatt)",
+        "Aletsch Glacier hikes (Riederalp and Bettmeralp)",
+        "Schloss Thun castle visit"
+      ],
+      "travel_sentiment": "reflective, at times lonely traveling solo"
     },
     {
       "title": "Iceland Cruise Day 1",
@@ -11131,7 +11980,83 @@
         "celebrity",
         "celebrityeclipse"
       ],
-      "rollup_key": "2024icelandcruise"
+      "rollup_key": "2024icelandcruise",
+      "trip_day": 10,
+      "day_type": "port_day",
+      "locations": [
+        {
+          "name": "Qaqortoq",
+          "type": "town",
+          "country": "Greenland"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Coffee shop near Sermilik Lake",
+          "type": "cafe",
+          "location": "Qaqortoq, Greenland",
+          "notes": "Reached by 9am but found closed to those not on a tour"
+        },
+        {
+          "name": "Grocery store",
+          "type": "store",
+          "location": "Qaqortoq, Greenland",
+          "notes": "Hoped to shop and use internet, but language barrier prevented interaction"
+        }
+      ],
+      "points_of_interest": [
+        {
+          "name": "Prince Christian Sound",
+          "type": "sound",
+          "location": "Southern Greenland",
+          "notes": "Planned scenic sailing that weather conditions did not allow"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise_ship",
+          "vessel": "Celebrity Eclipse",
+          "from": "At sea",
+          "to": "Qaqortoq, Greenland",
+          "notes": "Tendered to shore in Qaqortoq"
+        }
+      ],
+      "activities": [
+        {
+          "day": 10,
+          "type": "sightseeing",
+          "description": "Tendered ashore, walked up a hill in the rain and took photos of the ship, then tendered back",
+          "location": "Qaqortoq, Greenland"
+        },
+        {
+          "day": 10,
+          "type": "sightseeing",
+          "description": "On departure the captain and pilots took the ship near an iceberg and performed several 360-degree turns for photos and videos",
+          "location": "Off the coast of Qaqortoq, Greenland"
+        },
+        {
+          "day": 10,
+          "type": "celebration",
+          "description": "Cake and singing at main dining for Rowan's birthday, since the family had been at a specialty restaurant the previous night",
+          "time": "Evening",
+          "location": "Celebrity Eclipse"
+        }
+      ],
+      "notable_events": [
+        "Rowan's birthday celebration at main dining"
+      ],
+      "challenges": [
+        "Coffee shop near Sermilik Lake was closed to guests not on a tour",
+        "Language barrier at the grocery store, with no Greenlandic language pack downloaded for Google Translate",
+        "Not prepared with weather-appropriate shoes for the cold rain",
+        "Storm conditions and rough seas expected overnight"
+      ],
+      "weather": "Drizzly, chilly rain and overcast; storm conditions expected overnight with winds to 50 knots and seas to 15 feet",
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
     },
     {
       "title": "Iceland Cruise Days 11 and 12",
@@ -11142,7 +12067,43 @@
         "celebrity",
         "celebrity eclipse"
       ],
-      "rollup_key": "2024icelandcruise"
+      "rollup_key": "2024icelandcruise",
+      "trip_day": "11-12",
+      "day_type": "sea_day",
+      "locations": [
+        {
+          "name": "North Atlantic between Greenland and Iceland",
+          "type": "sea"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise_ship",
+          "vessel": "Celebrity Eclipse",
+          "from": "Qaqortoq, Greenland",
+          "to": "At sea toward Akureyri, Iceland",
+          "notes": "Two sea days crossing from Greenland to Iceland in rough conditions"
+        }
+      ],
+      "activities": [
+        {
+          "day": 11,
+          "type": "rest",
+          "description": "Largely confined to the cabin recovering from a cold, buying Nyquil from the onboard store on the second day",
+          "location": "Celebrity Eclipse"
+        }
+      ],
+      "challenges": [
+        "Rough seas and heavy rocking after leaving Qaqortoq",
+        "Brian battling a cold and sleeping poorly for several nights",
+        "Siena's phone became unresponsive and would not hard power cycle, fixed only after the battery drained"
+      ],
+      "weather": "Rough seas after leaving Qaqortoq, with the captain later reporting winds around 60 mph and seas to 5 meters; seas remained rough across both days",
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
     },
     {
       "title": "Iceland Cruise Day 13",
@@ -11155,7 +12116,72 @@
         "celebrity",
         "celebrityeclipse"
       ],
-      "rollup_key": "2024icelandcruise"
+      "rollup_key": "2024icelandcruise",
+      "trip_day": 13,
+      "day_type": "port_day",
+      "locations": [
+        {
+          "name": "Akureyri",
+          "type": "city",
+          "country": "Iceland"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Laufás Heritage Site",
+          "type": "historic_site",
+          "location": "Near Akureyri, Iceland",
+          "url": "https://www.akureyriguide.is/portfolio/laufas-heritage-site/",
+          "notes": "19th century timber church and turf-roofed vicarage, a church site since early Christianity in Iceland"
+        },
+        {
+          "name": "Goðafoss Waterfall",
+          "type": "waterfall",
+          "location": "Northern Iceland",
+          "url": "https://www.northiceland.is/en/place/godafoss-waterfall"
+        },
+        {
+          "name": "Akureyri Botanical Garden",
+          "type": "garden",
+          "location": "Akureyri, Iceland",
+          "url": "https://www.lystigardur.akureyri.is/en",
+          "notes": "Iceland's first public park, opened in 1912"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise_ship",
+          "vessel": "Celebrity Eclipse",
+          "from": "At sea",
+          "to": "Akureyri, Iceland",
+          "notes": "Arrived at 8am instead of the scheduled 1pm after skipping Prince Christian Sound"
+        },
+        {
+          "type": "shore_excursion",
+          "notes": "Booked tour departing at 2:30pm visiting three sites; the only booked shore excursion of the trip"
+        }
+      ],
+      "activities": [
+        {
+          "day": 13,
+          "type": "shore_excursion",
+          "description": "Guided tour visiting Laufás Heritage Site, Goðafoss Waterfall, and the Akureyri Botanical Garden",
+          "location": "Akureyri area, Iceland"
+        }
+      ],
+      "notable_experiences": [
+        "Only booked shore excursion of the trip",
+        "Akureyri, Iceland's second most populous city, felt like a place worth returning to on a Ring Road trip"
+      ],
+      "challenges": [
+        "Brian was still sick during the excursion",
+        "Kids had expected hiking and got more history than they wanted"
+      ],
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
     },
     {
       "title": "Iceland Cruise Day 14",
@@ -11168,7 +12194,54 @@
         "celebrity",
         "celebrityeclipse"
       ],
-      "rollup_key": "2024icelandcruise"
+      "rollup_key": "2024icelandcruise",
+      "trip_day": 14,
+      "day_type": "port_day",
+      "locations": [
+        {
+          "name": "Ísafjörður",
+          "type": "town",
+          "country": "Iceland"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Tourist information booth",
+          "type": "visitor_center",
+          "location": "Pier, Ísafjörður, Iceland",
+          "notes": "Stopped in to use the wifi"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise_ship",
+          "vessel": "Celebrity Eclipse",
+          "from": "At sea",
+          "to": "Ísafjörður, Iceland",
+          "notes": "Arrived at 8am; a working-town port with a similar vibe to Qaqortoq"
+        }
+      ],
+      "activities": [
+        {
+          "day": 14,
+          "type": "walking",
+          "description": "Brian and Sherri left the kids onboard and walked through the town and back once the rain mostly stopped",
+          "location": "Ísafjörður, Iceland"
+        }
+      ],
+      "notable_mentions": [
+        "Spotted a Tesla Cybertruck in town",
+        "Isafjordur reminded Brian of photos of the Scottish Highlands"
+      ],
+      "challenges": [
+        "Brian at the tail end of being sick while Sherri began coming down with the same illness"
+      ],
+      "weather": "Arrived at 8am to chilly temperatures and pouring rain; the rain mostly stopped by midmorning",
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
     },
     {
       "title": "Iceland Cruise Day 15",
@@ -11181,7 +12254,46 @@
         "celebrity",
         "celebrityeclipse"
       ],
-      "rollup_key": "2024icelandcruise"
+      "rollup_key": "2024icelandcruise",
+      "trip_day": 15,
+      "day_type": "disembarkation",
+      "trip_stage": "end_of_cruise",
+      "locations": [
+        {
+          "name": "Reykjavik",
+          "type": "city",
+          "country": "Iceland"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise_ship",
+          "vessel": "Celebrity Eclipse",
+          "notes": "Disembarked in Reykjavik at the end of a 12-night cruise from Bayonne, NJ"
+        },
+        {
+          "type": "bus",
+          "notes": "Reported to the theater meeting spot for the arranged bus transfer, but with no crew direction walked off the ship to find the bus"
+        }
+      ],
+      "activities": [
+        {
+          "day": 15,
+          "type": "disembarkation",
+          "description": "Walked off the ship carrying all luggage rather than putting suitcases out the night before, then found the transfer bus",
+          "location": "Reykjavik, Iceland"
+        }
+      ],
+      "notable_experiences": [
+        "Ended a 12-night cruise from Bayonne, NJ, to Reykjavik, Iceland",
+        "First time carrying all luggage off rather than using the night-before luggage drop, expected to become the family norm"
+      ],
+      "weather": "Crisp, cloudless day with temperatures in the low 50s F",
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
     },
     {
       "title": "Our cruise voyage from New York to Iceland in 2024",
@@ -11189,7 +12301,29 @@
       "subtitle": "A rugged, chilly vacation sailing from New York to Iceland via Canada and Greenland",
       "categories": "travel rollup",
       "tags": null,
-      "rollup_key": null
+      "rollup_key": null,
+      "trip_type": "rollup",
+      "trip_duration": "August 4-16, 2024",
+      "trip_duration_days": 12,
+      "locations_visited": [
+        "Bayonne, New Jersey, USA",
+        "Halifax, Nova Scotia, Canada",
+        "St. John's, Newfoundland, Canada",
+        "Qaqortoq, Greenland",
+        "Akureyri, Iceland",
+        "Ísafjörður, Iceland",
+        "Reykjavik, Iceland"
+      ],
+      "countries_visited": [
+        "USA",
+        "Canada",
+        "Greenland",
+        "Iceland"
+      ],
+      "transport": [
+        "Celebrity Eclipse cruise ship (Bayonne, NJ to Reykjavik, Iceland)",
+        "flights (Raleigh-Durham to the New York area)"
+      ]
     },
     {
       "title": "Iceland Visit 2024 Day 1",
@@ -11346,7 +12480,71 @@
         "reykjavik",
         "iceland"
       ],
-      "rollup_key": "2024icelandonland"
+      "rollup_key": "2024icelandonland",
+      "trip_day": 2,
+      "day_type": "rest_day",
+      "trip_stage": "post-cruise",
+      "locations": [
+        {
+          "name": "Steinar",
+          "type": "rural_area",
+          "country": "Iceland",
+          "notes": "Airbnb base on the south coast, second day"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Airbnb in Steinar",
+          "location": "Steinar, South Iceland",
+          "night": 2
+        }
+      ],
+      "venues": [
+        {
+          "name": "Faxi Bakery",
+          "type": "bakery",
+          "location": "A few minutes from the Airbnb in Steinar, South Iceland",
+          "url": "https://www.instagram.com/faxi_bakery_/?hl=en"
+        }
+      ],
+      "transport": [
+        {
+          "type": "rental_car",
+          "vehicle": "Tesla Model Y",
+          "notes": "Evening drive with Siena to a nearby waterfall"
+        }
+      ],
+      "activities": [
+        "Morning run to Faxi Bakery for drinks and pastries",
+        "Lazy day hanging around the Airbnb",
+        "Evening drive with Siena to see a nearby waterfall",
+        "Cooking bacon for a breakfast-dinner"
+      ],
+      "dining": [
+        {
+          "venue": "Faxi Bakery",
+          "meal": "breakfast",
+          "location": "Near Steinar, South Iceland",
+          "dishes": "Hot drinks and pastries"
+        },
+        {
+          "venue": "Airbnb in Steinar",
+          "meal": "dinner",
+          "dishes": "Bacon breakfast-dinner cooked at the Airbnb",
+          "notes": "Running low on food"
+        }
+      ],
+      "notable_experiences": [
+        "A brief interaction at Faxi Bakery where Brian instinctively switched to Spanish (\"Puerta, por favor?\") to ask a man to hold the door"
+      ],
+      "challenges": [
+        "Sherri sick in bed all day, likely COVID",
+        "Low on food at the Airbnb",
+        "Travel weariness after more than two weeks away, with the family craving home"
+      ],
+      "companions": [
+        "family (Sherri, Rowan, and the girls)"
+      ]
     },
     {
       "title": "Iceland Visit 2024 Day 3",
@@ -11357,7 +12555,102 @@
         "reykjavik",
         "iceland"
       ],
-      "rollup_key": "2024icelandonland"
+      "rollup_key": "2024icelandonland",
+      "trip_day": 3,
+      "day_type": "road_trip",
+      "trip_stage": "post-cruise",
+      "locations": [
+        {
+          "name": "Steinar",
+          "type": "rural_area",
+          "country": "Iceland",
+          "notes": "Departed the south coast Airbnb"
+        },
+        {
+          "name": "Reykjavik",
+          "type": "city",
+          "country": "Iceland"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Rental apartment in Reykjavik",
+          "location": "Central Reykjavik, Iceland",
+          "night": 3,
+          "notes": "Same set of rental units as the previous year, a different unit; reliable rentals in a great spot but weak check-in instructions"
+        }
+      ],
+      "venues": [
+        {
+          "name": "LAVA Centre Tesla Supercharger",
+          "type": "ev_charger",
+          "location": "Near Hvolsvöllur, South Iceland",
+          "notes": "Charged next to the LAVA Centre; Siena tried a roadside bounce pillow while charging"
+        },
+        {
+          "name": "Reykjavik Tesla Supercharger",
+          "type": "ev_charger",
+          "location": "Reykjavik, Iceland",
+          "url": "https://maps.app.goo.gl/RHRBRR6GmEQKHR119",
+          "notes": "Same Supercharger as the previous year; grabbed the last spot just in time"
+        },
+        {
+          "name": "The Sun Voyager",
+          "type": "sculpture",
+          "location": "Reykjavik waterfront",
+          "url": "https://en.wikipedia.org/wiki/The_Sun_Voyager"
+        },
+        {
+          "name": "Reykjavik City Hall",
+          "type": "landmark",
+          "location": "Reykjavik, Iceland"
+        },
+        {
+          "name": "Bónus",
+          "type": "grocery",
+          "location": "Reykjavik, Iceland"
+        }
+      ],
+      "points_of_interest": [
+        {
+          "name": "Tjörnin",
+          "type": "pond",
+          "location": "Central Reykjavik",
+          "notes": "City-center pond passed on the walk"
+        }
+      ],
+      "transport": [
+        {
+          "type": "rental_car",
+          "vehicle": "Tesla Model Y",
+          "notes": "Drove from Steinar to Reykjavik with Supercharger stops, then returned the car near the domestic airport and walked back"
+        }
+      ],
+      "activities": [
+        "Drove from the south coast to Reykjavik with Tesla Supercharger stops",
+        "Checked into the Reykjavik rental apartment",
+        "Returned the rental car near the domestic airport and walked back",
+        "Walked to The Sun Voyager sculpture and along the waterfront toward City Hall",
+        "Grocery run to Bónus and a home-cooked dinner"
+      ],
+      "dining": [
+        {
+          "venue": "Rental apartment in Reykjavik",
+          "meal": "dinner",
+          "dishes": "Baked pork chops, skillet potatoes, and peas and carrots"
+        }
+      ],
+      "challenges": [
+        "Rowan still too sick to get out and about",
+        "Reykjavik Supercharger nearly full; grabbed the last spot just before another car had to wait"
+      ],
+      "weather": {
+        "conditions": "Sunny",
+        "temperature": "51 F"
+      },
+      "companions": [
+        "family (Sherri, Rowan, and the girls)"
+      ]
     },
     {
       "title": "Iceland Visit 2024 Day 4",
@@ -11368,7 +12661,53 @@
         "reykjavik",
         "iceland"
       ],
-      "rollup_key": "2024icelandonland"
+      "rollup_key": "2024icelandonland",
+      "trip_day": 4,
+      "day_type": "travel_day",
+      "trip_stage": "post-cruise",
+      "locations": [
+        {
+          "name": "Reykjavik",
+          "type": "city",
+          "country": "Iceland",
+          "notes": "Departed Iceland from the airport"
+        },
+        {
+          "name": "Holly Springs",
+          "type": "town",
+          "country": "USA",
+          "notes": "Home; returned via Raleigh-Durham (RDU)"
+        }
+      ],
+      "transport": [
+        {
+          "type": "private_car",
+          "notes": "Airport pickup at the 11am checkout time"
+        },
+        {
+          "type": "flight",
+          "from": "Iceland",
+          "to": "Raleigh-Durham (RDU)",
+          "notes": "Departed at 4:45pm after several hours of waiting at the airport"
+        },
+        {
+          "type": "rideshare",
+          "notes": "Not-great Uber experience from RDU"
+        }
+      ],
+      "activities": [
+        "Checked out of the Reykjavik apartment at 11am",
+        "Waited roughly four hours at the airport with luggage before the flight",
+        "Flew home to Raleigh-Durham, with a quick Global Entry return"
+      ],
+      "challenges": [
+        "Killing about four hours at the airport with luggage in tow",
+        "A not-great Uber experience from RDU"
+      ],
+      "companions": [
+        "family (Sherri, Rowan, and the girls)"
+      ],
+      "travel_sentiment": "Ready to be home after 17 days of travel, tired and still a little sick and homesick"
     },
     {
       "title": "Iceland post-cruise visit 2024",
@@ -11376,7 +12715,23 @@
       "subtitle": "Our four days on land in Iceland after disembarking our cruise in Reykjavik",
       "categories": "travel rollup",
       "tags": null,
-      "rollup_key": null
+      "rollup_key": null,
+      "trip_type": "rollup",
+      "trip_duration": "August 16-19, 2024",
+      "trip_duration_days": 4,
+      "locations_visited": [
+        "Reykjavik, Iceland",
+        "Selfoss, Iceland",
+        "Steinar, South Iceland",
+        "Vík, Iceland"
+      ],
+      "countries_visited": [
+        "Iceland"
+      ],
+      "transport": [
+        "Tesla Model Y rental car",
+        "flight home (Iceland to Raleigh-Durham)"
+      ]
     },
     {
       "title": "Celebrity Cruise Cell Data Situation",
@@ -11391,6 +12746,7 @@
       "rollup_key": "2024wintercaribbean",
       "day_type": "planning",
       "trip_stage": "pre-trip",
+      "trip_type": "cruise",
       "activities": [
         {
           "day": -2,
@@ -12397,7 +13753,65 @@
       "subtitle": "A family trip to the Cayman Islands, Aruba, Curaçoa, Bonaire, Puerto Rico, and the DR aboard the Celebrity Eclipse",
       "categories": "travel rollup",
       "tags": null,
-      "rollup_key": null
+      "rollup_key": null,
+      "trip_type": "cruise",
+      "locations_visited": [
+        {
+          "name": "Fort Lauderdale",
+          "type": "city",
+          "country": "United States",
+          "notes": "Embarkation port for the Celebrity Eclipse"
+        },
+        {
+          "name": "George Town",
+          "type": "city",
+          "country": "Cayman Islands",
+          "notes": "Tendered port stop on Grand Cayman"
+        },
+        {
+          "name": "Oranjestad",
+          "type": "city",
+          "country": "Aruba",
+          "notes": "First of the ABC Islands"
+        },
+        {
+          "name": "Willemstad",
+          "type": "city",
+          "country": "Curaçao",
+          "notes": "Capital city, second of the ABC Islands"
+        },
+        {
+          "name": "Kralendijk",
+          "type": "town",
+          "country": "Bonaire",
+          "notes": "Last of the ABC Islands"
+        },
+        {
+          "name": "San Juan",
+          "type": "city",
+          "country": "Puerto Rico (United States)",
+          "notes": "Port stop in Puerto Rico"
+        },
+        {
+          "name": "Puerto Plata",
+          "type": "city",
+          "country": "Dominican Republic",
+          "notes": "Last port stop of the cruise"
+        }
+      ],
+      "countries_visited": [
+        "United States",
+        "Cayman Islands",
+        "Aruba",
+        "Curaçao",
+        "Bonaire",
+        "Dominican Republic"
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
+      ]
     },
     {
       "title": "Planning For Solo Travel",
@@ -12407,7 +13821,14 @@
       "tags": [
         "solotravel"
       ],
-      "rollup_key": null
+      "rollup_key": null,
+      "day_type": "planning",
+      "trip_type": "solo",
+      "notable_mentions": [
+        "ChatGPT for building a skeleton itinerary",
+        "booking.com for lodging research",
+        "Swiss Half Fare Card"
+      ]
     },
     {
       "title": "Quick review of the Omni Amelia Island",
@@ -12419,6 +13840,14 @@
         "disney"
       ],
       "rollup_key": "2025springbreak",
+      "locations": [
+        {
+          "name": "Amelia Island",
+          "type": "island",
+          "country": "United States",
+          "notes": "First stop of a nine-day drive from the Raleigh-Durham area to Walt Disney World; three-night stay at the Omni Amelia Island Resort"
+        }
+      ],
       "days_at_location": {
         "Amelia Island": 4
       },
@@ -12707,7 +14136,26 @@
       "tags": [
         "may2025"
       ],
-      "rollup_key": "2025norway"
+      "rollup_key": "2025norway",
+      "day_type": "video",
+      "location_start": "Bergen, Norway",
+      "location_end": "Balestrand, Norway",
+      "locations_visited": [
+        "Bergen, Norway",
+        "Sognefjord",
+        "Balestrand, Norway"
+      ],
+      "transport": [
+        {
+          "type": "ferry",
+          "route": "Bergen to Balestrand via Sognefjord",
+          "carrier": "Norled Express Ferry"
+        }
+      ],
+      "notable_experiences": [
+        "Filming the express ferry voyage from Bergen to Balestrand",
+        "Teaching myself video editing techniques in DaVinci Resolve"
+      ]
     },
     {
       "title": "Norway and Denmark Day 5",
@@ -14517,7 +15965,34 @@
       "subtitle": "A summer 2025 trip to Switzerland and Germany with my 16 year old son",
       "categories": "travel rollup",
       "tags": null,
-      "rollup_key": null
+      "rollup_key": null,
+      "trip_type": "rollup",
+      "trip_duration": "July 29 - August 12, 2025",
+      "trip_duration_days": 15,
+      "locations_visited": [
+        "Zurich, Switzerland",
+        "Wengen, Switzerland",
+        "Lauterbrunnen, Switzerland",
+        "Zermatt, Switzerland",
+        "Gornergrat, Switzerland",
+        "Appenzell, Switzerland",
+        "Füssen, Germany",
+        "Garmisch-Partenkirchen, Germany",
+        "Munich, Germany"
+      ],
+      "countries_visited": [
+        "Switzerland",
+        "Germany"
+      ],
+      "transport": [
+        "transatlantic flights (Delta)",
+        "Swiss and German trains",
+        "funicular railways",
+        "regional buses"
+      ],
+      "travel_companions": [
+        "Rowan (16-year-old son)"
+      ]
     },
     {
       "title": "Some Things About Iceland",
@@ -15979,7 +17454,28 @@
       "subtitle": "Exploring Rome, Livorno, València, Cartagena, Portimão, and Lisbon",
       "categories": "travel rollup",
       "tags": null,
-      "rollup_key": null
+      "rollup_key": null,
+      "trip_type": "rollup",
+      "trip_duration": "May 4-15, 2026",
+      "trip_duration_days": 12,
+      "locations_visited": [
+        "Rome, Italy",
+        "Livorno, Italy",
+        "València, Spain",
+        "Cartagena, Spain",
+        "Portimão, Portugal",
+        "Silves, Portugal",
+        "Lisbon, Portugal"
+      ],
+      "countries_visited": [
+        "Italy",
+        "Spain",
+        "Portugal"
+      ],
+      "transport": [
+        "transatlantic flights (Delta)",
+        "Silversea Silver Spirit cruise"
+      ]
     }
   ]
 }

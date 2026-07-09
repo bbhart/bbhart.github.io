@@ -9,6 +9,32 @@ rollup_key: 2024icelandcruise
 background: 
 redirect_from:
 - /travel/2024icelandcruise/2024/08/16/Iceland-Cruise-Day-15-Reykjavik.html
+trip_day: 15
+day_type: disembarkation
+trip_stage: end_of_cruise
+locations:
+  - name: Reykjavik
+    type: city
+    country: Iceland
+weather: Crisp, cloudless day with temperatures in the low 50s F
+companions:
+  - Sherri
+  - Siena
+  - Rowan
+transport:
+  - type: cruise_ship
+    vessel: Celebrity Eclipse
+    notes: Disembarked in Reykjavik at the end of a 12-night cruise from Bayonne, NJ
+  - type: bus
+    notes: Reported to the theater meeting spot for the arranged bus transfer, but with no crew direction walked off the ship to find the bus
+activities:
+  - day: 15
+    type: disembarkation
+    description: Walked off the ship carrying all luggage rather than putting suitcases out the night before, then found the transfer bus
+    location: Reykjavik, Iceland
+notable_experiences:
+  - Ended a 12-night cruise from Bayonne, NJ, to Reykjavik, Iceland
+  - First time carrying all luggage off rather than using the night-before luggage drop, expected to become the family norm
 ---
 
 Our 12 night cruise from Bayonne, NJ, to Reykjavik, Iceland, comes to an end.

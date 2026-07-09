@@ -29,6 +29,11 @@ activities:
     location: Omni Amelia Island Resort
 days_at_location:
   Amelia Island: 4
+locations:
+  - name: Amelia Island
+    type: island
+    country: United States
+    notes: First stop of a nine-day drive from the Raleigh-Durham area to Walt Disney World; three-night stay at the Omni Amelia Island Resort
 ---
 
 We checked out of the Omni Amelia Island seven days ago, after staying for three nights. We stayed in room 441, a Deluxe Oceanfront Room with 2 Queen Beds. This was our first hotel on our nine-day vacation from the Raleigh-Durham area down to Walt Disney World.

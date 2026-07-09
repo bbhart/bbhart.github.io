@@ -5,6 +5,17 @@ date: '2019-01-22T17:25:24.017Z'
 categories: travel india
 keywords: []
 slug: /@bbhart_ca/jan-22-2019-253e7bce1806
+location: Bengaluru, India
+locations:
+  - name: Bengaluru
+    country: India
+    region: Karnataka
+accommodations:
+  - name: The Leela
+    location: Bengaluru, India
+    type: accommodation
+weather: Foggy, damp, and cold
+trip_type: business
 ---
 
 Foggy. Damp and cold. That clammy cold which finds its way through clothes and sticks to your skin. Bangalore feels unusually chilly this morning, too chilly for my morning routine of breakfast and laptop outside at the Leela. The upshot is the dampness might’ve knocked down the pollution a bit.

@@ -7,6 +7,69 @@ categories: travel iceland
 tags: [reykjavik, iceland]
 rollup_key: 2024icelandonland
 background: '/assets/20240818-iceland-park.jpg'
+trip_day: 3
+day_type: road_trip
+trip_stage: post-cruise
+locations:
+  - name: Steinar
+    type: rural_area
+    country: Iceland
+    notes: Departed the south coast Airbnb
+  - name: Reykjavik
+    type: city
+    country: Iceland
+accommodations:
+  - name: Rental apartment in Reykjavik
+    location: Central Reykjavik, Iceland
+    night: 3
+    notes: Same set of rental units as the previous year, a different unit; reliable rentals in a great spot but weak check-in instructions
+venues:
+  - name: LAVA Centre Tesla Supercharger
+    type: ev_charger
+    location: Near Hvolsvöllur, South Iceland
+    notes: Charged next to the LAVA Centre; Siena tried a roadside bounce pillow while charging
+  - name: Reykjavik Tesla Supercharger
+    type: ev_charger
+    location: Reykjavik, Iceland
+    url: https://maps.app.goo.gl/RHRBRR6GmEQKHR119
+    notes: Same Supercharger as the previous year; grabbed the last spot just in time
+  - name: The Sun Voyager
+    type: sculpture
+    location: Reykjavik waterfront
+    url: https://en.wikipedia.org/wiki/The_Sun_Voyager
+  - name: Reykjavik City Hall
+    type: landmark
+    location: Reykjavik, Iceland
+  - name: Bónus
+    type: grocery
+    location: Reykjavik, Iceland
+transport:
+  - type: rental_car
+    vehicle: Tesla Model Y
+    notes: Drove from Steinar to Reykjavik with Supercharger stops, then returned the car near the domestic airport and walked back
+dining:
+  - venue: Rental apartment in Reykjavik
+    meal: dinner
+    dishes: Baked pork chops, skillet potatoes, and peas and carrots
+points_of_interest:
+  - name: Tjörnin
+    type: pond
+    location: Central Reykjavik
+    notes: City-center pond passed on the walk
+activities:
+  - Drove from the south coast to Reykjavik with Tesla Supercharger stops
+  - Checked into the Reykjavik rental apartment
+  - Returned the rental car near the domestic airport and walked back
+  - Walked to The Sun Voyager sculpture and along the waterfront toward City Hall
+  - Grocery run to Bónus and a home-cooked dinner
+weather:
+  conditions: Sunny
+  temperature: 51 F
+companions:
+  - family (Sherri, Rowan, and the girls)
+challenges:
+  - Rowan still too sick to get out and about
+  - Reykjavik Supercharger nearly full; grabbed the last spot just before another car had to wait
 ---
 
 Documenting **August 18, 2024**.

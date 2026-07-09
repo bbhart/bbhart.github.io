@@ -18,6 +18,20 @@ activities:
   - type: travel
     description: High-speed bullet train journey from Tokyo to Kyoto
     location: Shinkansen
+locations:
+  - name: Tokyo
+    type: city
+    country: Japan
+  - name: Kyoto
+    type: city
+    country: Japan
+companions:
+  - solo
+notable_experiences:
+  - Confusing Shinkansen ticket machines that are inaccessible to mobile Suica pass users, requiring a customer service agent to issue two physical tickets
+  - Ordering rock-hard ice cream via the Green Car wifi snack service
+  - A tiny onboard urinal room with a transparent folding door
+travel_sentiment: Positive overall on the high-speed train experience despite the ticketing hassle; prefers it to flying once the reduced airport hassle is factored in
 ---
 
 **Tickets**

@@ -6,6 +6,27 @@ date: '2019-01-21T11:25:19.282Z'
 categories: travel india
 keywords: []
 slug: /@bbhart_ca/jan-21-2019-f921ac03e6f1
+location: Bengaluru, India
+locations:
+  - name: San Francisco
+    country: USA
+    region: California
+  - name: Dubai
+    country: United Arab Emirates
+  - name: Bengaluru
+    country: India
+    region: Karnataka
+travel_companions: [Walter, Andy]
+transport:
+  - type: air
+    route: San Francisco to Bengaluru
+    notes: Overnight extended layover in Dubai
+accommodations:
+  - name: Airbnb apartment
+    location: Dubai, United Arab Emirates
+    type: accommodation
+day_type: travel
+trip_type: business
 ---
 
 I’m back in India. Arrived here Saturday evening with two colleagues, Walter and Andy. A few things stand out about the trip from San Francisco to Bengaluru; the rest is the usual travel stuff of hurrying and waiting.

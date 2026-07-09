@@ -6,6 +6,12 @@ date:  2025-01-18
 categories: travel
 tags: [solotravel]
 background: '/assets/20240118-wengen.jpg'
+trip_type: solo
+day_type: planning
+notable_mentions:
+  - ChatGPT for building a skeleton itinerary
+  - booking.com for lodging research
+  - Swiss Half Fare Card
 ---
 
 Recently I saw a post on /r/solotravel on reddit asking, "How important is an itinerary?"

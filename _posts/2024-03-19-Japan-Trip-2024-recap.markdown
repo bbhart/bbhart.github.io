@@ -5,6 +5,11 @@ subtitle: Exploring Tokyo, Kamakura, and Kyoto
 date:  2024-03-19
 categories: travel rollup
 background: '/assets/20240206-kamakura-sugimoto.jpg'
+locations_visited:
+  - Tokyo
+  - Kamakura
+  - Kyoto
+countries_visited: [Japan]
 ---
 
 {% assign sorted_posts = site.posts | where: "rollup_key", "2024japan" | sort: 'date' %}

@@ -9,6 +9,50 @@ rollup_key: 2024icelandcruise
 background: '/assets/20240814-godafoss1.jpg'
 redirect_from:
 - /travel/2024icelandcruise/2024/08/14/Iceland-Cruise-Day-13-Akureyri.html
+trip_day: 13
+day_type: port_day
+locations:
+  - name: Akureyri
+    type: city
+    country: Iceland
+companions:
+  - Sherri
+  - Siena
+  - Rowan
+transport:
+  - type: cruise_ship
+    vessel: Celebrity Eclipse
+    from: At sea
+    to: Akureyri, Iceland
+    notes: Arrived at 8am instead of the scheduled 1pm after skipping Prince Christian Sound
+  - type: shore_excursion
+    notes: Booked tour departing at 2:30pm visiting three sites; the only booked shore excursion of the trip
+venues:
+  - name: Laufás Heritage Site
+    type: historic_site
+    location: Near Akureyri, Iceland
+    url: https://www.akureyriguide.is/portfolio/laufas-heritage-site/
+    notes: 19th century timber church and turf-roofed vicarage, a church site since early Christianity in Iceland
+  - name: Goðafoss Waterfall
+    type: waterfall
+    location: Northern Iceland
+    url: https://www.northiceland.is/en/place/godafoss-waterfall
+  - name: Akureyri Botanical Garden
+    type: garden
+    location: Akureyri, Iceland
+    url: https://www.lystigardur.akureyri.is/en
+    notes: Iceland's first public park, opened in 1912
+activities:
+  - day: 13
+    type: shore_excursion
+    description: Guided tour visiting Laufás Heritage Site, Goðafoss Waterfall, and the Akureyri Botanical Garden
+    location: Akureyri area, Iceland
+notable_experiences:
+  - Only booked shore excursion of the trip
+  - Akureyri, Iceland's second most populous city, felt like a place worth returning to on a Ring Road trip
+challenges:
+  - Brian was still sick during the excursion
+  - Kids had expected hiking and got more history than they wanted
 ---
 
 Akureyri is the second most populated city in Iceland behind Reykjavik. 

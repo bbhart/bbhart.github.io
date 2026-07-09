@@ -6,6 +6,11 @@ date: 2023-06-17
 categories: travel iceland
 rollup_key: 2023iceland
 tags: [june2023]
+locations:
+  - name: Húsafell
+    country: Iceland
+  - name: Reykjavik
+    country: Iceland
 start_location:
   name: "Húsafell Cottage"
   type: "lodging"

@@ -5,6 +5,29 @@ subtitle: A summer 2025 trip to Switzerland and Germany with my 16 year old son
 date:  2025-10-15
 categories: travel rollup
 background: /assets/20250804-appenzell-bg.jpg
+trip_type: rollup
+trip_duration: July 29 - August 12, 2025
+trip_duration_days: 15
+countries_visited:
+  - Switzerland
+  - Germany
+locations_visited:
+  - Zurich, Switzerland
+  - Wengen, Switzerland
+  - Lauterbrunnen, Switzerland
+  - Zermatt, Switzerland
+  - Gornergrat, Switzerland
+  - Appenzell, Switzerland
+  - Füssen, Germany
+  - Garmisch-Partenkirchen, Germany
+  - Munich, Germany
+travel_companions:
+  - Rowan (16-year-old son)
+transport:
+  - transatlantic flights (Delta)
+  - Swiss and German trains
+  - funicular railways
+  - regional buses
 ---
 
 {% assign sorted_posts = site.posts | where: "rollup_key", "2025chde" | sort: 'date' %}

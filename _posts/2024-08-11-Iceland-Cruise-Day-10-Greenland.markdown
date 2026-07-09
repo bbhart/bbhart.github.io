@@ -9,6 +9,58 @@ rollup_key: 2024icelandcruise
 background: '/assets/20240811-greenland2.jpg'
 redirect_from:
 - /travel/cruise/iceland/2024/08/11/Iceland-Cruise-Day-10-Greenland.html
+trip_day: 10
+day_type: port_day
+locations:
+  - name: Qaqortoq
+    type: town
+    country: Greenland
+weather: Drizzly, chilly rain and overcast; storm conditions expected overnight with winds to 50 knots and seas to 15 feet
+companions:
+  - Sherri
+  - Siena
+  - Rowan
+transport:
+  - type: cruise_ship
+    vessel: Celebrity Eclipse
+    from: At sea
+    to: Qaqortoq, Greenland
+    notes: Tendered to shore in Qaqortoq
+venues:
+  - name: Coffee shop near Sermilik Lake
+    type: cafe
+    location: Qaqortoq, Greenland
+    notes: Reached by 9am but found closed to those not on a tour
+  - name: Grocery store
+    type: store
+    location: Qaqortoq, Greenland
+    notes: Hoped to shop and use internet, but language barrier prevented interaction
+activities:
+  - day: 10
+    type: sightseeing
+    description: Tendered ashore, walked up a hill in the rain and took photos of the ship, then tendered back
+    location: Qaqortoq, Greenland
+  - day: 10
+    type: sightseeing
+    description: On departure the captain and pilots took the ship near an iceberg and performed several 360-degree turns for photos and videos
+    location: Off the coast of Qaqortoq, Greenland
+  - day: 10
+    type: celebration
+    description: Cake and singing at main dining for Rowan's birthday, since the family had been at a specialty restaurant the previous night
+    time: Evening
+    location: Celebrity Eclipse
+points_of_interest:
+  - name: Prince Christian Sound
+    type: sound
+    location: Southern Greenland
+    notes: Planned scenic sailing that weather conditions did not allow
+challenges:
+  - Coffee shop near Sermilik Lake was closed to guests not on a tour
+  - Language barrier at the grocery store, with no Greenlandic language pack downloaded for Google Translate
+  - Not prepared with weather-appropriate shoes for the cold rain
+  - Storm conditions and rough seas expected overnight
+notable_events:
+  - Rowan's birthday celebration at main dining
 ---
 
 Something funny about the ship wifi: if you don't pay for a package, they still allow app notifications to leak through. I haven't decided yet whether this is a technical oversight (unlikely), clever bait, and/or a dark pattern. It means you end up with badges on many of your apps (e.g. 30 unread emails, 8 unread Facebook notifications, etc.), which can make a certain personality type anxious 🙄. They do allow for Google Maps updates to come through for free.

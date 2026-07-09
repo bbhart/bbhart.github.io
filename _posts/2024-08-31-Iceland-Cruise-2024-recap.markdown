@@ -7,6 +7,25 @@ categories: travel rollup
 background: '/assets/20240831-stjohns-coast.jpg'
 redirect_from:
 - /travel/batchpost/2024/08/31/Iceland-Cruise-2024-recap.html
+trip_type: rollup
+trip_duration: August 4-16, 2024
+trip_duration_days: 12
+countries_visited:
+  - USA
+  - Canada
+  - Greenland
+  - Iceland
+locations_visited:
+  - Bayonne, New Jersey, USA
+  - Halifax, Nova Scotia, Canada
+  - St. John's, Newfoundland, Canada
+  - Qaqortoq, Greenland
+  - Akureyri, Iceland
+  - Ísafjörður, Iceland
+  - Reykjavik, Iceland
+transport:
+  - Celebrity Eclipse cruise ship (Bayonne, NJ to Reykjavik, Iceland)
+  - flights (Raleigh-Durham to the New York area)
 ---
 
 {% assign sorted_posts = site.posts | where: "rollup_key", "2024icelandcruise" | sort: 'date' %}

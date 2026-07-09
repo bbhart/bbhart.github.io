@@ -7,6 +7,104 @@ categories: travel switzerland
 background: '/assets/zermatt-alpine-lake.jpg'
 redirect_from:
   - /travels/switzerland-2024.html
+trip_type: solo
+trip_duration: July 10-22, 2024
+locations:
+  - name: Zurich
+    country: Switzerland
+    region: Canton of Zürich
+  - name: Wengen
+    country: Switzerland
+    region: Bernese Oberland
+  - name: Brig
+    country: Switzerland
+    region: Valais
+  - name: Zermatt
+    country: Switzerland
+    region: Valais
+  - name: Bettmeralp
+    country: Switzerland
+    region: Valais
+  - name: Thun
+    country: Switzerland
+    region: Bernese Oberland
+countries_visited: [Switzerland]
+hotels:
+  - name: Hotel Alpenruhe
+    location: Wengen, Switzerland
+    type: accommodation
+    url: https://www.alpenruhe-wengen.ch/
+  - name: Hotel de Londres
+    location: Brig, Switzerland
+    type: accommodation
+    url: https://www.hotel-delondres.ch/
+  - name: Hotel Tannenhof
+    location: Zermatt, Switzerland
+    type: accommodation
+  - name: Hotel Waldhaus
+    location: Bettmeralp, Switzerland
+    type: accommodation
+  - name: Hotel Krone Thun
+    location: Thun, Switzerland
+    type: accommodation
+    url: https://en.krone-thun.ch/
+venues:
+  - name: Negishi
+    type: restaurant
+    location: Zurich, Switzerland
+    cuisine: Japanese
+    url: https://www.negishi.ch/en/zuerich-pelikanplatz
+  - name: Pret a Manger
+    type: cafe
+    location: Zurich, Switzerland
+  - name: Pasta and More
+    type: restaurant
+    location: Wengen, Switzerland
+  - name: Restaurant Augenblick
+    type: restaurant
+    location: Brig, Switzerland
+    url: https://www.restaurant-augenblick.ch/
+  - name: Derby
+    type: restaurant
+    location: Zermatt, Switzerland
+  - name: Golden Lok
+    type: restaurant
+    location: Zermatt, Switzerland
+    url: https://goldenlok.ch/
+  - name: Alpina
+    type: restaurant
+    location: Bettmeralp, Switzerland
+  - name: Restaurant Bergdohle Riederalp
+    type: restaurant
+    location: Riederalp, Switzerland
+points_of_interest:
+  - name: Matterhorn
+    type: mountain
+  - name: Aletsch Glacier
+    type: glacier
+  - name: Schloss Thun
+    type: castle
+    url: https://schlossthun.ch/en/
+  - name: Männlichen
+    type: viewpoint
+  - name: Mürren
+    type: village
+transport:
+  - type: air
+    route: RDU to JFK to Zurich
+    carrier: Delta
+  - type: rail
+    notes: Extensive Swiss rail travel between towns; Swiss Half Fare card
+activities:
+  - hiking
+  - train travel
+  - sightseeing
+  - Panorama Trail hike (Männlichen to Kleine Scheidegg)
+  - Mürren to Grütschalp hike
+  - Gourmet Trail hike (Zermatt)
+  - Aletsch Glacier hikes (Riederalp and Bettmeralp)
+  - Schloss Thun castle visit
+travel_sentiment: reflective, at times lonely traveling solo
 ---
 
 Switzerland Trip - July 10 to 22, 2024

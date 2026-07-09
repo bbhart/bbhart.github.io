@@ -8,6 +8,7 @@ rollup_key: 2024wintercaribbean
 tags: [celebrity, cruise, dec2024]
 background:
 published: false
+trip_type: cruise
 trip_stage: pre-trip
 day_type: planning
 notable_mentions:
