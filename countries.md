@@ -18,59 +18,59 @@ live over in the [cruise journal](https://serentistravel.com/journal).
 
 ## Switzerland
 
-- **Appenzell** — Adler Hotel (2025)
-- **Basel** — Hotel Märthof, 3 nights (2023)
-- **Bettmeralp** — Hotel Waldhaus (2024)
-- **Brig** — Hotel de Londres (2024)
-- **Geneva** (Carouge) — ibis Styles Genève Carouge (2019; again 2023)
-- **Interlaken** — Hotel Lötschberg (2019)
-- **Lucerne** — Hotel Drei Könige, 1 night (2023)
-- **Thun** — Hotel Krone Thun (2024)
-- **Wengen** — Hotel Alpenrose (2023); Hotel Alpenruhe (2024); Hotel Bären (2025)
-- **Zermatt** — Hotel Tannenhof (2024); Hotel Albatros (2025)
-- **Zurich** — Hotel City Zürich (2024)
+- **Appenzell** — [Adler Hotel](https://www.adlerhotel.ch/en/home/) (2025)
+- **Basel** — [Hotel Märthof](https://www.hotel-maerthof-basel.ch/en.html), 3 nights (2023)
+- **Bettmeralp** — [Hotel Waldhaus](https://www.waldhaus-bettmeralp.ch/en/) (2024)
+- **Brig** — [Hotel de Londres](https://www.hotel-delondres.ch/en-us) (2024)
+- **Geneva** (Carouge) — [ibis Styles Genève Carouge](https://all.accor.com/hotel/6863/index.en.shtml) (2019; again 2023)
+- **Interlaken** — [Hotel Lötschberg](https://www.lotschberg.ch/en) (2019)
+- **Lucerne** — [Hotel Drei Könige](https://www.drei-koenige.ch/en), 1 night (2023)
+- **Thun** — [Hotel Krone Thun](https://en.krone-thun.ch/) (2024)
+- **Wengen** — [Hotel Alpenrose](https://www.alpenrose.ch/en) (2023); [Hotel Alpenruhe](https://www.alpenruhe-wengen.ch/) (2024); [Hotel Bären](https://www.baeren-wengen.ch/en/) (2025)
+- **Zermatt** — [Hotel Tannenhof](https://tannenhofzermatt.ch/) (2024); [Hotel Albatros](https://hotel-albatros.ch/) (2025)
+- **Zurich** — [Hotel City Zürich](https://hotelcity.ch/en/) (2024)
 
 ## France
 
-- **Chamonix** — Hôtel Mercure Les Bossons, then Heliopic Hotel (2019; Chamonix is in France, near the Swiss border)
+- **Chamonix** — [Big Sky Hotel & Spa Chamonix](https://mercure-les-bossons.hotelsbookingchamonix.com/en/), then [Heliopic Hotel](https://www.heliopic.com/en) (2019; Chamonix is in France, near the Swiss border)
 - **Saint-Nazaire** — 6-week stay building the Celebrity Millennium cruise ship
 
 ## Iceland
 
 - **Húsafell** — Húsafell Cottage, Airbnb (2023)
 - **Laugarvatn area** — Birna's Cottage, Airbnb (2023)
-- **Reykjavik** — Old Reykjavik Charm apartment (two different visits)
+- **Reykjavik** — [Old Reykjavik Charm](https://oldreykjavik.is/) apartment (two different visits)
 - **Steinar / South Coast** — Airbnb (Sept 2024)
 
 ## Japan
 
-- **Kamakura** — Hotel Metropolitan Kamakura, 3 nights (2024)
-- **Kyoto** — Hotel Granvia Kyoto, 2 nights (2024)
-- **Tokyo** (Asakusa) — Asakusa View Hotel Annex Rokku, ~4 nights (2024)
+- **Kamakura** — [Hotel Metropolitan Kamakura](https://kamakura.hotel-metropolitan.com/), 3 nights (2024)
+- **Kyoto** — [Hotel Granvia Kyoto](https://www.granviakyoto.com/en/), 2 nights (2024)
+- **Tokyo** (Asakusa) — [Asakusa View Hotel Annex Rokku](https://www.viewhotels.jp/asakusa-annex/), ~4 nights (2024)
 
 ## Norway
 
-- **Balestrand** — Kviknes Hotel (2025)
-- **Bergen** — Hotel Park (2025)
-- **Oslo** — Clarion Hotel Oslo (2025)
-- **Voss** — Scandic Voss (2025)
+- **Balestrand** — [Kviknes Hotel](https://en.kviknes.no/) (2025)
+- **Bergen** — [Hotel Park](https://www.hotelpark.no/) (2025)
+- **Oslo** — [Clarion Hotel Oslo](https://www.strawberryhotels.com/hotels/norway/oslo/clarion-hotel-oslo/) (2025)
+- **Voss** — [Scandic Voss](https://www.scandichotels.com/en/hotels/scandic-voss) (2025)
 
 ## Denmark
 
-- **Copenhagen** — Copenhagen Strand (2025)
+- **Copenhagen** — [Copenhagen Strand](https://www.copenhagenstrand.com/) (2025)
 
 ## Germany
 
-- **Freiburg im Breisgau** — Courtyard Freiburg, 3 nights (2023)
-- **Füssen** — Best Western Plus Hotel Füssen (2025) — wouldn't recommend
-- **Garmisch-Partenkirchen** — Hyperion Hotel Garmisch-Partenkirchen (2025)
-- **Munich** — Mercure Hotel München Altstadt, then Hilton Munich Airport (2025)
+- **Freiburg im Breisgau** — [Courtyard Freiburg](https://www.marriott.com/en-us/hotels/bslfr-courtyard-freiburg/overview/), 3 nights (2023)
+- **Füssen** — [Best Western Plus Hotel Füssen](https://www.bestwestern.de/en/hotels/Fuessen/Best-Western-Hotel-Fuessen/hotel) (2025) — wouldn't recommend
+- **Garmisch-Partenkirchen** — [Hyperion Hotel Garmisch-Partenkirchen](https://www.h-hotels.com/en/hyperion/hotels/hyperion-hotel-garmisch-partenkirchen) (2025)
+- **Munich** — [Mercure Hotel München Altstadt](https://all.accor.com/hotel/3709/index.en.shtml), then [Hilton Munich Airport](https://www.hilton.com/en/hotels/muctmhi-hilton-munich-airport/) (2025)
 
 ## Italy
 
 - **Mestre** — 6-week stay (mainland Venice) building the Disney Wonder cruise ship
-- **Rome** — Hotel Campo de' Fiori, 3 nights (2026)
-- **Venice** — Aqua Palace, 3 nights (2023)
+- **Rome** — [Hotel Campo de' Fiori](https://www.hotelcampodefiori.com/en/), 3 nights (2026)
+- **Venice** — [Aqua Palace](https://www.aquapalace.it/), 3 nights (2023)
 
 ## United Arab Emirates
 
@@ -78,15 +78,15 @@ live over in the [cruise journal](https://serentistravel.com/journal).
 
 ## India
 
-- **Bengaluru (Bangalore)** — The Oberoi (1 visit), The Leela Palace (2 visits)
+- **Bengaluru (Bangalore)** — [The Oberoi](https://www.oberoihotels.com/hotels-in-bengaluru/) (1 visit), [The Leela Palace](https://www.theleela.com/the-leela-palace-bengaluru) (2 visits)
 
 ## Canada
 
-- **Halifax** — Halifax Marriott Harbourfront; The Westin Nova Scotian
+- **Halifax** — [Halifax Marriott Harbourfront](https://www.marriott.com/en-us/hotels/yhzmc-halifax-marriott-harbourfront-hotel/overview/); [The Westin Nova Scotian](https://www.marriott.com/en-us/hotels/yhzwi-the-westin-nova-scotian/overview/)
 - **Montreal** — Downtown Montreal (don't recall the hotel)
-- **Toronto** — ~8 visits; The Fairmont Royal York (1 visit), Yonge & Eglinton area (the rest, with my now-wife)
-- **Vancouver** — one night before an Alaska cruise
-- **Whistler** — 2 visits; a hostel on Alta Lake, then Pan Pacific Whistler Village Centre
+- **Toronto** — ~8 visits; [The Fairmont Royal York](https://www.thefairmontroyalyork.com/) (1 visit), Yonge & Eglinton area (the rest, with my now-wife)
+- **Vancouver** — [Pan Pacific Vancouver](https://www.panpacific.com/en/hotels-and-resorts/pp-vancouver.html), one night before an Alaska cruise
+- **Whistler** — 2 visits; a hostel on Alta Lake, then [Pan Pacific Whistler Village Centre](https://www.panpacific.com/en/hotels-and-resorts/pp-whistler-village-centre.html)
 
 <!-- Keep the countries in the ItemList below in sync with the ## headings above. -->
 <script type="application/ld+json">
