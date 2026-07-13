@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Switzerland 2024 Day 11"
+subtitle: "Schloss Thun and a more local Swiss vibe"
+date: 2024-07-21
+categories: travel switzerland
+rollup_key: 2024ch
+tags: [july2024]
+background: '/assets/2024-switzerland-day11-river.jpg'
+author: Brian Hart
+description: The final base of the trip — the move to Thun on Lake Thun, a visit to Schloss Thun, the largest hotel room of the trip, and a distinctly local Swiss feel.
+locations:
+  - name: Bettmeralp
+    country: Switzerland
+    region: Valais
+  - name: Thun
+    country: Switzerland
+    region: Bernese Oberland
+accommodation:
+  name: Hotel Krone Thun
+  location: Thun, Switzerland
+  url: https://en.krone-thun.ch/
+points_of_interest:
+  - name: Schloss Thun
+    type: castle
+    url: https://schlossthun.ch/en/
+travel_sentiment: easy, curious
+---
+
+# Day 11
++ **When**: July 21, 2024
++ **Where**: Bettmeralp, Thun
+
+Managed 9 and a half hours of sleep according to my CPAP. I needed catching up, apparently.
+
+Today I wrap up my stay at the lovely Hotel Waldhaus in Bettermalp and make my way to Thun, as I work my way closer to Zurich and my departure airport.
+
+The train rides were uneventful, just like we want it. After some difficulty locating the front door to my hotel, I tried to check in but in this case my room wasn't ready early. No problem. I dropped by main backpack and headed out to explore Thun:
+
+<img src="/assets/2024-switzerland-day11-river.jpg" alt="Covered wooden bridge with tiled roof spans fast-flowing turquoise river; traditional houses and forested hills under partly cloudy sky" width="100%"/>
+
+Dominating the view over Thun is [Schloss Thun](https://schlossthun.ch/en/) (or Thun Castle); it seemed like an obvious destination. I made my way up the hill, paid my entrance fee, and took my time inside the Schloss, enjoying their exhibits and air conditioning.
+
+<img src="/assets/2024-switzerland-day11-schloss.jpg" alt="Red 'Grand Tour of Switzerland' sign frames a river, bridge, Ferris wheel, and historic buildings in Thun." width="100%"/>
+<img src="/assets/2024-switzerland-day11-schloss2.jpg" alt="Circular tower room interior with weathered stone walls, arched windows with brick sills, wooden floor, and panoramic town/landscape view through glass railings." width="100%"/>
+
+After 3 I made my way back down the hill and checked in to the [Hotel Krone Thun](https://en.krone-thun.ch/). My room was large, easily the largest of the trip, and abutted the walkway next to the Aare river that runs through town. After all the walking and Schlossing, I relaxed for a few hours in the room. In early evening I headed back out again to sightsee and rustle up some food.
+
+<img src="/assets/2024-switzerland-day11-hotelroom.jpg" alt="Spacious hotel room with wooden desk, chair, bed, wall-mounted TV, and couch holding black backpack; large windows overlook river and traditional European buildings." width="100%"/>
+<img src="/assets/2024-switzerland-day11-krone.jpg" alt="Cobblestone plaza with historic white buildings featuring arched doorways, flower boxes, a red clock tower, Swiss flag, and stone fountain." width="100%"/>
+
+Thun has a different vibe than the other Swiss cities I've been to. I can't quite put my finger on it but it's more of a locals feel, or more of a Swiss tourists feel rather than international tourists. Not sure. It wasn't *bad* vibes just different vibes. Anyway, I did my now-usual peer-at-restaurants-and-then-end-up-next-door-to-the-hotel, which was fine as there was an Indian restaurant right around the corner. After that, more strolling with gelato in hand, then back to hotel for my last night in Switzerland.

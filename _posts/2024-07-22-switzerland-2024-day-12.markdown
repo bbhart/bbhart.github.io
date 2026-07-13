@@ -1,0 +1,51 @@
+---
+layout: post
+title: "Switzerland 2024 Day 12"
+subtitle: "The long journey home"
+date: 2024-07-22
+categories: travel switzerland
+rollup_key: 2024ch
+tags: [july2024]
+background: '/assets/2024-switzerland-day12-airport.jpg'
+author: Brian Hart
+description: The final travel day — Thun to Zurich Airport, a broken business-class seat across the Atlantic, Global Entry cutting it close, and a low-altitude flight home to Raleigh.
+locations:
+  - name: Thun
+    country: Switzerland
+    region: Bernese Oberland
+  - name: Zurich
+    country: Switzerland
+    region: Canton of Zürich
+  - name: JFK Airport
+    country: United States
+transport:
+  - type: rail
+    route: Thun → Zurich Airport (IC 8, no transfer)
+  - type: air
+    route: Zurich to JFK to RDU
+    carrier: Delta
+travel_sentiment: worn out, glad to be home
+---
+
+# Day 12
++ **When**: July 22, 2024
++ **Where**: Thun, Zurich, NYC JFK airport, home
+
+I slept *horribly* last night, I think from 1:30am to 6am. While the room here at Hotel Krone Thun is nice, the bed is the least comfortable in my time here in Switzerland. I could've blamed it on anxiety about today's travel and my early train, but an 8:30am train isn't *that* early.
+
+The trip was 1h 45m, no problems. I chose a train route that didn't require me to switch at the Zurich main station (not that there aren't trains between there and the airport every 3 minutes). These were my choices:
+
+<img src="/assets/2024-switzerland-day12-schedule.jpg" alt="Two IC 8 train schedule cards for Romanshor direction with Pi. 2, departing at 08:34 (arriving at 10:12/10:14), durations 1h47m/1h49m, price CHF 34.00." width="50%"/>
+<img src="/assets/2024-switzerland-day12-train.jpg" alt="Man in blue polo shirt seated by train window showing station platform; carriage features red headrest seats and seat number 122 visible." width="100%"/>
+
+Zurich Airport was very busy, though people seemed aware of their surroundings and things flowed. Past security the airport has a *giant* outside observation deck where I would've loved to kill some time, but the rain drove me back indoors and I hunkered at my gate instead.
+
+<img src="/assets/2024-switzerland-day12-airport.jpg" alt="Airport terminal platform under solar panel canopy, wet tarmac with parked aircraft at jet bridges, seating areas, and a traveler with luggage" width="100%"/>
+
+The flight was average. My seat was broken, which I only figured out part-way through the flight when I tried to raise it back up to eat and it wouldn't move. The Delta A330 business class seats are not good, and the entertainment system felt like it was 15 years old. Flight attendant Eva was extremely helpful in trying to troubleshoot the issue and then helping me move to a working seat.
+
+Global Entry has an app that will take your photo, but I’m fuzzy on whether that means you don’t then need to use the face scan kiosks? Anyway, as soon as we landed at JFK I did my Global Entry photo, which is good for 60 minutes. Between waiting for a gate, taxiiing, and a half mile walk, I made it with 6 mins left. As usual, Global Entry meant I waited less than 60 seconds to make it past passport control.
+
+I went back to the Delta One lounge here at JFK, which was much less busy this time than last. My connection wasn't scheduled to be very long, maybe 90 minutes, so I ate a dinner and then continued over to my gate only to find out my RDU flight was delayed waiting on crew. We pushed back around 45 minutes late, and then taxied for another 45 mins before taking off. Then we did that thing where we cruised at 6,000 ft most of the way to Raleigh, presumably to avoid weather or ATC problems… or both. I've done this low-flying thing before when coming back from Newark. It's interesting flying so low but it makes the flight at least 1.5x longer, and it'd already been a long day that started with bad sleep in Thun, Switzerland. It's not a complaint, as I realize the alternative is waiting on the ground at JFK for weather and traffic to clear; I'd much rather be on the move.
+
+That's it! Safely back at home, doing laundry and fighting jet lag.

@@ -1,0 +1,51 @@
+---
+layout: post
+title: "Switzerland 2024 Day 10"
+subtitle: "A lighter day above Bettmeralp and one more look at the glacier"
+date: 2024-07-20
+categories: travel switzerland
+rollup_key: 2024ch
+tags: [july2024]
+background: '/assets/2024-switzerland-day10-alesch.jpg'
+author: Brian Hart
+description: A deliberately easy day — a short gondola trip to Bettmergrat for Aletsch Glacier views, lots of hotel reading, and locking in Thun as the final stop.
+locations:
+  - name: Bettmeralp
+    country: Switzerland
+    region: Valais
+  - name: Riederalp
+    country: Switzerland
+    region: Valais
+accommodation:
+  name: Hotel Waldhaus
+  location: Bettmeralp, Switzerland
+points_of_interest:
+  - name: Aletsch Glacier
+    type: glacier
+travel_sentiment: relaxed, low-key
+---
+
+# Day 10
++ **When**: July 20, 2024
++ **Where**: Bettmeralp
+
+I'd planned for a less intense day today. I'm not sunburned but maybe... sun-stressed? I figured my skin and legs could use a lighter day today. I slept in late, then got moving around 9:30. I took the gondola up from Bettmeralp to Bettmergrat. This is right near some incredible viewing spots for the Aletsch glacier. Looking at the map, I really only see one other closer viewing point connected by a lift, and that's at Eggishorn.
+
+<img src="/assets/2024-switzerland-day10-gondola.jpg" alt="Cable car terminal with purple infrastructure, gondolas including one labeled 'BETTMERALP BETTMEHRORN', butterfly-adorned door, and metal grated platform." width="100%"/>
+
+It's almost criminal, I know, but I only spent about 20 minutes up at the top. It was somewhat crowded, and I'd had lots of opportunities during my Riederalp visit to take in the glacier.
+
+<img src="/assets/2024-switzerland-day10-alesch.jpg" alt="A person in blue shirt and backpack overlooks a winding glacier between rocky slopes and snow-capped peaks under partly cloudy sky." width="100%"/>
+<img src="/assets/2024-switzerland-day10-crowds.jpg" alt="Person in blue shirt at stone platform with crowd viewing glacier, snow-covered mountains under clear sky" width="100%"/>
+
+I took the gondola back down, then meandered my way back to Hotel Waldhaus. Most of the day, then, was spent at the hotel, relaxing and reading.
+
+<img src="/assets/2024-switzerland-day10-relax.jpg" alt="Grassy meadow features striped and grey lounge chairs, wooden log railing, tall evergreen trees, snow-capped mountains under bright blue sky with clouds; garden hoses left, foot in sandal visible" width="100%"/>
+
+I did manage to make accommodation plans for tomorrow night, which will be my last stop in Switzerland. Staying in Zurich would be the easiest logistically, but then I remembered how out of place I felt there at the beginning of the trip. Sure, some of that could've been jet lag and travel anxiety, but ideally I'd find a smaller town, somewhere between here and Zurich. I decided on Thun (pronounced 'toon'), which sits on the shore of Lake Thun, one of the two Interlaken lakes. It has around 43,000 people. It'll take around 1h 45m to get from Bettmeralp to there. Then, on Monday, it's around 1h 40m to go from Thun to Zurich airport. There's even an 8:34am train where I don't have to transfer, so I'll be targeting that one. So anyway, that's my final plan locked in.
+
+Late in the afternoon I walked over to Riederalp. Fortunately it's mostly flat. I stopped at [Restaurant Bergdohle Riederalp](https://restaurantguru.com/Restaurant-Bergdohle-Riederalp-Riederalp) again and had another pizza. Besides salads from the Coop grocery store it's the only time I've eaten at the same place twice during this trip. I made a casual stroll back to Bettmeralp.
+
+<img src="/assets/2024-switzerland-day10-church.jpg" alt="Modern building with dark roof and wooden walls beside a tall structure with square top sections; traditional alpine house nearby, snow-capped mountains and green slopes under clear blue sky." width="100%"/>
+
+It's 8pm now as I'm wrapping up this journal entry. I may make one more stroll through town and then read in my room.
