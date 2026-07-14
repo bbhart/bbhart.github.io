@@ -9,6 +9,10 @@ background: '/assets/2007-europe-tangier-ship-from-tender.jpg'
 trip_type: rollup
 trip_duration: April 20 - May 6, 2007
 trip_duration_days: 17
+nights_breakdown:
+  - 14 nights aboard the Celebrity Millennium
+  - 2 nights in Barcelona
+  - 1 night in London
 countries_visited:
   - United Kingdom
   - France
