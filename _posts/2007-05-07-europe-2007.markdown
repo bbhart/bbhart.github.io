@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "European Vacation 2007"
-subtitle: "A 14-day cruise and 3 land days with Sherri -- France, England, Belgium, the Netherlands, Spain, Portugal, Gibraltar, and Morocco."
+subtitle: "A 14-night cruise with Sherri, plus two nights in Barcelona and one in London -- France, England, Belgium, the Netherlands, Spain, Portugal, Gibraltar, and Morocco."
 date: 2007-05-07
 categories: travel rollup
 destination: europe
@@ -42,7 +42,7 @@ transport:
 travel_sentiment: adventurous, wide-eyed, a little travel-weary by the end
 ---
 
-In the spring of 2007, Sherri and I took a 14-night cruise around Western Europe and North Africa aboard the *Celebrity Millennium*. We flew into London, boarded the ship at Southampton, and spent the next two weeks hopping from port to port — France, Belgium, the Netherlands, Spain, Portugal, Gibraltar, and Morocco — before debarking in Barcelona and making our way home through London.
+In the spring of 2007, Sherri and I took a 14-night cruise around Western Europe and North Africa aboard the *Celebrity Millennium*. We flew into London, boarded the ship at Southampton, and spent the next two weeks hopping from port to port — France, Belgium, the Netherlands, Spain, Portugal, Gibraltar, and Morocco — before debarking in Barcelona for two nights and then flying home with a final night in London.
 
 <img src="/assets/2007-europe-tangier-ship-from-tender.jpg" alt="The Celebrity Millennium at anchor on open blue water under scattered clouds, seen from a small tender boat whose wake curves across the foreground." width="100%"/>
 
