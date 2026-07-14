@@ -1,0 +1,46 @@
+---
+layout: post
+title: "European Vacation 2007 Day 14"
+subtitle: "Debarking into Barcelona and Las Ramblas"
+date: 2007-05-03
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+# background: TBD — awaiting media
+author: Brian Hart
+description: Day 14 — the cruise ends in Barcelona; taxi-line chaos, an early check-in at Le Méridien on Las Ramblas, wandering the pedestrian mall, and a traditional-as-possible lunch at the astonishing La Boqueria market.
+locations:
+  - name: Barcelona
+    country: Spain
+    region: Catalonia
+transport:
+  - type: ship
+    route: Debark at Barcelona
+  - type: taxi
+    route: Cruise terminal to Le Méridien Barcelona
+accommodations:
+  - name: Le Méridien Barcelona
+    location: Las Ramblas, Barcelona
+    url: https://www.marriott.com/en-us/hotels/bcnmd-le-meridien-barcelona/overview/
+    notes: Room was ready by 11am — a welcome surprise
+activities:
+  - Wandering Las Ramblas
+  - Lunch inside the La Boqueria market
+travel_sentiment: back on land, energized
+---
+
+# Day 14 — Debark, Barcelona
++ **When**: Thursday, May 3, 2007
++ **Where**: Barcelona
+
+The cruise portion of our vacation is over. The taxi line is chaos; fortunately there's a police officer trying to maintain order and get people into cabs fairly. Still, no lines set up or anything? Disappointing.
+
+We head over to our hotel, [Le Méridien Barcelona](https://www.marriott.com/en-us/hotels/bcnmd-le-meridien-barcelona/overview/), located on [Las Ramblas](https://en.wikipedia.org/wiki/La_Rambla,_Barcelona) (translation: "The Ramblas"), a major tourist drag in Barcelona. It's around 11am, but fortunately a room is ready for us, so up we go.
+
+After settling into the room, we're off to wander Las Ramblas and try to find something to eat. Now, I'm not sure what to compare Las Ramblas to here in the States. Basically it's a large pedestrian mall, stretching probably more than a mile (I'm too lazy to go look it up right now), with north/south traffic on either side. There are pet stores and bodegas scattered here and there along its length, as well as restaurants, and a LOT of those statue/mime people.
+
+By lunch time we were starved, and I was determined to experience as traditional a Spanish meal as possible along Las Ramblas. Enter: [La Boqueria](https://www.boqueria.barcelona/), an amazing market near-ish the hotel. Name an animal or fish: it was here. The energy of this market was something to behold. So were the crowds. Still, we managed to find ourselves at a small restaurant inside the market, along the border. From what I understood, Thursday is paella day in Spain, so I knew that was on the menu for me. I learned how un-fun it is to disassemble an intact cooked shrimp; Sherri learned that Omelet means Quiche in Spain. Lessons learned. Oh! In my 33 years, I never ate a mussel until this day in Spain. It was my attempt to do-as-the-locals-do. It wasn't terrible, it wasn't my favorite, but I now know that if I were dining at an important person's house and they served mussels and I had to eat them to avoid an international incident, I could. So I got that going for me.
+
+More wanderings after lunch. You know us, we like to walk. For dinner we found an Italian place along Las Ramblas that wasn't a complete rip-off, so we went there for an average meal.
+
+Tomorrow: our big touring day in Barcelona.

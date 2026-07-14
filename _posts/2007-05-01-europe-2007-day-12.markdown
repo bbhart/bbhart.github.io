@@ -1,0 +1,84 @@
+---
+layout: post
+title: "European Vacation 2007 Day 12"
+subtitle: "Tangier — the most different place I'd ever been"
+date: 2007-05-01
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+background: '/assets/2007-europe-tangier-medina.jpg'
+author: Brian Hart
+description: Day 12 — Morocco, the strangest and most memorable stop of the voyage; a tender ashore, a bus tour of the countryside, petting a camel, the medina, and a solo lunch of grilled chicken that became one of the best meals of my life.
+locations:
+  - name: Tangier
+    country: Morocco
+transport:
+  - type: ship
+    route: Anchored off Tangier (the only tender port of the trip)
+  - type: boat
+    route: Tender to shore and back
+  - type: bus
+    route: Tour of the area outside Tangier
+activities:
+  - Countryside bus tour
+  - Petting a camel
+  - Wandering the medina
+  - A solo lunch at a local cafe
+travel_sentiment: awed and grateful
+---
+
+# Day 12 — Tangier, Morocco
++ **When**: Tuesday, May 1, 2007
++ **Where**: Tangier
+
+Welcome to Morocco! I should back up and tell you that our Tangier experience began the night before we arrived, when the Captain sent a letter to all the staterooms letting people know that Tangier could be dangerous so don't act like idiot tourists and walk around with a giant map, hundreds of dollars in your hand, three cameras around your neck, etc. Duh. Basically: watch your back. The same advice I've taken to heart everywhere I've been since I was 14. Still, it was enough to give some of the other passengers second thoughts about leaving the ship.
+
+That would've been a shame. I quite enjoyed my day in Morocco. We booked a shore excursion for today, as well, which ended up being a wise idea, as there wasn't much to do near the shore, and there are cab drivers willing to screw you out of money.
+
+This was a relatively early day for us: wake up at 7am to make it to the excursion meeting place, one deck down, by 8am. And it's a good thing we did! Otherwise, we would've been late for leaving the ship an hour-and-a-half later, at 9:30!
+
+It was borderline chaos as this was the only stop on the trip where we weren't actually docked, but had to take a tender boat instead. That means confusion, wait times, etc. It wasn't AS horrible as I anticipated when we first arrived at the meeting point, but still… it did take us 1.5 hrs to leave the ship.
+
+We finally boarded a tender and made our way into Tangier.
+
+<figure>
+    <img src="/assets/2007-europe-tangier-ship-from-tender.jpg" alt="The Celebrity Millennium at anchor on open blue water under scattered clouds, seen from a small tender boat whose wake curves across the foreground." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Our ship, the Celebrity Millennium, anchored off Tangier — the only tender port of the trip.</figcaption>
+</figure>
+
+<figure>
+    <img src="/assets/2007-europe-tangier-from-tender.jpg" alt="Tangier's white hillside town seen across the harbor from a tender boat under a dramatic cloudy sky; passengers sit at the rail in the foreground, one with windblown hair." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Tangier from the tender, photographed by Sherri.</figcaption>
+</figure>
+
+Off the tender and on to our waiting bus. They couldn't get the PA system working (it sounded like they had the gain turned up 300%), so I grew concerned we'd be listening to someone talk through what sounded like a McDonald's drive-thru speaker for 3 hours. Wisely, they moved us to a different bus where the system was working a little better, and off we went.
+
+For the next few hours we toured around the area outside Tangier. I don't know, I was expecting desert conditions… but everything was lush and green. There were obvious signs of poverty, like where it appeared they would build an apartment building, get 92% done, then call it done and let people move in. It was weird. There'd be apartment buildings that were new-ish (but clearly lived in for 5+ years) where there'd still be construction debris piled up…
+
+<figure>
+    <img src="/assets/2007-europe-tangier-king-signs.jpg" alt="A cluster of Moroccan road signs in Arabic and French (Cité Universitaire, Aéroport, Hôpital Mohammed V, Royal Golf) beside a large billboard portrait of King Mohammed VI, with palm trees and white buildings behind." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Road signs beneath a portrait of King Mohammed VI — his image is everywhere in Tangier.</figcaption>
+</figure>
+
+We stopped at several places where we could buy trinkets. I'm sure there's a little arrangement between the vendors and the tour company owners and guides.
+
+The scenery is quite stunning in places.
+
+<figure>
+    <img src="/assets/2007-europe-tangier-medina.jpg" alt="Tangier's whitewashed medina climbs a hillside above the harbor and its stone breakwater, boats moored below, under a sky of broken storm clouds." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Tangier's whitewashed medina rising above the harbor.</figcaption>
+</figure>
+
+At one stop I paid $1 US to pet a camel. I found out later that it was possible to pay to RIDE one of the other camels. I wanted to do that!!
+
+The last part of the tour was a walk through the medina area, near where we re-board the tender ships. It was so unbelievably cool! I fully expected to round a corner and end up in the first Indiana Jones movie. "Bad dates."
+
+There's no way I'll be able to reproduce the experience of walking through the medina for you here… I'm simply not that accomplished a writer. It was amazing, though. I took every opportunity to pause and soak up the experience; it was the most different place I've been so far in life. It wasn't particularly clean, you would get a lot of stares, and the merchants were relentless in trying to sell their wooden camels, bracelets, handbags, toy drums, and wallets. It was authentic, though, and I savored that.
+
+Anyways, the tour was over and I wasn't ready to leave, so Sherri and I parted company (she headed back to the ship with the tour), and I headed back in the medina to wander around and grab a bite to eat. I stopped at a cafe and found a nice table for one outside that faced the main street. This was NOT a tourist's restaurant -- there wasn't a big menu board by the street with laminated photos and someone trying to wave you in to the restaurant; it was on its own and unassuming. The waiter and I did not know each other's language, but I was able to determine that a chicken dish was available and that I'd like one please. So I had my grilled chicken, french fries, and some sort of olive dish, plus a Coke, and watched Tangier life. It was one of the better meal experiences I've ever had in my life — not for the food, though it was satisfying, but for the atmosphere of the bustling market, the weather, and the friendliness of most of the people I encountered. I also felt very fortunate for everything I had in life.
+
+Towards the end of my meal, Dave and Pat walked by… not entirely unexpected, given our previous encounters. I finished my meal and returned to the ship with them, and that was it for Morocco.
+
+One more sea day (you know what happens on THOSE) and then the cruise is over.
+
+Next stop: Barcelona, where we debark.

@@ -1,0 +1,41 @@
+---
+layout: post
+title: "European Vacation 2007 Day 7"
+subtitle: "La Rochelle didn't quite WOW me"
+date: 2007-04-26
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+background: '/assets/2007-europe-larochelle-city-hall.jpg'
+author: Brian Hart
+description: Day 7 — a pleasant but underwhelming stop in La Rochelle, France, where the day amounted to walking, shopping, an overpriced paperback, and Thai food instead of yet another lookalike bistro.
+locations:
+  - name: La Rochelle
+    country: France
+transport:
+  - type: ship
+    route: Docked at La Rochelle
+travel_sentiment: underwhelmed
+---
+
+# Day 7 — La Rochelle, France
++ **When**: Thursday, April 26, 2007
++ **Where**: La Rochelle
+
+I was expecting more from La Rochelle. It wasn't bad, per se, but it didn't WOW me, either. There didn't seem to be anything to DO here except walk around and shop. Like other days, we walked, a lot. We popped into a few shops. Sherri bought an English-language paperback for 12 Euros (US$17 or so). We strolled past restaurant after restaurant that all seemed to serve the same dishes and feature the same atmosphere.
+
+… so we went Thai instead. Overall… dunno, this port just didn't do it for me. In all fairness to the people of La Rochelle, it was probably me, not you.
+
+<figure>
+    <img src="/assets/2007-europe-larochelle-street-brian.jpg" alt="Brian, in a striped sweater and sunglasses, stands on a cobbled pedestrian street in La Rochelle lined with pale stone buildings, shop signs, café tables, and parked scooters." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Brian on a pedestrian street in La Rochelle, France.</figcaption>
+</figure>
+
+<figure>
+    <img src="/assets/2007-europe-larochelle-city-hall.jpg" alt="The fortified Gothic-Renaissance Hôtel de Ville of La Rochelle, with a tall clock-and-bell tower, crenellated stone walls, and French and EU flags; a crowd gathers at the entrance." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">The Hôtel de Ville (city hall) of La Rochelle, France.</figcaption>
+</figure>
+
+We _didn't_ manage to run into the boys at this port, somehow, though we were expecting to. Hmmm… the fact that we were expecting to probably meant that we wouldn't. That's how that works, right?
+
+Tomorrow: Bilbao, our first stop in Spain. A peaceful river stroll, the world famous Guggenheim/Bilbao, a dirty beer glass?, and lots and lots of photos.

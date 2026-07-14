@@ -1,0 +1,68 @@
+---
+layout: post
+title: "European Vacation 2007 Day 5"
+subtitle: "Walking Amsterdam, a canal tour, and a scenic sail-away"
+date: 2007-04-24
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+background: '/assets/2007-europe-amsterdam-bikes.jpg'
+author: Brian Hart
+description: Day 5 — no shuttles needed as the ship docks right in Amsterdam; a day of walking, a canal tour, a fruitless hunt for Internet, another run-in with Dave and Pat, and a Scotch on the balcony as the countryside slips by.
+locations:
+  - name: Amsterdam
+    country: Netherlands
+transport:
+  - type: ship
+    route: Docked in Amsterdam
+  - type: boat
+    route: Amsterdam canal tour
+activities:
+  - Walking tour of Amsterdam
+  - Canal boat tour
+  - Scenic sail-away down the river
+travel_sentiment: relaxed and content
+---
+
+# Day 5 — Amsterdam, The Netherlands
++ **When**: Tuesday, April 24, 2007
++ **Where**: Amsterdam
+
+No shore excursions planned for today. Cruise ships dock in Amsterdam itself, so no shuttle buses or trains are required, simply a 10 to 15 minute stroll along the water. This is the view from our stateroom veranda towards the city. The building you see in the background is the central train station. Walk there, make a left, and you're in Amsterdam.
+
+<figure>
+    <img src="/assets/2007-europe-amsterdam-canal-brian.jpg" alt="Brian, in a black sweater and sunglasses, stands on a bridge over an Amsterdam canal lined with trees, gabled houses, parked cars, and bicycles; a red 'Sexy Amsterdam' sign is visible on the right." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Brian along a canal in Amsterdam.</figcaption>
+</figure>
+
+This was the third day in a row where we walked.
+
+And walked…
+
+And walked…
+
+…and walked and walked and walked. Oh! But we did take a canal tour like uber-tourists. And so we toured:
+
+<figure>
+    <img src="/assets/2007-europe-amsterdam-canal-houses.jpg" alt="A row of ornate Amsterdam canal houses with red-and-white brick facades, white trim, and stepped gables, framed by bright green spring trees; bicycles and vans parked below." width="100%"/>
+</figure>
+
+<figure>
+    <img src="/assets/2007-europe-amsterdam-bikes.jpg" alt="Two bicycles leaning against the black iron railing of an Amsterdam canal bridge, with a tree-lined canal, gabled houses, and pedestrians stretching into the distance." width="100%"/>
+</figure>
+
+And then we drank.
+
+As you can see, we managed to link up with Dave and Pat again. As with Belgium, we were just walking along and there they were.
+
+One of the best parts of the Amsterdam day was watching the sail-away. You're basically cruising along a river as the countryside slips by you.
+
+I poured a Scotch and sat on the balcony for a few hours and had a grand old time. We even had some rowers catch up to the ship!
+
+Amazing. A bunch of people were out on their verandas and on the top deck cheering them on. I didn't think to pull out my GPS to see how fast they were rowing until it was too late.
+
+All in all, an excellent city and an excellent day. We struck out trying to find Internet today. When we finally found an '@' sign, the man inside said they were closed. Open door, but the place is closed. Mid-day on a week day. Go figure. Oh, and if you're wondering, no I didn't ask to see "the menu".
+
+Tomorrow we recover, for it is Sea Day #1. Some passengers love sea days; I do not. I'm bored and it's too crowded. Most of the crew hates sea days, too, with the exception of the retail management and casino personnel.
+
+Next entry: our triumphant return to France after all that time, with a visit to La Rochelle.

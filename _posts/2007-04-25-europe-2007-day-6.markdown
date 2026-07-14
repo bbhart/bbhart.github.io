@@ -1,0 +1,32 @@
+---
+layout: post
+title: "European Vacation 2007 Day 6"
+subtitle: "Sea Day #1 and the serendipitous dress shirt"
+date: 2007-04-25
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+# background: TBD — awaiting media
+author: Brian Hart
+description: Day 6 — the first sea day, the first formal night, and a last-minute rescue when the ship's shops turn out to sell the dress shirt I'd failed to find in Paris, Belgium, or Amsterdam.
+locations:
+  - name: At sea
+transport:
+  - type: ship
+    route: Sea day en route to La Rochelle
+travel_sentiment: bored but tidy
+---
+
+# Day 6 — Sea Day #1
++ **When**: Wednesday, April 25, 2007
++ **Where**: At sea
+
+I lied in the last post. I thought I'd skip right to La Rochelle, but I might as well mention sea day.
+
+What can I say… it's a sea day. Sleep in late, annoy the housekeeping staff, try to find a free table in the buffeteria, read, pop by the casino, hope for better weather.
+
+This is our first formal night. Like an idiot I left dressy shirts at home, because they weren't on my super terrific checklist, so I had to buy one. I searched Paris, Belgium, and Amsterdam, and wasn't able to find one. Either the stores were closed (they take the Canadian approach to Sundays) or ridiculously expensive. Then, the night before, I was walking through the retail area on the ship and lo and behold, they were selling dress shirts. And they had my size! Talk about serendipity. At $30 it's not the finest piece of apparel in my wardrobe, but it got the job done. All I had to do was keep my jacket closed so people wouldn't see all the wrinkles!
+
+The ship's photo staff took our picture during dinner. When we saw the results the next day, we chose to pass. It would be this way for the other two formal nights as well. I swear that the two of us can't seem to look good in the same photo.
+
+So that was sea day. Tomorrow we're back on dry land in La Rochelle, France.

@@ -1,0 +1,59 @@
+---
+layout: post
+title: "European Vacation 2007 Day 3"
+subtitle: "Le Havre and a jet-lagged bus dash to Paris"
+date: 2007-04-22
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+background: '/assets/2007-europe-paris-arc-de-triomphe-brian.jpg'
+author: Brian Hart
+description: Day 3 — a jet-lagged early shore excursion, a slow 2.5-hour bus ride into Paris, a whirlwind walking tour of the city's highlights, and a first fancy dinner aboard with new tablemates.
+locations:
+  - name: Le Havre
+    country: France
+  - name: Paris
+    country: France
+transport:
+  - type: ship
+    route: Docked at Le Havre
+  - type: bus
+    route: Le Havre to Paris and back
+    notes: About 2.5 hours each way; a notably slow driver on the way in
+activities:
+  - Walking tour of Paris (Eiffel Tower, Arc de Triomphe, Champs-Élysées, Louvre, Notre Dame, the Seine)
+  - First formal dining-room dinner aboard
+travel_sentiment: jet-lagged but game
+---
+
+# Day 3 — Le Havre, France and the Paris road trip
++ **When**: Sunday, April 22, 2007
++ **Where**: Le Havre and Paris
+
+This is jetlag day, and we have an early shore excursion. This should be fun.
+
+The boat docks in Le Havre, France. This is my second trip to Le Havre. The other visit was for dinner only, six years ago, when I worked for Celebrity/Royal Caribbean. I see an equally limited amount of the city this visit.
+
+We wake up at a time our bodies perceive to be 2am and prepare ourselves for a long day. Geographically, Paris is not near the ocean, which is damn inconvenient for cruise ship passengers. This means a 2 1/2 hour bus ride, each way.
+
+We board the bus, score sweet seats toward the front near another couple (Dave & Pat) we met while waiting to leave the ship, then proceed to poke along to Paris at around 50 mph. A fast driver, this man was not, and since the snail's pace is seriously cutting into our touring time, the bus crowd grows restless. A coup is avoided when the tour guide pushes our departure time from Paris to 5pm after some suggestion of partial refund by Dave.
+
+Anyway, we finally arrive, and we're off touring, tagging along with Dave & Pat.
+
+<figure>
+    <img src="/assets/2007-europe-paris-eiffel-tower-brian.jpg" alt="Brian, in a black striped polo and khaki shorts, stands smiling on the Trocadéro terrace with the Eiffel Tower rising behind him against a clear blue sky." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Brian at the Eiffel Tower, seen from the Trocadéro, Paris.</figcaption>
+</figure>
+
+<figure>
+    <img src="/assets/2007-europe-paris-arc-de-triomphe-brian.jpg" alt="Brian, in a blue-striped polo, stands on a tree-lined plaza with the Arc de Triomphe and its carved reliefs behind him and cars circling the monument." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Brian at the Arc de Triomphe, Paris.</figcaption>
+</figure>
+
+We walked… a LOT. We were amongst fast walkers. David is a former tour guide. Sherri is, well, Sherri… zipping around as she does. We hit many hotspots in a compressed timeframe. This was a solid exercise day.
+
+At 5pm we reboard the bus. Like an old horse heading back to the barn, the driver picked up the pace on the return trip to Le Havre. Once back on the ship we manage to drag ourselves down to the main dining room for our first fancy meal. We ended up sitting with a lovely couple from near Manchester, England, Robin & Renee, and another couple, Bruno & Sandra, from Australia, who live about 3 miles down the road from Steve Irwin's Croc Zoo.
+
+I'm quite sure after the 2-hour dinner I was thoroughly exhausted. I'm also quite sure I found a little time for blackjack at the casino before turning in.
+
+Next stop: Belgium. Amazing waffles, more trains, the devil beer, and the departure of the Australians.

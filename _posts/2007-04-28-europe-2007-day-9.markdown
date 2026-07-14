@@ -1,0 +1,24 @@
+---
+layout: post
+title: "European Vacation 2007 Day 9"
+subtitle: "Sea Day #2"
+date: 2007-04-28
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+# background: TBD — awaiting media
+author: Brian Hart
+description: Day 9 — the second sea day, faithfully reported in full.
+locations:
+  - name: At sea
+transport:
+  - type: ship
+    route: Sea day en route to Lisbon
+travel_sentiment: bored
+---
+
+# Day 9 — Sea Day
++ **When**: Saturday, April 28, 2007
++ **Where**: At sea
+
+Nothing happens on sea days. Move along.

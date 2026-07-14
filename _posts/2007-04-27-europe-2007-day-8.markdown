@@ -1,0 +1,64 @@
+---
+layout: post
+title: "European Vacation 2007 Day 8"
+subtitle: "Bilbao, the Guggenheim, and a river walk promenade"
+date: 2007-04-27
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+background: '/assets/2007-europe-bilbao-riverwalk.jpg'
+author: Brian Hart
+description: Day 8 — a pleasant surprise in Bilbao, Spain, with the Guggenheim, a long river walk promenade, shrimp-intact paella, a rainbow before the storm, and locals gathered to watch the ship depart.
+locations:
+  - name: Bilbao
+    country: Spain
+    region: Basque Country
+transport:
+  - type: ship
+    route: Docked near Bilbao
+  - type: bus
+    route: Port to downtown Bilbao
+    notes: A hilly shuttle trip, and the usual pier shuttle chaos
+activities:
+  - Guggenheim Museum Bilbao
+  - River walk promenade
+  - Paella lunch
+travel_sentiment: pleasantly surprised
+---
+
+# Day 8 — Bilbao, Spain
++ **When**: Friday, April 27, 2007
++ **Where**: Bilbao
+
+Bilbao was great! I don't know what I was expecting, but it was exceeded. It's a crazy hilly shuttle bus trip from the port into downtown Bilbao. We endured more shuttle bus chaos at the pier. If the shuttle is half full and there are FOUR other buses parked, waiting… maybe we can go ahead and leave? Just askin'.
+
+We get off in Bilbao and head immediately towards the Guggenheim:
+
+<figure>
+    <img src="/assets/2007-europe-bilbao-guggenheim-brian.jpg" alt="Brian, in a black polo and khaki shorts, stands at a stone railing in front of Frank Gehry's Guggenheim Museum Bilbao, its curving titanium panels gleaming above the river." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Brian at the Guggenheim Museum Bilbao. Obviously I have no idea what to do with my hands.</figcaption>
+</figure>
+
+The museum is down by the river, where they have an excellent river walk promenade. So we strolled…
+
+<figure>
+    <img src="/assets/2007-europe-bilbao-riverwalk.jpg" alt="A wide tiled riverside promenade in Bilbao beside the Nervión river, with palm trees, tall modern sculptures, apartment blocks, and green hills rising under a blue sky." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">The river walk promenade along the Nervión in Bilbao.</figcaption>
+</figure>
+
+... then left the river walk and aimed toward town.
+
+Finally we stopped for a late lunch. I had paella, forgetting they leave the shrimps intact. 🦐
+
+Not much time left after lunch, plus a storm was a-brewin', so we headed back to the ship. The stormy skies generated an arc or circle that exhibits in concentric bands the colors of the spectrum and that is formed opposite the sun by the refraction and reflection of the sun's rays in raindrops, spray, or mist.
+
+A bunch of locals were gathered to see the ship depart.
+
+<figure>
+    <img src="/assets/2007-europe-bilbao-breakwater.jpg" alt="Crowds of people line a stone breakwater topped by a white lighthouse at the mouth of Bilbao's harbor, with the town and green hills across the water under a hazy sky." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Locals gathered on the breakwater to watch the ship depart, Bilbao.</figcaption>
+</figure>
+
+That was our day in Bilbao. I'll go ahead and write about sea day #2: nothing happened. It's a sea day.
+
+Next stop: Lisbon, Portugal!

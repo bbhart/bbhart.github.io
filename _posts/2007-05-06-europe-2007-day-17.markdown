@@ -1,0 +1,32 @@
+---
+layout: post
+title: "European Vacation 2007 Day 17"
+subtitle: "The long flight home"
+date: 2007-05-06
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+# background: TBD — awaiting media
+author: Brian Hart
+description: Day 17 — an early start and a business-class glide past the wall of Gatwick lines, a quick flight home, and an easy reunion with luggage and car in Newark before the drive home. Seventeen days done.
+locations:
+  - name: London-Gatwick Airport
+    country: United Kingdom
+  - name: Newark Liberty International Airport
+    country: United States
+transport:
+  - type: air
+    route: London-Gatwick to Newark (EWR)
+    notes: Business class — check-in and security were a breeze
+  - type: car
+    route: Newark Airport to home
+travel_sentiment: weary, grateful, home
+---
+
+# Day 17 — Return home
++ **When**: Sunday, May 6, 2007
++ **Where**: Gatwick to Newark to home
+
+We're up around 7am for our 10-something flight. Since we're flying Business class, check-in and security are a breeze, which is extremely fortunate, as there are many lines in Gatwick that wrap around corners. It's a wall of people, but we dodge it all because of our Elite SpecialPerson I-used-points-for-business-class status. The flight goes quickly, we recover our luggage and car in Newark with a minimum of fuss, and hit the road for home.
+
+And that's it — seventeen days, one ship, and a lot of walking. Thanks for coming along.

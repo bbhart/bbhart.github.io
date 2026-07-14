@@ -1,0 +1,58 @@
+---
+layout: post
+title: "European Vacation 2007 Day 15"
+subtitle: "A big touring day — Sagrada Família and Bonanova"
+date: 2007-05-04
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+background: '/assets/2007-europe-barcelona-sagrada-familia.jpg'
+author: Brian Hart
+description: Day 15 — Barcelona's big sightseeing day aboard the red tourist bus, with La Pedrera and the Sagrada Família, a long lunch of pizza and cava, and a memorable neighborhood dinner at Restaurante Bonanova.
+locations:
+  - name: Barcelona
+    country: Spain
+    region: Catalonia
+transport:
+  - type: bus
+    route: Barcelona hop-on hop-off tourist bus
+activities:
+  - La Pedrera (Casa Milà)
+  - Sagrada Família
+  - Dinner at Restaurante Bonanova
+accommodations:
+  - name: Le Méridien Barcelona
+    location: Las Ramblas, Barcelona
+venues:
+  - name: Restaurante Bonanova
+    type: restaurant
+    location: Sant Gervasi, Barcelona
+    url: https://www.restaurantebonanova.com/
+travel_sentiment: full and happy
+---
+
+# Day 15 — Full day in Barcelona
++ **When**: Friday, May 4, 2007
++ **Where**: Barcelona
+
+The next day was our big touring day. We had a bite to eat after walking around for awhile, then rode the big red tourist bus around the city.
+
+Note that so far I haven't shared many photos. At this point in the vacation we only had room for about 12 pictures for the whole rest of the trip. I had filled 2 x 1gb chips. We did manage to snap pics at La Pedrera:
+
+<figure>
+    <img src="/assets/2007-europe-barcelona-la-pedrera.jpg" alt="Gaudí's La Pedrera (Casa Milà) in Barcelona, an undulating pale stone façade with wavy balconies of twisted wrought iron and a sculpted rooftop, framed by green trees." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">La Pedrera (Casa Milà), Barcelona.</figcaption>
+</figure>
+
+And Sagrada Família:
+
+<figure>
+    <img src="/assets/2007-europe-barcelona-sagrada-familia.jpg" alt="The Sagrada Família in Barcelona under construction, its stone spires and pinnacles surrounded by tall yellow tower cranes against a partly cloudy sky." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">The Sagrada Família, Barcelona — still very much under construction in 2007.</figcaption>
+</figure>
+
+Late afternoon Sherri and I stopped into an Italian place east of Las Ramblas for a late lunch, managing to polish off a pizza, an insalata caprese, and a bottle of cabernet. Feeling fine from lunch, we rode the tourist bus around some more, then made our way back to the hotel.
+
+Dinner was at [Restaurante Bonanova](https://www.restaurantebonanova.com/), a recommendation from high school friend Charlie Poe, who has extensive Barcelona experience. Bonanova was definitely an experience. First, there was a language barrier. We managed to sufficiently overcome that. We perused the menu but it was merely letters on a page to us. Instead, we went with the recommended specials. Sherri and I both enjoyed a salad with strange seafoods. I had lamb for the main course -- with white asparagus, a first -- while Sherri had some sort of fish. For dessert, I had this dish that looked like a Klondike bar with more chocolate drizzled all over it. Excellence. The whole time the staff was very friendly and understanding of our language differences. I sensed that Bonanova is truly a neighborhood restaurant… the staff knew many of the people who dined there. It will be on my list for a return visit.
+
+Tomorrow: off to London.

@@ -1,0 +1,24 @@
+---
+layout: post
+title: "European Vacation 2007 Day 13"
+subtitle: "Sea Day #3 — eating, packing, tipping"
+date: 2007-05-02
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+# background: TBD — awaiting media
+author: Brian Hart
+description: Day 13 — the third and final sea day, given the coverage it deserves.
+locations:
+  - name: At sea
+transport:
+  - type: ship
+    route: Final sea day en route to Barcelona
+travel_sentiment: ready to be on land
+---
+
+# Day 13 — Sea Day
++ **When**: Wednesday, May 2, 2007
++ **Where**: At sea
+
+The third and final sea day. There was a ton of activity today! Eating, packing, tipping…

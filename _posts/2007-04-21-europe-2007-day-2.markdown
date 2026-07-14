@@ -1,0 +1,50 @@
+---
+layout: post
+title: "European Vacation 2007 Day 2"
+subtitle: "Untangling the English rail system, then embarking at Southampton"
+date: 2007-04-21
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+# background: TBD — awaiting media
+author: Brian Hart
+description: Day 2 — a sleepless arrival at Gatwick, a confusing scramble through the southern England rail network with two weeks of luggage, and finally boarding the Celebrity cruise ship at Southampton.
+locations:
+  - name: London-Gatwick Airport
+    country: United Kingdom
+  - name: Chichester
+    country: United Kingdom
+  - name: Southampton
+    country: United Kingdom
+transport:
+  - type: rail
+    route: Gatwick to Southampton via Chichester
+    notes: Southern England rail; multiple competing operators over the same tracks
+  - type: taxi
+    route: Southampton Central to the cruise terminal
+  - type: ship
+    route: Embark at Southampton
+    carrier: Celebrity Cruises
+    vessel: Celebrity Millennium
+travel_sentiment: exhausted but aboard
+---
+
+# Day 2 — UK
++ **When**: Saturday, April 21, 2007
++ **Where**: Gatwick, Chichester, and Southampton
+
+There's a looooong line for customs, AND we haven't slept, but at least we've deodorized. Some others in line, not so much. Next we gather our belongings and attempt to navigate the southern England rail system.
+
+Here's where I tangent for a moment. I'm not quite sure how the UK rail system evolved. It seems there are different companies providing competing services over the same rail. For example, if you want to go from Gatwick Airport to London-Victoria, you can take the Gatwick Express, Southern Rail, and others, I'm sure. Gatwick Express has special Gatwick Express rail cars, a man comes down the aisle selling food and drink stuffs, and there are no stops. Alternately, you can pay a little less and take Southern Rail, who have their own cars, no f&b cart guy, and they make a few stops along the same journey. You'll start in the same terminal, use the same rails, and end in the same terminal, but two different companies are providing this service. But you'll buy your ticket for any of the rails from the same ticket stall, and all of the rail network infrastructure is provided by Network Rail.
+
+Got it? Good. I don't.
+
+The reason I mention all of this is because it was all very confusing to us when, after not having slept, we tried to navigate the rail system with our two weeks' worth of luggage. First we couldn't figure out which train platform we needed to be on. Then we weren't super confident which train to get on. Then when we got on one we didn't think it was the right one so we hopped back off. But a minute after it left the friendly rail person told us that it HAD been the right one… and there'd be another one in an hour. Sigh. Fast forward an hour and a half to Chichester (which is quite fun to say), the end of the line on the train we ended up hopping onto.
+
+Next train that would continue on to Southampton was in an hour, so we were in for a wait. Long story short (too late?) we made it to Southampton in one piece, with only minor physical and mental scarring. The 5-minute taxi ride from Southampton Central to the cruise terminal made me super glad we didn't try the Gatwick->Southampton drive, as I think it would've been a bit dicey.
+
+The cruise terminal was uneventful. We noticed many other people carrying cruise booklets, the same booklets we were told by Celebrity personnel on the phone two weeks prior that they don't send out anymore. :( But finally we're onboard! Exhausted, but onboard. 
+
+Time to hit the buffet. It's been a long day.
+
+Tomorrow: Paris!

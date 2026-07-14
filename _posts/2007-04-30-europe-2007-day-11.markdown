@@ -1,0 +1,74 @@
+---
+layout: post
+title: "European Vacation 2007 Day 11"
+subtitle: "The Rock of Gibraltar — my favorite port of the trip"
+date: 2007-04-30
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+background: '/assets/2007-europe-gibraltar-rock-brian.jpg'
+author: Brian Hart
+description: Day 11 — Gibraltar wins the trip with the right mix of walking, riding, scenery, beer, and monkeys; too windy for the cable car, St. Michael's Cave, the Barbary apes, the Siege Tunnels, and the runway you drive across to reach Spain.
+locations:
+  - name: Gibraltar
+    country: United Kingdom
+transport:
+  - type: ship
+    route: Docked at Gibraltar
+  - type: taxi
+    route: Up the Rock (cable car was too windy to run)
+  - type: bus
+    route: Down the Rock to the Siege Tunnels
+activities:
+  - St. Michael's Cave
+  - Barbary apes atop the Rock
+  - Great Siege Tunnels
+travel_sentiment: this was the one
+---
+
+# Day 11 — Gibraltar, UK
++ **When**: Monday, April 30, 2007
++ **Where**: Gibraltar
+
+The Rock. No, not the high-energy Sean Connery/Nicolas Cage vehicle… this time we're talking about the Rock of Gibraltar.
+
+The sea was angry that day my friends. Like an old man trying to send back soup at a deli. Undaunted, I made my way to the top deck to admire the view. Since Sherri was nestled into bed reading a book, a kind Asian man wielded the family camera and squeezed off this shot:
+
+<figure>
+    <img src="/assets/2007-europe-gibraltar-rock-brian.jpg" alt="Brian, in a black sweater, stands smiling on the ship's top deck behind the white railing and a satellite dome; the Rock of Gibraltar rises across the water under a cloudy sky." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Brian on the top deck as the ship approaches the Rock of Gibraltar.</figcaption>
+</figure>
+
+I've given it some thought, and Gibraltar is my overall favorite port of the trip. This day had the right mix of walking, riding, scenery, beer, and monkeys. I wouldn't want more or less of any of those.
+
+We were booked into a shore excursion here, which ended up working out for the best. We were supposed to take a cable car to the top of the rock, walk down some, and then a tour bus would pick us up and take us the rest of the way down. Only, it was too windy for the cable car. So if we HADN'T booked a tour, we would've been on the hook for hiring a cab to make it up to the top, which could get expensive. Instead, our cab took us up the rock.
+
+First stop was St. Michael's Cave, where they have an indoor theater!
+
+Outside the caves is where we had our first taste (so to speak) of the Barbary apes. This guy's telling me a story:
+
+<figure>
+    <img src="/assets/2007-europe-gibraltar-ape-brian.jpg" alt="Brian, in a navy striped polo, crouches beside a Barbary macaque perched on a stone wall atop the Rock of Gibraltar, with the harbor and bay far below through the trees." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Brian and a Barbary macaque atop the Rock of Gibraltar.</figcaption>
+</figure>
+
+We walked downhill for awhile, dodging taxis on the narrow road. Then the bus picked us up and took us over to the Siege Tunnels.
+
+<figure>
+    <img src="/assets/2007-europe-gibraltar-siege-tunnels.jpg" alt="Inside the Great Siege Tunnels of Gibraltar: a whitewashed rock wall painted 'THE GREAT SIEGE TUNNELS' in red, beside a uniformed red-coated soldier mannequin standing on wooden barrels." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">The Great Siege Tunnels, Gibraltar.</figcaption>
+</figure>
+
+The Siege Tunnels are neat. There are stellar views from the cutouts in the tunnels. You can even see the frontier and Gibraltar's unique airport from there.
+
+See the road across the runway? That's the one and only way from Gibraltar into Spain, and is known as the Frontier… which, instead of reminding me of the Old West, always reminds me of The Last Starfighter instead. Anyway, they have to stop car and pedestrian traffic every time they want to land a plane.
+
+Another interesting tidbit: many people come over from Spain to buy gas in Gibraltar because it's cheaper.
+
+After the tour, we stopped into the main square for a beer and a snack at Latino's. Is 30 minutes too long to wait for garlic cheese bread? Me thinks so. I was wearing the cheapo shades I haggled from a Paris vendor for $6, sitting a little too high on my face. There was even a fancy Burger King on the square.
+
+Obviously the weather cleared up in a hurry and the skies were beautiful. Back on the ship, I snapped a few photos while we left Gibraltar.
+
+As you can tell, it was a memorable day. Gibraltar is definitely a place I'd like to visit again. Next time, hopefully I can remember to book a tour of the World War II tunnels, which are part of a separate tour.
+
+Tomorrow is Tangier, Morocco, the strangest city on our voyage. Watch me as I pet the camel! That's not a euphemism.

@@ -1,0 +1,61 @@
+---
+layout: post
+title: "European Vacation 2007 Day 4"
+subtitle: "Waffles, devil beer, and quaint Brugge"
+date: 2007-04-23
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+background: '/assets/2007-europe-brugge-canal.jpg'
+author: Brian Hart
+description: Day 4 — a return to Belgium via Zeebrugge and Blankenberge, a train to storybook Brugge, waffles and devil beer, another happy run-in with Dave and Pat, and farewell to the Australians.
+locations:
+  - name: Zeebrugge
+    country: Belgium
+  - name: Blankenberge
+    country: Belgium
+  - name: Brugge
+    country: Belgium
+transport:
+  - type: ship
+    route: Docked at Zeebrugge
+  - type: bus
+    route: Zeebrugge port to Blankenberge
+  - type: rail
+    route: Blankenberge to Brugge and back
+    notes: Trains ran only about once an hour
+travel_sentiment: charmed
+---
+
+# Day 4 — Zeebrugge, Belgium & Brugge
++ **When**: Monday, April 23, 2007
++ **Where**: Zeebrugge, Blankenberge, and Brugge
+
+My triumphant return to Belgium after many years.
+
+Besides chocolate and lace, Belgium is known for waffles. And devil beer. In fact, I needed two waffles that day, they were so delicious. But I'm getting ahead of myself.
+
+We arrived in the busy port of Zeebrugge and boarded a shuttle bus that took us to Blankenberge. After some walking, a bloody finger, and a shared waffle, we hopped a train for Brugge. We managed to run into friends Dave and Pat (from yesterday's Paris trip) on the train — a happy accident — so we spent the day with them. One member of our party swears that during the train ride they saw a cow sitting down. I am skeptical.
+
+<figure>
+    <img src="/assets/2007-europe-brugge-chocolats.jpg" alt="Brian, in a dark red polo and cargo shorts, stands on a cobbled Brugge street in front of a shop with a burgundy awning reading 'chocolats'; a Belgian flag and old stone buildings behind him." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Brian outside a chocolate shop in Brugge, Belgium.</figcaption>
+</figure>
+
+If there's a poster child for the quaint European town, Brugge is it.
+
+<figure>
+    <img src="/assets/2007-europe-brugge-canal.jpg" alt="A Brugge canal lined with medieval brick buildings and stepped gables; a small open tour boat full of passengers glides along the green water under an overcast sky." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">A canal in Brugge, Belgium.</figcaption>
+</figure>
+
+I paid to take a leak in Brugge. 30 cents Euro if I recall, which is near $.50 US. People could see me tinkle from the hallway, but nobody seemed to mind. Europeans are more carefree with their whizzing. Anyway, if I recall, the train from Brugge to Blankenberge only ran once an hour, so we didn't have an excess of time for shopping and wandering. Unfortunate, since Brugge is charming and yearns to be explored.
+
+<figure>
+    <img src="/assets/2007-europe-brugge-street-brian.jpg" alt="Brian, in a dark red polo, leans against a weathered whitewashed brick wall on a Brugge street; a Gothic church with a tall turret rises in the background beyond tourists on the cobbles." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Brian on a street in Brugge, a Gothic church behind.</figcaption>
+</figure>
+
+We arrive back in Blankenberge and shuttle back to the ship. Tonight we lose the Australian couple at the table. It will be the four of us for the remainder of the cruise.
+
+Next stop: Amsterdam. Lots more walking, canal tour, the Internet cafe without Internet, and more running-into-people-we-know hilarity.

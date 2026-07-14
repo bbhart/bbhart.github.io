@@ -1,0 +1,76 @@
+---
+layout: post
+title: "European Vacation 2007 Day 10"
+subtitle: "Lisbon grows on me"
+date: 2007-04-29
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+background: '/assets/2007-europe-lisbon-praca-comercio.jpg'
+author: Brian Hart
+description: Day 10 — a sleepy, chilly start in Lisbon that slowly won me over; hills and an elevator, a Champs-Élysées lookalike, a long-sought Internet cafe, a great Italian lunch, and sailing out under the 25 de Abril Bridge.
+locations:
+  - name: Lisbon
+    country: Portugal
+transport:
+  - type: ship
+    route: Docked at Lisbon; sailed out under the 25 de Abril Bridge
+activities:
+  - Walking Lisbon's lower and hilly districts
+  - Lunch at Locanda Italiana
+travel_sentiment: warmed up over the day
+---
+
+# Day 10 — Lisbon, Portugal
++ **When**: Sunday, April 29, 2007
++ **Where**: Lisbon
+
+No tours planned for today. Technically this is my second visit to Portugal (we stopped in the Azores when I worked for Disney Cruise Line) but this was my first trip to the mainland.
+
+It took some time for Lisbon to grow on me. We started out around 10am, early for us, at the "bottom" of the city, near the water.
+
+<figure>
+    <img src="/assets/2007-europe-lisbon-stepped-street-brian.jpg" alt="Brian, in a striped polo and sunglasses, stands on a steep stepped Lisbon street lined with pink and yellow buildings and café tables; the hilltop Castelo de São Jorge is visible across the city behind him." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Brian on a stepped Lisbon street, the hilltop Castelo de São Jorge behind.</figcaption>
+</figure>
+
+The city was still sleepy and it was chilly. There wasn't much going on at this hour except for a marathon. We did what we'd done in the other cities: walk around, take pictures, eat lunch, window shop.
+
+<figure>
+    <img src="/assets/2007-europe-lisbon-praca-comercio.jpg" alt="A long vaulted stone arcade at Lisbon's Praça do Comércio, with repeating arches, hanging lanterns, and yellow buildings; a woman walks through the light on the right and a yellow tram passes beyond." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">The arcades of Praça do Comércio, Lisbon.</figcaption>
+</figure>
+
+It's hillier in Lisbon than I expected, but also I'd done no research. There's an elevator that will save you some uphill walking. We walked along what I perceived to be their Champs-Élysées.
+
+Relaxed in a square for awhile.
+
+<figure>
+    <img src="/assets/2007-europe-lisbon-camoes-square.jpg" alt="Lisbon's Praça Luís de Camões, a plaza with the bronze statue of Luís de Camões atop a stone pedestal ringed by smaller figures, surrounded by yellow and white buildings; people cross the square in the sun." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Praça Luís de Camões, Lisbon.</figcaption>
+</figure>
+
+<figure>
+    <img src="/assets/2007-europe-lisbon-camoes-square-brian.jpg" alt="Brian, in a striped polo and sunglasses, sits on the grass in Praça Luís de Camões with the Camões monument and pale apartment buildings rising behind him under a bright blue sky." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Brian in Praça Luís de Camões, Lisbon.</figcaption>
+</figure>
+
+We finally found an Internet cafe (our first of the trip, not counting the $.65/min one on the ship) at a Western Union and got our Internet on.
+
+Then finally stopped around 2pm for an excellent lunch at Locanda Italiana.
+
+All in all it was a fun day and a neat city. BTW, Lisbon is the site of a sister bridge to the Golden Gate in SF, called the 25 de Abril Bridge:
+
+<figure>
+    <img src="/assets/2007-europe-lisbon-bridge-brian.jpg" alt="Brian, in a striped polo, stands on a broad concrete waterfront with the red 25 de Abril suspension bridge and the hilltop Cristo Rei statue across the Tagus river behind him." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Brian on the Lisbon waterfront, the 25 de Abril Bridge and the Cristo Rei statue across the Tagus.</figcaption>
+</figure>
+
+Yes, the ship does go under that bridge on the way out of Lisbon. Yes, it looks like a tight squeeze. No, I didn't have the foresight to sprint up to the top deck to watch.
+
+<figure>
+    <img src="/assets/2007-europe-lisbon-millennium-brian.jpg" alt="Brian, in a striped polo, stands on the quay in front of the docked Celebrity Millennium, whose blue-and-white hull and lifeboats tower behind him under a bright sky." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Brian on the dock beside the Celebrity Millennium, Lisbon.</figcaption>
+</figure>
+
+Next stop: Gibraltar. Dizzying heights (for one of us), the World's Most Narrow Roads, and those damn dirty apes.

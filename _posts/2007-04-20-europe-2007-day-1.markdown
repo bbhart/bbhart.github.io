@@ -1,0 +1,45 @@
+---
+layout: post
+title: "European Vacation 2007 Day 1"
+subtitle: "Leaving on a jet plane — the scramble out of New Jersey"
+date: 2007-04-20
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+# background: TBD — awaiting media
+author: Brian Hart
+description: Day 1 of a 17-day transatlantic cruise trip with Sherri — the pre-trip scramble in New Jersey, an unwelcome wake-up call, and the overnight flight from Newark to London-Gatwick.
+locations:
+  - name: New Jersey
+    country: United States
+  - name: Newark Liberty International Airport
+    country: United States
+transport:
+  - type: car
+    route: Home to Newark Airport
+  - type: air
+    route: Newark (EWR) to London-Gatwick (LGW)
+    notes: Overnight, roughly six hours; Presidents Club vouchers before boarding
+travel_sentiment: excited, a little frazzled
+---
+
+# Day 1 — USA
++ **When**: Friday, April 20, 2007
++ **Where**: New Jersey and Newark Airport
+
+
+**In the beginning…**
+
+We left on April 20. I took the day off so I'd have time to sleep in, get a haircut, finish up packing, and do miscellaneous tasks around the house to get ready. Instead I get a call from a co-worker at 6:45am letting me know that he's sick and he needs me to teach 20 people how to use our software product for the last day of their training class. Sorry, I'm on vacation. Very Murphy's Law though that I get the wake-up phone call on my sleep-in vacation day.
+
+So now I'm up.
+
+Haircut at 11am so I'm looking wash-and-wear all day. Sherri arrives home from work a little after 1pm. We leave for Newark. Vacation has begun.
+
+The drive to Newark is mostly uneventful. I say mostly. The previous day our car vibrated in a weird way as I was heading to work… enough so that I pulled over to make sure I didn't have a flat. It went away shortly thereafter, but we felt some more vibrating on the NJ Turnpike on the way to catch our plane for our 15-day vacation. Fortunately FSM smiled a big noodly grin upon us and we were delivered safely to Newark.
+
+Hooray! Economy parking was full! Even though we clearly saw empty spaces in the economy parking lot, we didn't argue when the Port Authority Lady gave us a voucher so we could park in monorail parking for economy rates. This is a good thing. I like the way things are shaping up so far. We even get a sweet parking spot along the fence.
+
+We breeze through check-in, spend some quality time at the Presidents Club thanks to some free vouchers I had, then hop on the flight.
+
+Six short hours later, we are almost to London-Gatwick. We're just passing through, though, on our way to Southampton.

@@ -1,7 +1,577 @@
 {
-  "generated_at": "2026-07-09T00:58:57Z",
-  "total_posts": 103,
+  "generated_at": "2026-07-14T18:58:22Z",
+  "total_posts": 133,
   "trips": [
+    {
+      "rollup_key": "2007eu",
+      "posts": [
+        {
+          "title": "European Vacation 2007 Day 1",
+          "date": "2007-04-20",
+          "subtitle": "Leaving on a jet plane — the scramble out of New Jersey",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "New Jersey",
+              "country": "United States"
+            },
+            {
+              "name": "Newark Liberty International Airport",
+              "country": "United States"
+            }
+          ],
+          "transport": [
+            {
+              "type": "car",
+              "route": "Home to Newark Airport"
+            },
+            {
+              "type": "air",
+              "route": "Newark (EWR) to London-Gatwick (LGW)",
+              "notes": "Overnight, roughly six hours; Presidents Club vouchers before boarding"
+            }
+          ],
+          "travel_sentiment": "excited, a little frazzled"
+        },
+        {
+          "title": "European Vacation 2007 Day 2",
+          "date": "2007-04-21",
+          "subtitle": "Untangling the English rail system, then embarking at Southampton",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "London-Gatwick Airport",
+              "country": "United Kingdom"
+            },
+            {
+              "name": "Chichester",
+              "country": "United Kingdom"
+            },
+            {
+              "name": "Southampton",
+              "country": "United Kingdom"
+            }
+          ],
+          "transport": [
+            {
+              "type": "rail",
+              "route": "Gatwick to Southampton via Chichester",
+              "notes": "Southern England rail; multiple competing operators over the same tracks"
+            },
+            {
+              "type": "taxi",
+              "route": "Southampton Central to the cruise terminal"
+            },
+            {
+              "type": "ship",
+              "route": "Embark at Southampton",
+              "carrier": "Celebrity Cruises",
+              "vessel": "Celebrity Millennium"
+            }
+          ],
+          "travel_sentiment": "exhausted but aboard"
+        },
+        {
+          "title": "European Vacation 2007 Day 3",
+          "date": "2007-04-22",
+          "subtitle": "Le Havre and a jet-lagged bus dash to Paris",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "Le Havre",
+              "country": "France"
+            },
+            {
+              "name": "Paris",
+              "country": "France"
+            }
+          ],
+          "transport": [
+            {
+              "type": "ship",
+              "route": "Docked at Le Havre"
+            },
+            {
+              "type": "bus",
+              "route": "Le Havre to Paris and back",
+              "notes": "About 2.5 hours each way; a notably slow driver on the way in"
+            }
+          ],
+          "activities": [
+            "Walking tour of Paris (Eiffel Tower, Arc de Triomphe, Champs-Élysées, Louvre, Notre Dame, the Seine)",
+            "First formal dining-room dinner aboard"
+          ],
+          "travel_sentiment": "jet-lagged but game"
+        },
+        {
+          "title": "European Vacation 2007 Day 4",
+          "date": "2007-04-23",
+          "subtitle": "Waffles, devil beer, and quaint Brugge",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "Zeebrugge",
+              "country": "Belgium"
+            },
+            {
+              "name": "Blankenberge",
+              "country": "Belgium"
+            },
+            {
+              "name": "Brugge",
+              "country": "Belgium"
+            }
+          ],
+          "transport": [
+            {
+              "type": "ship",
+              "route": "Docked at Zeebrugge"
+            },
+            {
+              "type": "bus",
+              "route": "Zeebrugge port to Blankenberge"
+            },
+            {
+              "type": "rail",
+              "route": "Blankenberge to Brugge and back",
+              "notes": "Trains ran only about once an hour"
+            }
+          ],
+          "travel_sentiment": "charmed"
+        },
+        {
+          "title": "European Vacation 2007 Day 5",
+          "date": "2007-04-24",
+          "subtitle": "Walking Amsterdam, a canal tour, and a scenic sail-away",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "Amsterdam",
+              "country": "Netherlands"
+            }
+          ],
+          "transport": [
+            {
+              "type": "ship",
+              "route": "Docked in Amsterdam"
+            },
+            {
+              "type": "boat",
+              "route": "Amsterdam canal tour"
+            }
+          ],
+          "activities": [
+            "Walking tour of Amsterdam",
+            "Canal boat tour",
+            "Scenic sail-away down the river"
+          ],
+          "travel_sentiment": "relaxed and content"
+        },
+        {
+          "title": "European Vacation 2007 Day 6",
+          "date": "2007-04-25",
+          "subtitle": "Sea Day #1 and the serendipitous dress shirt",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "At sea"
+            }
+          ],
+          "transport": [
+            {
+              "type": "ship",
+              "route": "Sea day en route to La Rochelle"
+            }
+          ],
+          "travel_sentiment": "bored but tidy"
+        },
+        {
+          "title": "European Vacation 2007 Day 7",
+          "date": "2007-04-26",
+          "subtitle": "La Rochelle didn't quite WOW me",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "La Rochelle",
+              "country": "France"
+            }
+          ],
+          "transport": [
+            {
+              "type": "ship",
+              "route": "Docked at La Rochelle"
+            }
+          ],
+          "travel_sentiment": "underwhelmed"
+        },
+        {
+          "title": "European Vacation 2007 Day 8",
+          "date": "2007-04-27",
+          "subtitle": "Bilbao, the Guggenheim, and a river walk promenade",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "Bilbao",
+              "country": "Spain",
+              "region": "Basque Country"
+            }
+          ],
+          "transport": [
+            {
+              "type": "ship",
+              "route": "Docked near Bilbao"
+            },
+            {
+              "type": "bus",
+              "route": "Port to downtown Bilbao",
+              "notes": "A hilly shuttle trip, and the usual pier shuttle chaos"
+            }
+          ],
+          "activities": [
+            "Guggenheim Museum Bilbao",
+            "River walk promenade",
+            "Paella lunch"
+          ],
+          "travel_sentiment": "pleasantly surprised"
+        },
+        {
+          "title": "European Vacation 2007 Day 9",
+          "date": "2007-04-28",
+          "subtitle": "Sea Day #2",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "At sea"
+            }
+          ],
+          "transport": [
+            {
+              "type": "ship",
+              "route": "Sea day en route to Lisbon"
+            }
+          ],
+          "travel_sentiment": "bored"
+        },
+        {
+          "title": "European Vacation 2007 Day 10",
+          "date": "2007-04-29",
+          "subtitle": "Lisbon grows on me",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "Lisbon",
+              "country": "Portugal"
+            }
+          ],
+          "transport": [
+            {
+              "type": "ship",
+              "route": "Docked at Lisbon; sailed out under the 25 de Abril Bridge"
+            }
+          ],
+          "activities": [
+            "Walking Lisbon's lower and hilly districts",
+            "Lunch at Locanda Italiana"
+          ],
+          "travel_sentiment": "warmed up over the day"
+        },
+        {
+          "title": "European Vacation 2007 Day 11",
+          "date": "2007-04-30",
+          "subtitle": "The Rock of Gibraltar — my favorite port of the trip",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "Gibraltar",
+              "country": "United Kingdom"
+            }
+          ],
+          "transport": [
+            {
+              "type": "ship",
+              "route": "Docked at Gibraltar"
+            },
+            {
+              "type": "taxi",
+              "route": "Up the Rock (cable car was too windy to run)"
+            },
+            {
+              "type": "bus",
+              "route": "Down the Rock to the Siege Tunnels"
+            }
+          ],
+          "activities": [
+            "St. Michael's Cave",
+            "Barbary apes atop the Rock",
+            "Great Siege Tunnels"
+          ],
+          "travel_sentiment": "this was the one"
+        },
+        {
+          "title": "European Vacation 2007 Day 12",
+          "date": "2007-05-01",
+          "subtitle": "Tangier — the most different place I'd ever been",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "Tangier",
+              "country": "Morocco"
+            }
+          ],
+          "transport": [
+            {
+              "type": "ship",
+              "route": "Anchored off Tangier (the only tender port of the trip)"
+            },
+            {
+              "type": "boat",
+              "route": "Tender to shore and back"
+            },
+            {
+              "type": "bus",
+              "route": "Tour of the area outside Tangier"
+            }
+          ],
+          "activities": [
+            "Countryside bus tour",
+            "Petting a camel",
+            "Wandering the medina",
+            "A solo lunch at a local cafe"
+          ],
+          "travel_sentiment": "awed and grateful"
+        },
+        {
+          "title": "European Vacation 2007 Day 13",
+          "date": "2007-05-02",
+          "subtitle": "Sea Day #3 — eating, packing, tipping",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "At sea"
+            }
+          ],
+          "transport": [
+            {
+              "type": "ship",
+              "route": "Final sea day en route to Barcelona"
+            }
+          ],
+          "travel_sentiment": "ready to be on land"
+        },
+        {
+          "title": "European Vacation 2007 Day 14",
+          "date": "2007-05-03",
+          "subtitle": "Debarking into Barcelona and Las Ramblas",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "Barcelona",
+              "country": "Spain",
+              "region": "Catalonia"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Le Méridien Barcelona",
+              "location": "Las Ramblas, Barcelona",
+              "url": "https://www.marriott.com/en-us/hotels/bcnmd-le-meridien-barcelona/overview/",
+              "notes": "Room was ready by 11am — a welcome surprise"
+            }
+          ],
+          "transport": [
+            {
+              "type": "ship",
+              "route": "Debark at Barcelona"
+            },
+            {
+              "type": "taxi",
+              "route": "Cruise terminal to Le Méridien Barcelona"
+            }
+          ],
+          "activities": [
+            "Wandering Las Ramblas",
+            "Lunch inside the La Boqueria market"
+          ],
+          "travel_sentiment": "back on land, energized"
+        },
+        {
+          "title": "European Vacation 2007 Day 15",
+          "date": "2007-05-04",
+          "subtitle": "A big touring day — Sagrada Família and Bonanova",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "Barcelona",
+              "country": "Spain",
+              "region": "Catalonia"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Le Méridien Barcelona",
+              "location": "Las Ramblas, Barcelona"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Restaurante Bonanova",
+              "type": "restaurant",
+              "location": "Sant Gervasi, Barcelona",
+              "url": "https://www.restaurantebonanova.com/"
+            }
+          ],
+          "transport": [
+            {
+              "type": "bus",
+              "route": "Barcelona hop-on hop-off tourist bus"
+            }
+          ],
+          "activities": [
+            "La Pedrera (Casa Milà)",
+            "Sagrada Família",
+            "Dinner at Restaurante Bonanova"
+          ],
+          "travel_sentiment": "full and happy"
+        },
+        {
+          "title": "European Vacation 2007 Day 16",
+          "date": "2007-05-05",
+          "subtitle": "A few weary hours in London (and a nearly lost bag)",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "Barcelona",
+              "country": "Spain"
+            },
+            {
+              "name": "London",
+              "country": "United Kingdom"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Hilton Gatwick",
+              "location": "Gatwick Airport, London",
+              "notes": "Connected to the airport"
+            }
+          ],
+          "transport": [
+            {
+              "type": "air",
+              "route": "Barcelona to London-Gatwick",
+              "carrier": "British Airways",
+              "notes": "US$130 overweight-baggage charge — for the bag that didn't arrive"
+            },
+            {
+              "type": "rail",
+              "route": "Gatwick Express to London Victoria and back"
+            }
+          ],
+          "activities": [
+            "Walking past Buckingham Palace",
+            "London Eye",
+            "St. James's Park"
+          ],
+          "travel_sentiment": "travel-weary"
+        },
+        {
+          "title": "European Vacation 2007 Day 17",
+          "date": "2007-05-06",
+          "subtitle": "The long flight home",
+          "categories": "travel europe",
+          "tags": [
+            "april2007"
+          ],
+          "rollup_key": "2007eu",
+          "locations": [
+            {
+              "name": "London-Gatwick Airport",
+              "country": "United Kingdom"
+            },
+            {
+              "name": "Newark Liberty International Airport",
+              "country": "United States"
+            }
+          ],
+          "transport": [
+            {
+              "type": "air",
+              "route": "London-Gatwick to Newark (EWR)",
+              "notes": "Business class — check-in and security were a breeze"
+            },
+            {
+              "type": "car",
+              "route": "Newark Airport to home"
+            }
+          ],
+          "travel_sentiment": "weary, grateful, home"
+        }
+      ]
+    },
     {
       "rollup_key": "2023iceland",
       "posts": [
@@ -1970,6 +2540,646 @@
             "solo"
           ],
           "travel_sentiment": "Positive overall on the high-speed train experience despite the ticketing hassle; prefers it to flying once the reduced airport hassle is factored in"
+        }
+      ]
+    },
+    {
+      "rollup_key": "2024ch",
+      "posts": [
+        {
+          "title": "Switzerland 2024 Day 1",
+          "date": "2024-07-11",
+          "subtitle": "RDU to Zurich — a jet-lagged arrival",
+          "categories": "travel switzerland",
+          "tags": [
+            "july2024"
+          ],
+          "rollup_key": "2024ch",
+          "locations": [
+            {
+              "name": "Holly Springs",
+              "country": "United States"
+            },
+            {
+              "name": "JFK Airport",
+              "country": "United States"
+            },
+            {
+              "name": "Zurich",
+              "country": "Switzerland",
+              "region": "Canton of Zürich"
+            }
+          ],
+          "transport": [
+            {
+              "type": "air",
+              "route": "RDU to JFK to Zurich",
+              "carrier": "Delta"
+            },
+            {
+              "type": "rail",
+              "route": "Zurich Airport to Zurich city center"
+            }
+          ],
+          "travel_sentiment": "run-down, off"
+        },
+        {
+          "title": "Switzerland 2024 Day 2",
+          "date": "2024-07-12",
+          "subtitle": "A low-energy day in Zurich",
+          "categories": "travel switzerland",
+          "tags": [
+            "july2024"
+          ],
+          "rollup_key": "2024ch",
+          "locations": [
+            {
+              "name": "Zurich",
+              "country": "Switzerland",
+              "region": "Canton of Zürich"
+            }
+          ],
+          "travel_sentiment": "sluggish, jet-lagged"
+        },
+        {
+          "title": "Switzerland 2024 Day 3",
+          "date": "2024-07-13",
+          "subtitle": "The train to Wengen",
+          "categories": "travel switzerland",
+          "tags": [
+            "july2024"
+          ],
+          "rollup_key": "2024ch",
+          "locations": [
+            {
+              "name": "Zurich",
+              "country": "Switzerland",
+              "region": "Canton of Zürich"
+            },
+            {
+              "name": "Interlaken",
+              "country": "Switzerland",
+              "region": "Bernese Oberland"
+            },
+            {
+              "name": "Wengen",
+              "country": "Switzerland",
+              "region": "Bernese Oberland"
+            }
+          ],
+          "accommodation": {
+            "name": "Hotel Alpenruhe",
+            "location": "Wengen, Switzerland",
+            "url": "https://www.alpenruhe-wengen.ch/"
+          },
+          "transport": [
+            {
+              "type": "rail",
+              "route": "Zurich → Bern → Interlaken Ost → Lauterbrunnen → Wengen"
+            }
+          ],
+          "travel_sentiment": "normal, relieved"
+        },
+        {
+          "title": "Switzerland 2024 Day 4",
+          "date": "2024-07-14",
+          "subtitle": "The Panorama Trail and a look at Mürren",
+          "categories": "travel switzerland",
+          "tags": [
+            "july2024"
+          ],
+          "rollup_key": "2024ch",
+          "locations": [
+            {
+              "name": "Wengen",
+              "country": "Switzerland",
+              "region": "Bernese Oberland"
+            },
+            {
+              "name": "Männlichen",
+              "country": "Switzerland",
+              "region": "Bernese Oberland"
+            },
+            {
+              "name": "Mürren",
+              "country": "Switzerland",
+              "region": "Bernese Oberland"
+            }
+          ],
+          "accommodation": {
+            "name": "Hotel Alpenruhe",
+            "location": "Wengen, Switzerland",
+            "url": "https://www.alpenruhe-wengen.ch/"
+          },
+          "activities": [
+            {
+              "type": "hiking",
+              "name": "Panorama Trail (Männlichen to Kleine Scheidegg)"
+            },
+            {
+              "type": "hiking",
+              "name": "Mürren to Grütschalp hike"
+            }
+          ],
+          "travel_sentiment": "content, reflective"
+        },
+        {
+          "title": "Switzerland 2024 Day 5",
+          "date": "2024-07-15",
+          "subtitle": "Moving day, with a lakeside detour to Spiez",
+          "categories": "travel switzerland",
+          "tags": [
+            "july2024"
+          ],
+          "rollup_key": "2024ch",
+          "locations": [
+            {
+              "name": "Wengen",
+              "country": "Switzerland",
+              "region": "Bernese Oberland"
+            },
+            {
+              "name": "Spiez",
+              "country": "Switzerland",
+              "region": "Bernese Oberland"
+            },
+            {
+              "name": "Brig",
+              "country": "Switzerland",
+              "region": "Valais"
+            }
+          ],
+          "accommodation": {
+            "name": "Hotel de Londres",
+            "location": "Brig, Switzerland",
+            "url": "https://www.hotel-delondres.ch/"
+          },
+          "transport": [
+            {
+              "type": "rail",
+              "route": "Wengen → Lauterbrunnen → Interlaken Ost → Spiez → Brig (via Lötschberg-Basistunnel)"
+            }
+          ],
+          "travel_sentiment": "relaxed, warm"
+        },
+        {
+          "title": "Switzerland 2024 Day 6",
+          "date": "2024-07-16",
+          "subtitle": "Stumbling onto the Aletsch Glacier from Riederalp",
+          "categories": "travel switzerland",
+          "tags": [
+            "july2024"
+          ],
+          "rollup_key": "2024ch",
+          "locations": [
+            {
+              "name": "Brig",
+              "country": "Switzerland",
+              "region": "Valais"
+            },
+            {
+              "name": "Mörel",
+              "country": "Switzerland",
+              "region": "Valais"
+            },
+            {
+              "name": "Riederalp",
+              "country": "Switzerland",
+              "region": "Valais"
+            }
+          ],
+          "accommodation": {
+            "name": "Hotel de Londres",
+            "location": "Brig, Switzerland",
+            "url": "https://www.hotel-delondres.ch/"
+          },
+          "points_of_interest": [
+            {
+              "name": "Aletsch Glacier",
+              "type": "glacier"
+            }
+          ],
+          "activities": [
+            {
+              "type": "hiking",
+              "name": "Riederalp to Hohfluh and Moosfluh (Aletsch Glacier viewpoints)"
+            }
+          ],
+          "travel_sentiment": "awed, tired"
+        },
+        {
+          "title": "Switzerland 2024 Day 7",
+          "date": "2024-07-17",
+          "subtitle": "The Gourmet Trail to Zermatt — and the loneliness of solo travel",
+          "categories": "travel switzerland",
+          "tags": [
+            "july2024"
+          ],
+          "rollup_key": "2024ch",
+          "locations": [
+            {
+              "name": "Brig",
+              "country": "Switzerland",
+              "region": "Valais"
+            },
+            {
+              "name": "Zermatt",
+              "country": "Switzerland",
+              "region": "Valais"
+            }
+          ],
+          "accommodation": {
+            "name": "Hotel Tannenhof",
+            "location": "Zermatt, Switzerland"
+          },
+          "points_of_interest": [
+            {
+              "name": "Matterhorn",
+              "type": "mountain"
+            }
+          ],
+          "transport": [
+            {
+              "type": "rail",
+              "route": "Brig → Visp"
+            },
+            {
+              "type": "bus",
+              "route": "Visp → Täsch (rail replacement after flooding)"
+            },
+            {
+              "type": "rail",
+              "route": "Täsch → Zermatt"
+            }
+          ],
+          "activities": [
+            {
+              "type": "hiking",
+              "name": "Gourmet Trail (Sunnegga to Zermatt)"
+            }
+          ],
+          "travel_sentiment": "joyful on the trail, acutely lonely in town"
+        },
+        {
+          "title": "Switzerland 2024 Day 8",
+          "date": "2024-07-18",
+          "subtitle": "The Riffelalp–Sunnegga Nature Trail and cold, clear Grünsee",
+          "categories": "travel switzerland",
+          "tags": [
+            "july2024"
+          ],
+          "rollup_key": "2024ch",
+          "locations": [
+            {
+              "name": "Zermatt",
+              "country": "Switzerland",
+              "region": "Valais"
+            },
+            {
+              "name": "Riffelalp",
+              "country": "Switzerland",
+              "region": "Valais"
+            },
+            {
+              "name": "Sunnegga",
+              "country": "Switzerland",
+              "region": "Valais"
+            }
+          ],
+          "accommodation": {
+            "name": "Hotel Tannenhof",
+            "location": "Zermatt, Switzerland"
+          },
+          "points_of_interest": [
+            {
+              "name": "Matterhorn",
+              "type": "mountain"
+            },
+            {
+              "name": "Grünsee",
+              "type": "lake"
+            }
+          ],
+          "activities": [
+            {
+              "type": "hiking",
+              "name": "Nature Trail: Riffelalp to Sunnegga"
+            }
+          ],
+          "travel_sentiment": "adventurous, more settled"
+        },
+        {
+          "title": "Switzerland 2024 Day 9",
+          "date": "2024-07-19",
+          "subtitle": "Moving to car-free Bettmeralp and the best roast beef sandwich",
+          "categories": "travel switzerland",
+          "tags": [
+            "july2024"
+          ],
+          "rollup_key": "2024ch",
+          "locations": [
+            {
+              "name": "Zermatt",
+              "country": "Switzerland",
+              "region": "Valais"
+            },
+            {
+              "name": "Bettmeralp",
+              "country": "Switzerland",
+              "region": "Valais"
+            }
+          ],
+          "accommodation": {
+            "name": "Hotel Waldhaus",
+            "location": "Bettmeralp, Switzerland"
+          },
+          "transport": [
+            {
+              "type": "rail",
+              "route": "Zermatt → Täsch"
+            },
+            {
+              "type": "bus",
+              "route": "Täsch → Visp (rail replacement after flooding)"
+            },
+            {
+              "type": "rail",
+              "route": "Visp → Betten (then cable car to Bettmeralp)"
+            }
+          ],
+          "travel_sentiment": "restful, reflective"
+        },
+        {
+          "title": "Switzerland 2024 Day 10",
+          "date": "2024-07-20",
+          "subtitle": "A lighter day above Bettmeralp and one more look at the glacier",
+          "categories": "travel switzerland",
+          "tags": [
+            "july2024"
+          ],
+          "rollup_key": "2024ch",
+          "locations": [
+            {
+              "name": "Bettmeralp",
+              "country": "Switzerland",
+              "region": "Valais"
+            },
+            {
+              "name": "Riederalp",
+              "country": "Switzerland",
+              "region": "Valais"
+            }
+          ],
+          "accommodation": {
+            "name": "Hotel Waldhaus",
+            "location": "Bettmeralp, Switzerland"
+          },
+          "points_of_interest": [
+            {
+              "name": "Aletsch Glacier",
+              "type": "glacier"
+            }
+          ],
+          "travel_sentiment": "relaxed, low-key"
+        },
+        {
+          "title": "Switzerland 2024 Day 11",
+          "date": "2024-07-21",
+          "subtitle": "Schloss Thun and a more local Swiss vibe",
+          "categories": "travel switzerland",
+          "tags": [
+            "july2024"
+          ],
+          "rollup_key": "2024ch",
+          "locations": [
+            {
+              "name": "Bettmeralp",
+              "country": "Switzerland",
+              "region": "Valais"
+            },
+            {
+              "name": "Thun",
+              "country": "Switzerland",
+              "region": "Bernese Oberland"
+            }
+          ],
+          "accommodation": {
+            "name": "Hotel Krone Thun",
+            "location": "Thun, Switzerland",
+            "url": "https://en.krone-thun.ch/"
+          },
+          "points_of_interest": [
+            {
+              "name": "Schloss Thun",
+              "type": "castle",
+              "url": "https://schlossthun.ch/en/"
+            }
+          ],
+          "travel_sentiment": "easy, curious"
+        },
+        {
+          "title": "Switzerland 2024 Day 12",
+          "date": "2024-07-22",
+          "subtitle": "The long journey home",
+          "categories": "travel switzerland",
+          "tags": [
+            "july2024"
+          ],
+          "rollup_key": "2024ch",
+          "locations": [
+            {
+              "name": "Thun",
+              "country": "Switzerland",
+              "region": "Bernese Oberland"
+            },
+            {
+              "name": "Zurich",
+              "country": "Switzerland",
+              "region": "Canton of Zürich"
+            },
+            {
+              "name": "JFK Airport",
+              "country": "United States"
+            }
+          ],
+          "transport": [
+            {
+              "type": "rail",
+              "route": "Thun → Zurich Airport (IC 8, no transfer)"
+            },
+            {
+              "type": "air",
+              "route": "Zurich to JFK to RDU",
+              "carrier": "Delta"
+            }
+          ],
+          "travel_sentiment": "worn out, glad to be home"
+        },
+        {
+          "title": "Switzerland Travels 2024",
+          "date": "2024-07-23",
+          "subtitle": "A solo journey through Zurich, Wengen, Brig, Zermatt, Bettmeralp, and Thun.",
+          "categories": "travel switzerland",
+          "tags": null,
+          "rollup_key": "2024ch",
+          "trip_type": "solo",
+          "trip_duration": "July 10-22, 2024",
+          "locations": [
+            {
+              "name": "Zurich",
+              "country": "Switzerland",
+              "region": "Canton of Zürich"
+            },
+            {
+              "name": "Wengen",
+              "country": "Switzerland",
+              "region": "Bernese Oberland"
+            },
+            {
+              "name": "Brig",
+              "country": "Switzerland",
+              "region": "Valais"
+            },
+            {
+              "name": "Zermatt",
+              "country": "Switzerland",
+              "region": "Valais"
+            },
+            {
+              "name": "Bettmeralp",
+              "country": "Switzerland",
+              "region": "Valais"
+            },
+            {
+              "name": "Thun",
+              "country": "Switzerland",
+              "region": "Bernese Oberland"
+            }
+          ],
+          "countries_visited": [
+            "Switzerland"
+          ],
+          "hotels": [
+            {
+              "name": "Hotel Alpenruhe",
+              "location": "Wengen, Switzerland",
+              "type": "accommodation",
+              "url": "https://www.alpenruhe-wengen.ch/"
+            },
+            {
+              "name": "Hotel de Londres",
+              "location": "Brig, Switzerland",
+              "type": "accommodation",
+              "url": "https://www.hotel-delondres.ch/"
+            },
+            {
+              "name": "Hotel Tannenhof",
+              "location": "Zermatt, Switzerland",
+              "type": "accommodation"
+            },
+            {
+              "name": "Hotel Waldhaus",
+              "location": "Bettmeralp, Switzerland",
+              "type": "accommodation"
+            },
+            {
+              "name": "Hotel Krone Thun",
+              "location": "Thun, Switzerland",
+              "type": "accommodation",
+              "url": "https://en.krone-thun.ch/"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Negishi",
+              "type": "restaurant",
+              "location": "Zurich, Switzerland",
+              "cuisine": "Japanese",
+              "url": "https://www.negishi.ch/en/zuerich-pelikanplatz"
+            },
+            {
+              "name": "Pret a Manger",
+              "type": "cafe",
+              "location": "Zurich, Switzerland"
+            },
+            {
+              "name": "Pasta and More",
+              "type": "restaurant",
+              "location": "Wengen, Switzerland"
+            },
+            {
+              "name": "Restaurant Augenblick",
+              "type": "restaurant",
+              "location": "Brig, Switzerland",
+              "url": "https://www.restaurant-augenblick.ch/"
+            },
+            {
+              "name": "Derby",
+              "type": "restaurant",
+              "location": "Zermatt, Switzerland"
+            },
+            {
+              "name": "Golden Lok",
+              "type": "restaurant",
+              "location": "Zermatt, Switzerland",
+              "url": "https://goldenlok.ch/"
+            },
+            {
+              "name": "Alpina",
+              "type": "restaurant",
+              "location": "Bettmeralp, Switzerland"
+            },
+            {
+              "name": "Restaurant Bergdohle Riederalp",
+              "type": "restaurant",
+              "location": "Riederalp, Switzerland"
+            }
+          ],
+          "points_of_interest": [
+            {
+              "name": "Matterhorn",
+              "type": "mountain"
+            },
+            {
+              "name": "Aletsch Glacier",
+              "type": "glacier"
+            },
+            {
+              "name": "Schloss Thun",
+              "type": "castle",
+              "url": "https://schlossthun.ch/en/"
+            },
+            {
+              "name": "Männlichen",
+              "type": "viewpoint"
+            },
+            {
+              "name": "Mürren",
+              "type": "village"
+            }
+          ],
+          "transport": [
+            {
+              "type": "air",
+              "route": "RDU to JFK to Zurich",
+              "carrier": "Delta"
+            },
+            {
+              "type": "rail",
+              "notes": "Extensive Swiss rail travel between towns; Swiss Half Fare card"
+            }
+          ],
+          "activities": [
+            "hiking",
+            "train travel",
+            "sightseeing",
+            "Panorama Trail hike (Männlichen to Kleine Scheidegg)",
+            "Mürren to Grütschalp hike",
+            "Gourmet Trail hike (Zermatt)",
+            "Aletsch Glacier hikes (Riederalp and Bettmeralp)",
+            "Schloss Thun castle visit"
+          ],
+          "travel_sentiment": "reflective, at times lonely traveling solo"
         }
       ]
     },
@@ -8077,8 +9287,11 @@
     "Akureyri, Iceland",
     "Alborán Sea",
     "Amelia Island",
+    "Amsterdam",
+    "Amsterdam, Netherlands",
     "Appenzell",
     "Appenzell, Switzerland",
+    "At sea",
     "Atlantic Ocean",
     "Atlantic Ocean (between Halifax and St. John's)",
     "Balabu day-trip cabin",
@@ -8089,6 +9302,8 @@
     "Balestrand town",
     "Balestrand, Norway",
     "Baltimore-Washington Airport (BWI)",
+    "Barcelona",
+    "Barcelona, Spain",
     "Baulan",
     "Bayonne",
     "Bayonne, New Jersey, USA",
@@ -8101,12 +9316,17 @@
     "Bergensbanen railway route",
     "Bern",
     "Bettmeralp",
+    "Bilbao",
+    "Bilbao, Spain",
+    "Blankenberge",
     "Blauherd",
     "Bordalsgjelet Gorge",
     "Borgarnes",
     "Boston",
     "Bregenz",
     "Brig",
+    "Brugge",
+    "Brugge, Belgium",
     "Bryggen (historic wharf district)",
     "Bryggens Museum",
     "Brúarfoss",
@@ -8115,6 +9335,7 @@
     "Cartagena",
     "Cartagena, Spain",
     "Chamonix-Mont-Blanc",
+    "Chichester",
     "Civitavecchia",
     "Copenhagen Airport (CPH)",
     "Copenhagen city center",
@@ -8142,6 +9363,7 @@
     "Geneva",
     "George Town",
     "Geysir",
+    "Gibraltar",
     "Gorner Gorge",
     "Gornergrat",
     "Gornergrat, Switzerland",
@@ -8169,16 +9391,23 @@
     "Kongens Nytorv metro station",
     "Kralendijk",
     "Kyoto",
+    "La Rochelle",
+    "La Rochelle, France",
     "Labrador Sea",
     "Laugarvatn",
     "Laugarvatn area",
     "Lauterbrunnen",
     "Lauterbrunnen, Switzerland",
+    "Le Havre",
+    "Le Havre, France",
     "Leonardo da Vinci-Fiumicino Airport",
     "Lisbon",
     "Lisbon, Portugal",
     "Livorno",
     "Livorno, Italy",
+    "London",
+    "London, United Kingdom",
+    "London-Gatwick Airport",
     "Manhattan",
     "Minneapolis",
     "Mountain summit at 1295m above sea level",
@@ -8186,15 +9415,21 @@
     "Munich Airport",
     "Munich, Germany",
     "Männlichen",
+    "Mörel",
+    "Mürren",
     "Neuschwanstein Castle",
+    "New Jersey",
     "New York Harbor",
     "Newark",
+    "Newark Liberty International Airport",
     "North Atlantic between Greenland and Iceland",
     "Oranjestad",
     "Oslo Central Station (Oslo S)",
     "Oslo Opera House",
     "Oslo ferry terminal",
     "Oslo, Norway",
+    "Paris",
+    "Paris, France",
     "Pflach",
     "Portimão",
     "Portimão, Portugal",
@@ -8207,6 +9442,8 @@
     "Reykholt",
     "Reykjavik",
     "Reykjavik, Iceland",
+    "Riederalp",
+    "Riffelalp",
     "Rome",
     "Rome, Italy",
     "Royal Palace (Oslo)",
@@ -8222,6 +9459,9 @@
     "Sognefjord",
     "Sognefjord (via express ferry)",
     "Sognefjord overlook",
+    "Southampton",
+    "Southampton, United Kingdom",
+    "Spiez",
     "St. Gallen",
     "St. John's",
     "St. John's, Newfoundland, Canada",
@@ -8233,6 +9473,8 @@
     "Sturlureykir Visiting Horse Farm",
     "Sun Voyager sculpture",
     "Sunnegga",
+    "Tangier",
+    "Tangier, Morocco",
     "Thingvellir National Park",
     "Thun",
     "Tivoli Gardens amusement park",
@@ -8256,6 +9498,8 @@
     "Wengen, Switzerland",
     "Willemstad",
     "Yokohama",
+    "Zeebrugge",
+    "Zeebrugge, Belgium",
     "Zermatt",
     "Zermatt, Switzerland",
     "Zurich",
@@ -8270,6 +9514,7 @@
     "6+ hour scenic train journey through varied Norwegian landscape",
     "6:30pm sailaway",
     "75 minutes waiting on sunny train platform",
+    "A solo lunch at a local cafe",
     "Aerial photography of Greenland",
     "After-dinner drinks in the Panorama Lounge",
     "Afternoon RIB boat tour of the Algarve sea caves, including Benagil",
@@ -8285,6 +9530,7 @@
     "Bakery breakfast and grocery stop in Selfoss",
     "Bakery visit in Selfoss",
     "Balestrand Forest Hike - 5.2 miles, 1700ft elevation gain",
+    "Barbary apes atop the Rock",
     "Black sand beach at Vik",
     "Booked shore excursions for Cartagena and Portimão (two for Portimão)",
     "Booking eight nights of lodging (Asakusa, Kamakura, Kyoto)",
@@ -8292,6 +9538,7 @@
     "Butler and housekeeper room orientation",
     "CERN visit",
     "Cafe breakfast at historic manor",
+    "Canal boat tour",
     "Caprese and olives at an outdoor café",
     "Car return and walk through Reykjavik",
     "Carouge farmers market",
@@ -8308,6 +9555,7 @@
     "Colosseum self-guided tour",
     "Complimentary shuttle from the cruise pier into central Livorno",
     "Cooking bacon for a breakfast-dinner",
+    "Countryside bus tour",
     "Covered bridge crossing over Vosso river",
     "Customs and Immigration",
     "Customs and Immigration in Detroit with Global Entry",
@@ -8316,6 +9564,7 @@
     "Dinner at Irish pub",
     "Dinner at Mountain Hub Gourmet restaurant",
     "Dinner at Pancrazio",
+    "Dinner at Restaurante Bonanova",
     "Dinner at Ristorante Verso Sera",
     "Dinner at Romoletto (carbonara)",
     "Dinner at the ship's open-air Riviera restaurant",
@@ -8348,6 +9597,7 @@
     "Farm visit at Efstidalur II",
     "Filling out Japan customs and immigration form online",
     "Finding EAT HAPPY sushi stall",
+    "First formal dining-room dinner aboard",
     "Fish and chips lunch",
     "Flew home to Raleigh-Durham, with a quick Global Entry return",
     "Flights via Iceland back to North Carolina",
@@ -8358,11 +9608,13 @@
     "Geothermal hot tub",
     "Gondola ride to mountain summit (1295m elevation)",
     "Gourmet Trail hike (Zermatt)",
+    "Great Siege Tunnels",
     "Grocery run to Bónus and a home-cooked dinner",
     "Grocery shopping at Bónus supermarket",
     "Grocery stop in Vik",
     "Group dinner at Atlantide",
     "Group dinner at S.A.L.T. Kitchen",
+    "Guggenheim Museum Bilbao",
     "Harder Kulm funicular up and ~400m vertical hike down",
     "Hiking clockwise loop starting from hotel",
     "Hiking down Fløyen mountain (~300m descent)",
@@ -8375,6 +9627,7 @@
     "Journaling over a decaf Americano in the coffee bar",
     "Kindle reading on the hotel rooftop terrace",
     "LAVA Centre exhibits and observation deck",
+    "La Pedrera (Casa Milà)",
     "Largo di Torre Argentina",
     "Late evening walk around Balestrand",
     "Late lunch at the ship's new open-air Riviera restaurant",
@@ -8385,11 +9638,14 @@
     "Learning Japanese phrases with Pimsleur",
     "Learning about Bergen's fire history",
     "Limited walking around Copenhagen",
+    "London Eye",
     "Lunch at BWI Concourse A",
     "Lunch at Copenhagen Airport",
     "Lunch at La Terrazza",
+    "Lunch at Locanda Italiana",
     "Lunch at Romoletto on Campo de' Fiori",
     "Lunch from a hot dog stand outside the museum",
+    "Lunch inside the La Boqueria market",
     "Lyft cancellation and Uber switch",
     "May the 4th Star Wars cosplay sighting at RDU",
     "Metro ride to airport",
@@ -8403,6 +9659,7 @@
     "Navigating departures and Schengen-exit border control at LIS",
     "Overnight flight to Iceland",
     "Overnight transatlantic flight in Premium Select",
+    "Paella lunch",
     "Paella lunch with fellow passengers",
     "Palazzo della Cancelleria courtyard and Sant'Agostino facade",
     "Panorama Trail hike (Männlichen to Kleine Scheidegg)",
@@ -8411,6 +9668,7 @@
     "People-watching at harbor fish market",
     "People-watching at the after-dinner dance party",
     "People-watching from chairs in front of hotel",
+    "Petting a camel",
     "Photographing the Palacio Consistorial and Calle Mayor",
     "Photographing the sunset from the balcony and deck at sailaway",
     "Photography session at twilight",
@@ -8433,8 +9691,11 @@
     "Researching cities, towns, and villages between Tokyo and Kyoto/Osaka",
     "Returned the rental car near the domestic airport and walked back",
     "Riding Fløibanen funicular to Fløyen summit",
+    "River walk promenade",
     "Rocky gorge trail with handrails",
     "Rooftop hotel views",
+    "Sagrada Família",
+    "Scenic sail-away down the river",
     "Schloss Thun castle visit",
     "Scooter rental and ride",
     "Secrets of Cartagena with Paella walking tour",
@@ -8452,6 +9713,8 @@
     "Solo time in historic church",
     "Spanish Steps visit",
     "Special occasion dinner",
+    "St. James's Park",
+    "St. Michael's Cave",
     "St. Peter's Basilica interior visit",
     "Street food festival in Geneva",
     "Strolling the City of Arts & Sciences grounds (exterior only)",
@@ -8479,22 +9742,28 @@
     "Walk through Parc de la Grange",
     "Walked to The Sun Voyager sculpture and along the waterfront toward City Hall",
     "Walking Geneva old town",
+    "Walking Lisbon's lower and hilly districts",
     "Walking Livorno's covered portico and downtown",
     "Walking about 2 miles from the cruise terminal into València",
     "Walking and people-watching around Copenhagen",
     "Walking around Munich Airport",
     "Walking in the Geneva Pride Parade",
     "Walking on Opera House marble roof",
+    "Walking past Buckingham Palace",
     "Walking the waterfront promenade back to the ship",
     "Walking to Royal Palace",
     "Walking to ferry terminal (25 minutes)",
+    "Walking tour of Amsterdam",
     "Walking tour of Munich city center",
+    "Walking tour of Paris (Eiffel Tower, Arc de Triomphe, Champs-Élysées, Louvre, Notre Dame, the Seine)",
     "Walking tour of Wengen",
     "Walking tour of medieval Bergen with Bryggens Museum",
     "Walking tour past Vittoriano, Roman Forum, and Colosseum",
     "Walking tour through Rome's historic center",
     "Walking visit through the Roman Forum and Palatine Hill",
     "Wandering Cartagena's central market on my own",
+    "Wandering Las Ramblas",
+    "Wandering the medina",
     "Watching Norwegian fjords from deck",
     "Watching the ship pass through the Strait of Gibraltar and past the Rock of Gibraltar",
     "Waterfront walk to Sun Voyager sculpture",
@@ -8638,7 +9907,12 @@
     "{\"type\"=>\"hiking\", \"name\"=>\"Brúarfoss hike\", \"location\"=>\"Brúarfoss\", \"notes\"=>\"Access road only 600 meters from cottage, great photos\"}",
     "{\"type\"=>\"hiking\", \"name\"=>\"Geysir lookout hike\", \"location\"=>\"Geysir\", \"time\"=>\"Around 8pm\", \"notes\"=>\"Spectacular views from the hilltop\"}",
     "{\"type\"=>\"hiking\", \"name\"=>\"Gorner Gorge hike\", \"location\"=>\"Gorner Gorge\", \"url\"=>\"https://zermatt.swiss/en/p/gorner-gorge-01tVj000005DonMIAS\"}",
+    "{\"type\"=>\"hiking\", \"name\"=>\"Gourmet Trail (Sunnegga to Zermatt)\"}",
     "{\"type\"=>\"hiking\", \"name\"=>\"Männlichen to Kleine Scheidegg panorama walk\", \"location\"=>\"Männlichen-Kleine Scheidegg\"}",
+    "{\"type\"=>\"hiking\", \"name\"=>\"Mürren to Grütschalp hike\"}",
+    "{\"type\"=>\"hiking\", \"name\"=>\"Nature Trail: Riffelalp to Sunnegga\"}",
+    "{\"type\"=>\"hiking\", \"name\"=>\"Panorama Trail (Männlichen to Kleine Scheidegg)\"}",
+    "{\"type\"=>\"hiking\", \"name\"=>\"Riederalp to Hohfluh and Moosfluh (Aletsch Glacier viewpoints)\"}",
     "{\"type\"=>\"hiking\", \"name\"=>\"Royal Walk to the Crown\", \"location\"=>\"Männlichen\"}",
     "{\"type\"=>\"hiking\", \"name\"=>\"Walk up to Neuschwanstein\", \"location\"=>\"Neuschwanstein Castle\", \"distance\"=>\"~1 mile\", \"elevation_gain\"=>\"500ft\"}",
     "{\"type\"=>\"horseback-riding\", \"name\"=>\"Icelandic horse riding\", \"location\"=>\"Sturlureykir Visiting Horse Farm\", \"participants\"=>[\"Brian\", \"Siena\"], \"date\"=>#<Date: 2023-06-16 ((2460112j,0s,0n),+0s,2299161j)>, \"time\"=>\"morning\", \"duration\"=>\"~2 hours\", \"horses\"=>\"white Icelandic horses\", \"terrain\"=>\"trails with waterfall views\", \"notes\"=>\"Siena was all grins from start to finish\", \"highlights\"=>[\"stable-tour\", \"arena-practice\", \"outdoor-trail-ride\", \"waterfall-scenery\"]}",
@@ -8668,6 +9942,617 @@
     "{\"type\"=>\"walking\", \"name\"=>\"Walking around Reykjavik\", \"location\"=>\"Reykjavik\", \"date\"=>#<Date: 2023-06-18 ((2460114j,0s,0n),+0s,2299161j)>, \"participants\"=>\"Brian and Siena\", \"duration\"=>\"Approximately 2.5 miles\", \"notes\"=>\"Exploring in the rain\"}"
   ],
   "timeline": [
+    {
+      "title": "European Vacation 2007 Day 1",
+      "date": "2007-04-20",
+      "subtitle": "Leaving on a jet plane — the scramble out of New Jersey",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "New Jersey",
+          "country": "United States"
+        },
+        {
+          "name": "Newark Liberty International Airport",
+          "country": "United States"
+        }
+      ],
+      "transport": [
+        {
+          "type": "car",
+          "route": "Home to Newark Airport"
+        },
+        {
+          "type": "air",
+          "route": "Newark (EWR) to London-Gatwick (LGW)",
+          "notes": "Overnight, roughly six hours; Presidents Club vouchers before boarding"
+        }
+      ],
+      "travel_sentiment": "excited, a little frazzled"
+    },
+    {
+      "title": "European Vacation 2007 Day 2",
+      "date": "2007-04-21",
+      "subtitle": "Untangling the English rail system, then embarking at Southampton",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "London-Gatwick Airport",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Chichester",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Southampton",
+          "country": "United Kingdom"
+        }
+      ],
+      "transport": [
+        {
+          "type": "rail",
+          "route": "Gatwick to Southampton via Chichester",
+          "notes": "Southern England rail; multiple competing operators over the same tracks"
+        },
+        {
+          "type": "taxi",
+          "route": "Southampton Central to the cruise terminal"
+        },
+        {
+          "type": "ship",
+          "route": "Embark at Southampton",
+          "carrier": "Celebrity Cruises",
+          "vessel": "Celebrity Millennium"
+        }
+      ],
+      "travel_sentiment": "exhausted but aboard"
+    },
+    {
+      "title": "European Vacation 2007 Day 3",
+      "date": "2007-04-22",
+      "subtitle": "Le Havre and a jet-lagged bus dash to Paris",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "Le Havre",
+          "country": "France"
+        },
+        {
+          "name": "Paris",
+          "country": "France"
+        }
+      ],
+      "transport": [
+        {
+          "type": "ship",
+          "route": "Docked at Le Havre"
+        },
+        {
+          "type": "bus",
+          "route": "Le Havre to Paris and back",
+          "notes": "About 2.5 hours each way; a notably slow driver on the way in"
+        }
+      ],
+      "activities": [
+        "Walking tour of Paris (Eiffel Tower, Arc de Triomphe, Champs-Élysées, Louvre, Notre Dame, the Seine)",
+        "First formal dining-room dinner aboard"
+      ],
+      "travel_sentiment": "jet-lagged but game"
+    },
+    {
+      "title": "European Vacation 2007 Day 4",
+      "date": "2007-04-23",
+      "subtitle": "Waffles, devil beer, and quaint Brugge",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "Zeebrugge",
+          "country": "Belgium"
+        },
+        {
+          "name": "Blankenberge",
+          "country": "Belgium"
+        },
+        {
+          "name": "Brugge",
+          "country": "Belgium"
+        }
+      ],
+      "transport": [
+        {
+          "type": "ship",
+          "route": "Docked at Zeebrugge"
+        },
+        {
+          "type": "bus",
+          "route": "Zeebrugge port to Blankenberge"
+        },
+        {
+          "type": "rail",
+          "route": "Blankenberge to Brugge and back",
+          "notes": "Trains ran only about once an hour"
+        }
+      ],
+      "travel_sentiment": "charmed"
+    },
+    {
+      "title": "European Vacation 2007 Day 5",
+      "date": "2007-04-24",
+      "subtitle": "Walking Amsterdam, a canal tour, and a scenic sail-away",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "Amsterdam",
+          "country": "Netherlands"
+        }
+      ],
+      "transport": [
+        {
+          "type": "ship",
+          "route": "Docked in Amsterdam"
+        },
+        {
+          "type": "boat",
+          "route": "Amsterdam canal tour"
+        }
+      ],
+      "activities": [
+        "Walking tour of Amsterdam",
+        "Canal boat tour",
+        "Scenic sail-away down the river"
+      ],
+      "travel_sentiment": "relaxed and content"
+    },
+    {
+      "title": "European Vacation 2007 Day 6",
+      "date": "2007-04-25",
+      "subtitle": "Sea Day #1 and the serendipitous dress shirt",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "At sea"
+        }
+      ],
+      "transport": [
+        {
+          "type": "ship",
+          "route": "Sea day en route to La Rochelle"
+        }
+      ],
+      "travel_sentiment": "bored but tidy"
+    },
+    {
+      "title": "European Vacation 2007 Day 7",
+      "date": "2007-04-26",
+      "subtitle": "La Rochelle didn't quite WOW me",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "La Rochelle",
+          "country": "France"
+        }
+      ],
+      "transport": [
+        {
+          "type": "ship",
+          "route": "Docked at La Rochelle"
+        }
+      ],
+      "travel_sentiment": "underwhelmed"
+    },
+    {
+      "title": "European Vacation 2007 Day 8",
+      "date": "2007-04-27",
+      "subtitle": "Bilbao, the Guggenheim, and a river walk promenade",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "Bilbao",
+          "country": "Spain",
+          "region": "Basque Country"
+        }
+      ],
+      "transport": [
+        {
+          "type": "ship",
+          "route": "Docked near Bilbao"
+        },
+        {
+          "type": "bus",
+          "route": "Port to downtown Bilbao",
+          "notes": "A hilly shuttle trip, and the usual pier shuttle chaos"
+        }
+      ],
+      "activities": [
+        "Guggenheim Museum Bilbao",
+        "River walk promenade",
+        "Paella lunch"
+      ],
+      "travel_sentiment": "pleasantly surprised"
+    },
+    {
+      "title": "European Vacation 2007 Day 9",
+      "date": "2007-04-28",
+      "subtitle": "Sea Day #2",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "At sea"
+        }
+      ],
+      "transport": [
+        {
+          "type": "ship",
+          "route": "Sea day en route to Lisbon"
+        }
+      ],
+      "travel_sentiment": "bored"
+    },
+    {
+      "title": "European Vacation 2007 Day 10",
+      "date": "2007-04-29",
+      "subtitle": "Lisbon grows on me",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "Lisbon",
+          "country": "Portugal"
+        }
+      ],
+      "transport": [
+        {
+          "type": "ship",
+          "route": "Docked at Lisbon; sailed out under the 25 de Abril Bridge"
+        }
+      ],
+      "activities": [
+        "Walking Lisbon's lower and hilly districts",
+        "Lunch at Locanda Italiana"
+      ],
+      "travel_sentiment": "warmed up over the day"
+    },
+    {
+      "title": "European Vacation 2007 Day 11",
+      "date": "2007-04-30",
+      "subtitle": "The Rock of Gibraltar — my favorite port of the trip",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "Gibraltar",
+          "country": "United Kingdom"
+        }
+      ],
+      "transport": [
+        {
+          "type": "ship",
+          "route": "Docked at Gibraltar"
+        },
+        {
+          "type": "taxi",
+          "route": "Up the Rock (cable car was too windy to run)"
+        },
+        {
+          "type": "bus",
+          "route": "Down the Rock to the Siege Tunnels"
+        }
+      ],
+      "activities": [
+        "St. Michael's Cave",
+        "Barbary apes atop the Rock",
+        "Great Siege Tunnels"
+      ],
+      "travel_sentiment": "this was the one"
+    },
+    {
+      "title": "European Vacation 2007 Day 12",
+      "date": "2007-05-01",
+      "subtitle": "Tangier — the most different place I'd ever been",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "Tangier",
+          "country": "Morocco"
+        }
+      ],
+      "transport": [
+        {
+          "type": "ship",
+          "route": "Anchored off Tangier (the only tender port of the trip)"
+        },
+        {
+          "type": "boat",
+          "route": "Tender to shore and back"
+        },
+        {
+          "type": "bus",
+          "route": "Tour of the area outside Tangier"
+        }
+      ],
+      "activities": [
+        "Countryside bus tour",
+        "Petting a camel",
+        "Wandering the medina",
+        "A solo lunch at a local cafe"
+      ],
+      "travel_sentiment": "awed and grateful"
+    },
+    {
+      "title": "European Vacation 2007 Day 13",
+      "date": "2007-05-02",
+      "subtitle": "Sea Day #3 — eating, packing, tipping",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "At sea"
+        }
+      ],
+      "transport": [
+        {
+          "type": "ship",
+          "route": "Final sea day en route to Barcelona"
+        }
+      ],
+      "travel_sentiment": "ready to be on land"
+    },
+    {
+      "title": "European Vacation 2007 Day 14",
+      "date": "2007-05-03",
+      "subtitle": "Debarking into Barcelona and Las Ramblas",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "Barcelona",
+          "country": "Spain",
+          "region": "Catalonia"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Le Méridien Barcelona",
+          "location": "Las Ramblas, Barcelona",
+          "url": "https://www.marriott.com/en-us/hotels/bcnmd-le-meridien-barcelona/overview/",
+          "notes": "Room was ready by 11am — a welcome surprise"
+        }
+      ],
+      "transport": [
+        {
+          "type": "ship",
+          "route": "Debark at Barcelona"
+        },
+        {
+          "type": "taxi",
+          "route": "Cruise terminal to Le Méridien Barcelona"
+        }
+      ],
+      "activities": [
+        "Wandering Las Ramblas",
+        "Lunch inside the La Boqueria market"
+      ],
+      "travel_sentiment": "back on land, energized"
+    },
+    {
+      "title": "European Vacation 2007 Day 15",
+      "date": "2007-05-04",
+      "subtitle": "A big touring day — Sagrada Família and Bonanova",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "Barcelona",
+          "country": "Spain",
+          "region": "Catalonia"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Le Méridien Barcelona",
+          "location": "Las Ramblas, Barcelona"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Restaurante Bonanova",
+          "type": "restaurant",
+          "location": "Sant Gervasi, Barcelona",
+          "url": "https://www.restaurantebonanova.com/"
+        }
+      ],
+      "transport": [
+        {
+          "type": "bus",
+          "route": "Barcelona hop-on hop-off tourist bus"
+        }
+      ],
+      "activities": [
+        "La Pedrera (Casa Milà)",
+        "Sagrada Família",
+        "Dinner at Restaurante Bonanova"
+      ],
+      "travel_sentiment": "full and happy"
+    },
+    {
+      "title": "European Vacation 2007 Day 16",
+      "date": "2007-05-05",
+      "subtitle": "A few weary hours in London (and a nearly lost bag)",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "name": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Hilton Gatwick",
+          "location": "Gatwick Airport, London",
+          "notes": "Connected to the airport"
+        }
+      ],
+      "transport": [
+        {
+          "type": "air",
+          "route": "Barcelona to London-Gatwick",
+          "carrier": "British Airways",
+          "notes": "US$130 overweight-baggage charge — for the bag that didn't arrive"
+        },
+        {
+          "type": "rail",
+          "route": "Gatwick Express to London Victoria and back"
+        }
+      ],
+      "activities": [
+        "Walking past Buckingham Palace",
+        "London Eye",
+        "St. James's Park"
+      ],
+      "travel_sentiment": "travel-weary"
+    },
+    {
+      "title": "European Vacation 2007 Day 17",
+      "date": "2007-05-06",
+      "subtitle": "The long flight home",
+      "categories": "travel europe",
+      "tags": [
+        "april2007"
+      ],
+      "rollup_key": "2007eu",
+      "locations": [
+        {
+          "name": "London-Gatwick Airport",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Newark Liberty International Airport",
+          "country": "United States"
+        }
+      ],
+      "transport": [
+        {
+          "type": "air",
+          "route": "London-Gatwick to Newark (EWR)",
+          "notes": "Business class — check-in and security were a breeze"
+        },
+        {
+          "type": "car",
+          "route": "Newark Airport to home"
+        }
+      ],
+      "travel_sentiment": "weary, grateful, home"
+    },
+    {
+      "title": "European Vacation 2007",
+      "date": "2007-05-07",
+      "subtitle": "A 17-day cruise with Sherri from Southampton to Barcelona — France, Belgium, the Netherlands, Spain, Portugal, Gibraltar, and Morocco.",
+      "categories": "travel rollup",
+      "tags": null,
+      "rollup_key": null,
+      "trip_type": "rollup",
+      "trip_duration": "April 20 - May 6, 2007",
+      "trip_duration_days": 17,
+      "locations_visited": [
+        "Southampton, United Kingdom",
+        "Le Havre, France",
+        "Paris, France",
+        "Zeebrugge, Belgium",
+        "Brugge, Belgium",
+        "Amsterdam, Netherlands",
+        "La Rochelle, France",
+        "Bilbao, Spain",
+        "Lisbon, Portugal",
+        "Gibraltar",
+        "Tangier, Morocco",
+        "Barcelona, Spain",
+        "London, United Kingdom"
+      ],
+      "countries_visited": [
+        "United Kingdom",
+        "France",
+        "Belgium",
+        "Netherlands",
+        "Spain",
+        "Portugal",
+        "Gibraltar",
+        "Morocco"
+      ],
+      "transport": [
+        "Celebrity Millennium (Celebrity Cruises)",
+        "transatlantic flights (Newark and London-Gatwick)",
+        "European trains",
+        "tender boats and tour buses"
+      ],
+      "travel_companions": [
+        "Sherri (wife)"
+      ],
+      "travel_sentiment": "adventurous, wide-eyed, a little travel-weary by the end"
+    },
     {
       "title": "Back in India",
       "date": "2019-01-21T11:25:19.282Z",
@@ -10916,12 +12801,481 @@
       ]
     },
     {
-      "title": "Switzerland Travels 2024",
+      "title": "Switzerland 2024 Day 1",
+      "date": "2024-07-11",
+      "subtitle": "RDU to Zurich — a jet-lagged arrival",
+      "categories": "travel switzerland",
+      "tags": [
+        "july2024"
+      ],
+      "rollup_key": "2024ch",
+      "locations": [
+        {
+          "name": "Holly Springs",
+          "country": "United States"
+        },
+        {
+          "name": "JFK Airport",
+          "country": "United States"
+        },
+        {
+          "name": "Zurich",
+          "country": "Switzerland",
+          "region": "Canton of Zürich"
+        }
+      ],
+      "transport": [
+        {
+          "type": "air",
+          "route": "RDU to JFK to Zurich",
+          "carrier": "Delta"
+        },
+        {
+          "type": "rail",
+          "route": "Zurich Airport to Zurich city center"
+        }
+      ],
+      "travel_sentiment": "run-down, off"
+    },
+    {
+      "title": "Switzerland 2024 Day 2",
+      "date": "2024-07-12",
+      "subtitle": "A low-energy day in Zurich",
+      "categories": "travel switzerland",
+      "tags": [
+        "july2024"
+      ],
+      "rollup_key": "2024ch",
+      "locations": [
+        {
+          "name": "Zurich",
+          "country": "Switzerland",
+          "region": "Canton of Zürich"
+        }
+      ],
+      "travel_sentiment": "sluggish, jet-lagged"
+    },
+    {
+      "title": "Switzerland 2024 Day 3",
+      "date": "2024-07-13",
+      "subtitle": "The train to Wengen",
+      "categories": "travel switzerland",
+      "tags": [
+        "july2024"
+      ],
+      "rollup_key": "2024ch",
+      "locations": [
+        {
+          "name": "Zurich",
+          "country": "Switzerland",
+          "region": "Canton of Zürich"
+        },
+        {
+          "name": "Interlaken",
+          "country": "Switzerland",
+          "region": "Bernese Oberland"
+        },
+        {
+          "name": "Wengen",
+          "country": "Switzerland",
+          "region": "Bernese Oberland"
+        }
+      ],
+      "accommodation": {
+        "name": "Hotel Alpenruhe",
+        "location": "Wengen, Switzerland",
+        "url": "https://www.alpenruhe-wengen.ch/"
+      },
+      "transport": [
+        {
+          "type": "rail",
+          "route": "Zurich → Bern → Interlaken Ost → Lauterbrunnen → Wengen"
+        }
+      ],
+      "travel_sentiment": "normal, relieved"
+    },
+    {
+      "title": "Switzerland 2024 Day 4",
+      "date": "2024-07-14",
+      "subtitle": "The Panorama Trail and a look at Mürren",
+      "categories": "travel switzerland",
+      "tags": [
+        "july2024"
+      ],
+      "rollup_key": "2024ch",
+      "locations": [
+        {
+          "name": "Wengen",
+          "country": "Switzerland",
+          "region": "Bernese Oberland"
+        },
+        {
+          "name": "Männlichen",
+          "country": "Switzerland",
+          "region": "Bernese Oberland"
+        },
+        {
+          "name": "Mürren",
+          "country": "Switzerland",
+          "region": "Bernese Oberland"
+        }
+      ],
+      "accommodation": {
+        "name": "Hotel Alpenruhe",
+        "location": "Wengen, Switzerland",
+        "url": "https://www.alpenruhe-wengen.ch/"
+      },
+      "activities": [
+        {
+          "type": "hiking",
+          "name": "Panorama Trail (Männlichen to Kleine Scheidegg)"
+        },
+        {
+          "type": "hiking",
+          "name": "Mürren to Grütschalp hike"
+        }
+      ],
+      "travel_sentiment": "content, reflective"
+    },
+    {
+      "title": "Switzerland 2024 Day 5",
+      "date": "2024-07-15",
+      "subtitle": "Moving day, with a lakeside detour to Spiez",
+      "categories": "travel switzerland",
+      "tags": [
+        "july2024"
+      ],
+      "rollup_key": "2024ch",
+      "locations": [
+        {
+          "name": "Wengen",
+          "country": "Switzerland",
+          "region": "Bernese Oberland"
+        },
+        {
+          "name": "Spiez",
+          "country": "Switzerland",
+          "region": "Bernese Oberland"
+        },
+        {
+          "name": "Brig",
+          "country": "Switzerland",
+          "region": "Valais"
+        }
+      ],
+      "accommodation": {
+        "name": "Hotel de Londres",
+        "location": "Brig, Switzerland",
+        "url": "https://www.hotel-delondres.ch/"
+      },
+      "transport": [
+        {
+          "type": "rail",
+          "route": "Wengen → Lauterbrunnen → Interlaken Ost → Spiez → Brig (via Lötschberg-Basistunnel)"
+        }
+      ],
+      "travel_sentiment": "relaxed, warm"
+    },
+    {
+      "title": "Switzerland 2024 Day 6",
+      "date": "2024-07-16",
+      "subtitle": "Stumbling onto the Aletsch Glacier from Riederalp",
+      "categories": "travel switzerland",
+      "tags": [
+        "july2024"
+      ],
+      "rollup_key": "2024ch",
+      "locations": [
+        {
+          "name": "Brig",
+          "country": "Switzerland",
+          "region": "Valais"
+        },
+        {
+          "name": "Mörel",
+          "country": "Switzerland",
+          "region": "Valais"
+        },
+        {
+          "name": "Riederalp",
+          "country": "Switzerland",
+          "region": "Valais"
+        }
+      ],
+      "accommodation": {
+        "name": "Hotel de Londres",
+        "location": "Brig, Switzerland",
+        "url": "https://www.hotel-delondres.ch/"
+      },
+      "points_of_interest": [
+        {
+          "name": "Aletsch Glacier",
+          "type": "glacier"
+        }
+      ],
+      "activities": [
+        {
+          "type": "hiking",
+          "name": "Riederalp to Hohfluh and Moosfluh (Aletsch Glacier viewpoints)"
+        }
+      ],
+      "travel_sentiment": "awed, tired"
+    },
+    {
+      "title": "Switzerland 2024 Day 7",
+      "date": "2024-07-17",
+      "subtitle": "The Gourmet Trail to Zermatt — and the loneliness of solo travel",
+      "categories": "travel switzerland",
+      "tags": [
+        "july2024"
+      ],
+      "rollup_key": "2024ch",
+      "locations": [
+        {
+          "name": "Brig",
+          "country": "Switzerland",
+          "region": "Valais"
+        },
+        {
+          "name": "Zermatt",
+          "country": "Switzerland",
+          "region": "Valais"
+        }
+      ],
+      "accommodation": {
+        "name": "Hotel Tannenhof",
+        "location": "Zermatt, Switzerland"
+      },
+      "points_of_interest": [
+        {
+          "name": "Matterhorn",
+          "type": "mountain"
+        }
+      ],
+      "transport": [
+        {
+          "type": "rail",
+          "route": "Brig → Visp"
+        },
+        {
+          "type": "bus",
+          "route": "Visp → Täsch (rail replacement after flooding)"
+        },
+        {
+          "type": "rail",
+          "route": "Täsch → Zermatt"
+        }
+      ],
+      "activities": [
+        {
+          "type": "hiking",
+          "name": "Gourmet Trail (Sunnegga to Zermatt)"
+        }
+      ],
+      "travel_sentiment": "joyful on the trail, acutely lonely in town"
+    },
+    {
+      "title": "Switzerland 2024 Day 8",
+      "date": "2024-07-18",
+      "subtitle": "The Riffelalp–Sunnegga Nature Trail and cold, clear Grünsee",
+      "categories": "travel switzerland",
+      "tags": [
+        "july2024"
+      ],
+      "rollup_key": "2024ch",
+      "locations": [
+        {
+          "name": "Zermatt",
+          "country": "Switzerland",
+          "region": "Valais"
+        },
+        {
+          "name": "Riffelalp",
+          "country": "Switzerland",
+          "region": "Valais"
+        },
+        {
+          "name": "Sunnegga",
+          "country": "Switzerland",
+          "region": "Valais"
+        }
+      ],
+      "accommodation": {
+        "name": "Hotel Tannenhof",
+        "location": "Zermatt, Switzerland"
+      },
+      "points_of_interest": [
+        {
+          "name": "Matterhorn",
+          "type": "mountain"
+        },
+        {
+          "name": "Grünsee",
+          "type": "lake"
+        }
+      ],
+      "activities": [
+        {
+          "type": "hiking",
+          "name": "Nature Trail: Riffelalp to Sunnegga"
+        }
+      ],
+      "travel_sentiment": "adventurous, more settled"
+    },
+    {
+      "title": "Switzerland 2024 Day 9",
+      "date": "2024-07-19",
+      "subtitle": "Moving to car-free Bettmeralp and the best roast beef sandwich",
+      "categories": "travel switzerland",
+      "tags": [
+        "july2024"
+      ],
+      "rollup_key": "2024ch",
+      "locations": [
+        {
+          "name": "Zermatt",
+          "country": "Switzerland",
+          "region": "Valais"
+        },
+        {
+          "name": "Bettmeralp",
+          "country": "Switzerland",
+          "region": "Valais"
+        }
+      ],
+      "accommodation": {
+        "name": "Hotel Waldhaus",
+        "location": "Bettmeralp, Switzerland"
+      },
+      "transport": [
+        {
+          "type": "rail",
+          "route": "Zermatt → Täsch"
+        },
+        {
+          "type": "bus",
+          "route": "Täsch → Visp (rail replacement after flooding)"
+        },
+        {
+          "type": "rail",
+          "route": "Visp → Betten (then cable car to Bettmeralp)"
+        }
+      ],
+      "travel_sentiment": "restful, reflective"
+    },
+    {
+      "title": "Switzerland 2024 Day 10",
+      "date": "2024-07-20",
+      "subtitle": "A lighter day above Bettmeralp and one more look at the glacier",
+      "categories": "travel switzerland",
+      "tags": [
+        "july2024"
+      ],
+      "rollup_key": "2024ch",
+      "locations": [
+        {
+          "name": "Bettmeralp",
+          "country": "Switzerland",
+          "region": "Valais"
+        },
+        {
+          "name": "Riederalp",
+          "country": "Switzerland",
+          "region": "Valais"
+        }
+      ],
+      "accommodation": {
+        "name": "Hotel Waldhaus",
+        "location": "Bettmeralp, Switzerland"
+      },
+      "points_of_interest": [
+        {
+          "name": "Aletsch Glacier",
+          "type": "glacier"
+        }
+      ],
+      "travel_sentiment": "relaxed, low-key"
+    },
+    {
+      "title": "Switzerland 2024 Day 11",
+      "date": "2024-07-21",
+      "subtitle": "Schloss Thun and a more local Swiss vibe",
+      "categories": "travel switzerland",
+      "tags": [
+        "july2024"
+      ],
+      "rollup_key": "2024ch",
+      "locations": [
+        {
+          "name": "Bettmeralp",
+          "country": "Switzerland",
+          "region": "Valais"
+        },
+        {
+          "name": "Thun",
+          "country": "Switzerland",
+          "region": "Bernese Oberland"
+        }
+      ],
+      "accommodation": {
+        "name": "Hotel Krone Thun",
+        "location": "Thun, Switzerland",
+        "url": "https://en.krone-thun.ch/"
+      },
+      "points_of_interest": [
+        {
+          "name": "Schloss Thun",
+          "type": "castle",
+          "url": "https://schlossthun.ch/en/"
+        }
+      ],
+      "travel_sentiment": "easy, curious"
+    },
+    {
+      "title": "Switzerland 2024 Day 12",
       "date": "2024-07-22",
-      "subtitle": "Travels through Zurich, Wengen, Brig, Zermatt, and Thun.",
+      "subtitle": "The long journey home",
+      "categories": "travel switzerland",
+      "tags": [
+        "july2024"
+      ],
+      "rollup_key": "2024ch",
+      "locations": [
+        {
+          "name": "Thun",
+          "country": "Switzerland",
+          "region": "Bernese Oberland"
+        },
+        {
+          "name": "Zurich",
+          "country": "Switzerland",
+          "region": "Canton of Zürich"
+        },
+        {
+          "name": "JFK Airport",
+          "country": "United States"
+        }
+      ],
+      "transport": [
+        {
+          "type": "rail",
+          "route": "Thun → Zurich Airport (IC 8, no transfer)"
+        },
+        {
+          "type": "air",
+          "route": "Zurich to JFK to RDU",
+          "carrier": "Delta"
+        }
+      ],
+      "travel_sentiment": "worn out, glad to be home"
+    },
+    {
+      "title": "Switzerland Travels 2024",
+      "date": "2024-07-23",
+      "subtitle": "A solo journey through Zurich, Wengen, Brig, Zermatt, Bettmeralp, and Thun.",
       "categories": "travel switzerland",
       "tags": null,
-      "rollup_key": null,
+      "rollup_key": "2024ch",
       "trip_type": "solo",
       "trip_duration": "July 10-22, 2024",
       "locations": [

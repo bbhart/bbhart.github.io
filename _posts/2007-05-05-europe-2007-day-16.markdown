@@ -1,0 +1,61 @@
+---
+layout: post
+title: "European Vacation 2007 Day 16"
+subtitle: "A few weary hours in London (and a nearly lost bag)"
+date: 2007-05-05
+categories: travel europe
+rollup_key: 2007eu
+tags: [april2007]
+background: '/assets/2007-europe-london-eye-thames.jpg'
+author: Brian Hart
+description: Day 16 — a flight from Barcelona to London, a British Airways overweight-baggage fee for a bag that then failed to arrive, a quick weary tour past Buckingham Palace and the London Eye, and a late-night sprint across Gatwick to rescue the missing bag.
+locations:
+  - name: Barcelona
+    country: Spain
+  - name: London
+    country: United Kingdom
+transport:
+  - type: air
+    route: Barcelona to London-Gatwick
+    carrier: British Airways
+    notes: US$130 overweight-baggage charge — for the bag that didn't arrive
+  - type: rail
+    route: Gatwick Express to London Victoria and back
+accommodations:
+  - name: Hilton Gatwick
+    location: Gatwick Airport, London
+    notes: Connected to the airport
+activities:
+  - Walking past Buckingham Palace
+  - London Eye
+  - St. James's Park
+travel_sentiment: travel-weary
+---
+
+# Day 16 — Travel to London, a few hours in London
++ **When**: Saturday, May 5, 2007
++ **Where**: Barcelona and London
+
+Saturday we're off to London. Our flight's not until 1pm or so, giving us time to casually make our way to the airport, where British Airways charges us US$130 for being overweight on our baggage. Thanks, British Airways! Anyway, we make it into London, and the bag we paid an extra $130 for DOESN'T ARRIVE. We have to report it to the BA baggage people, who inform us it will probably be on the next flight, later that evening.
+
+We stayed in the Hilton Gatwick hotel, which is connected to the airport. We hike our luggage over to the hotel (less one bag), check in, and grab the Gatwick Express into London. In a quick half-hour we're at Victoria station in London. What do we do? We walk, of course. It's what we're good at.
+
+The Queen lives here. She Queens. And vacuums.
+
+Me in front of the London Eye:
+
+<figure>
+    <img src="/assets/2007-europe-london-eye-brian.jpg" alt="Brian, in a black sweater, leans on a riverside railing with the London Eye's white observation wheel rising behind him across the Thames, trees and a tour bus along the embankment." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Brian in front of the London Eye.</figcaption>
+</figure>
+
+<figure>
+    <img src="/assets/2007-europe-london-eye-thames.jpg" alt="The London Eye seen across the River Thames under a clear blue sky, with sightseeing boats moored along the near bank and a bridge in the distance." width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">The London Eye across the Thames.</figcaption>
+</figure>
+
+We also strolled through St. James's Park.
+
+The weather was gorgeous in London, but at this point, we've been traveling for 16 days, and we're both fairly travel-weary. We make our way back towards Victoria station, pop into a pub for beer and grub, then head back to our hotel. Once we're back to the room, I call over to the baggage claim people, looking for tracking information on the missing bag. On the fourth call, I finally reach a human. He has the bag! He's just getting ready to leave for the night. Wait! We're staying at the airport! We can pick it up now, then you won't have to ship it back to the States! We throw on some clothes and sprint across Gatwick, rescuing the bag from near-certain permanent loss.
+
+Sleep comes early tonight, and tomorrow's a long day.
