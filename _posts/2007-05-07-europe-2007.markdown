@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "European Vacation 2007"
-subtitle: "A 14-night cruise with Sherri, plus two nights in Barcelona and one in London -- France, England, Belgium, the Netherlands, Spain, Portugal, Gibraltar, and Morocco."
+subtitle: "A 14-night cruise with Sherri, plus two nights in Barcelona and one in London -- a trip spanning France, England, Belgium, the Netherlands, Spain, Portugal, Gibraltar, and Morocco."
 date: 2007-05-07
 categories: travel rollup
 destination: europe
