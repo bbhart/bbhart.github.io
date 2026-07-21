@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>College List — Planning Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f3f5f7; --card:#ffffff; --ink:#16202e; --muted:#5c6875; --faint:#8a95a1;
+    --rule:#e2e7ec; --rule-strong:#cdd5dd;
+    --t-far:#b23a3a; --t-reach:#cf7430; --t-poss:#c69a2e; --t-likely:#3f9a72; --t-safety:#2f7d4f;
+    --far-bg:#f7e6e5; --reach-bg:#f8ebe0; --poss-bg:#f7f0da; --likely-bg:#e2f0e9; --safety-bg:#dcecdf;
+    --cc:#a1531c; --cc-bg:#f8ebe0;
+    --shadow:0 1px 2px rgba(22,32,46,.06),0 6px 24px rgba(22,32,46,.05);
+    --cost:#b23a3a; --cost-bg:#f7e6e5; --reach:#cf7430; --reach-bg:#f8ebe0;
+    --relig:#7d5ba6; --relig-bg:#ece5f2; --fitc:#b7891f; --fitc-bg:#f7f0da;
+    --sizec:#2b8a7a; --sizec-bg:#dcecea; --outc:#8a5a2b; --outc-bg:#efe4d8;
+    --safe:#8f2b2b; --safe-bg:#f2dede; --dist:#3f6fa6; --dist-bg:#e2ebf4;
+    --redun:#6b7580; --redun-bg:#e8ebee; --otherc:#55606b; --otherc-bg:#e6e9ec;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:'Inter',system-ui,sans-serif;font-size:13px;line-height:1.45;-webkit-font-smoothing:antialiased;}
+  .wrap{max-width:1400px;margin:0 auto;padding:28px 22px 60px}
+  .num{font-family:'IBM Plex Mono',monospace;font-variant-numeric:tabular-nums}
+  header{margin-bottom:24px}
+  .eyebrow{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--faint);font-weight:600;margin:0 0 8px}
+  h1{font-family:'Fraunces',serif;font-weight:600;font-size:clamp(28px,4.6vw,42px);line-height:1.02;letter-spacing:-.01em;margin:0 0 6px}
+  .sub{color:var(--muted);max-width:70ch;margin:0}
+  .profile{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+  .chip{background:var(--card);border:1px solid var(--rule);border-radius:999px;padding:4px 11px;font-size:12px;box-shadow:var(--shadow)}
+  .chip b{font-weight:600}
+  .chip span{color:var(--faint)}
+  .sec-head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin:30px 0 12px;flex-wrap:wrap}
+  .sec-head h2{font-family:'Fraunces',serif;font-weight:600;font-size:19px;margin:0}
+  .sec-head .meta{font-size:12px;color:var(--muted)}
+  .controls{display:flex;align-items:center;gap:9px;flex-wrap:wrap}
+  .controls .lbl{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);font-weight:600}
+  .seg{display:inline-flex;background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:3px;box-shadow:var(--shadow)}
+  .seg button{border:0;background:transparent;font:inherit;font-size:12px;color:var(--muted);padding:4px 10px;border-radius:6px;cursor:pointer;transition:background .15s,color .15s}
+  .seg button:hover{color:var(--ink)}
+  .seg button[aria-pressed="true"]{background:var(--ink);color:#fff;font-weight:500}
+  .seg button:focus-visible{outline:2px solid var(--t-likely);outline-offset:2px}
+  .filterbar{display:none;align-items:center;gap:10px;margin:0 0 10px;font-size:12.5px;color:var(--muted)}
+  .filterbar.on{display:flex}
+  .filterbar .clear{border:1px solid var(--rule-strong);background:var(--card);border-radius:7px;padding:3px 10px;font:inherit;font-size:12px;cursor:pointer;color:var(--ink)}
+  .filterbar .clear:hover{background:#f0f2f4}
+  .tablecard{background:var(--card);border:1px solid var(--rule);border-radius:14px;box-shadow:var(--shadow);overflow:hidden}
+  table{border-collapse:collapse;width:100%;table-layout:fixed}
+  col.c-school{width:17%} col.c-snap{width:11%} col.c-admit{width:11%}
+  col.c-dl{width:12%} col.c-odds{width:10%} col.c-rep{width:31%} col.c-grad{width:8%}
+  thead th{background:#eef1f4;color:var(--muted);font-size:10px;letter-spacing:.06em;text-transform:uppercase;font-weight:600;text-align:left;padding:9px 9px;border-bottom:1px solid var(--rule-strong);}
+  tbody td{padding:8px 9px;border-bottom:1px solid var(--rule);vertical-align:top;font-size:12px;overflow-wrap:break-word;word-wrap:break-word;}
+  tbody tr:hover{background:#f7f9fb}
+  tbody tr:last-child td{border-bottom:0}
+  tr.dim{opacity:.28;filter:saturate(.5)}
+  td.school{border-left:4px solid transparent;padding-left:11px}
+  .rk{color:var(--faint);font-size:10.5px;margin-right:5px}
+  .sname{font-weight:600}
+  .loc{display:block;color:var(--faint);font-size:10.5px;margin-top:1px}
+  .anchor-tag{display:inline-block;font-size:9px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--t-likely);border:1px solid var(--t-likely);border-radius:4px;padding:0 4px;margin-left:5px;vertical-align:1px}
+  .cc-tag{display:inline-block;font-size:9px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--cc);background:var(--cc-bg);border-radius:4px;padding:1px 5px;margin-top:3px}
+  .cc-tag.soft{background:transparent;border:1px solid #e0c9b4;color:#b07a44}
+  .new-tag{display:inline-block;font-size:9px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:#2b6a9e;border:1px solid #9ec4de;border-radius:4px;padding:0 4px;margin-left:5px;vertical-align:1px}
+  .snapline{display:block;color:var(--muted);font-size:11px}
+  .snapline.usn{color:var(--faint);font-size:10.5px}
+  .acc{font-weight:600}
+  .satline{display:block;color:var(--muted);font-size:11px}
+  .hisline{display:block;font-size:10.5px;color:var(--faint)}
+  .net{font-weight:600}
+  .net.over{color:var(--t-far)}
+  .netnote{display:block;color:var(--faint);font-size:10.5px;font-weight:400}
+  .flagmark{color:var(--t-poss);font-weight:700}
+  .dl{font-size:10.5px;color:var(--muted);line-height:1.4}
+  .pill{display:inline-block;font-size:10.5px;font-weight:600;padding:2px 8px;border-radius:999px;line-height:1.4}
+  .pillsub{display:block;font-size:10px;color:var(--faint);margin-top:2px}
+  .p-far{background:var(--far-bg);color:#8f2b2b}
+  .p-reach{background:var(--reach-bg);color:#a1531c}
+  .p-poss{background:var(--poss-bg);color:#8f6d14}
+  .p-likely{background:var(--likely-bg);color:#256b4d}
+  .p-safety{background:var(--safety-bg);color:#20603b}
+  .rep{color:var(--muted);font-size:11px;line-height:1.4}
+  .grad{font-weight:600;text-align:right;font-size:12px}
+  .grad.gr-low{color:var(--t-far)}
+  .grad.gr-hi{color:var(--t-safety)}
+  .chartcard{background:var(--card);border:1px solid var(--rule);border-radius:14px;box-shadow:var(--shadow);padding:18px 20px}
+  .ladder{display:flex;flex-direction:column;gap:8px;margin-top:2px}
+  .rung{display:grid;grid-template-columns:92px 1fr 36px;align-items:center;gap:12px;cursor:pointer;border:0;background:transparent;font:inherit;text-align:left;padding:4px 6px;border-radius:9px;transition:background .14s}
+  .rung:hover{background:#f5f7f9}
+  .rung:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+  .rung .tname{font-size:12.5px;font-weight:600;display:flex;align-items:center;gap:7px}
+  .rung .swatch{width:10px;height:10px;border-radius:3px;flex:none}
+  .rung .track{background:#eef1f4;border-radius:7px;height:24px;overflow:hidden}
+  .rung .bar{height:100%;border-radius:7px;width:0;transition:width .7s cubic-bezier(.22,.61,.36,1)}
+  .rung .cnt{font-family:'IBM Plex Mono',monospace;font-size:13px;font-weight:600;text-align:right}
+  .rung.active{background:#eef1f4}
+  .rung.active .tname{text-decoration:underline;text-underline-offset:3px}
+  .rung.faded{opacity:.4}
+  .ladder-scale{display:flex;justify-content:space-between;font-size:10px;color:var(--faint);margin:10px 0 0;padding:0 6px}
+  .caption{color:var(--muted);font-size:12px;margin:2px 0 14px;max-width:72ch}
+  .foot{margin-top:24px;color:var(--faint);font-size:11px;line-height:1.5;max-width:84ch}
+  .foot b{color:var(--muted);font-weight:600}
+  @media (max-width:760px){
+    table,thead,tbody,tr,td,colgroup,col{display:block;width:100%}
+    thead{display:none}
+    tbody tr{border-bottom:6px solid var(--paper);padding:4px 0}
+    tbody td{border-bottom:0;padding:3px 12px}
+    td.school{padding-left:12px;border-left-width:4px;padding-top:9px}
+    .rung{grid-template-columns:80px 1fr 30px;gap:9px}
+  }
+  @media (prefers-reduced-motion:reduce){*{transition:none!important}.rung .bar{transition:none!important}}
+  /* rejection log */
+  .rej-legend{display:flex;flex-wrap:wrap;gap:7px;margin:14px 0 10px}
+  .rtag{display:inline-block;font-size:10px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;padding:2px 8px;border-radius:5px;white-space:nowrap}
+  .r-cost{background:var(--cost-bg);color:var(--cost)} .r-reach{background:var(--reach-bg);color:var(--reach)}
+  .r-relig{background:var(--relig-bg);color:var(--relig)} .r-fit{background:var(--fitc-bg);color:var(--fitc)}
+  .r-size{background:var(--sizec-bg);color:var(--sizec)} .r-out{background:var(--outc-bg);color:var(--outc)}
+  .r-safe{background:var(--safe-bg);color:var(--safe)} .r-dist{background:var(--dist-bg);color:var(--dist)}
+  .r-redun{background:var(--redun-bg);color:var(--redun)} .r-other{background:var(--otherc-bg);color:var(--otherc)}
+  table.rej{border-collapse:collapse;width:100%;background:var(--card);border:1px solid var(--rule);border-radius:12px;overflow:hidden;box-shadow:var(--shadow);font-size:12.5px;table-layout:fixed}
+  table.rej col.rc-name{width:20%} table.rej col.rc-tag{width:16%} table.rej col.rc-why{width:64%}
+  table.rej thead th{background:#eef1f4;text-align:left;padding:9px 12px;font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600;border-bottom:1px solid var(--rule-strong)}
+  table.rej td{padding:9px 12px;border-top:1px solid var(--rule);vertical-align:top;overflow-wrap:break-word}
+  table.rej tbody tr:hover{background:#f7f9fb}
+  table.rej .sname{font-weight:600}
+  table.rej .rstatus{display:block;font-size:9.5px;color:var(--faint);margin-top:2px;font-family:'IBM Plex Mono',monospace}
+  table.rej .why b{font-weight:600;color:var(--ink)}
+  @media(max-width:760px){table.rej,table.rej col{width:auto}table.rej td{padding:8px 10px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Admissions planning board · updated Jul 12, 2026</p>
+    <h1>College List</h1>
+    <p class="sub">Six schools ranked hardest → easiest to get into, with admit odds judged against <em>his</em> profile. <strong>Financials are no longer a deciding factor</strong> — cost is off the board. Fit filter: he is <strong>not self-directed</strong> — quiet, make-your-own-fun campuses are treated as risks; size and community matter most now.</p>
+    <div class="profile">
+      <div class="chip"><span>GPA</span> <b>4.1</b> W / <b>3.66</b> UW</div>
+      <div class="chip"><span>SAT</span> <b>1340</b> (final)</div>
+      <div class="chip"><span>Radius</span> <b>~9h</b> drive</div>
+      <div class="chip"><span>Residency</span> <b>NC</b></div>
+      <div class="chip"><span>Major</span> <b>Undeclared</b></div>
+      <div class="chip"><span>Avoid</span> <b>country-club</b> · no TN/AL/MS</div>
+      <div class="chip"><span>Fit</span> <b>needs built-in community</b> · not self-directed</div>
+    </div>
+  </header>
+
+  <div class="sec-head">
+    <h2>The list</h2>
+    <div class="controls">
+      <span class="lbl">Sort</span>
+      <div class="seg" role="group" aria-label="Sort order">
+        <button data-sort="rank" aria-pressed="true">Hardest → easiest</button>
+        <button data-sort="drive">Drive: near → far</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="filterbar" id="filterbar">
+    <span id="filtertext"></span>
+    <button class="clear" id="clearfilter">Show all 6</button>
+  </div>
+
+  <div class="tablecard">
+    <table>
+      <colgroup>
+        <col class="c-school"><col class="c-snap"><col class="c-admit">
+        <col class="c-dl"><col class="c-odds"><col class="c-rep"><col class="c-grad">
+      </colgroup>
+      <thead>
+        <tr>
+          <th>School</th>
+          <th>Type · Size · Drive · USN</th>
+          <th>Admit · SAT · him</th>
+          <th>Deadlines</th>
+          <th>Odds</th>
+          <th>Reputation (anecdotal)</th>
+          <th style="text-align:right">4-yr grad</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+
+  <div class="sec-head">
+    <h2>Odds distribution</h2>
+    <span class="meta">Click a tier to filter the table</span>
+  </div>
+  <p class="caption">How the 6 schools split across the five odds tiers. The list is deliberately tight, weighted toward larger schools with strong built-in community; NC State and Virginia Tech anchor the top, with no far-reach swing.</p>
+
+  <div class="chartcard">
+    <div class="ladder" id="ladder"></div>
+    <div class="ladder-scale"><span>0 schools</span><span id="scalemax"></span></div>
+  </div>
+
+  <p class="foot">
+    <b>How to read this.</b> Admit odds and reputation are judgment calls, not guarantees — reputation is impressionistic (Reddit/Niche/College Confidential). SAT ranges show score-submitters only, so they skew high. Deadlines are typical recent dates — <b>verify on each school's site</b>; several tie max scholarships to Nov 1. <b>4-yr grad</b> = share finishing in four years (IPEDS / U.S. News); tildes are approximate — verify on College Scorecard. A low rate (red, &lt;50%) often means paying for a 5th year. Sources: school aid pages, U.S. News 2026, IPEDS/College Scorecard.
+  </p>
+
+  <div class="sec-head" style="margin-top:40px">
+    <h2>Schools we've ruled out</h2>
+    <span class="meta">standing rejection log — so a vetted school doesn't get re-litigated</span>
+  </div>
+  <p class="caption">Every school cut from the list or declined when suggested, with the reason. Tags mark the <em>primary</em> disqualifier; the note covers any secondary ones.</p>
+
+  <div class="rej-legend">
+    <span class="rtag r-cost">Over budget</span>
+    <span class="rtag r-reach">Admissions reach</span>
+    <span class="rtag r-relig">Religious</span>
+    <span class="rtag r-size">Size</span>
+    <span class="rtag r-fit">Self-direction fit</span>
+    <span class="rtag r-out">Weak outcomes</span>
+    <span class="rtag r-safe">Safety / culture</span>
+    <span class="rtag r-dist">Too far</span>
+    <span class="rtag r-redun">Redundant</span>
+    <span class="rtag r-other">Other</span>
+  </div>
+
+  <table class="rej">
+    <colgroup><col class="rc-name"><col class="rc-tag"><col class="rc-why"></colgroup>
+    <thead><tr><th>School</th><th>Primary reason</th><th>Notes</th></tr></thead>
+    <tbody>
+      <tr><td><span class="sname">Bentley</span><span class="rstatus">never added</span></td><td><span class="rtag r-dist">Too far</span></td><td class="why">~13-hour drive (Waltham, MA); business-specialist; ~$75k.</td></tr>
+      <tr><td><span class="sname">Berea</span><span class="rstatus">never added</span></td><td><span class="rtag r-other">Other</span></td><td class="why">Tuition-free but <b>admits only students with financial need</b> — no-need status makes him ineligible.</td></tr>
+      <tr><td><span class="sname">Berry College</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-relig">Religious</span></td><td class="why">Cut for religious heritage (nondenominational Christian), even though secular in practice.</td></tr>
+      <tr><td><span class="sname">Bridgewater College</span><span class="rstatus">never added</span></td><td><span class="rtag r-relig">Religious</span></td><td class="why">Church of the Brethren, dry campus, conservative Christian culture.</td></tr>
+      <tr><td><span class="sname">Butler</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-dist">Too far</span></td><td class="why">~9-hour drive (Indianapolis) — outside the working radius.</td></tr>
+      <tr><td><span class="sname">Campbell</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-relig">Religious</span></td><td class="why">Baptist-rooted, dry campus, conservative culture.</td></tr>
+      <tr><td><span class="sname">Catawba</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-relig">Religious</span></td><td class="why">United Church of Christ affiliation; also very small and ~45% 4-yr grad.</td></tr>
+      <tr><td><span class="sname">Centre College</span><span class="rstatus">not selected</span></td><td><span class="rtag r-redun">Redundant</span></td><td class="why">Floated in the 9-hour expansion; not chosen.</td></tr>
+      <tr><td><span class="sname">Christopher Newport</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-redun">Redundant</span></td><td class="why">Cut in the “too big / expensive / country-club” consolidation.</td></tr>
+      <tr><td><span class="sname">Coastal Carolina</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-out">Weak outcomes</span></td><td class="why">“Beach/party,” weak academic reputation, ~38% 4-yr grad.</td></tr>
+      <tr><td><span class="sname">College of Charleston</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-redun">Redundant</span></td><td class="why">Larger public cut in the batch trim; didn't add over the NC options.</td></tr>
+      <tr><td><span class="sname">Denison</span><span class="rstatus">never added</span></td><td><span class="rtag r-reach">Admissions reach</span></td><td class="why">A far reach at his stats.</td></tr>
+      <tr><td><span class="sname">Dickinson</span><span class="rstatus">never added</span></td><td><span class="rtag r-cost">Over budget</span></td><td class="why">~$45–55k+ merit-only — over the line.</td></tr>
+      <tr><td><span class="sname">East Carolina (ECU)</span><span class="rstatus">considered → declined</span></td><td><span class="rtag r-safe">Safety / culture</span></td><td class="why">2025 cluster of reported campus sexual assaults + elevated Greenville crime; heavy party/drinking culture. <b>Compounds the not-self-directed risk;</b> App State / UNC Charlotte cover the same profile more safely.</td></tr>
+      <tr><td><span class="sname">Elon</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-cost">Over budget</span></td><td class="why">~$57–62k merit-only; “country club” — preppy, Greek-and-party-dominated.</td></tr>
+      <tr><td><span class="sname">Ferrum College</span><span class="rstatus">never added</span></td><td><span class="rtag r-relig">Religious</span></td><td class="why">Methodist; tiny; weak outcomes.</td></tr>
+      <tr><td><span class="sname">Flagler College</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-fit">Self-direction fit</span></td><td class="why">Car-dependent, quiet tourist town; “charms self-contained kids, bores restless ones”; ~50% 4-yr grad.</td></tr>
+      <tr><td><span class="sname">Furman</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-cost">Over budget</span></td><td class="why">~$57–65k merit-only; “country club of the South”; also small (~2,300).</td></tr>
+      <tr><td><span class="sname">Gettysburg</span><span class="rstatus">never added</span></td><td><span class="rtag r-cost">Over budget</span></td><td class="why">~$45–55k+ merit-only — over or at the line with worse odds.</td></tr>
+      <tr><td><span class="sname">Guilford</span><span class="rstatus">never added</span></td><td><span class="rtag r-other">Other</span></td><td class="why">Culturally plausible but ongoing financial-stability problems.</td></tr>
+      <tr><td><span class="sname">Hampden-Sydney</span><span class="rstatus">never added</span></td><td><span class="rtag r-other">Other</span></td><td class="why">All-male, Southern-traditional.</td></tr>
+      <tr><td><span class="sname">Hollins University</span><span class="rstatus">never added</span></td><td><span class="rtag r-other">Other</span></td><td class="why">Women's college (secular, well-regarded) — out if he's male.</td></tr>
+      <tr><td><span class="sname">James Madison (JMU)</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-cost">Over budget</span></td><td class="why">Comparable large public to App State (~20k UG each — similar size), but <b>out-of-state ~$44k vs App State's in-state ~$22k</b> — a ~$20k/yr premium. JMU actually posts <em>better</em> outcomes (66–81% 4-yr grad vs ~54–65%); rejection is purely OOS cost, not quality.</td></tr>
+      <tr><td><span class="sname">University of Lynchburg</span><span class="rstatus">never added</span></td><td><span class="rtag r-relig">Religious</span></td><td class="why">Christian Church (Disciples of Christ) heritage — light, but an affiliation.</td></tr>
+      <tr><td><span class="sname">Mary Washington</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-fit">Self-direction fit</span></td><td class="why">Quiet, liberal-arts, “suitcase school”; thrives self-directed intellectual types. <b>Confirmed after the July 21 Roanoke College tour:</b> Rowan showed a strong preference for <b>large</b> schools (Virginia Tech is his top choice), so a small ~3,700-student campus is a poor fit — the size read now reinforces the original self-direction concern.</td></tr>
+      <tr><td><span class="sname">McDaniel</span><span class="rstatus">not selected</span></td><td><span class="rtag r-redun">Redundant</span></td><td class="why">Floated in the 9-hour expansion; not chosen.</td></tr>
+      <tr><td><span class="sname">Mercer</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-redun">Redundant</span></td><td class="why">Good value (61% grad, ~$33–38k) but cut as the list consolidated.</td></tr>
+      <tr><td><span class="sname">Oglethorpe</span><span class="rstatus">not selected</span></td><td><span class="rtag r-redun">Redundant</span></td><td class="why">Floated in the 9-hour expansion; not chosen; also 43% 4-yr grad caution.</td></tr>
+      <tr><td><span class="sname">Penn State — University Park</span><span class="rstatus">considered → declined</span></td><td><span class="rtag r-size">Size</span></td><td class="why">Academically strong (#59 nat'l / #26 public) and huge, and cost is no longer a factor — but declined on a stack of yellow flags: <b>extreme size</b> (~42,600 UG — easy to feel like a number, a real risk given the not-self-directed concern), a heavy <b>party/Greek atmosphere</b>, and <b>distance</b> (~6.5h drive; no nonstop RDU flights — ~half-day travel each way). Originally cut for OOS cost.</td></tr>
+      <tr><td><span class="sname">Radford University</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-out">Weak outcomes</span></td><td class="why"><b>34% 4-yr grad</b>, 33% transfer-out; OOS-priced above in-state peers; duplicates App State's niche but smaller. (Re-suggested by advisor — reason still doesn't hold.)</td></tr>
+      <tr><td><span class="sname">Randolph College</span><span class="rstatus">never added</span></td><td><span class="rtag r-relig">Religious</span></td><td class="why">Methodist heritage; also tiny (~660) and 46% 4-yr grad.</td></tr>
+      <tr><td><span class="sname">Randolph-Macon</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-size">Size</span></td><td class="why"><b>Too small (~1,500) and too far;</b> Rowan reacts more positively to larger schools.</td></tr>
+      <tr><td><span class="sname">University of Richmond</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-cost">Over budget</span></td><td class="why">~$85k with need-based aid only (→ full price for a no-need family); <b>also a far reach</b> (~22%). A double miss.</td></tr>
+      <tr><td><span class="sname">RIT</span><span class="rstatus">never added</span></td><td><span class="rtag r-cost">Over budget</span></td><td class="why">~$58–65k merit-only; ~11h away; co-op model demands self-direction; grindy tech culture.</td></tr>
+      <tr><td><span class="sname">Rollins</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-cost">Over budget</span></td><td class="why">~$53–59k merit-only; “gorgeous, wealthy, country-club.”</td></tr>
+      <tr><td><span class="sname">Stetson</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-fit">Self-direction fit</span></td><td class="why">Quiet, minimal party/spirit, sleepy weekends; suits self-directed kids.</td></tr>
+      <tr><td><span class="sname">University of Tampa</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-size">Size</span></td><td class="why">Cut in the “too big / expensive” pass; spring-break vibe, ~$40–45k.</td></tr>
+      <tr><td><span class="sname">UCF (Central Florida)</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-size">Size</span></td><td class="why">Too big (~59k); OOS ~$36k; <b>legacy gives zero edge</b> (CDS: alumni relation “not considered”); GPA fit soft.</td></tr>
+      <tr><td><span class="sname">UNC Greensboro</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-out">Weak outcomes</span></td><td class="why">~40% 4-yr grad; thin professional/alumni network.</td></tr>
+      <tr><td><span class="sname">University of Virginia</span><span class="rstatus">never added</span></td><td><span class="rtag r-reach">Admissions reach</span></td><td class="why">~17–19% admit; pricey OOS with thin merit. A “dream reach” to see, not a target.</td></tr>
+      <tr><td><span class="sname">VCU</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-redun">Redundant</span></td><td class="why">Urban public cut as the list tightened; overlapped other publics.</td></tr>
+      <tr><td><span class="sname">VMI</span><span class="rstatus">never added</span></td><td><span class="rtag r-other">Other</span></td><td class="why">Military college — a very specific culture, not a fit.</td></tr>
+      <tr><td><span class="sname">Washington &amp; Lee</span><span class="rstatus">never added</span></td><td><span class="rtag r-reach">Admissions reach</span></td><td class="why">~17–19% admit; ~$61k with need-based aid only; also small (~2,300).</td></tr>
+      <tr><td><span class="sname">Western Carolina</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-out">Weak outcomes</span></td><td class="why">~42% 4-yr grad; very remote (Cullowhee).</td></tr>
+      <tr><td><span class="sname">William &amp; Mary</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-cost">Over budget</span></td><td class="why">OOS ~$62k with no cushion; <b>also a reach</b> (his SAT below their 25th). “Too far out of reach.”</td></tr>
+      <tr><td><span class="sname">Winthrop</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-out">Weak outcomes</span></td><td class="why">~42% 4-yr grad; aging dorms and Rock Hill safety flags.</td></tr>
+      <tr><td><span class="sname">Wofford</span><span class="rstatus">on list → removed</span></td><td><span class="rtag r-cost">Over budget</span></td><td class="why">Borderline budget (merit needs top-10% rank + ECs); preppy, Greek-heavy Southern.</td></tr>
+    </tbody>
+  </table>
+  <p class="foot"><b>Status key:</b> “on list → removed” was on the working matrix then cut; “never added” was suggested and declined; “not selected” was offered in a batch where others were chosen; “considered → declined” was actively evaluated then rejected. Tags reflect the <b>primary</b> disqualifier — several failed on multiple criteria. Costs assume merit-only aid (no need-based).</p>
+</div>
+
+<script>
+const T = {
+  "Far reach":{cls:"p-far",  color:"var(--t-far)"},
+  "Reach":    {cls:"p-reach", color:"var(--t-reach)"},
+  "Possible": {cls:"p-poss",  color:"var(--t-poss)"},
+  "Likely":   {cls:"p-likely",color:"var(--t-likely)"},
+  "Safety":   {cls:"p-safety",color:"var(--t-safety)"},
+};
+
+const DATA = [
+  {rank:1, school:"NC State", loc:"Raleigh, NC", drive:"~30m", driveH:0.5, type:"Public \u00b7 in-state", ug:"~28,000", accept:"~40%", sat:"1300\u20131470", his:"below-mid", usn:"#64 Nat'l", net:"~$26k", cost:26, deadline:"EA Nov 1 \u00b7 RD Jan 15", tier:"Reach", odds:"Reach", grad:"~57%", rep:"Pragmatic STEM powerhouse, rising prestige. r/NCSU praises the RTP co-op/career pipeline, Raleigh, and value; culture is unpretentious, work-hard, big-spirited without being party-defined. Recurring gripes: enormous intro lectures, bureaucratic advising, brutal engineering/CS curves, parking. Students describe feeling employable, not coddled."},
+  {rank:2, school:"Virginia Tech", loc:"Blacksburg, VA", drive:"~3.5h", driveH:3.5, type:"Public \u00b7 OOS", ug:"~31,000", accept:"~55% (OOS ~59%)", sat:"1280\u20131450", his:"mid", usn:"#51 Nat'l", net:"OOS ~$48\u201350k", netNote:"limited OOS merit; near budget", cost:48, deadline:"EA Nov 15 \u00b7 RD Jan 15", tier:"Possible", odds:"Possible", oddsSub:"lean Reach; light ECs", grad:"69%", rep:"Near-cult Hokie community: Ut Prosim service ethos, 'Enter Sandman' football Saturdays, top-ranked dining, evangelical alumni loyalty. Blacksburg is remote but adored as a mountain bubble. Big-school downsides are real: giant lectures, engineering weed-outs, housing crunch. Warmest big-school culture in the region."},
+  {rank:3, school:"UNC Wilmington", loc:"Wilmington, NC", drive:"~2h", driveH:2, type:"Public \u00b7 in-state", ug:"~15,000", accept:"~64%", sat:"1230\u20131340", his:"at 75th", usn:"~#249 Nat'l", net:"~$23k", cost:23, deadline:"EA Nov 1 \u00b7 RD Feb 1", tier:"Likely", odds:"Likely", grad:"~62%", rep:"The 'happy beach school': laid-back surf culture, elite marine biology, strong nursing/business, Wrightsville Beach 15 minutes out. Social life is outdoorsy and low-pressure rather than Greek-dominated. Gripes: housing shortage, hurricane season, admissions tightening yearly. Students self-describe as chill and genuinely content."},
+  {rank:4, school:"Roanoke College", loc:"Salem, VA", drive:"~4h", driveH:4, type:"Private", ug:"~1,900", accept:"~80%", sat:"~1080\u20131290", his:"above 75th", usn:"Nat'l LAC ~#130s", net:"~$32\u201338k", netNote:"merit-only, approx", cost:32, deadline:"EA Nov 15 \u00b7 rolling", tier:"Likely", odds:"Likely", oddsSub:"lean Safety", grad:"~62%", rep:"Friendly, personal, professors-know-your-name; advising and merit generosity earn consistent praise. Salem is quiet \u2014 students make their own fun or head into Roanoke city for outdoors and restaurants. Greek life mild; weekends can be sleepy (the one fit watch-point). Lutheran heritage effectively invisible day to day."},
+  {rank:5, school:"UNC Charlotte", loc:"Charlotte, NC", drive:"~2.5h", driveH:2.5, type:"Public \u00b7 in-state", ug:"24,868", accept:"~80%", sat:"1150\u20131330", his:"above 75th", usn:"~#152 Nat'l", net:"~$22k", cost:22, deadline:"EA Nov 1 \u00b7 RD Feb 1", tier:"Safety", odds:"Safety", grad:"~50%", rep:"'Rising' is the consensus: new R1 status, Charlotte banking/tech internships, building football-era spirit, diverse and unpretentious. Commuter reputation persists for a reason \u2014 only 25% of undergrads live on campus (77% of freshmen do), so weekends run quiet. Praise: value, career access. Gripes: cohesion, advising, construction."},
+  {rank:6, school:"Appalachian State", loc:"Boone, NC", drive:"~3.5h", driveH:3.5, type:"Public \u00b7 in-state", ug:"~19,000", accept:"~90%", sat:"1120\u20131280", his:"above 75th", usn:"~#260s Nat'l", net:"~$22k", cost:22, deadline:"EA Nov 1 \u00b7 rolling", tier:"Safety", odds:"Safety", grad:"~54%", rep:"Outdoorsy-granola identity: hiking, skiing, flannel, happy laid-back students, real football spirit. r/appstate's dominant complaints are growth pains \u2014 housing crunch, parking, Boone bursting at the seams. Academics solid rather than elite (business and education strongest). Social but not Greek-dominated. Fit test: mountains over malls."},
+];
+
+const tbody = document.getElementById('tbody');
+let activeTier = null;
+let sortKey = 'rank';
+
+function sorted(){
+  const arr = DATA.slice();
+  if(sortKey==='cost') arr.sort(function(a,b){return a.cost-b.cost || a.rank-b.rank;});
+  else if(sortKey==='drive') arr.sort(function(a,b){return a.driveH-b.driveH || a.rank-b.rank;});
+  else arr.sort(function(a,b){return a.rank-b.rank;});
+  return arr;
+}
+
+function el(tag, cls, text){
+  const e=document.createElement(tag);
+  if(cls) e.className=cls;
+  if(text!==undefined) e.textContent=text;
+  return e;
+}
+
+function renderTable(){
+  tbody.innerHTML='';
+  sorted().forEach(function(d){
+    const tr=document.createElement('tr');
+    if(activeTier && d.tier!==activeTier) tr.className='dim';
+
+    const c1=el('td','school');
+    c1.style.borderLeftColor=T[d.tier].color;
+    c1.appendChild(el('span','rk num','#'+d.rank));
+    c1.appendChild(el('span','sname',d.school));
+    c1.appendChild(el('span','loc',d.loc));
+    if(d.cc==='full') c1.appendChild(el('span','cc-tag','country club \u00b7 $$'));
+    tr.appendChild(c1);
+
+    const c2=document.createElement('td');
+    c2.appendChild(el('span','snapline',d.type));
+    c2.appendChild(el('span','snapline num',d.drive+' drive'));
+    c2.appendChild(el('span','snapline num',d.ug+' undergrads'));
+    c2.appendChild(el('span','snapline usn',d.usn));
+    tr.appendChild(c2);
+
+    const c3=document.createElement('td');
+    c3.appendChild(el('span','acc num',d.accept));
+    c3.appendChild(el('span','satline num','SAT '+d.sat));
+    c3.appendChild(el('span','hisline','him: '+d.his));
+    tr.appendChild(c3);
+
+    const c5=document.createElement('td');
+    c5.appendChild(el('span','dl num',d.deadline));
+    tr.appendChild(c5);
+
+    const c6=document.createElement('td');
+    c6.appendChild(el('span','pill '+T[d.tier].cls,d.odds));
+    if(d.oddsSub) c6.appendChild(el('span','pillsub',d.oddsSub));
+    tr.appendChild(c6);
+
+    tr.appendChild(el('td','rep',d.rep));
+
+    var g=el('td','grad num',d.grad);
+    var gv=parseInt((d.grad||'').replace(/[^0-9]/g,''),10);
+    if(!isNaN(gv)){ if(gv<50){g.classList.add('gr-low');} else if(gv>=70){g.classList.add('gr-hi');} }
+    tr.appendChild(g);
+
+    tbody.appendChild(tr);
+  });
+}
+
+const tiers=["Far reach","Reach","Possible","Likely","Safety"];
+const counts={}; tiers.forEach(function(t){counts[t]=0;});
+DATA.forEach(function(d){counts[d.tier]++;});
+const maxC=Math.max.apply(null,Object.values(counts));
+document.getElementById('scalemax').textContent=maxC+' schools';
+
+const ladder=document.getElementById('ladder');
+function renderChart(){
+  ladder.innerHTML='';
+  tiers.forEach(function(t){
+    const btn=el('button','rung');
+    btn.type='button';
+    btn.setAttribute('aria-label', t+': '+counts[t]+' schools'+(activeTier===t?', active filter':''));
+    if(activeTier===t) btn.classList.add('active');
+    else if(activeTier) btn.classList.add('faded');
+
+    const name=el('div','tname');
+    const sw=el('span','swatch'); sw.style.background=T[t].color;
+    name.appendChild(sw);
+    name.appendChild(document.createTextNode(t));
+    btn.appendChild(name);
+
+    const track=el('div','track');
+    const bar=el('div','bar'); bar.style.background=T[t].color;
+    track.appendChild(bar); btn.appendChild(track);
+
+    btn.appendChild(el('div','cnt',String(counts[t])));
+
+    btn.addEventListener('click',function(){ setFilter(activeTier===t?null:t); });
+    ladder.appendChild(btn);
+    requestAnimationFrame(function(){ bar.style.width=(counts[t]/maxC*100)+'%'; });
+  });
+}
+
+const filterbar=document.getElementById('filterbar');
+const filtertext=document.getElementById('filtertext');
+document.getElementById('clearfilter').addEventListener('click',function(){setFilter(null);});
+function setFilter(t){
+  activeTier=t;
+  if(t){
+    filterbar.classList.add('on');
+    filtertext.textContent='Showing '+counts[t]+' '+t+' school'+(counts[t]===1?'':'s')+'.';
+  } else filterbar.classList.remove('on');
+  renderTable(); renderChart();
+}
+
+document.querySelectorAll('.seg button').forEach(function(b){
+  b.addEventListener('click',function(){
+    sortKey=b.dataset.sort;
+    document.querySelectorAll('.seg button').forEach(function(x){x.setAttribute('aria-pressed', x===b?'true':'false');});
+    renderTable();
+  });
+});
+
+renderTable();
+renderChart();
+</script>
+</body>
+</html>
