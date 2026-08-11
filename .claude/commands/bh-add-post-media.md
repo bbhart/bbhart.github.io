@@ -22,7 +22,13 @@ Parse $ARGUMENTS:
 
 - `prefix` (required): filename prefix, `YYYYMMDD`. If you can't determine it, exit with an error.
 
-Staging folder: `/Users/bhart/Downloads/proc`
+Staging root: `/Users/bhart/Downloads/proc`
+
+Media may be staged two ways:
+
+- **Per-day subdirectory** — `proc/YYYYMMDD/` holding that day's files. Lets several days sit staged
+  at once without mixing.
+- **Loose in the root** — `proc/*.HEIC` etc. The older layout, still supported.
 
 ## Task
 
@@ -31,16 +37,32 @@ move it into `assets/`, and append the HTML tags to the matching blog post.
 
 ### 1. Resolve
 
-- Glob `_posts/` for a post whose date matches `prefix` (`20260730` → `_posts/2026-07-30-*.markdown`).
-  Exactly one match: state which post and continue. Zero or multiple: stop and ask.
-  Do not rely on which file is open in the editor — that signal is often absent.
-- Glob `assets/{prefix}-*` and note what already exists. A re-run must not duplicate work.
-- If the staging folder holds no media, report that and exit cleanly. This is a normal outcome, not an error.
+**Source folder.** Pick exactly one, in this order:
+
+1. `proc/{prefix}/` exists → that directory is the source. Only its files are processed.
+   Loose files in the staging root are none of this run's business — mention them as untouched
+   and leave them alone.
+2. Otherwise → the staging root, `proc/*`, ignoring any `YYYYMMDD` subdirectories.
+
+State which source you picked before processing anything.
+
+If the root has no loose media *and* `proc/{prefix}/` doesn't exist, list any `YYYYMMDD`
+directories that *do* exist and stop — the prefix is almost certainly a typo, or the day hasn't
+been staged yet. Nothing to process is a normal outcome, not an error: report and exit cleanly.
+
+**Target post.** Glob `_posts/` for a post whose date matches `prefix`
+(`20260730` → `_posts/2026-07-30-*.markdown`). Exactly one match: state which post and continue.
+Zero or multiple: stop and ask. Do not rely on which file is open in the editor — that signal is
+often absent.
+
+**Prior assets.** Glob `assets/{prefix}-*` and note what already exists. A re-run must not
+duplicate work.
 
 ### 2. Process
 
-Write every output to a temp name (`temp_1.jpg`, `temp_2.jpg`, `temp_video.mp4`) so originals stay
-intact until step 6. Never send an original, full-size file for analysis.
+Write every output to a temp name (`temp_1.jpg`, `temp_2.jpg`, `temp_video.mp4`) alongside the
+originals in the source folder, so originals stay intact until step 6. Never send an original,
+full-size file for analysis.
 
 Images — convert to JPG at **1024px wide**, preserving aspect ratio:
 
@@ -49,6 +71,20 @@ Images — convert to JPG at **1024px wide**, preserving aspect ratio:
 Use `--resampleWidth`, not `-Z`. `-Z` caps the *longest* edge, which silently yields 768px-wide
 portrait images that don't match the existing assets. Portrait shots should come out 1024×1365,
 landscape 1024×768. Images already narrower than 1024px still get converted, at their original width.
+
+**Check EXIF Orientation first.** Some files (notably 3840×2160 iPhone stills) are stored landscape
+with a `Rotate 90 CW` flag, so they *display* portrait. `--resampleWidth` sizes the stored buffer, so
+those come out only 576px wide on screen. Don't try to compensate with `--resampleHeight` — sips
+stops honoring the flag and the image lands sideways. Bake the rotation in, clear the flag, then
+resize:
+
+    exiftool -T -Orientation "$src"          # anything other than "Horizontal (normal)"
+    sips -s format jpeg --rotate 90 "$src" --out rot.jpg
+    exiftool -Orientation=1 -n -overwrite_original rot.jpg
+    sips --resampleWidth 1024 rot.jpg --out "temp_N.jpg"
+    rm rot.jpg
+
+Verify the result: every finished image should report `pixelWidth: 1024`.
 
 Video — strip audio, scale to 1024 wide, enable faststart for web embedding:
 
@@ -94,7 +130,10 @@ Append to the resolved post, ordered by capture time ascending (using the correc
 
 ### 6. Clean up
 
-Confirm, then delete the processed originals from the staging folder.
+Confirm, then delete the processed originals from the source folder.
+
+If the source was a `proc/{prefix}/` subdirectory and it's now empty apart from `.DS_Store`, remove
+the directory too. Leave it in place if any original survived — see the exception below.
 
 **Exception:** if any video ran longer than ~15 seconds, keep its original, skip cleanup for it, and
 tell the user so they can trim it manually. Process and tag it normally regardless.
