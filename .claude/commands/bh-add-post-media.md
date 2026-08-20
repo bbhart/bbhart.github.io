@@ -1,26 +1,42 @@
 ---
 description: Process staged media and add it to a blog post
-argument-hint: Filename prefix (YYYYMMDD)
+argument-hint: Filename prefix (YYYYMMDD) — omit to process everything staged
 ---
 
 ## Execution Rules
 
-**PRE-APPROVED** - run immediately, never ask:
+**PRE-APPROVED** - run the entire workflow end to end, never ask:
 - Read/inspect: ls, find, stat, cat, head, tail, grep, file, exiftool, ffprobe, Glob, Grep, Read
 - Create new files: sips, ffmpeg (writing temp_* files only)
 - Navigation: cd, pwd
+- The rename + move batch into `assets/`
+- Appending tags to the resolved post
+- Deleting the processed originals from the staging folder, and removing an emptied `proc/{prefix}/`
 
-**REQUIRE CONFIRMATION** - ask first:
-- The rename + move batch (present the full naming table, then ask)
-- Deleting originals from the staging folder
+Still print the naming table before moving, so the run is auditable — but print it and continue,
+don't stop for approval. The only reason to stop is the one genuine ambiguity called out below:
+a prefix that matches zero or multiple posts.
 
-Everything before the rename batch is read-only or writes new temp files, so run it unattended.
+**Staged media is work to do, not a state to report.** If files are sitting in staging, process
+them. Never end a run having only described what's there — the point of the folder is that its
+contents get processed and removed. Two specific non-reasons to stop:
+
+- **No `assets/{prefix}-*` exist yet.** That's the normal condition for a day nobody has processed.
+  It's the trigger to process, not a reason to hold back.
+- **Nothing obviously matches.** Unfamiliar or unexpected staged content still gets processed;
+  describe it in the report rather than leaving it staged.
+
+The same applies when you arrive here sideways — asked whether staging is clean, or which files
+are already published. Answer the question, then process whatever turned out to be unprocessed
+in the same run.
 
 ## Context
 
 Parse $ARGUMENTS:
 
-- `prefix` (required): filename prefix, `YYYYMMDD`. If you can't determine it, exit with an error.
+- `prefix` (optional): filename prefix, `YYYYMMDD`. Limits the run to that one day.
+- **No argument → process everything staged**, one prefix at a time. This is the normal way to
+  run it; a bare `/bh-add-post-media` should drain the staging folder completely.
 
 Staging root: `/Users/bhart/Downloads/proc`
 
@@ -35,28 +51,44 @@ Media may be staged two ways:
 Take the media staged in the staging folder, size it for the web, name it descriptively,
 move it into `assets/`, and append the HTML tags to the matching blog post.
 
+### 0. Build the work list
+
+Inventory the staging root first:
+
+    find /Users/bhart/Downloads/proc -mindepth 1 -not -name '.DS_Store' | sort
+
+- **Prefix given** → the work list is that one prefix.
+- **No prefix** → the work list is every `YYYYMMDD` subdirectory holding at least one media file,
+  in ascending date order, plus one final entry for any loose media in the root.
+
+Print the work list, then run steps 1–6 for each entry in turn. A failure on one prefix doesn't
+abort the rest — record it and continue to the next.
+
+Empty `YYYYMMDD` directories are not work. Remove them as you go and note it in one line; they're
+usually a staging folder made ahead of the photos.
+
+If the work list comes out empty, say so and exit cleanly. Nothing staged is a normal outcome.
+
 ### 1. Resolve
 
-**Source folder.** Pick exactly one, in this order:
+**Source folder.** For the prefix currently being processed:
 
 1. `proc/{prefix}/` exists → that directory is the source. Only its files are processed.
-   Loose files in the staging root are none of this run's business — mention them as untouched
-   and leave them alone.
 2. Otherwise → the staging root, `proc/*`, ignoring any `YYYYMMDD` subdirectories.
 
 State which source you picked before processing anything.
 
-If the root has no loose media *and* `proc/{prefix}/` doesn't exist, list any `YYYYMMDD`
-directories that *do* exist and stop — the prefix is almost certainly a typo, or the day hasn't
-been staged yet. Nothing to process is a normal outcome, not an error: report and exit cleanly.
+If a prefix was given explicitly and neither source has media for it, list the `YYYYMMDD`
+directories that *do* exist and stop — the prefix is almost certainly a typo.
 
 **Target post.** Glob `_posts/` for a post whose date matches `prefix`
 (`20260730` → `_posts/2026-07-30-*.markdown`). Exactly one match: state which post and continue.
 Zero or multiple: stop and ask. Do not rely on which file is open in the editor — that signal is
 often absent.
 
-**Prior assets.** Glob `assets/{prefix}-*` and note what already exists. A re-run must not
-duplicate work.
+**Prior assets.** Glob `assets/{prefix}-*` and note what already exists, so a re-run doesn't
+duplicate work. Zero matches is the ordinary case for a fresh day — these will simply be the
+first assets for that post. Proceed.
 
 ### 2. Process
 
@@ -114,7 +146,7 @@ Rename to `{prefix}-{location}-{description}.{ext}`, lowercase, hyphen-separated
 
 Examples: `20260730-bankside-shakespeares-globe.jpg`, `20260730-south-bank-riverside-walk.mp4`
 
-Present the full naming table and **confirm**. Then move the renamed files into `assets/`.
+Present the full naming table, then move the renamed files into `assets/` without waiting for approval.
 On a name collision, skip that file and report it — never overwrite.
 
 ### 5. Tag
@@ -130,7 +162,7 @@ Append to the resolved post, ordered by capture time ascending (using the correc
 
 ### 6. Clean up
 
-Confirm, then delete the processed originals from the source folder.
+Delete the processed originals from the source folder.
 
 If the source was a `proc/{prefix}/` subdirectory and it's now empty apart from `.DS_Store`, remove
 the directory too. Leave it in place if any original survived — see the exception below.
@@ -140,5 +172,10 @@ tell the user so they can trim it manually. Process and tag it normally regardle
 
 ### Reporting
 
-Close with what changed: files processed, size before/after, the post written to, anything skipped
-or flagged. Report per-file failures and continue the batch rather than aborting.
+Close with what changed, grouped by prefix: files processed, size before/after, the post written
+to, anything skipped or flagged. Report per-file failures and continue the batch rather than
+aborting.
+
+End with the staging folder's final state — it should be empty apart from `.DS_Store`. Anything
+still sitting there needs a stated reason (an over-length video kept for trimming, a name
+collision, a missing post). "I didn't get to it" is not a reason; go process it.

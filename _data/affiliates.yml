@@ -1,0 +1,32 @@
+---
+# Personal affiliate links.
+#
+# Used by the /bh-cleanup command: when a <<marker>> asks for an affiliate link,
+# look the merchant up here rather than asking. Any post that ends up with a link
+# from this file must carry the disclosure include at the bottom:
+#
+#     {% include affiliate-disclosure.html %}
+#
+# Fields:
+#   home        the bare affiliate link, no deep path — use when linking the brand itself
+#   params      query parameters that carry the attribution; append these to ANY page on
+#               the domain to build a deep link (see deep_link_note)
+#   domain      bare domain, for spotting links already in posts that should be affiliated
+#   program     name of the affiliate program, for reference
+#   signed_up   when the account was created, so stale programs are easy to spot
+#   active      set to false to stop /bh-cleanup using it without deleting the record
+
+GetYourGuide:
+  domain: getyourguide.com
+  program: GetYourGuide Share-to-Earn
+  home: https://www.getyourguide.com?partner_id=S80Z3R3&cmp=share_to_earn
+  params:
+    partner_id: S80Z3R3
+    cmp: share_to_earn
+  deep_link_note: >-
+    Append the params to any getyourguide.com URL to keep attribution, e.g.
+    https://www.getyourguide.com/palma-de-mallorca-l396/?partner_id=S80Z3R3&cmp=share_to_earn
+    Use ? if the URL has no query string, & if it already has one.
+  signed_up: 2026-08
+  active: true
+  first_used: 2026-08-06 England and Iberia Day 9
