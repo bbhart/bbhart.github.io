@@ -65,6 +65,6 @@ As mentioned, the flight to Atlanta was delayed by at least 90 minutes, which le
 
 Once we landed, we crossed from Terminal T to Terminal E with about 15 minutes before boarding started. We didn't run, or even speed walk, but we certainly didn't dally either. There were four direct ATL to LHR flights the next day, so I knew we had options if it came to that. Making this flight was clearly the best outcome.
 
-I've become spoiled by my solo trips and Premium Select (or better) tickets. Truly. This flight had me head-bobbing the entire way across the Atlantic. Had we been in a more comfortable cabin, I would've taken a sleepy-time pill and time-travelled instead.
+I've become spoiled by my solo trips and Premium Select (or better) tickets. Truly. The economy seat on this flight had me head-bobbing the entire way across the Atlantic. Had we been in a more comfortable cabin, I would've taken a sleepy-time pill and time-travelled instead.
 
 {% assign iberia_recap = site.posts | where_exp: "p", "p.path contains 'England-and-Iberia-recap'" | first %}{% if iberia_recap %}*Part of the [England and Iberia 2026 trip]({{ iberia_recap.url }}).*{% endif %}

@@ -75,7 +75,7 @@ trip_stage: pre-cruise
 
 We were up and operating by mid-morning. The jet lag is real. 
 
-I'd narrowed our brunch choices to [The Table Southwark](https://thetablecafe.com/southwark/), or [Black Sheep Coffee](https://blacksheepcoffee.co.uk/blogs/locations/southwark) at about a fifth of the cost. We went with Black Sheep. Four pastries and an Americano came to £14, which I was happy with. The service, atmosphere, and quality were solid enough I left a review.
+I'd narrowed our brunch choices to [The Table Southwark](https://thetablecafe.com/southwark/)[^1], or [Black Sheep Coffee](https://blacksheepcoffee.co.uk/blogs/locations/southwark) at about a fifth of the cost. We went with Black Sheep. Four pastries and an Americano came to £14, which I was happy with. The service, atmosphere, and quality were solid enough I left a review.
 
 <img src="/assets/20260731-southwark-black-sheep-coffee.jpg" alt="A white cup of black Americano coffee on a matching saucer, both stamped with the Black Sheep Coffee logo of a sheep's head in a circle, sitting on a dark reclaimed-wood counter beside a branded coaster and a pastry plate. Through the open window above the counter, a sunlit street with green trees, a traffic light, and glass office buildings is visible" width="100%" />
 
@@ -137,4 +137,6 @@ We got a late start at the Tate and weren't able to see as much as I would've li
 Later, around 9:45, I set out to find something to eat, but most restaurants were closed or about to close their kitchens. Does London close early, or was it just our neighborhood? My dinner ended up being a chicken salad sandwich and a bag of Doritos from a convenience store. End of night.
 
 
+**Footnotes**:
 
+[^1]: This is nothing against [The Table](https://thetablecafe.com/southwark/), it was more about our mood and energy levels. It looks like a place with a solid menu and nice indoor and outdoor seating. 
