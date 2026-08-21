@@ -33,7 +33,7 @@
       "Bash(curl:*)",
       "Bash(ffprobe:*)",
       "Bash(ffmpeg:*)",
-      "Bash(bundle exec jekyll build:*)",
+      "Bash(bundle:*)",
       "Bash(git status:*)",
       "Bash(git diff:*)",
       "Bash(git log:*)",
