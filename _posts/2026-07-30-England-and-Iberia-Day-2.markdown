@@ -3,10 +3,10 @@ layout: post
 title: England and Iberia Day 2
 subtitle: Heathrow to Bankside, and 20,000 steps on no sleep
 date:  2026-07-30
-published: false
 categories: travel england portugal spain
 rollup_key: 2026iberia
 tags: [july2026]
+background: '/assets/20260730-bankside-shakespeares-globe-bg.jpg'
 locations:
   - name: London Heathrow Airport
     type: airport
@@ -98,7 +98,7 @@ Back at the hotel and settled into both rooms, we all went downstairs to the poo
 
  The room itself is warm and humid, like a Florida summer. Unfortunately, they've been very heavy-handed with the chlorine -- after only a minute in the hot tub with the jets on our eyes started burning. We wrapped up, made use of the surprisingly nice changing rooms, and changed back in to street clothes to explore more.
 
-The afternoon was exclusively walking and touring. We first walked back down to Waterloo Station to scope out the route for our 8:30am train on Saturday. Adjacent to the station is [Graffiti Tunnel](https://www.leakestreetarches.london/), which is worth a look. From there we continued across Westminster Bridge, admiring Big Ben and Parliament -- and all the social influencing happening in the vicinity -- then onward to Buckingham Palace. It was an unplanned visit; we didn't try to time it for the changing of the guard or anything else interesting.
+The afternoon was exclusively walking and touring. We first walked back down to Waterloo Station to scope out the route for [our 8:35am train on Saturday]({% post_url 2026-08-01-England-and-Iberia-Day-4 %}). Adjacent to the station is [Graffiti Tunnel](https://www.leakestreetarches.london/), which is worth a look. From there we continued across Westminster Bridge, admiring Big Ben and Parliament -- and all the social influencing happening in the vicinity -- then onward to Buckingham Palace. It was an unplanned visit; we didn't try to time it for the changing of the guard or anything else interesting.
 
 We started back toward our neighborhood along Pall Mall and crossed back over on the Golden Jubilee Bridges. [Between the Bridges](https://www.betweenthebridges.co.uk/) has a number of food and beverage stalls set up and a lively crowd of locals (and new graduates?). Rowan scarfed down a hot dog and fries -- "chips" -- while Siena ate [10 pancakes](https://www.youtube.com/watch?v=uloT8V6Skgk). In her defense, they were half-dollar sized and had nutella on them.
 
@@ -119,5 +119,7 @@ By 9pm we were all physically destroyed. Not only had we not slept, we'd each pu
 <img src="/assets/20260730-buckingham-palace-facade.jpg" alt="The east front of Buckingham Palace photographed from across the empty forecourt on an overcast day, showing the full symmetrical stone facade with its central pediment and the Union Flag flying from the roof. A Royal Collection Trust A-board in the foreground reads 'Buckingham Palace — Scan to find out when you can visit and the top things to do near Buckingham Palace' with a QR code" width="100%" />
 
 <img src="/assets/20260730-south-bank-bfi-cinema.jpg" alt="The BFI Southbank cinema in London tucked beneath the concrete underside of Waterloo Bridge, its frontage lit by a bright magenta illuminated panel with black lettering reading 'Cinema' and 'BFI Southbank'. Potted plants and green planters edge an outdoor seating area where people sit at tables, and pedestrians walk across the paved terrace in the foreground" width="100%" />
+
+{% assign iberia_recap = site.posts | where_exp: "p", "p.path contains 'England-and-Iberia-recap'" | first %}{% if iberia_recap %}*Part of the [England and Iberia 2026 trip]({{ iberia_recap.url }}).*{% endif %}
 
 

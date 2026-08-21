@@ -3,10 +3,10 @@ layout: post
 title: England and Iberia Day 3
 subtitle: Coffee, Carnaby Street, and the Tube
 date:  2026-07-31
-published: false
 categories: travel england portugal spain
 rollup_key: 2026iberia
 tags: [july2026]
+background: '/assets/20260731-st-pauls-cathedral-dome-bg.jpg'
 locations:
   - name: London
     type: city
@@ -127,6 +127,8 @@ Our hotel is just steps away from the [Tate Modern](https://www.tate.org.uk/visi
 <img src="/assets/20260731-tate-modern-millennium-bridge-view.jpg" alt="View from a gallery window at Tate Modern looking north across the River Thames in late afternoon light, with the Millennium Bridge crossing the water and pedestrians strung out along its span. The dome of St Paul's Cathedral rises above the City of London skyline, with construction cranes and office towers on the horizon. In the foreground, dark twisted sculptural forms are laid out across a white plinth" width="100%" />
 
 <img src="/assets/20260731-tate-modern-lichtenstein-painting.jpg" alt="A large Roy Lichtenstein painting of a bedroom interior hanging on a white gallery wall at Tate Modern, rendered in his comic-book style with heavy black outlines and Ben-Day dots, showing a made bed with a striped valance, a chest of drawers, framed pictures, and table lamps in pastel pinks, greens, and blues. A teenage boy in a black t-shirt and grey sweatpants stands with his back to the camera looking at it, behind a low stanchion barrier" width="100%" />
+
+{% assign iberia_recap = site.posts | where_exp: "p", "p.path contains 'England-and-Iberia-recap'" | first %}{% if iberia_recap %}*Part of the [England and Iberia 2026 trip]({{ iberia_recap.url }}).*{% endif %}
 
 We got a late start at the Tate and weren't able to see as much as I would've liked. We made our way back to the hotel.
 
