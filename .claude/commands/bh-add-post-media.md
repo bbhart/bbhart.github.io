@@ -10,7 +10,7 @@ argument-hint: Filename prefix (YYYYMMDD) — omit to process everything staged
 - Create new files: sips, ffmpeg (writing temp_* files only)
 - Navigation: cd, pwd
 - The rename + move batch into `assets/`
-- Appending tags to the resolved post
+- Inserting tags into the resolved post
 - Deleting the processed originals from the staging folder, and removing an emptied `proc/{prefix}/`
 
 Still print the naming table before moving, so the run is auditable — but print it and continue,
@@ -49,7 +49,7 @@ Media may be staged two ways:
 ## Task
 
 Take the media staged in the staging folder, size it for the web, name it descriptively,
-move it into `assets/`, and append the HTML tags to the matching blog post.
+move it into `assets/`, and place the HTML tags at the right points in the matching blog post.
 
 ### 0. Build the work list
 
@@ -84,7 +84,8 @@ directories that *do* exist and stop — the prefix is almost certainly a typo.
 **Target post.** Glob `_posts/` for a post whose date matches `prefix`
 (`20260730` → `_posts/2026-07-30-*.markdown`). Exactly one match: state which post and continue.
 Zero or multiple: stop and ask. Do not rely on which file is open in the editor — that signal is
-often absent.
+often absent. (The open file matters in step 5, for *where* tags go inside an already-written post,
+never for *which* post is the target. The date prefix decides that.)
 
 **Prior assets.** Glob `assets/{prefix}-*` and note what already exists, so a re-run doesn't
 duplicate work. Zero matches is the ordinary case for a fresh day — these will simply be the
@@ -151,7 +152,7 @@ On a name collision, skip that file and report it — never overwrite.
 
 ### 5. Tag
 
-Append to the resolved post, ordered by capture time ascending (using the corrected video times):
+Tag shapes:
 
     <img src="/assets/NAME.jpg" alt="..." width="100%" />
     <video src="/assets/NAME.mp4" width="100%" controls playsinline muted></video>
@@ -159,6 +160,57 @@ Append to the resolved post, ordered by capture time ascending (using the correc
 - Skip any asset already referenced in the post.
 - Alt text: factual and verbose — signage text, clothing, architecture, weather, what people are doing.
   Match the style already used in the Day 1 post. Video tags take no alt attribute.
+
+**Where the tags go depends on what's already in the post.** Read the whole post body first and
+decide which case you're in.
+
+#### Case A — the post is a stub
+
+No prose yet, or nothing but the `**Start of day:** / **End of day:**` bullets. Append the tags at
+the end, ordered by capture time ascending (using the corrected video times). This is the simple case.
+
+#### Case B — the post already has a written entry
+
+This is the common case for a day Brian has already drafted, and it's usually the post open in his
+editor. **Do not dump the new tags at the bottom.** These posts are written chronologically — the
+prose walks through the day in order — so each new asset belongs at the moment in the narrative
+where it was taken. A photo of the day's last stop appended below a paragraph about breakfast is
+wrong even though it's technically "at the end".
+
+Build the timeline before editing anything:
+
+1. List the assets **already referenced** in the post, in the order they appear.
+2. Read their capture times: `exiftool -T -FileName -DateTimeOriginal assets/{prefix}-*.jpg`.
+   The resize step preserves EXIF, so published assets still carry their original times.
+3. You now have anchors — existing tag → time → position in the file. Slot each new asset between
+   the two anchors whose times bracket it.
+
+Then sanity-check the slot against the prose, because **the anchors are approximate**. These posts
+are chronological in the large but not strictly ordered in the small — a paragraph often gathers a
+whole afternoon together, and existing tags are sometimes a few out of order. When a paragraph
+explicitly names what's in the photo, that paragraph wins over the arithmetic. A Tower Bridge selfie
+timed at 16:20 sits between the 16:05 and 18:08 anchors *and* directly under the sentence "getting
+the obligatory photos at the bridge" — when both signals agree, place it there with confidence.
+When they disagree, follow the prose and say so in the report.
+
+Rules for the edit itself:
+
+- Insert the tag on its own line with a blank line above and below. Never split a paragraph.
+- **Never move, reorder, or reword anything already in the post.** You are adding lines only.
+- Never insert inside front matter, a `<style>` block, a markdown table, or a footnote definition.
+- Keep tags out of the post's trailing boilerplate — a `{% include affiliate-disclosure.html %}`,
+  a `{% assign %}`/`{% if %}` recap backlink, or a `**Footnotes**:` section all stay last. If an
+  asset genuinely belongs at the end of the day, put it above those lines, not below them.
+- If an asset is earlier than every anchor, it goes before the first existing tag; later than every
+  anchor, after the last one (but still above any trailing boilerplate).
+- If the post has prose but no existing tags at all, there are no time anchors — place each asset
+  under the paragraph describing that part of the day, working from the prose alone.
+
+#### Reporting placement
+
+For every asset, say where it landed and why: the bracketing anchors and their times, or the
+sentence it was placed under. "Added 4 images" is not enough — placement is the part of this step
+that can be wrong in a way the build will never catch.
 
 ### 6. Clean up
 
@@ -173,8 +225,8 @@ tell the user so they can trim it manually. Process and tag it normally regardle
 ### Reporting
 
 Close with what changed, grouped by prefix: files processed, size before/after, the post written
-to, anything skipped or flagged. Report per-file failures and continue the batch rather than
-aborting.
+to, where each asset was placed within it (per step 5), anything skipped or flagged. Report
+per-file failures and continue the batch rather than aborting.
 
 End with the staging folder's final state — it should be empty apart from `.DS_Store`. Anything
 still sitting there needs a stated reason (an over-length video kept for trimming, a name
