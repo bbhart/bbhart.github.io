@@ -13,6 +13,8 @@
       "Bash(sort:*)",
       "Bash(exiftool:*)",
       "Bash(find:*)",
+      "Bash(sleep:*)",
+      "Bash(/bin/sleep:*)",
       "Bash(touch:*)",
       "Bash(test:*)",
       "Bash(cp:*)",
