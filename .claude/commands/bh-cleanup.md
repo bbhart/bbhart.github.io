@@ -267,6 +267,26 @@ taken.
 
 ## Verify
 
-If spelling, links, or the `background:` key changed, confirm the post still builds — a bad `post_url` fails the
-Jekyll build. Run `bundle exec jekyll build` if it's quick, and report the result. If the
-build isn't available, say so plainly rather than implying it passed.
+If spelling, links, or the `background:` key changed, confirm the post still builds — a bad
+`post_url` fails the Jekyll build.
+
+**Never build into `_site`.** Brian usually has a dev server running, and `jekyll serve` serves
+`_site` straight off disk. A plain `bundle exec jekyll build` overwrites that directory without
+`--unpublished`, which silently strips his unpublished posts out from under the running server —
+no crash, no warning, just a wrong site until something touches a post and retriggers the watcher.
+
+Always build to a throwaway destination instead, and match the server's flags so unpublished and
+future-dated posts are actually exercised:
+
+```
+bundle exec jekyll build -d "$SCRATCH/_site-verify" --unpublished --future
+```
+
+where `$SCRATCH` is the session scratchpad directory. This leaves the dev server untouched.
+
+Two things to watch when reporting the result:
+
+- A post with `published: false` is skipped by a default build, so its `post_url` tags are never
+  validated. `--unpublished` is what makes the check meaningful — without it a clean build proves
+  nothing about an unpublished post.
+- If the build isn't available, say so plainly rather than implying it passed.
