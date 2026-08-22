@@ -14,7 +14,8 @@ argument-hint: File name or post slug (optional; defaults to the open/most recen
 - Rewriting sentences for grammar, style, tone, or flow. Brian's voice is the point.
   Grammar issues are *reported*, not fixed.
 - Guessing at an ambiguous `<<marker>>`. Stop and ask.
-- Touching front matter, image tags, or anything outside the prose body.
+- Touching front matter, image tags, or anything outside the prose body. The one exception is
+  the `background:` key in pass 4, and only after Brian picks an image.
 
 ## Context
 
@@ -27,7 +28,8 @@ Parse $ARGUMENTS:
 
 ## Task
 
-Make three passes over the post body, in this order.
+Make four passes over the post, in this order. Passes 1–3 cover the prose body; pass 4 checks
+one front-matter key.
 
 ### 1. Spelling
 
@@ -180,6 +182,48 @@ plausible cathedrals, a restaurant name that returns nothing, a trip reference t
 two rollups — pause the pass and ask Brian which one he means. Present the candidates with
 their URLs. Do not guess, and do not silently skip. Resume the pass with his answer.
 
+### 4. Background image
+
+Every post should carry a `background:` key in its front matter — it's the hero image behind the
+title on the post page and in listings. Check for one:
+
+```
+grep -n "^background:" <post>
+```
+
+**If it's present**, confirm the file it points at actually exists in `assets/`. A `background:`
+pointing at a missing file renders as a blank header and the build won't catch it. Report the
+result and move on — don't change a background Brian already chose.
+
+**If it's missing**, propose one. Don't add it silently; front matter is his.
+
+- Candidates are the images already in the post body — `<img src="/assets/...">` tags, in the
+  order they appear. Read their `alt` text; that's the fastest way to judge what each one shows.
+- Backgrounds are wide and heavily overlaid with title text, so prefer, in this order:
+  1. A landscape shot with open sky, water, or an uncluttered field where the title will sit.
+  2. A wide establishing view of the day's main place — the one a reader would recognize.
+  3. Any image over a video; `background:` takes a still, never an `.mp4`.
+  Avoid images whose subject is dead-center and small, tight interior shots, and anything where
+  the interesting detail sits where the title text lands.
+- Check the dimensions with `sips -g pixelWidth -g pixelHeight <file>`. The house size is
+  1024×576. Anything portrait-oriented is a poor background; say so rather than proposing it.
+- If the post body has no images at all, say so and stop — don't go looking through `assets/`
+  for something that was never in the post.
+
+Present the top candidate plus one alternate, each with its filename and a one-line description
+from the alt text, and ask which he wants. On his answer, add the key in the house position —
+directly after `tags:`, single-quoted, site-absolute:
+
+```
+tags: [july2026]
+background: '/assets/20260805-strait-of-gibraltar-sun-deck-morocco.jpg'
+```
+
+Note when proposing: other posts point `background:` at a dedicated `-bg.jpg` image that does
+*not* also appear in the body. Reusing a body image works fine and needs no new file, but it does
+mean the same photo shows up twice on the page. Mention this so Brian can say whether he wants
+the inline copy pulled — don't remove it on your own.
+
 ## Report
 
 When done, print in chat:
@@ -191,7 +235,10 @@ When done, print in chat:
 4. **Markers still open** — any that needed a decision Brian hasn't given yet.
    Also note any affiliate link used, whether `_data/affiliates.yml` gained an entry, and whether
    the disclosure include was added or was already present.
-5. **Grammar suggestions** — numbered, each with line number, the quoted original, and the
+5. **Background image** — one of: already present and the file verified; already present but the
+   file is missing from `assets/` (flag it); added, naming the image Brian picked; or proposed and
+   awaiting his choice. Say "post has no images to draw from" when that's the case.
+6. **Grammar suggestions** — numbered, each with line number, the quoted original, and the
    proposed rewrite. State the issue in a few words. These are **not** applied. If there are
    none, say so — don't manufacture them.
 
@@ -200,6 +247,6 @@ taken.
 
 ## Verify
 
-If spelling or links changed, confirm the post still builds — a bad `post_url` fails the
+If spelling, links, or the `background:` key changed, confirm the post still builds — a bad `post_url` fails the
 Jekyll build. Run `bundle exec jekyll build` if it's quick, and report the result. If the
 build isn't available, say so plainly rather than implying it passed.
