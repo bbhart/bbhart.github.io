@@ -7,7 +7,7 @@ published: true
 categories: travel england portugal spain
 rollup_key: 2026iberia
 tags: [july2026]
-background: '/assets/20260805-strait-of-gibraltar-sun-deck-morocco.jpg'
+background: '/assets/20260805-strait-of-gibraltar-sun-deck-morocco-bg.jpg'
 locations:
   - name: Strait of Gibraltar
     type: strait

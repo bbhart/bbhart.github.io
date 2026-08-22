@@ -205,24 +205,43 @@ result and move on — don't change a background Brian already chose.
   3. Any image over a video; `background:` takes a still, never an `.mp4`.
   Avoid images whose subject is dead-center and small, tight interior shots, and anything where
   the interesting detail sits where the title text lands.
-- Check the dimensions with `sips -g pixelWidth -g pixelHeight <file>`. The house size is
-  1024×576. Anything portrait-oriented is a poor background; say so rather than proposing it.
+- Judge the *subject*, not the file. Don't rule a photo out for being portrait or 4:3 — nearly
+  every body image is, and it gets cropped anyway. What matters is whether a 16:9 slice of it
+  makes a good header.
 - If the post body has no images at all, say so and stop — don't go looking through `assets/`
   for something that was never in the post.
 
 Present the top candidate plus one alternate, each with its filename and a one-line description
-from the alt text, and ask which he wants. On his answer, add the key in the house position —
-directly after `tags:`, single-quoted, site-absolute:
+from the alt text, and ask which he wants.
+
+**Never point `background:` at a body image.** The header is a wide 16:9 band; body images are
+4:3 or portrait and will be squashed or badly cropped by the theme. The background is always a
+separate, purpose-made derivative. Once Brian picks an image, build one:
+
+1. Crop and resize to **1024×576** — the house size every recent `-bg.jpg` uses. From a body
+   image that's already 1024 wide, a centered crop is usually right:
+
+   ```
+   sips -c 576 1024 assets/<name>.jpg --out assets/<name>-bg.jpg
+   ```
+
+   `sips -c <height> <width>` crops from the center. If the subject sits high or low in the frame
+   and a centered crop would decapitate it, say so and ask before cropping — a bad crop is worse
+   than no background.
+2. Name it the source basename plus `-bg`: `20260804-lisbon-cathedral-tomb-effigy.jpg` →
+   `20260804-lisbon-cathedral-tomb-effigy-bg.jpg`. Never overwrite the body image.
+3. Confirm the result with `sips -g pixelWidth -g pixelHeight` before writing the front matter.
+
+Then add the key in the house position — directly after `tags:`, single-quoted, site-absolute,
+pointing at the `-bg` file:
 
 ```
 tags: [july2026]
-background: '/assets/20260805-strait-of-gibraltar-sun-deck-morocco.jpg'
+background: '/assets/20260805-strait-of-gibraltar-sun-deck-morocco-bg.jpg'
 ```
 
-Note when proposing: other posts point `background:` at a dedicated `-bg.jpg` image that does
-*not* also appear in the body. Reusing a body image works fine and needs no new file, but it does
-mean the same photo shows up twice on the page. Mention this so Brian can say whether he wants
-the inline copy pulled — don't remove it on your own.
+The body keeps its own copy of the photo; that's expected and needs no comment. The two files are
+independent from here on.
 
 ## Report
 
@@ -236,8 +255,9 @@ When done, print in chat:
    Also note any affiliate link used, whether `_data/affiliates.yml` gained an entry, and whether
    the disclosure include was added or was already present.
 5. **Background image** — one of: already present and the file verified; already present but the
-   file is missing from `assets/` (flag it); added, naming the image Brian picked; or proposed and
-   awaiting his choice. Say "post has no images to draw from" when that's the case.
+   file is missing from `assets/` (flag it); added, naming both the source image Brian picked and
+   the `-bg.jpg` derivative created for it, with its dimensions; or proposed and awaiting his
+   choice. Say "post has no images to draw from" when that's the case.
 6. **Grammar suggestions** — numbered, each with line number, the quoted original, and the
    proposed rewrite. State the issue in a few words. These are **not** applied. If there are
    none, say so — don't manufacture them.
