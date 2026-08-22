@@ -3,10 +3,10 @@ layout: post
 title: England and Iberia Day 7
 subtitle: Uphill in Lisbon, and a flea market find
 date:  2026-08-04
-published: false
 categories: travel england portugal spain
 rollup_key: 2026iberia
 tags: [july2026]
+background: '/assets/20260804-lisbon-cathedral-tomb-effigy-bg.jpg'
 locations:
   - name: Lisbon
     type: city
@@ -56,7 +56,7 @@ Good morning from Lisbon!
 
 <img src="/assets/20260804-lisbon-apex-from-dock.jpg" alt="Looking up at the Celebrity Apex from the concrete dock apron, the ship filling most of the frame at a steep angle. Its deep navy hull carries the white wordmark Celebrity APEX in large lettering, with a row of round porthole windows above and tier upon tier of white balcony cabins and glass-fronted decks rising to the top. A white gangway structure and mobile stairs connect to the ship at the right, with orange traffic cones on the tarmac beside them. Bright blue sky with streaks of high white cloud." width="100%" />
 
-I haven't been to Lisbon in... let's see... two months! I was last here when disembarking the Silversea Silver Spirit; you can read about that cruise [in my Rome and Silversea recap]({% post_url 2026-05-16-Rome-and-Silversea-recap %}). That last visit was just from the cruise port to the terminal, though, and barely counts.
+I haven't been to Lisbon in... let's see... two months! I was last here when disembarking the beautiful [Silversea Silver Spirit](https://www.silversea.com/landing-ship-silver-spirit-1.html); you can read about that cruise [in my Rome and Silversea recap]({% post_url 2026-05-16-Rome-and-Silversea-recap %}). That last visit was just from the cruise port to the terminal, though, and barely counts.
 
 With my glitching data service now sorted, today went much more smoothly than yesterday. I had a short list of sites to visit and knew the general direction, so uphill we went.
 
@@ -72,14 +72,14 @@ We toured the [Sé de Lisboa](https://www.sedelisboa.pt/).
 
 <img src="/assets/20260804-lisbon-baroque-chapel.jpg" alt="The interior of a small baroque church, viewed down the center aisle between rows of dark wooden pews. A barrel-vaulted ceiling with gilded plasterwork leads to an apse containing a heavily gilded altarpiece: twisting columns and carved scrollwork frame a large oil painting of a gathering of figures, with an ornate golden tabernacle on the marble altar below and silver candlesticks and flower arrangements on either side. A large brass chandelier hangs on a chain from the vault above the aisle. Wall sconces with electric candle bulbs flank tall wooden panelled doors at left and right, a green-draped celebrant's chair stands beside the altar, and worn stone flags pave the aisle." width="100%" />
 
-Afterwards, we continued on to the [Feira da Ladra](https://www.visitlisboa.com/en/places/feira-da-ladra-flea-market), an open-air flea market that runs Tuesdays and Saturdays. Siena found a top and Rowan bought an old Portugal license plate after deciding then-and-there he wanted to collect unique license plates.
+Afterwards, we continued on to the [Feira da Ladra](https://www.visitlisboa.com/en/places/feira-da-ladra-flea-market), an open-air flea market that runs Tuesdays and Saturdays. Siena found a top and Rowan bought an old Portugal license plate after deciding then-and-there he wanted to collect unique license plates. We took our time strolling through the flea market, and it was much bigger than I was expecting!
 
 <img src="/assets/20260804-lisbon-chess-club-poster.jpg" alt="A photocopied white poster taped to a Lisbon wall entirely faced in old azulejo tiles patterned with repeating ochre, brown, blue, and cream floral medallions, chipped and scuffed with age. The poster has a black-and-white checkerboard border and reads Pieces CHESS CLUB, with OFF-LINE at the left and OPEN TO ALL at the right. Below is a cartoon of a checkerboard chess board with arms, legs, and a raised fist walking along. The text continues AT DURO DE MATAR, 31.07.2026 - 6PM, then MUSIC BY with a list of names -- Millian Dolla, King Kami, Umafricana, Didi, Mei Glez -- with a small Vida Justa logo at bottom left and a QR code at bottom right. A handwritten note in Spanish is taped to the wall at the upper left." width="100%" />
 
 <img src="/assets/20260804-feira-da-ladra-record-crate.jpg" alt="A wooden crate of second-hand vinyl records on a stall table at the Feira da Ladra flea market. The record facing forward is 10,000 Maniacs, its sleeve showing a black-and-white photograph of six children and adults drawing bows in an archery line against a cream background, with a lavender border. A handwritten blue sticker on the sleeve reads 1987 Portuguese Pressing, Soft Rock, Folk Rock, Pop Rock. The crate front is covered in stickers -- a black Anti-Corpos punk logo, a diamond-shaped A Record A Day card reading COMPRO DISCOS de Vinil (todos os estilos), CD's, Cassetes e Material de Som with the phone number 910 351 476 and WhatsApp, a blue Café Mondo sticker, and a discosboorecords.pt sticker. Black-and-white genre divider cards stand above the racks behind, labelled Psych, Heavy Metal, Hard Rock, and Pop Rock." width="100%" />
 
 
-I wanted a light lunch and Rowan wasn't interested, so we walked him nearly back to the ship and then the rest of us headed to a well-reviewed place a few blocks from the water. The three of us snacked on a sausage and cheese platter, and I had fish soup. It was all delicious.
+I wanted a light lunch and Rowan wasn't interested, so we escorted him back to the ship and then the rest of us headed to a well-reviewed place (back uphill) a few blocks from the water called [Alfama Cellar](https://reservation.umai.io/en/widget/alfama-cellar). The three of us snacked on a sausage and cheese platter (with several types of chorizo!), and I had fish soup. It was all delicious.
 
 
 <img src="/assets/20260804-alfama-stepped-alley.jpg" alt="A narrow stepped alley climbing between tall buildings in Alfama. The left wall is deep red and heavily covered in layered graffiti tags in yellow, white, red, and black, with a barred window set into it. The right wall is bare cream stucco with a green-barred window and an open doorway. Sherri stands midway up the stone steps in a black tank top, white shorts, and white sneakers, holding a water bottle and turning back toward the camera; Siena stands a few steps below on the right in a pink tank top, black skirt, and sneakers, also looking back. Higher up, potted plants hang on brackets from the left wall and laundry is strung across the gap between the buildings, with a strip of bright blue sky visible far above." width="100%" />
@@ -96,7 +96,10 @@ Our sailaway on the Tagus was quite memorable!
 
 <video src="/assets/20260804-tagus-sailaway-under-bridge.mp4" width="100%" controls playsinline muted></video>
 
+<figure>
 <img src="/assets/20260804-tagus-pool-deck-bridge.jpg" alt="Sailaway on the Tagus, shot from an upper deck of the ship as it passes beneath the 25 de Abril Bridge. The rust-red suspension bridge crosses the upper half of the frame, its tower and cables rising against a deep blue sky, with the wooded green hillside of the south bank and the white buildings of Almada below it. In the foreground at right, passengers sit in a circular glass-walled hot tub cantilevered over the side; along the railings above and to the left, dozens of people stand watching and photographing the bridge. The teak pool deck below is filled with rows of lounge chairs, most occupied by sunbathers, and crew and passengers move along the deck." width="100%" />
+<figcaption>(That's daughter in the hot tub)</figcaption>
+</figure>
 
 In the evening, Rowan opted out of a sit-down dinner, so the remaining three of us went to Normandie, where I discovered [Coquilles Saint-Jacques](https://www.recipetineats.com/coquilles-saint-jacques/) (scallops in a tasty cheese sauce).
 
