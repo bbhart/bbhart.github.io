@@ -14,8 +14,12 @@ argument-hint: Filename prefix (YYYYMMDD) — omit to process everything staged
 - Deleting the processed originals from the staging folder, and removing an emptied `proc/{prefix}/`
 
 Still print the naming table before moving, so the run is auditable — but print it and continue,
-don't stop for approval. The only reason to stop is the one genuine ambiguity called out below:
-a prefix that matches zero or multiple posts.
+don't stop for approval. There are exactly two sanctioned reasons to stop and ask:
+
+1. A prefix that matches zero or multiple posts.
+2. A staged video that **has an audio track** — ask whether to keep it (step 2). Ask once per run,
+   batching every such video into a single question; never ask about a video with no audio track,
+   and never ask about images.
 
 **Staged media is work to do, not a state to report.** If files are sitting in staging, process
 them. Never end a run having only described what's there — the point of the folder is that its
@@ -119,10 +123,35 @@ resize:
 
 Verify the result: every finished image should report `pixelWidth: 1024`.
 
-Video — strip audio, scale to 1024 wide, enable faststart for web embedding:
+Video — scale to 1024 wide, enable faststart for web embedding, and **keep the audio for now**:
 
-    ffmpeg -y -i "$src" -an -vf "scale=1024:-2" -c:v libx264 -crf 24 -preset medium \
-      -movflags +faststart temp_video.mp4
+    ffmpeg -y -i "$src" -vf "scale=1024:-2" -c:v libx264 -crf 24 -preset medium \
+      -c:a aac -b:a 128k -movflags +faststart temp_video.mp4
+
+**Do not strip audio automatically.** Encode once with the audio retained, then ask Brian, then
+drop it only if he says so — dropping is a cheap stream copy, so this costs nothing extra:
+
+    ffmpeg -y -i temp_video.mp4 -an -c:v copy -movflags +faststart temp_video_silent.mp4
+
+**Ask only when there is something to ask about.** First check whether the source even has an
+audio track:
+
+    ffprobe -v error -select_streams a -show_entries stream=codec_name -of csv=p=0 "$src"
+
+Empty output means no audio track — nothing to decide, carry on silently and say so in the report.
+Screen recordings and some exported clips also carry a silent track; if you can tell it is empty,
+treat it as no audio.
+
+When one or more videos *do* have audio, ask **once per run**, batching them into a single
+question rather than interrupting per file. **Ask after step 3, not here** — the encode happens
+now, but you need step 3's frames first so you can say what each clip actually is. "Fireworks over
+the port" is answerable; "IMG_3388.MOV" is not. Then apply the answer before the rename in step 4.
+Default to keeping audio when a clip's sound is plausibly the point (fireworks, music, a bell, someone
+talking); default to dropping it for wind and generic crowd noise. Offer that reading in the question
+instead of asking cold.
+
+Keeping the audio does **not** make the video autoplay loudly — the tag in step 5 always carries
+`muted`, so playback starts silent either way and the viewer can unmute from the controls.
 
 If `ffmpeg` is missing, process the images anyway, report the video as skipped, and leave its original
 in place.
@@ -160,6 +189,9 @@ Tag shapes:
 - Skip any asset already referenced in the post.
 - Alt text: factual and verbose — signage text, clothing, architecture, weather, what people are doing.
   Match the style already used in the Day 1 post. Video tags take no alt attribute.
+- **Always keep `muted` on the video tag**, whether or not the file has audio. It is what makes
+  playback start silent; `controls` lets the viewer unmute a clip whose audio was kept. Never drop
+  `muted` to "turn the sound on" — that is the file's business, not the tag's.
 
 **Where the tags go depends on what's already in the post.** Read the whole post body first and
 decide which case you're in.
@@ -227,6 +259,10 @@ tell the user so they can trim it manually. Process and tag it normally regardle
 Close with what changed, grouped by prefix: files processed, size before/after, the post written
 to, where each asset was placed within it (per step 5), anything skipped or flagged. Report
 per-file failures and continue the batch rather than aborting.
+
+For every video, state what happened to its audio in one clause: kept, dropped at Brian's
+direction, or no audio track to begin with. A silent video that nobody chose to silence is the
+bug this reporting line exists to catch.
 
 End with the staging folder's final state — it should be empty apart from `.DS_Store`. Anything
 still sitting there needs a stated reason (an over-length video kept for trimming, a name
