@@ -115,7 +115,7 @@ The itinerary:
 | Friday, August 7 | [Barcelona, Spain]({% post_url 2026-08-07-England-and-Iberia-Day-10 %}) | Catalonia |
 | Saturday, August 8 | [Ibiza, Spain]({% post_url 2026-08-08-England-and-Iberia-Day-11 %}) | Late call, aboard by midnight |
 | Sunday, August 9 | At Sea | |
-| Monday, August 10 | Málaga, Spain | Costa del Sol |
+| Monday, August 10 | [Málaga, Spain]({% post_url 2026-08-10-England-and-Iberia-Day-13 %}) | Costa del Sol |
 | Tuesday, August 11 | At Sea | |
 | Wednesday, August 12 | La Coruña, Spain | Galicia, on the Atlantic |
 | Thursday, August 13 | Bilbao, Spain | Basque Country |
