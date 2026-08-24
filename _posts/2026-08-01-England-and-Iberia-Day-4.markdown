@@ -108,12 +108,12 @@ The itinerary:
 | ---- | ----- | ----- |
 | Saturday, August 1 | Southampton, England | Embarkation, 3:00pm sailaway |
 | Sunday, August 2 | At Sea | |
-| Monday, August 3 | Porto (Leixões), Portugal | Port town of Matosinhos, gateway to Porto |
-| Tuesday, August 4 | Lisbon, Portugal | Portugal's capital |
+| Monday, August 3 | [Porto (Leixões), Portugal]({% post_url 2026-08-03-England-and-Iberia-Day-6 %}) | Port town of Matosinhos, gateway to Porto |
+| Tuesday, August 4 | [Lisbon, Portugal]({% post_url 2026-08-04-England-and-Iberia-Day-7 %}) | Portugal's capital |
 | Wednesday, August 5 | At Sea | Passing Gibraltar |
-| Thursday, August 6 | Palma de Mallorca, Spain | Balearic island capital |
-| Friday, August 7 | Barcelona, Spain | Catalonia |
-| Saturday, August 8 | Ibiza, Spain | Late call, aboard by midnight |
+| Thursday, August 6 | [Palma de Mallorca, Spain]({% post_url 2026-08-06-England-and-Iberia-Day-9 %}) | Balearic island capital |
+| Friday, August 7 | [Barcelona, Spain]({% post_url 2026-08-07-England-and-Iberia-Day-10 %}) | Catalonia |
+| Saturday, August 8 | [Ibiza, Spain]({% post_url 2026-08-08-England-and-Iberia-Day-11 %}) | Late call, aboard by midnight |
 | Sunday, August 9 | At Sea | |
 | Monday, August 10 | Málaga, Spain | Costa del Sol |
 | Tuesday, August 11 | At Sea | |
