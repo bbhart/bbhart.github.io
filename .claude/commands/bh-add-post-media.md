@@ -17,9 +17,10 @@ Still print the naming table before moving, so the run is auditable — but prin
 don't stop for approval. There are exactly two sanctioned reasons to stop and ask:
 
 1. A prefix that matches zero or multiple posts.
-2. A staged video that **has an audio track** — ask whether to keep it (step 2). Ask once per run,
-   batching every such video into a single question; never ask about a video with no audio track,
-   and never ask about images.
+2. A staged video that **has an audio track** — ask whether to keep it (step 2). Audio ships
+   stripped unless Brian says keep, because home video catches private conversation and you
+   cannot hear it to judge. Ask once per run, batching every such video into a single question;
+   never ask about a video with no audio track, and never ask about images.
 
 **Staged media is work to do, not a state to report.** If files are sitting in staging, process
 them. Never end a run having only described what's there — the point of the folder is that its
@@ -123,35 +124,51 @@ resize:
 
 Verify the result: every finished image should report `pixelWidth: 1024`.
 
-Video — scale to 1024 wide, enable faststart for web embedding, and **keep the audio for now**:
+Video — scale to 1024 wide, enable faststart for web embedding, retaining audio for now:
 
     ffmpeg -y -i "$src" -vf "scale=1024:-2" -c:v libx264 -crf 24 -preset medium \
-      -c:a aac -b:a 128k -movflags +faststart temp_video.mp4
+      -c:a aac -b:a 128k -movflags +faststart temp_video_audio.mp4
 
-**Do not strip audio automatically.** Encode once with the audio retained, then ask Brian, then
-drop it only if he says so — dropping is a cheap stream copy, so this costs nothing extra:
+Then immediately make the silent version, a cheap stream copy off that encode:
 
-    ffmpeg -y -i temp_video.mp4 -an -c:v copy -movflags +faststart temp_video_silent.mp4
+    ffmpeg -y -i temp_video_audio.mp4 -an -c:v copy -movflags +faststart temp_video.mp4
+
+**`temp_video.mp4` — the silent one — is what ships unless Brian says otherwise.** Carry the
+audio version only as a candidate, and delete it at cleanup if it is not chosen. Never move a
+file with an audio track into `assets/` without an explicit yes for that specific clip.
+
+**Why the default is silence.** This is not about file size — audio adds barely anything. Home
+video picks up whatever was being said near the camera: family conversation, remarks about
+strangers in frame, someone's name, a phone call. Publishing it to a public blog is a one-way
+door. **You cannot hear the audio** — you can confirm a track exists and read its codec, nothing
+more — so you are in no position to judge whether it is safe. Only Brian can, and only by
+listening. Say so when you ask; never imply you have screened it.
 
 **Ask only when there is something to ask about.** First check whether the source even has an
 audio track:
 
     ffprobe -v error -select_streams a -show_entries stream=codec_name -of csv=p=0 "$src"
 
-Empty output means no audio track — nothing to decide, carry on silently and say so in the report.
+Empty output means no audio track — nothing to decide, ship the silent file, say so in the report.
 Screen recordings and some exported clips also carry a silent track; if you can tell it is empty,
 treat it as no audio.
 
 When one or more videos *do* have audio, ask **once per run**, batching them into a single
 question rather than interrupting per file. **Ask after step 3, not here** — the encode happens
 now, but you need step 3's frames first so you can say what each clip actually is. "Fireworks over
-the port" is answerable; "IMG_3388.MOV" is not. Then apply the answer before the rename in step 4.
-Default to keeping audio when a clip's sound is plausibly the point (fireworks, music, a bell, someone
-talking); default to dropping it for wind and generic crowd noise. Offer that reading in the question
-instead of asking cold.
+the port, 10s" is answerable; "IMG_3388.MOV" is not.
+
+Frame the question as the privacy check it is — roughly *"these clips have audio; it ships silent
+unless you tell me otherwise, and I can't hear it, so keep it only if you know what's on it."*
+Give the length, since a long clip is likelier to have caught conversation. Do **not** guess from
+the picture whether the sound is worth keeping: a fireworks video looks like an obvious keep and
+may still have someone talking over it. Default to silence in the absence of a clear yes, and
+apply the answer before the rename in step 4.
 
 Keeping the audio does **not** make the video autoplay loudly — the tag in step 5 always carries
-`muted`, so playback starts silent either way and the viewer can unmute from the controls.
+`muted`, so playback starts silent either way and the viewer can unmute from the controls. That
+is a courtesy, not a safeguard: a kept track is one click from audible, so treat "keep" as
+"publish this audio".
 
 If `ffmpeg` is missing, process the images anyway, report the video as skipped, and leave its original
 in place.
@@ -246,7 +263,8 @@ that can be wrong in a way the build will never catch.
 
 ### 6. Clean up
 
-Delete the processed originals from the source folder.
+Delete the processed originals from the source folder. Also delete any `temp_video_audio.mp4`
+that was not chosen — an unshipped audio candidate must not linger on disk.
 
 If the source was a `proc/{prefix}/` subdirectory and it's now empty apart from `.DS_Store`, remove
 the directory too. Leave it in place if any original survived — see the exception below.
@@ -260,9 +278,9 @@ Close with what changed, grouped by prefix: files processed, size before/after, 
 to, where each asset was placed within it (per step 5), anything skipped or flagged. Report
 per-file failures and continue the batch rather than aborting.
 
-For every video, state what happened to its audio in one clause: kept, dropped at Brian's
-direction, or no audio track to begin with. A silent video that nobody chose to silence is the
-bug this reporting line exists to catch.
+For every video, state what happened to its audio in one clause: kept at Brian's direction,
+stripped by default, or no audio track to begin with. If any clip shipped with audio, say plainly
+that you could not hear it and that he is vouching for the content.
 
 End with the staging folder's final state — it should be empty apart from `.DS_Store`. Anything
 still sitting there needs a stated reason (an over-length video kept for trimming, a name
