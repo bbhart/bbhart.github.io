@@ -1,5 +1,5 @@
 ---
-description: Grammar and spelling pass, plus resolve <<link markers>>
+description: Grammar and spelling pass, resolve <<link markers>>, and complete post metadata
 argument-hint: File name or post slug (optional; defaults to the open/most recent post)
 ---
 
@@ -9,13 +9,18 @@ argument-hint: File name or post slug (optional; defaults to the open/most recen
 - Read/inspect: ls, find, cat, head, grep, Glob, Grep, Read
 - WebSearch / WebFetch to identify link targets
 - Editing the target file for spelling corrections and link resolution
+- Filling in placeholder or missing front-matter metadata values in pass 4, from facts the post
+  body already states
 
 **NEVER without asking:**
 - Rewriting sentences for grammar, style, tone, or flow. Brian's voice is the point.
   Grammar issues are *reported*, not fixed.
 - Guessing at an ambiguous `<<marker>>`. Stop and ask.
-- Touching front matter, image tags, or anything outside the prose body. The one exception is
-  the `background:` key in pass 4, and only after Brian picks an image.
+- Inventing metadata the post body doesn't support — names, distances, venues, weather.
+  A fact that isn't in the post is a question for Brian, not a gap to fill.
+- Rewriting metadata values Brian already filled in, or removing keys he put there.
+- Touching image tags or anything else outside the prose body. The exceptions are the
+  metadata keys in pass 4, and the `background:` key in pass 5 (only after Brian picks an image).
 
 ## Context
 
@@ -28,8 +33,13 @@ Parse $ARGUMENTS:
 
 ## Task
 
-Make four passes over the post, in this order. Passes 1–3 cover the prose body; pass 4 checks
-one front-matter key.
+Make five passes over the post, in this order. Passes 1–3 cover the prose body; passes 4 and 5
+cover the front matter.
+
+**All five passes are mandatory.** None of them is optional or conditional on how the post
+looks at a glance. A post that leaves this command still carrying `TODO`, an empty list, or a
+placeholder value has not been cleaned up — pass 4 exists specifically to catch that, and
+skipping it is the failure mode this command is meant to prevent.
 
 ### 1. Spelling
 
@@ -182,7 +192,71 @@ plausible cathedrals, a restaurant name that returns nothing, a trip reference t
 two rollups — pause the pass and ask Brian which one he means. Present the candidates with
 their URLs. Do not guess, and do not silently skip. Resume the pass with his answer.
 
-### 4. Background image
+### 4. Front matter metadata — mandatory
+
+This pass is not optional. Run it on every post, every time, even when the front matter looks
+full. It is what keeps `TODO`s and empty lists from reaching the live site and the generated
+`api/travel-data.json`.
+
+**The schema is the allow-list in `_plugins/travel_data_generator.rb`** (the array of field names
+added to `post_entry`). Read that file before writing any key. Keys outside the allow-list are
+silently dropped by the generator, so an invented key looks fine in the post and does nothing.
+Don't reverse-engineer the schema from `api/travel-data.json` or from other posts.
+
+**Find the placeholders.** Sweep the whole file — front matter *and* body:
+
+```
+grep -n -E 'TODO|TBD|FIXME|XXX|\?\?\?|<<' <post>
+```
+
+Then read the front matter for the quieter cases `grep` won't catch:
+
+- A key with an empty value: `activities:` with nothing under it, `venues: []`, `notes: ""`.
+- A list whose only entry is a placeholder: `activities:\n  - TODO`.
+- A key carried over from a sibling day post but never filled for this one.
+- A `locations` or `accommodations` entry missing `name`, `type`, or `country` when the
+  siblings in this trip all carry them.
+
+**Fill what the post supports.** For each gap, fill it from what the post body, its images and
+alt text, and the front matter already state. Match the structure recent sibling posts in the
+same trip use (same `rollup_key`) — the shape should be consistent across a trip:
+
+```
+grep -l "rollup_key: 2026iberia" _posts/*.markdown
+```
+
+Fill directly; this is pre-approved and needs no confirmation. Use the post's own words for
+names — if the body says "Torre de Hércules", the `venues` entry says that too.
+
+**Never invent.** If the post body doesn't support a value, do not manufacture one. A day post
+with no restaurant named gets no `dining` entry — an empty or absent key is honest, a fabricated
+one is not. Distinguish three outcomes and treat them differently:
+
+1. *Filled* — the post supports it. Write it.
+2. *Genuinely not applicable* — a sea day has no `venues`. **Remove the empty key** rather than
+   leaving it dangling, and say so in the report.
+3. *Applicable but unknown* — the post clearly did something the metadata should record, and
+   the body doesn't say enough to name it. Leave the placeholder in place, and **ask Brian** with
+   a specific question ("Day 15 lists `activities: [TODO]` — what did you do in La Coruña
+   besides the eclipse?"). Do not delete a placeholder you couldn't resolve; it's the only
+   marker that the gap exists.
+
+**Body `TODO`s are Brian's to write.** A bare `TODO` in the prose means an unwritten section.
+Never fill it with invented narrative and never quietly delete it. Report it as blocking — the
+post is not ready to publish while it's there.
+
+**Validate the YAML** after any front-matter edit (`date:` trips up `safe_load`, hence the
+`permitted_classes`):
+
+```
+awk 'BEGIN{c=0} /^---[[:space:]]*$/{c++; if(c==2){exit} next} c==1{print}' <post> \
+  | ruby -rdate -ryaml -e "YAML.safe_load(STDIN.read, permitted_classes:[Date]); puts 'YAML OK'"
+```
+
+**Confirm the sweep is clean** before moving on. Re-run the `grep` above; every remaining hit
+must be one you deliberately left and are reporting as an open question.
+
+### 5. Background image
 
 Every post should carry a `background:` key in its front matter — it's the hero image behind the
 title on the post page and in listings. Check for one:
@@ -254,21 +328,33 @@ When done, print in chat:
 4. **Markers still open** — any that needed a decision Brian hasn't given yet.
    Also note any affiliate link used, whether `_data/affiliates.yml` gained an entry, and whether
    the disclosure include was added or was already present.
-5. **Background image** — one of: already present and the file verified; already present but the
+5. **Metadata** — always present this section, even when nothing changed. Three parts:
+   - *Filled* — a table: key, the value written, and where in the post the fact came from.
+   - *Removed* — empty keys dropped as not applicable, with the reason in a few words.
+   - *Still open* — placeholders you could not resolve, each as a direct question for Brian,
+     plus any `TODO` left in the prose body. **Call these out as blocking publication.**
+
+   State the YAML validation result and the result of the re-run placeholder sweep. If the
+   post's metadata was already complete, say "no gaps found" — don't omit the section.
+6. **Background image** — one of: already present and the file verified; already present but the
    file is missing from `assets/` (flag it); added, naming both the source image Brian picked and
    the `-bg.jpg` derivative created for it, with its dimensions; or proposed and awaiting his
    choice. Say "post has no images to draw from" when that's the case.
-6. **Grammar suggestions** — numbered, each with line number, the quoted original, and the
+7. **Grammar suggestions** — numbered, each with line number, the quoted original, and the
    proposed rewrite. State the issue in a few words. These are **not** applied. If there are
    none, say so — don't manufacture them.
 
 Then remind him that grammar suggestions are unapplied, and he can name the numbers he wants
 taken.
 
+If anything is still open — an unresolved marker, an unresolved placeholder, a body `TODO` —
+end by saying plainly that the post is not ready to publish and listing what's left. Don't bury
+it under the tables.
+
 ## Verify
 
-If spelling, links, or the `background:` key changed, confirm the post still builds — a bad
-`post_url` fails the Jekyll build.
+If spelling, links, front-matter metadata, or the `background:` key changed, confirm the post
+still builds — a bad `post_url` fails the Jekyll build, and malformed YAML fails it outright.
 
 **Never build into `_site`.** Brian usually has a dev server running, and `jekyll serve` serves
 `_site` straight off disk. A plain `bundle exec jekyll build` overwrites that directory without
