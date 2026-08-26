@@ -117,7 +117,7 @@ The itinerary:
 | Sunday, August 9 | At Sea | |
 | Monday, August 10 | [Málaga, Spain]({% post_url 2026-08-10-England-and-Iberia-Day-13 %}) | Costa del Sol |
 | Tuesday, August 11 | At Sea | |
-| Wednesday, August 12 | La Coruña, Spain | Galicia, on the Atlantic |
+| Wednesday, August 12 | [La Coruña, Spain]({% post_url 2026-08-12-England-and-Iberia-Day-15 %}) | Galicia, on the Atlantic |
 | Thursday, August 13 | Bilbao, Spain | Basque Country |
 | Friday, August 14 | At Sea | |
 | Saturday, August 15 | Southampton, England | Disembark |
