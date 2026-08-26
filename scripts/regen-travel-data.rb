@@ -23,6 +23,12 @@ Dir.glob('_posts/*.markdown').each do |file|
   next unless content =~ /\A---\s*\n(.*?)\n---\s*\n/m
   frontmatter = YAML.safe_load($1, permitted_classes: [Date, Time])
 
+  # Skip drafts. The Jekyll plugin gets this for free -- site.posts.docs omits
+  # `published: false` posts unless the build passes --unpublished -- but this
+  # script reads _posts/ directly, so it has to filter them itself. Without
+  # this, held-back drafts leak into the committed public JSON.
+  next if frontmatter['published'] == false
+
   next unless frontmatter['categories']&.include?('travel') || frontmatter['rollup_key']
 
   travel_data[:total_posts] += 1

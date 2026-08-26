@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T18:58:22Z",
-  "total_posts": 133,
+  "generated_at": "2026-08-26T19:30:51Z",
+  "total_posts": 146,
   "trips": [
     {
       "rollup_key": "2007eu",
@@ -4795,32 +4795,6 @@
       "rollup_key": "2024wintercaribbean",
       "posts": [
         {
-          "title": "Celebrity Cruise Cell Data Situation",
-          "date": "2024-12-19",
-          "subtitle": "Where I figure out how to not spend $2,000 on roaming data while on a cruise",
-          "categories": "travel caribbean",
-          "tags": [
-            "celebrity",
-            "cruise",
-            "dec2024"
-          ],
-          "rollup_key": "2024wintercaribbean",
-          "day_type": "planning",
-          "trip_stage": "pre-trip",
-          "trip_type": "cruise",
-          "activities": [
-            {
-              "day": -2,
-              "type": "planning",
-              "description": "Researching cell data options for cruise",
-              "location": "Planning phase"
-            }
-          ],
-          "notable_mentions": [
-            "AT&T Unlimited Starter SL plan"
-          ]
-        },
-        {
           "title": "Celebrity Cruise Day 0",
           "date": "2024-12-21",
           "subtitle": "Heading to Fort Lauderdale",
@@ -5169,78 +5143,6 @@
             "Skipped the Christmas Eve Party With Party Band Next Stage for an early night"
           ],
           "weather": "Gray most of the day, temperatures in the high 70s and humid",
-          "companions": [
-            "wife",
-            "son",
-            "daughter"
-          ]
-        },
-        {
-          "title": "Celebrity Cruise Day 4",
-          "date": "2024-12-25",
-          "subtitle": "On the way to Aruba",
-          "categories": "travel caribbean",
-          "tags": [
-            "celebrity",
-            "cruise",
-            "dec2024"
-          ],
-          "rollup_key": "2024wintercaribbean",
-          "day_number": 4,
-          "day_type": "sea_day",
-          "locations": [
-            {
-              "name": "Caribbean Sea",
-              "type": "sea",
-              "country": "International waters",
-              "notes": "Christmas Day at sea between Grand Cayman and Aruba"
-            }
-          ],
-          "days_at_location": {
-            "Celebrity Eclipse": 1
-          },
-          "venues": [
-            {
-              "name": "Celebrity Eclipse",
-              "type": "cruise_ship",
-              "location": "At sea between Grand Cayman and Aruba"
-            }
-          ],
-          "transport": [
-            {
-              "type": "cruise_ship",
-              "vessel": "Celebrity Eclipse",
-              "from": "Grand Cayman",
-              "to": "Aruba"
-            }
-          ],
-          "activities": [
-            {
-              "day": 4,
-              "type": "holiday_celebration",
-              "description": "Christmas Day aboard ship, Santa photos in grand foyer",
-              "location": "Celebrity Eclipse"
-            },
-            {
-              "day": 4,
-              "type": "relaxation",
-              "description": "Son recuperating, watching The Office",
-              "location": "Stateroom"
-            },
-            {
-              "day": 4,
-              "type": "social",
-              "description": "Wife and daughter met family from Quebec, shared lunch and attended show",
-              "location": "Celebrity Eclipse"
-            }
-          ],
-          "notable_experiences": [
-            "Santa handing out presents and taking photos in the grand foyer",
-            "Families adapting Christmas traditions aboard, including a dedicated suitcase of wrapped presents",
-            "Wife and daughter befriended an extended family from Quebec, sharing lunch and a show",
-            "Son able to put some weight on his injured foot; binging the US version of The Office",
-            "Found a peaceful late-afternoon writing spot at the aft of the ship"
-          ],
           "companions": [
             "wife",
             "son",
@@ -9280,6 +9182,1020 @@
           ]
         }
       ]
+    },
+    {
+      "rollup_key": "2026iberia",
+      "posts": [
+        {
+          "title": "England and Iberia Day 1",
+          "date": "2026-07-29",
+          "subtitle": "A delay, a tight connection, and a red-eye",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "outbound",
+          "locations": [
+            {
+              "name": "Holly Springs",
+              "type": "town",
+              "country": "United States"
+            },
+            {
+              "name": "Raleigh-Durham International Airport",
+              "type": "airport",
+              "country": "United States"
+            },
+            {
+              "name": "Hartsfield-Jackson Atlanta International Airport",
+              "type": "airport",
+              "country": "United States"
+            }
+          ],
+          "transport": [
+            {
+              "type": "rideshare",
+              "provider": "Uber",
+              "route": "Holly Springs → RDU"
+            },
+            {
+              "type": "flight",
+              "carrier": "Delta",
+              "route": "RDU → ATL",
+              "notes": "Delayed to 8:45pm, at least 90 minutes late"
+            },
+            {
+              "type": "flight",
+              "carrier": "Delta",
+              "route": "ATL → LHR",
+              "overnight": true,
+              "notes": "Main cabin; connection made with about 15 minutes to spare"
+            }
+          ],
+          "activities": [
+            "Uber to RDU",
+            "TSA PreCheck",
+            "Terminal T to Terminal E connection in Atlanta",
+            "Overnight transatlantic flight"
+          ],
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
+        },
+        {
+          "title": "England and Iberia Day 2",
+          "date": "2026-07-30",
+          "subtitle": "Heathrow to Bankside, and 20,000 steps on no sleep",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "pre-cruise",
+          "locations": [
+            {
+              "name": "London Heathrow Airport",
+              "type": "airport",
+              "country": "England"
+            },
+            {
+              "name": "Farringdon",
+              "type": "train_station",
+              "country": "England"
+            },
+            {
+              "name": "London",
+              "type": "city",
+              "country": "England"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Hilton London Bankside",
+              "location": "London",
+              "night": "1 of 3",
+              "notes": "Books two connecting rooms as a single reservation, so connecting rooms are guaranteed rather than requested"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Leake Street Arches (Graffiti Tunnel)",
+              "type": "attraction",
+              "location": "Waterloo, London",
+              "url": "https://www.leakestreetarches.london/"
+            },
+            {
+              "name": "Westminster Bridge",
+              "type": "landmark",
+              "location": "London"
+            },
+            {
+              "name": "Buckingham Palace",
+              "type": "landmark",
+              "location": "London"
+            },
+            {
+              "name": "Between the Bridges",
+              "type": "food_and_drink",
+              "location": "South Bank, London",
+              "url": "https://www.betweenthebridges.co.uk/"
+            }
+          ],
+          "transport": [
+            {
+              "type": "train",
+              "provider": "Elizabeth line",
+              "route": "Heathrow → Farringdon",
+              "duration": "~30 minutes"
+            },
+            {
+              "type": "train",
+              "provider": "Thameslink",
+              "route": "Farringdon → Bankside area",
+              "notes": "Signage at Farringdon drops off right where you need it most"
+            }
+          ],
+          "activities": [
+            "Automated passport gates at Heathrow",
+            "Elizabeth line and Thameslink into central London",
+            "Hotel pool and hot tub",
+            "Walk to Waterloo Station and Leake Street Arches",
+            "Westminster Bridge, Parliament, and Buckingham Palace",
+            "Pall Mall and Golden Jubilee Bridges"
+          ],
+          "dining": [
+            {
+              "venue": "Between the Bridges",
+              "meal": "dinner",
+              "location": "South Bank, London",
+              "dishes": "Hot dog and chips, nutella pancakes"
+            }
+          ],
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
+        },
+        {
+          "title": "England and Iberia Day 3",
+          "date": "2026-07-31",
+          "subtitle": "Coffee, Carnaby Street, and the Tube",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "pre-cruise",
+          "locations": [
+            {
+              "name": "London",
+              "type": "city",
+              "country": "England"
+            },
+            {
+              "name": "Southwark",
+              "type": "neighborhood",
+              "country": "England"
+            },
+            {
+              "name": "Carnaby Street",
+              "type": "shopping_district",
+              "country": "England"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Hilton London Bankside",
+              "location": "London",
+              "night": "2 of 3"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Black Sheep Coffee",
+              "type": "cafe",
+              "location": "Southwark, London",
+              "url": "https://blacksheepcoffee.co.uk/blogs/locations/southwark",
+              "notes": "Four pastries and an Americano for about £14"
+            },
+            {
+              "name": "The Table Southwark",
+              "type": "cafe",
+              "location": "Southwark, London",
+              "url": "https://thetablecafe.com/southwark/",
+              "notes": "Considered for brunch, roughly five times the cost"
+            },
+            {
+              "name": "St Paul's Cathedral",
+              "type": "cathedral",
+              "location": "London",
+              "notes": "Free for worship, roughly £60 for a family of four as sightseers"
+            },
+            {
+              "name": "Tower Bridge",
+              "type": "landmark",
+              "location": "London"
+            },
+            {
+              "name": "Pizza Express",
+              "type": "restaurant",
+              "location": "London"
+            }
+          ],
+          "transport": [
+            {
+              "type": "subway",
+              "provider": "London Underground",
+              "route": "Southwark → Carnaby Street area"
+            },
+            {
+              "type": "subway",
+              "provider": "London Underground",
+              "route": "Carnaby Street area → St Paul's"
+            }
+          ],
+          "activities": [
+            "Brunch in Southwark",
+            "Tube to Carnaby Street for shopping",
+            "Walk past St Paul's Cathedral",
+            "Walk along the south bank to Tower Bridge"
+          ],
+          "dining": [
+            {
+              "venue": "Black Sheep Coffee",
+              "meal": "brunch",
+              "location": "Southwark, London",
+              "dishes": "Four pastries and an Americano"
+            },
+            {
+              "venue": "Pizza Express",
+              "meal": "early dinner",
+              "location": "London",
+              "dishes": "Caprese salad"
+            }
+          ],
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
+        },
+        {
+          "title": "England and Iberia Day 4",
+          "date": "2026-08-01",
+          "subtitle": "Waterloo to Southampton, and the walk to the terminal",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "embarkation",
+          "locations": [
+            {
+              "name": "London",
+              "type": "city",
+              "country": "England"
+            },
+            {
+              "name": "London Waterloo",
+              "type": "train_station",
+              "country": "England"
+            },
+            {
+              "name": "Southampton",
+              "type": "port_city",
+              "country": "England"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Hilton London Bankside",
+              "location": "London",
+              "night": "3 of 3",
+              "checkout": true
+            },
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "location": "Southampton (embarkation)",
+              "night": "1 of 14"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Southampton Central Station",
+              "type": "train_station",
+              "location": "Southampton"
+            },
+            {
+              "name": "Horizon Cruise Terminal (Terminal 102)",
+              "type": "cruise_terminal",
+              "location": "Southampton"
+            },
+            {
+              "name": "Dock Gate 10",
+              "type": "port_gate",
+              "location": "Southampton"
+            }
+          ],
+          "transport": [
+            {
+              "type": "walk",
+              "route": "Hilton London Bankside → London Waterloo",
+              "departure_time": "7:50am"
+            },
+            {
+              "type": "train",
+              "provider": "South Western Railway",
+              "route": "London Waterloo → Southampton Central",
+              "departure_time": "8:35am",
+              "notes": "Platform assigned from the 12-29 block a few minutes before departure; no dedicated luggage storage for roller bags"
+            },
+            {
+              "type": "walk",
+              "route": "Southampton Central Station → Horizon Cruise Terminal",
+              "duration": "~30 minutes"
+            },
+            {
+              "type": "cruise",
+              "line": "Celebrity Cruises",
+              "vessel": "Celebrity Apex",
+              "route": "Southampton → Atlantic",
+              "departure_time": "3:00pm"
+            }
+          ],
+          "activities": [
+            "Walk to Waterloo and train to Southampton",
+            "Walk from Southampton Central to the Horizon terminal",
+            "Terminal check-in and boarding by arrival order",
+            "Muster station check-in",
+            "Buffet lunch"
+          ],
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
+        },
+        {
+          "title": "England and Iberia Day 5",
+          "date": "2026-08-02",
+          "subtitle": "A sea day and the last of the jet lag",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "Atlantic Ocean",
+              "type": "sea",
+              "country": "International waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "2 of 14"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Oceanview Cafe",
+              "type": "buffet",
+              "location": "Ship",
+              "notes": "High-tops at the back of the buffet"
+            },
+            {
+              "name": "Eden",
+              "type": "lounge",
+              "location": "Ship",
+              "notes": "Aft-facing lounge with a view; good spot for writing"
+            }
+          ],
+          "activities": [
+            "Sleeping in",
+            "Sunbathing on deck",
+            "Writing in Eden"
+          ],
+          "dining": [
+            {
+              "venue": "Buffet",
+              "meal": "breakfast",
+              "notes": "Light breakfast at the high-tops in the back"
+            },
+            {
+              "venue": "Buffet",
+              "meal": "lunch"
+            }
+          ],
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
+        },
+        {
+          "title": "England and Iberia Day 6",
+          "date": "2026-08-03",
+          "subtitle": "A gray day in Matosinhos",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "Leixões",
+              "type": "port",
+              "country": "Portugal"
+            },
+            {
+              "name": "Matosinhos",
+              "type": "town",
+              "country": "Portugal"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "3 of 14"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise",
+              "line": "Celebrity Cruises",
+              "vessel": "Celebrity Apex",
+              "route": "Port call at Porto (Leixões), Portugal",
+              "arrival_time": "10:30am",
+              "departure_time": "7:00pm"
+            }
+          ],
+          "activities": [
+            "Walking the main street of Matosinhos",
+            "Local lunch near the terminal"
+          ],
+          "dining": [
+            {
+              "venue": "Restaurant near the cruise terminal entrance",
+              "meal": "lunch",
+              "location": "Matosinhos",
+              "notes": "Out of the cured ham on the starter menu; pricing jumped from about €16 to €112 with little in between"
+            }
+          ],
+          "weather": "Gray with intermittent misting rain",
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
+        },
+        {
+          "title": "England and Iberia Day 7",
+          "date": "2026-08-04",
+          "subtitle": "Uphill in Lisbon, and a flea market find",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "Lisbon",
+              "type": "city",
+              "country": "Portugal"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "4 of 14"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Lisbon Cathedral (Sé de Lisboa)",
+              "type": "cathedral",
+              "location": "Lisbon"
+            },
+            {
+              "name": "Feira da Ladra",
+              "type": "flea_market",
+              "location": "Campo de Santa Clara, Lisbon",
+              "notes": "Open-air market, Tuesdays and Saturdays"
+            },
+            {
+              "name": "Normandie",
+              "type": "restaurant",
+              "location": "Ship",
+              "notes": "Scallops in a cheese sauce"
+            }
+          ],
+          "activities": [
+            "Walking uphill from the port to the cathedral",
+            "Feira da Ladra flea market",
+            "Local lunch near the waterfront"
+          ],
+          "dining": [
+            {
+              "venue": "Restaurant a few blocks from the water",
+              "meal": "lunch",
+              "location": "Lisbon",
+              "dishes": "Sausage and cheese platter, fish soup"
+            },
+            {
+              "venue": "Normandie",
+              "meal": "dinner",
+              "location": "Ship",
+              "dishes": "Scallops in cheese sauce"
+            }
+          ],
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
+        },
+        {
+          "title": "England and Iberia Day 8",
+          "date": "2026-08-05",
+          "subtitle": "Gibraltar off the rail, and a slow sea day",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "Strait of Gibraltar",
+              "type": "strait",
+              "country": "International waters"
+            },
+            {
+              "name": "Mediterranean Sea",
+              "type": "sea",
+              "country": "International waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "5 of 14"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Eden",
+              "type": "lounge",
+              "location": "Ship"
+            }
+          ],
+          "activities": [
+            "Passing Gibraltar",
+            "Listening to music on the shaded deck",
+            "Time in Eden watching the wake"
+          ],
+          "dining": [
+            {
+              "venue": "Buffet",
+              "meal": "dinner"
+            }
+          ],
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
+        },
+        {
+          "title": "England and Iberia Day 9",
+          "date": "2026-08-06",
+          "subtitle": "A hot castle, a lucky taxi, and Segways in Palma",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "Palma de Mallorca",
+              "type": "city",
+              "country": "Spain"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "6 of 14"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Castell de Bellver",
+              "type": "castle",
+              "location": "Palma de Mallorca",
+              "notes": "Three floors, no water fountain anywhere inside; water available for purchase outside at fair prices"
+            },
+            {
+              "name": "Palma Old Town",
+              "type": "neighborhood",
+              "location": "Palma de Mallorca"
+            }
+          ],
+          "transport": [
+            {
+              "type": "walk",
+              "route": "Ship → Castell de Bellver"
+            },
+            {
+              "type": "taxi",
+              "route": "Base of the castle hill → Old Town",
+              "fare_eur": 8,
+              "duration": "~15 minutes",
+              "notes": "Replaced a 50-minute walk; the recommended Palma taxi app refused both a credit card and a debit card, so hailing in person was the only option"
+            }
+          ],
+          "activities": [
+            "Walk up to Castell de Bellver",
+            "Two-hour Segway tour of Palma old town, booked through GetYourGuide",
+            "Tapas"
+          ],
+          "dining": [
+            {
+              "venue": "Tapas restaurant",
+              "meal": "late lunch",
+              "location": "Palma de Mallorca",
+              "notes": "Middling"
+            }
+          ],
+          "notable_experiences": [
+            "First time booking an excursion through GetYourGuide; the Segway tour covered far more ground than walking would have in the midday heat"
+          ],
+          "challenges": [
+            "No water available inside Castell de Bellver",
+            "Palma taxi app refused both a credit card and a debit card, making it impossible to summon a cab from the castle"
+          ],
+          "weather": "Oppressive heat",
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
+        },
+        {
+          "title": "England and Iberia Day 10",
+          "date": "2026-08-07",
+          "subtitle": "Barcelona on half a tank",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "Barcelona",
+              "type": "city",
+              "country": "Spain"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "7 of 14"
+            }
+          ],
+          "venues": [
+            {
+              "name": "La Rambla",
+              "type": "street",
+              "location": "Barcelona",
+              "notes": "Significant construction underway along much of it"
+            },
+            {
+              "name": "Mercat de la Boqueria",
+              "type": "market",
+              "location": "Barcelona"
+            }
+          ],
+          "activities": [
+            "Solo morning walk down La Rambla",
+            "Pharmacy run for cold and flu medication",
+            "Mercat de la Boqueria before the crowds",
+            "Breakfast"
+          ],
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
+        },
+        {
+          "title": "England and Iberia Day 11",
+          "date": "2026-08-08",
+          "subtitle": "Waiting out the heat in Ibiza",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "Ibiza",
+              "type": "island",
+              "country": "Spain"
+            },
+            {
+              "name": "Ibiza Old Town (Dalt Vila)",
+              "type": "neighborhood",
+              "country": "Spain"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "8 of 14"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Il Pavone",
+              "type": "restaurant",
+              "location": "Ibiza Old Town",
+              "url": "https://sites.google.com/view/ilpavonerestaurante"
+            }
+          ],
+          "transport": [
+            {
+              "type": "shuttle",
+              "route": "Cruise port → outskirts of Ibiza Old Town"
+            }
+          ],
+          "activities": [
+            "Late-afternoon departure from the ship to beat the heat",
+            "Strolling the old town streets and alleys",
+            "Dinner at Il Pavone"
+          ],
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
+        },
+        {
+          "title": "England and Iberia Day 13",
+          "date": "2026-08-10",
+          "subtitle": "My favorite stop of the trip",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "Málaga",
+              "type": "city",
+              "country": "Spain",
+              "notes": "Alongside 07:00, all aboard for a 17:00 departure"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "10 of 14"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Málaga Cathedral",
+              "type": "cathedral",
+              "location": "Málaga",
+              "url": "https://malagacatedral.com/cultural-visit/"
+            },
+            {
+              "name": "Museo Picasso Málaga",
+              "type": "museum",
+              "location": "Málaga",
+              "url": "https://www.museopicassomalaga.org/en"
+            },
+            {
+              "name": "Castillo de Gibralfaro",
+              "type": "castle",
+              "location": "Málaga",
+              "url": "https://alcazabaygibralfaro.malaga.eu/en/"
+            },
+            {
+              "name": "Calle Larios",
+              "type": "street",
+              "location": "Málaga"
+            },
+            {
+              "name": "Centre Pompidou Málaga",
+              "type": "museum",
+              "location": "Málaga",
+              "url": "https://www.centrepompidou-malaga.eu/en/"
+            }
+          ],
+          "transport": [
+            {
+              "type": "walk",
+              "route": "Guided walking and eating excursion through the old town and up to the Gibralfaro",
+              "notes": "9:30am to 12:30pm, Sherri and I only"
+            },
+            {
+              "type": "walk",
+              "route": "Ship → Calle Larios and back",
+              "duration": "~20 minutes each way",
+              "notes": "Most of it along the harbor"
+            }
+          ],
+          "activities": [
+            "Walking and eating shore excursion of the old town",
+            "Málaga Cathedral and the Museo Picasso, seen from outside",
+            "Views over the bullring, city and port from the Gibralfaro",
+            "Second trip ashore on foot with Siena",
+            "Strolling and shopping on Calle Larios",
+            "Centre Pompidou's glass cube on the walk back",
+            "Evening transit of the Strait of Gibraltar"
+          ],
+          "dining": [
+            {
+              "venue": "Sushita Chinitas",
+              "meal": "lunch",
+              "location": "Málaga",
+              "url": "https://www.sushita.com/sushita-chinitas/",
+              "notes": "Advertised as a sushi restaurant; blue and white from floor to ceiling"
+            }
+          ],
+          "notable_experiences": [
+            "Málaga was my favorite stop of the trip -- scenery, clean streets, friendly people, and a mainland base you could use to reach other places",
+            "Second transit of the Strait of Gibraltar this cruise, this time in good evening light"
+          ],
+          "companions": [
+            "Sherri",
+            "Siena"
+          ]
+        },
+        {
+          "title": "England and Iberia Day 14",
+          "date": "2026-08-11",
+          "subtitle": "Sea day stuff, and a primer for tomorrow's eclipse",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "Strait of Gibraltar",
+              "type": "strait",
+              "country": "International waters",
+              "notes": "Westbound this time, after passing eastbound on Day 8"
+            },
+            {
+              "name": "Atlantic Ocean",
+              "type": "ocean",
+              "country": "International waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "11 of 14"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Theatre",
+              "type": "theater",
+              "location": "Ship",
+              "notes": "Celebrity enrichment lecture ahead of the eclipse"
+            },
+            {
+              "name": "Eden",
+              "type": "lounge",
+              "location": "Ship",
+              "notes": "Up on the ramp, one of my favorite spots for working"
+            }
+          ],
+          "activities": [
+            "Enrichment lecture on the geometry of the solar eclipse",
+            "Battleship with Siena from the Activities team's board and card games",
+            "Watching the kids play a game of chess",
+            "Writing the blog in Eden, up on the ramp",
+            "Finding Rowan playing chess online in the lobby"
+          ],
+          "weather": "Clear, and a bit cooler in the evening",
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
+        },
+        {
+          "title": "England and Iberia Day 15",
+          "date": "2026-08-12",
+          "subtitle": "La Coruña, Spain AND AN ECLIPSE!",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "La Coruña",
+              "type": "city",
+              "country": "Spain",
+              "notes": "Alongside 08:00, all aboard for a 16:00 departure"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "12 of 14"
+            }
+          ],
+          "venues": [
+            {
+              "name": "The Tower of Hercules",
+              "type": "lighthouse",
+              "location": "La Coruña",
+              "url": "https://www.coruna.gal/the-tower/en",
+              "notes": "Seen from the outside -- tickets were sold out until 1:00pm"
+            },
+            {
+              "name": "Mercado de San Agustín",
+              "type": "market",
+              "location": "La Coruña",
+              "notes": "Arrived after most of the vendors had packed up"
+            }
+          ],
+          "transport": [
+            {
+              "type": "walk",
+              "route": "Ship → the Mariña waterfront → Monte Alto → The Tower of Hercules and back",
+              "notes": "Off the ship early with Sherri, then a second trip ashore to bring the kids into town"
+            }
+          ],
+          "activities": [
+            "Walking the waterfront and the coastal trail toward The Tower of Hercules",
+            "Breakfast at El Chef Urbano in Monte Alto",
+            "The Tower of Hercules from the outside -- tickets sold out until 1:00pm",
+            "Second trip ashore with Siena and Rowan",
+            "Mercado de San Agustín, after most of the vendors had gone",
+            "Solo lunch at Burger King",
+            "Total solar eclipse from the top deck at sea"
+          ],
+          "dining": [
+            {
+              "venue": "El Chef Urbano",
+              "meal": "breakfast",
+              "location": "La Coruña",
+              "notes": "On Avenida de Navarra up in Monte Alto -- ham on toast, with stuffed animals around the room"
+            },
+            {
+              "venue": "Burger King",
+              "meal": "lunch",
+              "location": "La Coruña",
+              "notes": "Solo visit, sitting under the sign on the granite facade"
+            }
+          ],
+          "notable_experiences": [
+            "Totality seen from the ship -- the deck lights came up as if it were nighttime and the Captain hit the horn",
+            "The top deck was far less crowded than expected, with room to watch the partial eclipse from aft before the ship turned"
+          ],
+          "weather": "Overcast through the morning, bright sun by midday, and broken cloud that never fully cleared for the eclipse",
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
+        }
+      ]
     }
   ],
   "all_locations": [
@@ -9332,6 +10248,7 @@
     "Brúarfoss",
     "Buchloe",
     "Caribbean Sea",
+    "Carnaby Street",
     "Cartagena",
     "Cartagena, Spain",
     "Chamonix-Mont-Blanc",
@@ -9354,6 +10271,7 @@
     "Efstidalur II",
     "Efstidalur II Farm & Restaurant",
     "Elgiganten electronics store",
+    "Farringdon",
     "Fløyen Mountain",
     "Fort Lauderdale",
     "Füssen",
@@ -9378,6 +10296,8 @@
     "Hús máls og menningar",
     "Húsafell",
     "Húsafell Hotel Bistro",
+    "Ibiza",
+    "Ibiza Old Town (Dalt Vila)",
     "Icelandic Punk Museum",
     "Interlaken",
     "Interlaken Ost",
@@ -9391,6 +10311,7 @@
     "Kongens Nytorv metro station",
     "Kralendijk",
     "Kyoto",
+    "La Coruña",
     "La Rochelle",
     "La Rochelle, France",
     "Labrador Sea",
@@ -9400,20 +10321,26 @@
     "Lauterbrunnen, Switzerland",
     "Le Havre",
     "Le Havre, France",
+    "Leixões",
     "Leonardo da Vinci-Fiumicino Airport",
     "Lisbon",
     "Lisbon, Portugal",
     "Livorno",
     "Livorno, Italy",
     "London",
+    "London Heathrow Airport",
+    "London Waterloo",
     "London, United Kingdom",
     "London-Gatwick Airport",
     "Manhattan",
+    "Matosinhos",
+    "Mediterranean Sea",
     "Minneapolis",
     "Mountain summit at 1295m above sea level",
     "Munich",
     "Munich Airport",
     "Munich, Germany",
+    "Málaga",
     "Männlichen",
     "Mörel",
     "Mürren",
@@ -9428,6 +10355,7 @@
     "Oslo Opera House",
     "Oslo ferry terminal",
     "Oslo, Norway",
+    "Palma de Mallorca",
     "Paris",
     "Paris, France",
     "Pflach",
@@ -9461,6 +10389,7 @@
     "Sognefjord overlook",
     "Southampton",
     "Southampton, United Kingdom",
+    "Southwark",
     "Spiez",
     "St. Gallen",
     "St. John's",
@@ -9525,15 +10454,21 @@
     "Arrival in Rome and hotel check-in",
     "Atlanta layover and Centurion Lounge visit",
     "Attempting panoramic trail at summit (gave up 1/4 way in)",
+    "Automated passport gates at Heathrow",
     "BMW Welt exhibition visit",
     "Bag reclaim and recheck in Detroit",
     "Bakery breakfast and grocery stop in Selfoss",
     "Bakery visit in Selfoss",
     "Balestrand Forest Hike - 5.2 miles, 1700ft elevation gain",
     "Barbary apes atop the Rock",
+    "Battleship with Siena from the Activities team's board and card games",
     "Black sand beach at Vik",
     "Booked shore excursions for Cartagena and Portimão (two for Portimão)",
     "Booking eight nights of lodging (Asakusa, Kamakura, Kyoto)",
+    "Breakfast",
+    "Breakfast at El Chef Urbano in Monte Alto",
+    "Brunch in Southwark",
+    "Buffet lunch",
     "Bus journey through winter wonderland landscape",
     "Butler and housekeeper room orientation",
     "CERN visit",
@@ -9543,6 +10478,7 @@
     "Car return and walk through Reykjavik",
     "Carouge farmers market",
     "Casual solo dinner at Atlantide",
+    "Centre Pompidou's glass cube on the walk back",
     "Challenging second quarter with steep sections and roots",
     "Changed return flights to fly home Friday after disembarkation, skipping two nights in Lisbon",
     "Checked bags at Munich Airport",
@@ -9561,6 +10497,7 @@
     "Customs and Immigration in Detroit with Global Entry",
     "Dealing with travel fatigue",
     "Deck lunch at La Terrazza overlooking the port",
+    "Dinner at Il Pavone",
     "Dinner at Irish pub",
     "Dinner at Mountain Hub Gourmet restaurant",
     "Dinner at Pancrazio",
@@ -9576,11 +10513,14 @@
     "EES exit enrollment",
     "EV charging introduction (DC Fast Charger in Selfoss)",
     "Early check-in at Kviknes Hotel",
+    "Elizabeth line and Thameslink into central London",
     "Embarkation on the Silversea Silver Spirit",
     "Enjoying views from summit swing",
+    "Enrichment lecture on the geometry of the solar eclipse",
     "Evening at the UN Club beach with friends",
     "Evening drive with Siena to see a nearby waterfall",
     "Evening on the pool deck after sunset",
+    "Evening transit of the Strait of Gibraltar",
     "Evening visit to Tivoli Gardens amusement park",
     "Evening walk around downtown Oslo",
     "Evening walk around town",
@@ -9595,8 +10535,10 @@
     "Failed quest to replace lost Kindle at Elgiganten",
     "Farewell group dinner aboard at S.A.L.T.",
     "Farm visit at Efstidalur II",
+    "Feira da Ladra flea market",
     "Filling out Japan customs and immigration form online",
     "Finding EAT HAPPY sushi stall",
+    "Finding Rowan playing chess online in the lobby",
     "First formal dining-room dinner aboard",
     "Fish and chips lunch",
     "Flew home to Raleigh-Durham, with a quick Global Entry return",
@@ -9620,6 +10562,7 @@
     "Hiking down Fløyen mountain (~300m descent)",
     "Home cooking",
     "Hotel checkout and taxi to Stazione San Pietro",
+    "Hotel pool and hot tub",
     "Interior visit to the Pantheon",
     "International air travel",
     "International flight from Munich to Detroit",
@@ -9632,12 +10575,16 @@
     "Late evening walk around Balestrand",
     "Late lunch at the ship's new open-air Riviera restaurant",
     "Late morning leisure at hotel",
+    "Late-afternoon departure from the ship to beat the heat",
     "Late-night cake and people-watching at Taba Cafe",
     "Late-night visit to the Trevi Fountain",
     "Lazy day hanging around the Airbnb",
     "Learning Japanese phrases with Pimsleur",
     "Learning about Bergen's fire history",
     "Limited walking around Copenhagen",
+    "Listening to music on the shaded deck",
+    "Local lunch near the terminal",
+    "Local lunch near the waterfront",
     "London Eye",
     "Lunch at BWI Concourse A",
     "Lunch at Copenhagen Airport",
@@ -9648,27 +10595,35 @@
     "Lunch inside the La Boqueria market",
     "Lyft cancellation and Uber switch",
     "May the 4th Star Wars cosplay sighting at RDU",
+    "Mercado de San Agustín, after most of the vendors had gone",
+    "Mercat de la Boqueria before the crowds",
     "Metro ride to airport",
     "Moonrise photography over fjord",
     "Morning run to Faxi Bakery for drinks and pastries",
     "Morning shore excursion to Silves (market, archaeology museum, cathedral, and castle)",
+    "Muster station check-in",
     "Muster station safety drill in the Show Lounge",
+    "Málaga Cathedral and the Museo Picasso, seen from outside",
     "Mürren to Grütschalp hike",
     "Navigating Copenhagen public transit systems",
     "Navigating baggage tag confusion at Southwest check-in",
     "Navigating departures and Schengen-exit border control at LIS",
     "Overnight flight to Iceland",
+    "Overnight transatlantic flight",
     "Overnight transatlantic flight in Premium Select",
     "Paella lunch",
     "Paella lunch with fellow passengers",
     "Palazzo della Cancelleria courtyard and Sant'Agostino facade",
+    "Pall Mall and Golden Jubilee Bridges",
     "Panorama Trail hike (Männlichen to Kleine Scheidegg)",
     "Park walking",
+    "Passing Gibraltar",
     "Passport control and baggage claim at Keflavik",
     "People-watching at harbor fish market",
     "People-watching at the after-dinner dance party",
     "People-watching from chairs in front of hotel",
     "Petting a camel",
+    "Pharmacy run for cold and flu medication",
     "Photographing the Palacio Consistorial and Calle Mayor",
     "Photographing the sunset from the balcony and deck at sailaway",
     "Photography session at twilight",
@@ -9698,6 +10653,8 @@
     "Scenic sail-away down the river",
     "Schloss Thun castle visit",
     "Scooter rental and ride",
+    "Second trip ashore on foot with Siena",
+    "Second trip ashore with Siena and Rowan",
     "Secrets of Cartagena with Paella walking tour",
     "Seljalandsfoss waterfall stop, including the path to a secondary waterfall",
     "Seven hour layover at BWI",
@@ -9707,9 +10664,12 @@
     "Shopping for dinner shoes at Rinascente",
     "Shuttle bus to the ship pier",
     "Sightseeing in Marienplatz",
+    "Sleeping in",
     "Slow loop through the Mercato Centrale covered market",
     "Solo dinner at Atlantide during the sailaway",
     "Solo exploration of English Garden",
+    "Solo lunch at Burger King",
+    "Solo morning walk down La Rambla",
     "Solo time in historic church",
     "Spanish Steps visit",
     "Special occasion dinner",
@@ -9717,19 +10677,33 @@
     "St. Michael's Cave",
     "St. Peter's Basilica interior visit",
     "Street food festival in Geneva",
+    "Strolling and shopping on Calle Larios",
     "Strolling the City of Arts & Sciences grounds (exterior only)",
+    "Strolling the old town streets and alleys",
     "Strolling through La Dolce Vita during the live piano",
     "Sunbathing and reading on the pool deck",
+    "Sunbathing on deck",
     "Sunbathing on the top deck",
     "Swimming at Bains des Paquis",
+    "TSA PreCheck",
+    "Tapas",
+    "Terminal T to Terminal E connection in Atlanta",
+    "Terminal check-in and boarding by arrival order",
+    "The Tower of Hercules from the outside -- tickets sold out until 1:00pm",
+    "Time in Eden watching the wake",
     "Time-lapse of the Livorno sailaway from the dinner window",
     "Tiramisu and people-watching at the Pantheon piazza",
     "Tomato festival",
+    "Total solar eclipse from the top deck at sea",
     "Train connections through Switzerland",
     "Trevi Fountain and Pantheon encounters",
+    "Tube to Carnaby Street for shopping",
+    "Two-hour Segway tour of Palma old town, booked through GetYourGuide",
+    "Uber to RDU",
     "Unplanned bonus tour to Vangsnes car ferry terminus",
     "Vatican Wednesday General Audience ticket pickup at the Bronze Doors",
     "Viewing Blue Lagoon from airplane",
+    "Views over the bullring, city and port from the Gibralfaro",
     "Visited Marienplatz and Rathaus Glockenspiel",
     "Visiting Balabu Dagsturhytta (day-trip cabin)",
     "Visiting Oslo Opera House at dusk",
@@ -9738,18 +10712,27 @@
     "Visiting Voss cemetery",
     "Visiting historic church and timber buildings",
     "Waited roughly four hours at the airport with luggage before the flight",
+    "Walk along the south bank to Tower Bridge",
     "Walk from Civitavecchia station to the cruise port",
+    "Walk from Southampton Central to the Horizon terminal",
+    "Walk past St Paul's Cathedral",
     "Walk through Parc de la Grange",
+    "Walk to Waterloo Station and Leake Street Arches",
+    "Walk to Waterloo and train to Southampton",
+    "Walk up to Castell de Bellver",
     "Walked to The Sun Voyager sculpture and along the waterfront toward City Hall",
     "Walking Geneva old town",
     "Walking Lisbon's lower and hilly districts",
     "Walking Livorno's covered portico and downtown",
     "Walking about 2 miles from the cruise terminal into València",
+    "Walking and eating shore excursion of the old town",
     "Walking and people-watching around Copenhagen",
     "Walking around Munich Airport",
     "Walking in the Geneva Pride Parade",
     "Walking on Opera House marble roof",
     "Walking past Buckingham Palace",
+    "Walking the main street of Matosinhos",
+    "Walking the waterfront and the coastal trail toward The Tower of Hercules",
     "Walking the waterfront promenade back to the ship",
     "Walking to Royal Palace",
     "Walking to ferry terminal (25 minutes)",
@@ -9760,14 +10743,19 @@
     "Walking tour of medieval Bergen with Bryggens Museum",
     "Walking tour past Vittoriano, Roman Forum, and Colosseum",
     "Walking tour through Rome's historic center",
+    "Walking uphill from the port to the cathedral",
     "Walking visit through the Roman Forum and Palatine Hill",
     "Wandering Cartagena's central market on my own",
     "Wandering Las Ramblas",
     "Wandering the medina",
     "Watching Norwegian fjords from deck",
+    "Watching the kids play a game of chess",
     "Watching the ship pass through the Strait of Gibraltar and past the Rock of Gibraltar",
     "Waterfront walk to Sun Voyager sculpture",
+    "Westminster Bridge, Parliament, and Buckingham Palace",
     "Working on the travel journal at the Coffee Bar",
+    "Writing in Eden",
+    "Writing the blog in Eden, up on the ramp",
     "airport_transit",
     "citizenship_ceremony",
     "dining",
@@ -9779,7 +10767,6 @@
     "sightseeing",
     "train travel",
     "walking",
-    "{\"day\"=>-2, \"type\"=>\"planning\", \"description\"=>\"Researching cell data options for cruise\", \"location\"=>\"Planning phase\"}",
     "{\"day\"=>0, \"type\"=>\"dining\", \"description\"=>\"Dinner from Publix deli in hotel room\", \"location\"=>\"Embassy Suites\"}",
     "{\"day\"=>0, \"type\"=>\"travel\", \"description\"=>\"Flight from RDU to Fort Lauderdale\", \"duration\"=>\"flight time\"}",
     "{\"day\"=>1, \"type\"=>\"incident\", \"description\"=>\"Son rolled ankle jumping down stairs, X-rays showed no break but can't put weight on it\", \"location\"=>\"Celebrity Eclipse\"}",
@@ -9824,15 +10811,12 @@
     "{\"day\"=>3, \"type\"=>\"travel\", \"description\"=>\"Embarkation at Bayonne cruise terminal\", \"location\"=>\"Bayonne, NJ\"}",
     "{\"day\"=>4, \"type\"=>\"dining\", \"description\"=>\"Coffee at CAFÉ Mori no Terrace\", \"location\"=>\"Meiji Shrine area, Tokyo\"}",
     "{\"day\"=>4, \"type\"=>\"dining\", \"description\"=>\"Sushi dinner at restaurant near hotel\", \"location\"=>\"Asakusa, Tokyo\"}",
-    "{\"day\"=>4, \"type\"=>\"holiday_celebration\", \"description\"=>\"Christmas Day aboard ship, Santa photos in grand foyer\", \"location\"=>\"Celebrity Eclipse\"}",
     "{\"day\"=>4, \"type\"=>\"recreation\", \"description\"=>\"Kids racing around ship and playing elevator tag\", \"location\"=>\"Celebrity Eclipse\"}",
     "{\"day\"=>4, \"type\"=>\"relaxation\", \"description\"=>\"Sea day with dense fog conditions\", \"location\"=>\"Celebrity Eclipse\"}",
-    "{\"day\"=>4, \"type\"=>\"relaxation\", \"description\"=>\"Son recuperating, watching The Office\", \"location\"=>\"Stateroom\"}",
     "{\"day\"=>4, \"type\"=>\"sightseeing\", \"description\"=>\"Exploration of Shibuya shopping district\", \"location\"=>\"Shibuya, Tokyo\"}",
     "{\"day\"=>4, \"type\"=>\"sightseeing\", \"description\"=>\"Visit to Asakusa Underground Street\", \"location\"=>\"Asakusa Station, Tokyo\"}",
     "{\"day\"=>4, \"type\"=>\"sightseeing\", \"description\"=>\"Visit to Meiji Shrine and park\", \"location\"=>\"Meiji Jingu, Tokyo\"}",
     "{\"day\"=>4, \"type\"=>\"sightseeing\", \"description\"=>\"Walking across Shibuya Scramble Crossing\", \"location\"=>\"Shibuya, Tokyo\"}",
-    "{\"day\"=>4, \"type\"=>\"social\", \"description\"=>\"Wife and daughter met family from Quebec, shared lunch and attended show\", \"location\"=>\"Celebrity Eclipse\"}",
     "{\"day\"=>5, \"type\"=>\"arrival\", \"description\"=>\"Early morning arrival in Halifax with fog, watched docking maneuver from top deck\", \"time\"=>\"5:30am - 7:00am\", \"location\"=>\"Halifax Harbor\"}",
     "{\"day\"=>5, \"type\"=>\"dining\", \"description\"=>\"7-Eleven lunch including fried chicken and onigiri\", \"location\"=>\"7-Eleven, Kamakura\"}",
     "{\"day\"=>5, \"type\"=>\"dining\", \"description\"=>\"Dinner in main dining room, unusually quick service\", \"time\"=>\"Evening\", \"location\"=>\"Celebrity Eclipse\"}",
@@ -10510,7 +11494,7 @@
     {
       "title": "European Vacation 2007",
       "date": "2007-05-07",
-      "subtitle": "A 17-day cruise with Sherri from Southampton to Barcelona — France, Belgium, the Netherlands, Spain, Portugal, Gibraltar, and Morocco.",
+      "subtitle": "A 14-night cruise with Sherri, plus two nights in Barcelona and one in London -- a trip spanning France, England, Belgium, the Netherlands, Spain, Portugal, Gibraltar, and Morocco.",
       "categories": "travel rollup",
       "tags": null,
       "rollup_key": null,
@@ -15088,32 +16072,6 @@
       ]
     },
     {
-      "title": "Celebrity Cruise Cell Data Situation",
-      "date": "2024-12-19",
-      "subtitle": "Where I figure out how to not spend $2,000 on roaming data while on a cruise",
-      "categories": "travel caribbean",
-      "tags": [
-        "celebrity",
-        "cruise",
-        "dec2024"
-      ],
-      "rollup_key": "2024wintercaribbean",
-      "day_type": "planning",
-      "trip_stage": "pre-trip",
-      "trip_type": "cruise",
-      "activities": [
-        {
-          "day": -2,
-          "type": "planning",
-          "description": "Researching cell data options for cruise",
-          "location": "Planning phase"
-        }
-      ],
-      "notable_mentions": [
-        "AT&T Unlimited Starter SL plan"
-      ]
-    },
-    {
       "title": "Celebrity Cruise Day 0",
       "date": "2024-12-21",
       "subtitle": "Heading to Fort Lauderdale",
@@ -15462,78 +16420,6 @@
         "Skipped the Christmas Eve Party With Party Band Next Stage for an early night"
       ],
       "weather": "Gray most of the day, temperatures in the high 70s and humid",
-      "companions": [
-        "wife",
-        "son",
-        "daughter"
-      ]
-    },
-    {
-      "title": "Celebrity Cruise Day 4",
-      "date": "2024-12-25",
-      "subtitle": "On the way to Aruba",
-      "categories": "travel caribbean",
-      "tags": [
-        "celebrity",
-        "cruise",
-        "dec2024"
-      ],
-      "rollup_key": "2024wintercaribbean",
-      "day_number": 4,
-      "day_type": "sea_day",
-      "locations": [
-        {
-          "name": "Caribbean Sea",
-          "type": "sea",
-          "country": "International waters",
-          "notes": "Christmas Day at sea between Grand Cayman and Aruba"
-        }
-      ],
-      "days_at_location": {
-        "Celebrity Eclipse": 1
-      },
-      "venues": [
-        {
-          "name": "Celebrity Eclipse",
-          "type": "cruise_ship",
-          "location": "At sea between Grand Cayman and Aruba"
-        }
-      ],
-      "transport": [
-        {
-          "type": "cruise_ship",
-          "vessel": "Celebrity Eclipse",
-          "from": "Grand Cayman",
-          "to": "Aruba"
-        }
-      ],
-      "activities": [
-        {
-          "day": 4,
-          "type": "holiday_celebration",
-          "description": "Christmas Day aboard ship, Santa photos in grand foyer",
-          "location": "Celebrity Eclipse"
-        },
-        {
-          "day": 4,
-          "type": "relaxation",
-          "description": "Son recuperating, watching The Office",
-          "location": "Stateroom"
-        },
-        {
-          "day": 4,
-          "type": "social",
-          "description": "Wife and daughter met family from Quebec, shared lunch and attended show",
-          "location": "Celebrity Eclipse"
-        }
-      ],
-      "notable_experiences": [
-        "Santa handing out presents and taking photos in the grand foyer",
-        "Families adapting Christmas traditions aboard, including a dedicated suitcase of wrapped presents",
-        "Wife and daughter befriended an extended family from Quebec, sharing lunch and a show",
-        "Son able to put some weight on his injured foot; binging the US version of The Office",
-        "Found a peaceful late-afternoon writing spot at the aft of the ship"
-      ],
       "companions": [
         "wife",
         "son",
@@ -19829,6 +20715,1054 @@
       "transport": [
         "transatlantic flights (Delta)",
         "Silversea Silver Spirit cruise"
+      ]
+    },
+    {
+      "title": "England and Iberia Day 1",
+      "date": "2026-07-29",
+      "subtitle": "A delay, a tight connection, and a red-eye",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "outbound",
+      "locations": [
+        {
+          "name": "Holly Springs",
+          "type": "town",
+          "country": "United States"
+        },
+        {
+          "name": "Raleigh-Durham International Airport",
+          "type": "airport",
+          "country": "United States"
+        },
+        {
+          "name": "Hartsfield-Jackson Atlanta International Airport",
+          "type": "airport",
+          "country": "United States"
+        }
+      ],
+      "transport": [
+        {
+          "type": "rideshare",
+          "provider": "Uber",
+          "route": "Holly Springs → RDU"
+        },
+        {
+          "type": "flight",
+          "carrier": "Delta",
+          "route": "RDU → ATL",
+          "notes": "Delayed to 8:45pm, at least 90 minutes late"
+        },
+        {
+          "type": "flight",
+          "carrier": "Delta",
+          "route": "ATL → LHR",
+          "overnight": true,
+          "notes": "Main cabin; connection made with about 15 minutes to spare"
+        }
+      ],
+      "activities": [
+        "Uber to RDU",
+        "TSA PreCheck",
+        "Terminal T to Terminal E connection in Atlanta",
+        "Overnight transatlantic flight"
+      ],
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
+      "title": "England and Iberia Day 2",
+      "date": "2026-07-30",
+      "subtitle": "Heathrow to Bankside, and 20,000 steps on no sleep",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "pre-cruise",
+      "locations": [
+        {
+          "name": "London Heathrow Airport",
+          "type": "airport",
+          "country": "England"
+        },
+        {
+          "name": "Farringdon",
+          "type": "train_station",
+          "country": "England"
+        },
+        {
+          "name": "London",
+          "type": "city",
+          "country": "England"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Hilton London Bankside",
+          "location": "London",
+          "night": "1 of 3",
+          "notes": "Books two connecting rooms as a single reservation, so connecting rooms are guaranteed rather than requested"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Leake Street Arches (Graffiti Tunnel)",
+          "type": "attraction",
+          "location": "Waterloo, London",
+          "url": "https://www.leakestreetarches.london/"
+        },
+        {
+          "name": "Westminster Bridge",
+          "type": "landmark",
+          "location": "London"
+        },
+        {
+          "name": "Buckingham Palace",
+          "type": "landmark",
+          "location": "London"
+        },
+        {
+          "name": "Between the Bridges",
+          "type": "food_and_drink",
+          "location": "South Bank, London",
+          "url": "https://www.betweenthebridges.co.uk/"
+        }
+      ],
+      "transport": [
+        {
+          "type": "train",
+          "provider": "Elizabeth line",
+          "route": "Heathrow → Farringdon",
+          "duration": "~30 minutes"
+        },
+        {
+          "type": "train",
+          "provider": "Thameslink",
+          "route": "Farringdon → Bankside area",
+          "notes": "Signage at Farringdon drops off right where you need it most"
+        }
+      ],
+      "activities": [
+        "Automated passport gates at Heathrow",
+        "Elizabeth line and Thameslink into central London",
+        "Hotel pool and hot tub",
+        "Walk to Waterloo Station and Leake Street Arches",
+        "Westminster Bridge, Parliament, and Buckingham Palace",
+        "Pall Mall and Golden Jubilee Bridges"
+      ],
+      "dining": [
+        {
+          "venue": "Between the Bridges",
+          "meal": "dinner",
+          "location": "South Bank, London",
+          "dishes": "Hot dog and chips, nutella pancakes"
+        }
+      ],
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
+      "title": "England and Iberia Day 3",
+      "date": "2026-07-31",
+      "subtitle": "Coffee, Carnaby Street, and the Tube",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "pre-cruise",
+      "locations": [
+        {
+          "name": "London",
+          "type": "city",
+          "country": "England"
+        },
+        {
+          "name": "Southwark",
+          "type": "neighborhood",
+          "country": "England"
+        },
+        {
+          "name": "Carnaby Street",
+          "type": "shopping_district",
+          "country": "England"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Hilton London Bankside",
+          "location": "London",
+          "night": "2 of 3"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Black Sheep Coffee",
+          "type": "cafe",
+          "location": "Southwark, London",
+          "url": "https://blacksheepcoffee.co.uk/blogs/locations/southwark",
+          "notes": "Four pastries and an Americano for about £14"
+        },
+        {
+          "name": "The Table Southwark",
+          "type": "cafe",
+          "location": "Southwark, London",
+          "url": "https://thetablecafe.com/southwark/",
+          "notes": "Considered for brunch, roughly five times the cost"
+        },
+        {
+          "name": "St Paul's Cathedral",
+          "type": "cathedral",
+          "location": "London",
+          "notes": "Free for worship, roughly £60 for a family of four as sightseers"
+        },
+        {
+          "name": "Tower Bridge",
+          "type": "landmark",
+          "location": "London"
+        },
+        {
+          "name": "Pizza Express",
+          "type": "restaurant",
+          "location": "London"
+        }
+      ],
+      "transport": [
+        {
+          "type": "subway",
+          "provider": "London Underground",
+          "route": "Southwark → Carnaby Street area"
+        },
+        {
+          "type": "subway",
+          "provider": "London Underground",
+          "route": "Carnaby Street area → St Paul's"
+        }
+      ],
+      "activities": [
+        "Brunch in Southwark",
+        "Tube to Carnaby Street for shopping",
+        "Walk past St Paul's Cathedral",
+        "Walk along the south bank to Tower Bridge"
+      ],
+      "dining": [
+        {
+          "venue": "Black Sheep Coffee",
+          "meal": "brunch",
+          "location": "Southwark, London",
+          "dishes": "Four pastries and an Americano"
+        },
+        {
+          "venue": "Pizza Express",
+          "meal": "early dinner",
+          "location": "London",
+          "dishes": "Caprese salad"
+        }
+      ],
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
+      "title": "England and Iberia Day 4",
+      "date": "2026-08-01",
+      "subtitle": "Waterloo to Southampton, and the walk to the terminal",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "embarkation",
+      "locations": [
+        {
+          "name": "London",
+          "type": "city",
+          "country": "England"
+        },
+        {
+          "name": "London Waterloo",
+          "type": "train_station",
+          "country": "England"
+        },
+        {
+          "name": "Southampton",
+          "type": "port_city",
+          "country": "England"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Hilton London Bankside",
+          "location": "London",
+          "night": "3 of 3",
+          "checkout": true
+        },
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "location": "Southampton (embarkation)",
+          "night": "1 of 14"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Southampton Central Station",
+          "type": "train_station",
+          "location": "Southampton"
+        },
+        {
+          "name": "Horizon Cruise Terminal (Terminal 102)",
+          "type": "cruise_terminal",
+          "location": "Southampton"
+        },
+        {
+          "name": "Dock Gate 10",
+          "type": "port_gate",
+          "location": "Southampton"
+        }
+      ],
+      "transport": [
+        {
+          "type": "walk",
+          "route": "Hilton London Bankside → London Waterloo",
+          "departure_time": "7:50am"
+        },
+        {
+          "type": "train",
+          "provider": "South Western Railway",
+          "route": "London Waterloo → Southampton Central",
+          "departure_time": "8:35am",
+          "notes": "Platform assigned from the 12-29 block a few minutes before departure; no dedicated luggage storage for roller bags"
+        },
+        {
+          "type": "walk",
+          "route": "Southampton Central Station → Horizon Cruise Terminal",
+          "duration": "~30 minutes"
+        },
+        {
+          "type": "cruise",
+          "line": "Celebrity Cruises",
+          "vessel": "Celebrity Apex",
+          "route": "Southampton → Atlantic",
+          "departure_time": "3:00pm"
+        }
+      ],
+      "activities": [
+        "Walk to Waterloo and train to Southampton",
+        "Walk from Southampton Central to the Horizon terminal",
+        "Terminal check-in and boarding by arrival order",
+        "Muster station check-in",
+        "Buffet lunch"
+      ],
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
+      "title": "Walking from Southampton Central Station to the Cruise Terminal",
+      "date": "2026-08-01",
+      "subtitle": "Step-by-step directions to the Horizon terminal (berth 102) at the Port of Southampton",
+      "categories": "travel england",
+      "tags": null,
+      "rollup_key": null,
+      "locations": [
+        {
+          "name": "Southampton",
+          "type": "port_city",
+          "country": "England"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Southampton Central Station",
+          "type": "train_station",
+          "location": "Southampton"
+        },
+        {
+          "name": "Horizon Cruise Terminal (Terminal 102)",
+          "type": "cruise_terminal",
+          "location": "Southampton"
+        },
+        {
+          "name": "Dock Gate 10",
+          "type": "port_gate",
+          "location": "Southampton"
+        }
+      ],
+      "transport": [
+        {
+          "type": "walk",
+          "route": "Southampton Central Station → Horizon Cruise Terminal",
+          "duration": "~30 minutes"
+        }
+      ]
+    },
+    {
+      "title": "England and Iberia Day 5",
+      "date": "2026-08-02",
+      "subtitle": "A sea day and the last of the jet lag",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "Atlantic Ocean",
+          "type": "sea",
+          "country": "International waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "2 of 14"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Oceanview Cafe",
+          "type": "buffet",
+          "location": "Ship",
+          "notes": "High-tops at the back of the buffet"
+        },
+        {
+          "name": "Eden",
+          "type": "lounge",
+          "location": "Ship",
+          "notes": "Aft-facing lounge with a view; good spot for writing"
+        }
+      ],
+      "activities": [
+        "Sleeping in",
+        "Sunbathing on deck",
+        "Writing in Eden"
+      ],
+      "dining": [
+        {
+          "venue": "Buffet",
+          "meal": "breakfast",
+          "notes": "Light breakfast at the high-tops in the back"
+        },
+        {
+          "venue": "Buffet",
+          "meal": "lunch"
+        }
+      ],
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
+      "title": "England and Iberia Day 6",
+      "date": "2026-08-03",
+      "subtitle": "A gray day in Matosinhos",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "Leixões",
+          "type": "port",
+          "country": "Portugal"
+        },
+        {
+          "name": "Matosinhos",
+          "type": "town",
+          "country": "Portugal"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "3 of 14"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise",
+          "line": "Celebrity Cruises",
+          "vessel": "Celebrity Apex",
+          "route": "Port call at Porto (Leixões), Portugal",
+          "arrival_time": "10:30am",
+          "departure_time": "7:00pm"
+        }
+      ],
+      "activities": [
+        "Walking the main street of Matosinhos",
+        "Local lunch near the terminal"
+      ],
+      "dining": [
+        {
+          "venue": "Restaurant near the cruise terminal entrance",
+          "meal": "lunch",
+          "location": "Matosinhos",
+          "notes": "Out of the cured ham on the starter menu; pricing jumped from about €16 to €112 with little in between"
+        }
+      ],
+      "weather": "Gray with intermittent misting rain",
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
+      "title": "England and Iberia Day 7",
+      "date": "2026-08-04",
+      "subtitle": "Uphill in Lisbon, and a flea market find",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "Lisbon",
+          "type": "city",
+          "country": "Portugal"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "4 of 14"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Lisbon Cathedral (Sé de Lisboa)",
+          "type": "cathedral",
+          "location": "Lisbon"
+        },
+        {
+          "name": "Feira da Ladra",
+          "type": "flea_market",
+          "location": "Campo de Santa Clara, Lisbon",
+          "notes": "Open-air market, Tuesdays and Saturdays"
+        },
+        {
+          "name": "Normandie",
+          "type": "restaurant",
+          "location": "Ship",
+          "notes": "Scallops in a cheese sauce"
+        }
+      ],
+      "activities": [
+        "Walking uphill from the port to the cathedral",
+        "Feira da Ladra flea market",
+        "Local lunch near the waterfront"
+      ],
+      "dining": [
+        {
+          "venue": "Restaurant a few blocks from the water",
+          "meal": "lunch",
+          "location": "Lisbon",
+          "dishes": "Sausage and cheese platter, fish soup"
+        },
+        {
+          "venue": "Normandie",
+          "meal": "dinner",
+          "location": "Ship",
+          "dishes": "Scallops in cheese sauce"
+        }
+      ],
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
+      "title": "England and Iberia Day 8",
+      "date": "2026-08-05",
+      "subtitle": "Gibraltar off the rail, and a slow sea day",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "Strait of Gibraltar",
+          "type": "strait",
+          "country": "International waters"
+        },
+        {
+          "name": "Mediterranean Sea",
+          "type": "sea",
+          "country": "International waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "5 of 14"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Eden",
+          "type": "lounge",
+          "location": "Ship"
+        }
+      ],
+      "activities": [
+        "Passing Gibraltar",
+        "Listening to music on the shaded deck",
+        "Time in Eden watching the wake"
+      ],
+      "dining": [
+        {
+          "venue": "Buffet",
+          "meal": "dinner"
+        }
+      ],
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
+      "title": "England and Iberia Day 9",
+      "date": "2026-08-06",
+      "subtitle": "A hot castle, a lucky taxi, and Segways in Palma",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "Palma de Mallorca",
+          "type": "city",
+          "country": "Spain"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "6 of 14"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Castell de Bellver",
+          "type": "castle",
+          "location": "Palma de Mallorca",
+          "notes": "Three floors, no water fountain anywhere inside; water available for purchase outside at fair prices"
+        },
+        {
+          "name": "Palma Old Town",
+          "type": "neighborhood",
+          "location": "Palma de Mallorca"
+        }
+      ],
+      "transport": [
+        {
+          "type": "walk",
+          "route": "Ship → Castell de Bellver"
+        },
+        {
+          "type": "taxi",
+          "route": "Base of the castle hill → Old Town",
+          "fare_eur": 8,
+          "duration": "~15 minutes",
+          "notes": "Replaced a 50-minute walk; the recommended Palma taxi app refused both a credit card and a debit card, so hailing in person was the only option"
+        }
+      ],
+      "activities": [
+        "Walk up to Castell de Bellver",
+        "Two-hour Segway tour of Palma old town, booked through GetYourGuide",
+        "Tapas"
+      ],
+      "dining": [
+        {
+          "venue": "Tapas restaurant",
+          "meal": "late lunch",
+          "location": "Palma de Mallorca",
+          "notes": "Middling"
+        }
+      ],
+      "notable_experiences": [
+        "First time booking an excursion through GetYourGuide; the Segway tour covered far more ground than walking would have in the midday heat"
+      ],
+      "challenges": [
+        "No water available inside Castell de Bellver",
+        "Palma taxi app refused both a credit card and a debit card, making it impossible to summon a cab from the castle"
+      ],
+      "weather": "Oppressive heat",
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
+      "title": "England and Iberia Day 10",
+      "date": "2026-08-07",
+      "subtitle": "Barcelona on half a tank",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "Barcelona",
+          "type": "city",
+          "country": "Spain"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "7 of 14"
+        }
+      ],
+      "venues": [
+        {
+          "name": "La Rambla",
+          "type": "street",
+          "location": "Barcelona",
+          "notes": "Significant construction underway along much of it"
+        },
+        {
+          "name": "Mercat de la Boqueria",
+          "type": "market",
+          "location": "Barcelona"
+        }
+      ],
+      "activities": [
+        "Solo morning walk down La Rambla",
+        "Pharmacy run for cold and flu medication",
+        "Mercat de la Boqueria before the crowds",
+        "Breakfast"
+      ],
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
+      "title": "England and Iberia Day 11",
+      "date": "2026-08-08",
+      "subtitle": "Waiting out the heat in Ibiza",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "Ibiza",
+          "type": "island",
+          "country": "Spain"
+        },
+        {
+          "name": "Ibiza Old Town (Dalt Vila)",
+          "type": "neighborhood",
+          "country": "Spain"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "8 of 14"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Il Pavone",
+          "type": "restaurant",
+          "location": "Ibiza Old Town",
+          "url": "https://sites.google.com/view/ilpavonerestaurante"
+        }
+      ],
+      "transport": [
+        {
+          "type": "shuttle",
+          "route": "Cruise port → outskirts of Ibiza Old Town"
+        }
+      ],
+      "activities": [
+        "Late-afternoon departure from the ship to beat the heat",
+        "Strolling the old town streets and alleys",
+        "Dinner at Il Pavone"
+      ],
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
+      "title": "England and Iberia Day 13",
+      "date": "2026-08-10",
+      "subtitle": "My favorite stop of the trip",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "Málaga",
+          "type": "city",
+          "country": "Spain",
+          "notes": "Alongside 07:00, all aboard for a 17:00 departure"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "10 of 14"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Málaga Cathedral",
+          "type": "cathedral",
+          "location": "Málaga",
+          "url": "https://malagacatedral.com/cultural-visit/"
+        },
+        {
+          "name": "Museo Picasso Málaga",
+          "type": "museum",
+          "location": "Málaga",
+          "url": "https://www.museopicassomalaga.org/en"
+        },
+        {
+          "name": "Castillo de Gibralfaro",
+          "type": "castle",
+          "location": "Málaga",
+          "url": "https://alcazabaygibralfaro.malaga.eu/en/"
+        },
+        {
+          "name": "Calle Larios",
+          "type": "street",
+          "location": "Málaga"
+        },
+        {
+          "name": "Centre Pompidou Málaga",
+          "type": "museum",
+          "location": "Málaga",
+          "url": "https://www.centrepompidou-malaga.eu/en/"
+        }
+      ],
+      "transport": [
+        {
+          "type": "walk",
+          "route": "Guided walking and eating excursion through the old town and up to the Gibralfaro",
+          "notes": "9:30am to 12:30pm, Sherri and I only"
+        },
+        {
+          "type": "walk",
+          "route": "Ship → Calle Larios and back",
+          "duration": "~20 minutes each way",
+          "notes": "Most of it along the harbor"
+        }
+      ],
+      "activities": [
+        "Walking and eating shore excursion of the old town",
+        "Málaga Cathedral and the Museo Picasso, seen from outside",
+        "Views over the bullring, city and port from the Gibralfaro",
+        "Second trip ashore on foot with Siena",
+        "Strolling and shopping on Calle Larios",
+        "Centre Pompidou's glass cube on the walk back",
+        "Evening transit of the Strait of Gibraltar"
+      ],
+      "dining": [
+        {
+          "venue": "Sushita Chinitas",
+          "meal": "lunch",
+          "location": "Málaga",
+          "url": "https://www.sushita.com/sushita-chinitas/",
+          "notes": "Advertised as a sushi restaurant; blue and white from floor to ceiling"
+        }
+      ],
+      "notable_experiences": [
+        "Málaga was my favorite stop of the trip -- scenery, clean streets, friendly people, and a mainland base you could use to reach other places",
+        "Second transit of the Strait of Gibraltar this cruise, this time in good evening light"
+      ],
+      "companions": [
+        "Sherri",
+        "Siena"
+      ]
+    },
+    {
+      "title": "England and Iberia Day 14",
+      "date": "2026-08-11",
+      "subtitle": "Sea day stuff, and a primer for tomorrow's eclipse",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "Strait of Gibraltar",
+          "type": "strait",
+          "country": "International waters",
+          "notes": "Westbound this time, after passing eastbound on Day 8"
+        },
+        {
+          "name": "Atlantic Ocean",
+          "type": "ocean",
+          "country": "International waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "11 of 14"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Theatre",
+          "type": "theater",
+          "location": "Ship",
+          "notes": "Celebrity enrichment lecture ahead of the eclipse"
+        },
+        {
+          "name": "Eden",
+          "type": "lounge",
+          "location": "Ship",
+          "notes": "Up on the ramp, one of my favorite spots for working"
+        }
+      ],
+      "activities": [
+        "Enrichment lecture on the geometry of the solar eclipse",
+        "Battleship with Siena from the Activities team's board and card games",
+        "Watching the kids play a game of chess",
+        "Writing the blog in Eden, up on the ramp",
+        "Finding Rowan playing chess online in the lobby"
+      ],
+      "weather": "Clear, and a bit cooler in the evening",
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
+      "title": "England and Iberia Day 15",
+      "date": "2026-08-12",
+      "subtitle": "La Coruña, Spain AND AN ECLIPSE!",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "La Coruña",
+          "type": "city",
+          "country": "Spain",
+          "notes": "Alongside 08:00, all aboard for a 16:00 departure"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "12 of 14"
+        }
+      ],
+      "venues": [
+        {
+          "name": "The Tower of Hercules",
+          "type": "lighthouse",
+          "location": "La Coruña",
+          "url": "https://www.coruna.gal/the-tower/en",
+          "notes": "Seen from the outside -- tickets were sold out until 1:00pm"
+        },
+        {
+          "name": "Mercado de San Agustín",
+          "type": "market",
+          "location": "La Coruña",
+          "notes": "Arrived after most of the vendors had packed up"
+        }
+      ],
+      "transport": [
+        {
+          "type": "walk",
+          "route": "Ship → the Mariña waterfront → Monte Alto → The Tower of Hercules and back",
+          "notes": "Off the ship early with Sherri, then a second trip ashore to bring the kids into town"
+        }
+      ],
+      "activities": [
+        "Walking the waterfront and the coastal trail toward The Tower of Hercules",
+        "Breakfast at El Chef Urbano in Monte Alto",
+        "The Tower of Hercules from the outside -- tickets sold out until 1:00pm",
+        "Second trip ashore with Siena and Rowan",
+        "Mercado de San Agustín, after most of the vendors had gone",
+        "Solo lunch at Burger King",
+        "Total solar eclipse from the top deck at sea"
+      ],
+      "dining": [
+        {
+          "venue": "El Chef Urbano",
+          "meal": "breakfast",
+          "location": "La Coruña",
+          "notes": "On Avenida de Navarra up in Monte Alto -- ham on toast, with stuffed animals around the room"
+        },
+        {
+          "venue": "Burger King",
+          "meal": "lunch",
+          "location": "La Coruña",
+          "notes": "Solo visit, sitting under the sign on the granite facade"
+        }
+      ],
+      "notable_experiences": [
+        "Totality seen from the ship -- the deck lights came up as if it were nighttime and the Captain hit the horn",
+        "The top deck was far less crowded than expected, with room to watch the partial eclipse from aft before the ship turned"
+      ],
+      "weather": "Overcast through the morning, bright sun by midday, and broken cloud that never fully cleared for the eclipse",
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
       ]
     }
   ]
