@@ -71,11 +71,11 @@ trip_stage: port_call
 - **Start of day:** Málaga, Spain
 - **End of day:** At sea
 
-We docked in Málaga at 07:00 with all aboard at 17:00 -- a long day in port, and after Ibiza we were glad to have the morning rather than waiting out the afternoon heat. I'd booked just Sherri and me for a walking and eating shore excursion from 9:30am to 12:30pm.
+Welcome to Málaga, Spain!
+
+We docked in Málaga at 07:00 with all aboard at 17:00 -- a long day in port, and after Ibiza we were glad to have the morning rather than waiting out the afternoon heat. I'd booked just Sherri and me for a walking and eating shore excursion from 9:30am to 12:30pm. Did we beat the heat? Sort of! 
 
 <img src="/assets/20260810-malaga-waterfront-dawn.jpg" alt="The Málaga waterfront seen from high on the ship in early morning light. A long concrete quay and a palm-lined promenade run across the frame toward the white La Farola lighthouse, with the curve of La Malagueta beach behind and rows of apartment blocks along the seafront. Dry brown hills rise beyond the city under a pale sky washed gold near the horizon, and a couple of sailboats lie at anchor on flat water at the right." width="100%" />
-
-
 
 <img src="/assets/20260810-malaga-los-mellizos-street.jpg" alt="Sherri in a blue and white floral top and glasses walks along a narrow city street in shade, a black backpack over one shoulder. To the right, cream awnings lettered LOS MELLIZOS shade a row of pavement tables set with wine glasses and bread baskets, with a round yellow sign for the restaurant mounted on the wall above. The pavement is laid in black and white chevron marble, and tall ochre and cream apartment buildings with wrought-iron balconies rise on both sides under a narrow strip of bright sky." width="100%" />
 
