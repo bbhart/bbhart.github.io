@@ -150,7 +150,24 @@
   {% if page.activities %}
   <!-- Activities Metadata -->
   {% for activity in page.activities %}
-  <meta name="activity" content="{{ activity.type }}: {{ activity.name }}">
+  {% comment %}
+    activities: comes in two shapes. Older trips (Iceland 2023, Switzerland
+    2024/2025) use hashes with type/name; newer ones use plain strings. On a
+    string, activity.name is nil, which is how we tell them apart -- without
+    this the string posts emitted an empty `content=": "` for every entry.
+  {% endcomment %}
+  {% if activity.name %}
+    {% if activity.type %}
+      {% assign activity_meta = activity.type | append: ": " | append: activity.name %}
+    {% else %}
+      {% assign activity_meta = activity.name %}
+    {% endif %}
+  {% else %}
+    {% assign activity_meta = activity %}
+  {% endif %}
+  {% if activity_meta != blank %}
+  <meta name="activity" content="{{ activity_meta | escape }}">
+  {% endif %}
   {% endfor %}
   {% endif %}
 
