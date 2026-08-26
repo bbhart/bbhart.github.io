@@ -123,9 +123,9 @@ Back onboard and sailing away, we spotted the Tower again.
 
 ## Total solar eclipse
 
-Funny story, we didn't even know this was an "eclipse cruise" until two days after we booked the cruise. We waited too long to book and so by early June when we sat down to do it, there weren't a lot of options. This one fit the bill perfectly: 14 nights (to make the long travel worth it), Celebrity (a brand we know and like), interesting ports, and our preferred type of stateroom. Only once I started to look at the itinerary more closely did I make the realization. And then I started to get excited. What a bonus!
+Funny story, we didn't even know this was an "eclipse cruise" until two days after we booked the cruise. We waited too long to book, and so by early June, when we sat down to do it, there weren't a lot of options. This one fit the bill perfectly: 14 nights (to make the long travel worth it), Celebrity (a brand we know and like), interesting ports, and our preferred type of stateroom. Only once I started to look at the itinerary more closely did I make the realization. And then I started to get excited. What a bonus!
 
-Onboard, as you can see yesterday, there was an informational lecture on what eclipses are and what to expect for this one. The staff made preparations for how to position the ship, and how to communicate that. The ship provided eclipse glasses for everyone. We were ready!
+Onboard, as you saw yesterday, there was an informational lecture on what eclipses are and what to expect for this one. The staff made preparations for how to position the ship, and how to communicate that. The ship provided eclipse glasses for everyone. We were ready!
 
 We had a sit-down meal at one of the restaurants around 6:30, securing a seat by the window on the port side[^2], mostly by luck. As we ate and looked out the window, we formed the idea this might be a good place to watch the eclipse. We didn't know how crowded the top decks would be, and here was a front-row seat... with drink and dessert service! 
 
