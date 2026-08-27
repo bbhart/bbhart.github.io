@@ -3,7 +3,7 @@ layout: post
 title: England and Iberia Day 12
 subtitle: Sea day
 date:  2026-08-09
-published: false
+published: true
 categories: travel england portugal spain
 rollup_key: 2026iberia
 tags: [july2026]

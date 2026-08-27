@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T19:30:51Z",
-  "total_posts": 146,
+  "generated_at": "2026-08-27T02:19:32Z",
+  "total_posts": 150,
   "trips": [
     {
       "rollup_key": "2007eu",
@@ -9961,6 +9961,45 @@
           ]
         },
         {
+          "title": "England and Iberia Day 12",
+          "date": "2026-08-09",
+          "subtitle": "Sea day",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "Balearic Sea",
+              "type": "sea",
+              "country": "International waters"
+            },
+            {
+              "name": "Alborán Sea",
+              "type": "sea",
+              "country": "International waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "9 of 14"
+            }
+          ],
+          "activities": [
+            "Working on the blog in The Club lounge",
+            "Time in the spa binge-watching Widow's Bay"
+          ],
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
+        },
+        {
           "title": "England and Iberia Day 13",
           "date": "2026-08-10",
           "subtitle": "My favorite stop of the trip",
@@ -10194,6 +10233,215 @@
             "Siena",
             "Rowan"
           ]
+        },
+        {
+          "title": "England and Iberia Day 16",
+          "date": "2026-08-13",
+          "subtitle": "Where we visit fast food restaurants in Bilbao",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "Bilbao",
+              "type": "city",
+              "country": "Spain",
+              "notes": "Alongside 09:00, all aboard for a 17:00 departure"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "13 of 14"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Guggenheim Museum Bilbao",
+              "type": "museum",
+              "location": "Bilbao",
+              "url": "https://www.guggenheim-bilbao.eus/en",
+              "notes": "Seen from the outside only -- we didn't go in"
+            },
+            {
+              "name": "Zubizuri",
+              "type": "bridge",
+              "location": "Bilbao",
+              "notes": "The pedestrian bridge we crossed to the other side of the river"
+            },
+            {
+              "name": "Getxo breakwater lighthouse",
+              "type": "lighthouse",
+              "location": "Getxo",
+              "notes": "Faro del Rompeolas, passed on the way out of the Abra"
+            }
+          ],
+          "transport": [
+            {
+              "type": "shuttle",
+              "route": "Cruise port → Bilbao and back",
+              "duration": "~20 minutes each way",
+              "notes": "Dropped off and picked up behind the Guggenheim"
+            }
+          ],
+          "activities": [
+            "Shuttle from the cruise port into Bilbao",
+            "The Guggenheim Museum Bilbao from the outside",
+            "Walking the river past the rope-haulers sculpture",
+            "Crossing the Zubizuri footbridge",
+            "A failed attempt at El Salón de Mi Casa, a cat café that never answered the bell",
+            "Lunch split between McDonald's and Taco Bell",
+            "Sailaway past the Getxo breakwater lighthouse"
+          ],
+          "dining": [
+            {
+              "venue": "McDonald's",
+              "meal": "lunch",
+              "location": "Bilbao",
+              "notes": "For one child"
+            },
+            {
+              "venue": "Taco Bell",
+              "meal": "lunch",
+              "location": "Bilbao",
+              "notes": "For the other -- the fastest WiFi in any fast food restaurant anywhere, good enough to run backups on"
+            }
+          ],
+          "notable_experiences": [
+            "First return to Bilbao in 19 years, since the 2007 call",
+            "The breakwater was packed with people waving the ship off in 2007 and nearly empty in 2026",
+            "Explora III alongside again, a day after sharing a berth in La Coruña, and only 13 days old",
+            "Travel burnout setting in near the end of the cruise -- we could have done more in Bilbao"
+          ],
+          "weather": "Clear and cloudless all day",
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
+        },
+        {
+          "title": "England and Iberia Day 17",
+          "date": "2026-08-14",
+          "subtitle": "The final day, somewhere in the English Channel",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "Bay of Biscay",
+              "type": "bay",
+              "country": "International waters"
+            },
+            {
+              "name": "English Channel",
+              "type": "channel",
+              "country": "International waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "14 of 14"
+            }
+          ],
+          "activities": [
+            "Final full sea day of the cruise",
+            "Sunset watched from the stateroom window",
+            "Packing up on the last evening"
+          ],
+          "notable_experiences": [
+            "Adjoining staterooms, Rowan and Brian in one and Sherri and Siena in the other",
+            "The connecting doors between the rooms couldn't be propped open, which made them of marginal use"
+          ],
+          "weather": "Clear in the evening, with thin high cloud at sunset",
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
+        },
+        {
+          "title": "England and Iberia Day 18",
+          "date": "2026-08-15",
+          "subtitle": "Homeward bound",
+          "categories": "travel england portugal spain",
+          "tags": [
+            "july2026"
+          ],
+          "rollup_key": "2026iberia",
+          "trip_stage": "disembarkation",
+          "locations": [
+            {
+              "name": "Southampton",
+              "type": "city",
+              "country": "England",
+              "notes": "Alongside 06:30 for disembarkation"
+            }
+          ],
+          "transport": [
+            {
+              "type": "car",
+              "provider": "Gunwharf Executive Travel",
+              "route": "Southampton → Hatton Cross Underground Station",
+              "notes": "Booked as a private car to Terminal 3, then diverted after an alert that a water main break had closed T3 to car traffic"
+            },
+            {
+              "type": "underground",
+              "route": "Hatton Cross → Heathrow Terminals 2 and 3",
+              "notes": "One stop on the Piccadilly line, which avoided Heathrow road traffic altogether"
+            },
+            {
+              "type": "flight",
+              "carrier": "Delta",
+              "route": "LHR → ATL",
+              "notes": "Scheduled 1:25pm, a little delayed, with some time made up in the air"
+            },
+            {
+              "type": "flight",
+              "carrier": "Delta",
+              "route": "ATL → RDU",
+              "notes": "Departed gate A1, about as far from Terminal E as you can get"
+            },
+            {
+              "type": "rideshare",
+              "provider": "Uber",
+              "route": "RDU → home"
+            }
+          ],
+          "activities": [
+            "Walk-off disembarkation at Southampton",
+            "Private car from Southampton toward Heathrow",
+            "Switching to the Underground at Hatton Cross after Terminal 3 closed to car traffic",
+            "Breakfast and coffee in the Centurion Lounge",
+            "Flying Heathrow to Atlanta, then connecting home to Raleigh-Durham"
+          ],
+          "dining": [
+            {
+              "venue": "The Centurion Lounge",
+              "meal": "breakfast",
+              "location": "Heathrow Terminal 3",
+              "notes": "Breakfast and coffee with Sherri while we waited out the long layover"
+            }
+          ],
+          "notable_experiences": [
+            "Discovering the Celebrity app could control the stateroom, in the final hour of a 14 day cruise",
+            "A water main break closed Terminal 3 to car traffic mid-transfer, so we went in via Hatton Cross instead",
+            "Delta's new process for international connections at Atlanta -- no bag claim and recheck, and staff all along the walk to immigration"
+          ],
+          "companions": [
+            "Sherri",
+            "Siena",
+            "Rowan"
+          ]
         }
       ]
     }
@@ -10221,6 +10469,7 @@
     "Barcelona",
     "Barcelona, Spain",
     "Baulan",
+    "Bay of Biscay",
     "Bayonne",
     "Bayonne, New Jersey, USA",
     "Bengaluru",
@@ -10271,6 +10520,7 @@
     "Efstidalur II",
     "Efstidalur II Farm & Restaurant",
     "Elgiganten electronics store",
+    "English Channel",
     "Farringdon",
     "Fløyen Mountain",
     "Fort Lauderdale",
@@ -10443,6 +10693,7 @@
     "6+ hour scenic train journey through varied Norwegian landscape",
     "6:30pm sailaway",
     "75 minutes waiting on sunny train platform",
+    "A failed attempt at El Salón de Mi Casa, a cat café that never answered the bell",
     "A solo lunch at a local cafe",
     "Aerial photography of Greenland",
     "After-dinner drinks in the Panorama Lounge",
@@ -10466,6 +10717,7 @@
     "Booked shore excursions for Cartagena and Portimão (two for Portimão)",
     "Booking eight nights of lodging (Asakusa, Kamakura, Kyoto)",
     "Breakfast",
+    "Breakfast and coffee in the Centurion Lounge",
     "Breakfast at El Chef Urbano in Monte Alto",
     "Brunch in Southwark",
     "Buffet lunch",
@@ -10493,6 +10745,7 @@
     "Cooking bacon for a breakfast-dinner",
     "Countryside bus tour",
     "Covered bridge crossing over Vosso river",
+    "Crossing the Zubizuri footbridge",
     "Customs and Immigration",
     "Customs and Immigration in Detroit with Global Entry",
     "Dealing with travel fatigue",
@@ -10537,12 +10790,14 @@
     "Farm visit at Efstidalur II",
     "Feira da Ladra flea market",
     "Filling out Japan customs and immigration form online",
+    "Final full sea day of the cruise",
     "Finding EAT HAPPY sushi stall",
     "Finding Rowan playing chess online in the lobby",
     "First formal dining-room dinner aboard",
     "Fish and chips lunch",
     "Flew home to Raleigh-Durham, with a quick Global Entry return",
     "Flights via Iceland back to North Carolina",
+    "Flying Heathrow to Atlanta, then connecting home to Raleigh-Durham",
     "Flying home",
     "Food truck lunch",
     "Four hour layover in Iceland with wild weather",
@@ -10593,6 +10848,7 @@
     "Lunch at Romoletto on Campo de' Fiori",
     "Lunch from a hot dog stand outside the museum",
     "Lunch inside the La Boqueria market",
+    "Lunch split between McDonald's and Taco Bell",
     "Lyft cancellation and Uber switch",
     "May the 4th Star Wars cosplay sighting at RDU",
     "Mercado de San Agustín, after most of the vendors had gone",
@@ -10611,6 +10867,7 @@
     "Overnight flight to Iceland",
     "Overnight transatlantic flight",
     "Overnight transatlantic flight in Premium Select",
+    "Packing up on the last evening",
     "Paella lunch",
     "Paella lunch with fellow passengers",
     "Palazzo della Cancelleria courtyard and Sant'Agostino facade",
@@ -10631,6 +10888,7 @@
     "Picked up rental car (Tesla Model Y) from Hertz",
     "Planning next day's complex ferry/bus route",
     "Playground visit",
+    "Private car from Southampton toward Heathrow",
     "Public transit experience (U-Bahn)",
     "Purchasing a mobile Suica IC card for Apple Wallet",
     "Purchasing an Airalo eSIM data plan (10GB for $9)",
@@ -10650,6 +10908,7 @@
     "Rocky gorge trail with handrails",
     "Rooftop hotel views",
     "Sagrada Família",
+    "Sailaway past the Getxo breakwater lighthouse",
     "Scenic sail-away down the river",
     "Schloss Thun castle visit",
     "Scooter rental and ride",
@@ -10663,6 +10922,7 @@
     "Shopping for breakfast and water at Coop grocery",
     "Shopping for dinner shoes at Rinascente",
     "Shuttle bus to the ship pier",
+    "Shuttle from the cruise port into Bilbao",
     "Sightseeing in Marienplatz",
     "Sleeping in",
     "Slow loop through the Mercato Centrale covered market",
@@ -10684,13 +10944,17 @@
     "Sunbathing and reading on the pool deck",
     "Sunbathing on deck",
     "Sunbathing on the top deck",
+    "Sunset watched from the stateroom window",
     "Swimming at Bains des Paquis",
+    "Switching to the Underground at Hatton Cross after Terminal 3 closed to car traffic",
     "TSA PreCheck",
     "Tapas",
     "Terminal T to Terminal E connection in Atlanta",
     "Terminal check-in and boarding by arrival order",
+    "The Guggenheim Museum Bilbao from the outside",
     "The Tower of Hercules from the outside -- tickets sold out until 1:00pm",
     "Time in Eden watching the wake",
+    "Time in the spa binge-watching Widow's Bay",
     "Time-lapse of the Livorno sailaway from the dinner window",
     "Tiramisu and people-watching at the Pantheon piazza",
     "Tomato festival",
@@ -10720,6 +10984,7 @@
     "Walk to Waterloo Station and Leake Street Arches",
     "Walk to Waterloo and train to Southampton",
     "Walk up to Castell de Bellver",
+    "Walk-off disembarkation at Southampton",
     "Walked to The Sun Voyager sculpture and along the waterfront toward City Hall",
     "Walking Geneva old town",
     "Walking Lisbon's lower and hilly districts",
@@ -10732,6 +10997,7 @@
     "Walking on Opera House marble roof",
     "Walking past Buckingham Palace",
     "Walking the main street of Matosinhos",
+    "Walking the river past the rope-haulers sculpture",
     "Walking the waterfront and the coastal trail toward The Tower of Hercules",
     "Walking the waterfront promenade back to the ship",
     "Walking to Royal Palace",
@@ -10753,6 +11019,7 @@
     "Watching the ship pass through the Strait of Gibraltar and past the Rock of Gibraltar",
     "Waterfront walk to Sun Voyager sculpture",
     "Westminster Bridge, Parliament, and Buckingham Palace",
+    "Working on the blog in The Club lounge",
     "Working on the travel journal at the Coffee Bar",
     "Writing in Eden",
     "Writing the blog in Eden, up on the ramp",
@@ -21531,6 +21798,45 @@
       ]
     },
     {
+      "title": "England and Iberia Day 12",
+      "date": "2026-08-09",
+      "subtitle": "Sea day",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "Balearic Sea",
+          "type": "sea",
+          "country": "International waters"
+        },
+        {
+          "name": "Alborán Sea",
+          "type": "sea",
+          "country": "International waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "9 of 14"
+        }
+      ],
+      "activities": [
+        "Working on the blog in The Club lounge",
+        "Time in the spa binge-watching Widow's Bay"
+      ],
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
       "title": "England and Iberia Day 13",
       "date": "2026-08-10",
       "subtitle": "My favorite stop of the trip",
@@ -21759,6 +22065,215 @@
         "The top deck was far less crowded than expected, with room to watch the partial eclipse from aft before the ship turned"
       ],
       "weather": "Overcast through the morning, bright sun by midday, and broken cloud that never fully cleared for the eclipse",
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
+      "title": "England and Iberia Day 16",
+      "date": "2026-08-13",
+      "subtitle": "Where we visit fast food restaurants in Bilbao",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "Bilbao",
+          "type": "city",
+          "country": "Spain",
+          "notes": "Alongside 09:00, all aboard for a 17:00 departure"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "13 of 14"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Guggenheim Museum Bilbao",
+          "type": "museum",
+          "location": "Bilbao",
+          "url": "https://www.guggenheim-bilbao.eus/en",
+          "notes": "Seen from the outside only -- we didn't go in"
+        },
+        {
+          "name": "Zubizuri",
+          "type": "bridge",
+          "location": "Bilbao",
+          "notes": "The pedestrian bridge we crossed to the other side of the river"
+        },
+        {
+          "name": "Getxo breakwater lighthouse",
+          "type": "lighthouse",
+          "location": "Getxo",
+          "notes": "Faro del Rompeolas, passed on the way out of the Abra"
+        }
+      ],
+      "transport": [
+        {
+          "type": "shuttle",
+          "route": "Cruise port → Bilbao and back",
+          "duration": "~20 minutes each way",
+          "notes": "Dropped off and picked up behind the Guggenheim"
+        }
+      ],
+      "activities": [
+        "Shuttle from the cruise port into Bilbao",
+        "The Guggenheim Museum Bilbao from the outside",
+        "Walking the river past the rope-haulers sculpture",
+        "Crossing the Zubizuri footbridge",
+        "A failed attempt at El Salón de Mi Casa, a cat café that never answered the bell",
+        "Lunch split between McDonald's and Taco Bell",
+        "Sailaway past the Getxo breakwater lighthouse"
+      ],
+      "dining": [
+        {
+          "venue": "McDonald's",
+          "meal": "lunch",
+          "location": "Bilbao",
+          "notes": "For one child"
+        },
+        {
+          "venue": "Taco Bell",
+          "meal": "lunch",
+          "location": "Bilbao",
+          "notes": "For the other -- the fastest WiFi in any fast food restaurant anywhere, good enough to run backups on"
+        }
+      ],
+      "notable_experiences": [
+        "First return to Bilbao in 19 years, since the 2007 call",
+        "The breakwater was packed with people waving the ship off in 2007 and nearly empty in 2026",
+        "Explora III alongside again, a day after sharing a berth in La Coruña, and only 13 days old",
+        "Travel burnout setting in near the end of the cruise -- we could have done more in Bilbao"
+      ],
+      "weather": "Clear and cloudless all day",
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
+      "title": "England and Iberia Day 17",
+      "date": "2026-08-14",
+      "subtitle": "The final day, somewhere in the English Channel",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "Bay of Biscay",
+          "type": "bay",
+          "country": "International waters"
+        },
+        {
+          "name": "English Channel",
+          "type": "channel",
+          "country": "International waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "14 of 14"
+        }
+      ],
+      "activities": [
+        "Final full sea day of the cruise",
+        "Sunset watched from the stateroom window",
+        "Packing up on the last evening"
+      ],
+      "notable_experiences": [
+        "Adjoining staterooms, Rowan and Brian in one and Sherri and Siena in the other",
+        "The connecting doors between the rooms couldn't be propped open, which made them of marginal use"
+      ],
+      "weather": "Clear in the evening, with thin high cloud at sunset",
+      "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
+      "title": "England and Iberia Day 18",
+      "date": "2026-08-15",
+      "subtitle": "Homeward bound",
+      "categories": "travel england portugal spain",
+      "tags": [
+        "july2026"
+      ],
+      "rollup_key": "2026iberia",
+      "trip_stage": "disembarkation",
+      "locations": [
+        {
+          "name": "Southampton",
+          "type": "city",
+          "country": "England",
+          "notes": "Alongside 06:30 for disembarkation"
+        }
+      ],
+      "transport": [
+        {
+          "type": "car",
+          "provider": "Gunwharf Executive Travel",
+          "route": "Southampton → Hatton Cross Underground Station",
+          "notes": "Booked as a private car to Terminal 3, then diverted after an alert that a water main break had closed T3 to car traffic"
+        },
+        {
+          "type": "underground",
+          "route": "Hatton Cross → Heathrow Terminals 2 and 3",
+          "notes": "One stop on the Piccadilly line, which avoided Heathrow road traffic altogether"
+        },
+        {
+          "type": "flight",
+          "carrier": "Delta",
+          "route": "LHR → ATL",
+          "notes": "Scheduled 1:25pm, a little delayed, with some time made up in the air"
+        },
+        {
+          "type": "flight",
+          "carrier": "Delta",
+          "route": "ATL → RDU",
+          "notes": "Departed gate A1, about as far from Terminal E as you can get"
+        },
+        {
+          "type": "rideshare",
+          "provider": "Uber",
+          "route": "RDU → home"
+        }
+      ],
+      "activities": [
+        "Walk-off disembarkation at Southampton",
+        "Private car from Southampton toward Heathrow",
+        "Switching to the Underground at Hatton Cross after Terminal 3 closed to car traffic",
+        "Breakfast and coffee in the Centurion Lounge",
+        "Flying Heathrow to Atlanta, then connecting home to Raleigh-Durham"
+      ],
+      "dining": [
+        {
+          "venue": "The Centurion Lounge",
+          "meal": "breakfast",
+          "location": "Heathrow Terminal 3",
+          "notes": "Breakfast and coffee with Sherri while we waited out the long layover"
+        }
+      ],
+      "notable_experiences": [
+        "Discovering the Celebrity app could control the stateroom, in the final hour of a 14 day cruise",
+        "A water main break closed Terminal 3 to car traffic mid-transfer, so we went in via Hatton Cross instead",
+        "Delta's new process for international connections at Atlanta -- no bag claim and recheck, and staff all along the walk to immigration"
+      ],
       "companions": [
         "Sherri",
         "Siena",
