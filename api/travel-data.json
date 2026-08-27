@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T02:19:32Z",
-  "total_posts": 150,
+  "generated_at": "2026-08-27T02:25:18Z",
+  "total_posts": 151,
   "trips": [
     {
       "rollup_key": "2007eu",
@@ -10548,6 +10548,7 @@
     "Húsafell Hotel Bistro",
     "Ibiza",
     "Ibiza Old Town (Dalt Vila)",
+    "Ibiza, Spain",
     "Icelandic Punk Museum",
     "Interlaken",
     "Interlaken Ost",
@@ -10562,6 +10563,7 @@
     "Kralendijk",
     "Kyoto",
     "La Coruña",
+    "La Coruña, Spain",
     "La Rochelle",
     "La Rochelle, France",
     "Labrador Sea",
@@ -10580,10 +10582,12 @@
     "London",
     "London Heathrow Airport",
     "London Waterloo",
+    "London, England",
     "London, United Kingdom",
     "London-Gatwick Airport",
     "Manhattan",
     "Matosinhos",
+    "Matosinhos, Portugal",
     "Mediterranean Sea",
     "Minneapolis",
     "Mountain summit at 1295m above sea level",
@@ -10591,6 +10595,7 @@
     "Munich Airport",
     "Munich, Germany",
     "Málaga",
+    "Málaga, Spain",
     "Männlichen",
     "Mörel",
     "Mürren",
@@ -10606,11 +10611,13 @@
     "Oslo ferry terminal",
     "Oslo, Norway",
     "Palma de Mallorca",
+    "Palma de Mallorca, Spain",
     "Paris",
     "Paris, France",
     "Pflach",
     "Portimão",
     "Portimão, Portugal",
+    "Porto (Leixões), Portugal",
     "Puerto Plata",
     "Qaqortoq",
     "Qaqortoq, Greenland",
@@ -10638,6 +10645,7 @@
     "Sognefjord (via express ferry)",
     "Sognefjord overlook",
     "Southampton",
+    "Southampton, England",
     "Southampton, United Kingdom",
     "Southwark",
     "Spiez",
@@ -22275,6 +22283,46 @@
         "Delta's new process for international connections at Atlanta -- no bag claim and recheck, and staff all along the walk to immigration"
       ],
       "companions": [
+        "Sherri",
+        "Siena",
+        "Rowan"
+      ]
+    },
+    {
+      "title": "England and Iberia in 2026",
+      "date": "2026-08-16",
+      "subtitle": "Three days in London, then a 14-night round-trip cruise from Southampton through Portugal and Spain",
+      "categories": "travel rollup",
+      "tags": null,
+      "rollup_key": null,
+      "trip_type": "rollup",
+      "trip_duration": "July 29 - August 15, 2026",
+      "trip_duration_days": 18,
+      "locations_visited": [
+        "London, England",
+        "Southampton, England",
+        "Porto (Leixões), Portugal",
+        "Matosinhos, Portugal",
+        "Lisbon, Portugal",
+        "Palma de Mallorca, Spain",
+        "Barcelona, Spain",
+        "Ibiza, Spain",
+        "Málaga, Spain",
+        "La Coruña, Spain",
+        "Bilbao, Spain"
+      ],
+      "countries_visited": [
+        "England",
+        "Portugal",
+        "Spain"
+      ],
+      "transport": [
+        "transatlantic flights (Delta)",
+        "Celebrity Apex cruise",
+        "Elizabeth line, Thameslink, and London Underground",
+        "South Western Railway"
+      ],
+      "travel_companions": [
         "Sherri",
         "Siena",
         "Rowan"

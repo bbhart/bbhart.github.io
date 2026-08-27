@@ -3,7 +3,7 @@ layout: post
 title: England and Iberia in 2026
 subtitle: Three days in London, then a 14-night round-trip cruise from Southampton through Portugal and Spain
 date:  2026-08-16
-published: false
+published: true
 categories: travel rollup
 destination: england
 background: '/assets/20260731-st-pauls-cathedral-dome-bg.jpg'
