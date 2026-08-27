@@ -71,7 +71,7 @@ It's over:
 
 Walk-off was a breeze -- basically no line -- contrary to our experience in January. I WhatsApp'd the driver, he told me where to stand, and then pulled up within a few minutes and we were off to Terminal 3.
 
-Funny thing about Terminal 3. As we were on the road toward the airport, we received an alert that T3 had a water break and some flooding, and that it wasn't accepting car traffic at this time. Our driver's plan was to take us to Terminal 5 instead, I expect would've worked fine, but after some back-and-forth with Claude we opted for the Hatton Cross Underground Station instead. From there it's one tube stop to the station for Terminals 2 and 3. Using Hatton Cross avoided Heathrow traffic altogether.
+Funny thing about Terminal 3. As we were on the road toward the airport, we received an alert that T3 had a water break and some flooding, and that it wasn't accepting car traffic at this time. Our driver's plan was to take us to Terminal 5 instead, which I expect would've worked fine, but after some back-and-forth with Claude we opted for the Hatton Cross Underground Station instead. From there it's one tube stop to the station for Terminals 2 and 3. Using Hatton Cross avoided Heathrow traffic altogether.
 
 Waiting for the train. It was crowded and we had luggage, so it was divide and conquer. 
 
@@ -91,7 +91,7 @@ It was a little early for an ice cream.
 
 The rest is mundane travel. Our flight was a little delayed, they made up a little time in the air, it felt endless regardless, and then we landed in Atlanta. It's an odd new process Delta has for international connecting flights. There's a *lot* of staff along the walk from the plane to immigration, and you don't have to claim and recheck your bag. Overall pretty nice. 
 
-With plenty of time before our ATL->RDU flight, son and I did the walk from terminal E to our gate, which.... I kid you not... was A1, about as far away as you can get. We booked some good steps, though, and it helped keep us awake. The flight home was uneventful, as was the Uber.
+With plenty of time before our ATL->RDU flight, my son and I did the walk from terminal E to our gate, which.... I kid you not... was A1, about as far away as you can get. We booked some good steps, though, and it helped keep us awake. The flight home was uneventful, as was the Uber.
 
 THE END
 
