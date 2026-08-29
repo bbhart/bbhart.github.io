@@ -1,7 +1,7 @@
 ---
 layout: post
 title: England and Iberia Day 16
-subtitle: Where we visit fast food restaurants in Bilbao
+subtitle: Where we visit American fast food restaurants in Bilbao
 date:  2026-08-13
 published: true
 categories: travel england portugal spain

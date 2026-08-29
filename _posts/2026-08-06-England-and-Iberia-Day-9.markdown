@@ -1,7 +1,7 @@
 ---
 layout: post
 title: England and Iberia Day 9
-subtitle: A hot castle, a lucky taxi, and Segways in Palma
+subtitle: "Palma de Mallorca: a hot hike to a castle, a lucky taxi, and a Segway adventure"
 date:  2026-08-06
 published: true
 categories: travel england portugal spain
@@ -33,7 +33,7 @@ transport:
     duration: ~15 minutes
     notes: Replaced a 50-minute walk; the recommended Palma taxi app refused both a credit card and a debit card, so hailing in person was the only option
 dining:
-  - venue: Tapas restaurant
+  - venue: Maura
     meal: late lunch
     location: Palma de Mallorca
     notes: Middling
@@ -66,6 +66,7 @@ We started our day with a walk from the ship up to the castle on the hill, [Cast
 <video src="/assets/20260806-bellver-stair-climb.mp4" width="100%" controls playsinline muted></video>
 
 There's a beautiful small stone chapel near the castle that strongly reminded me of our 7 years in California. I took a few minutes to sit in the cool(er) chapel to recover from the heat and sit with my feelings.[^1]
+
 <img src="/assets/20260806-bellver-hillside-chapel.jpg" alt="The front of a small stone chapel on the wooded hillside below the castle, shot straight on from the cobbled forecourt. The honey-colored limestone facade rises to a gable topped with an ornate wrought-iron cross, with a round rose window of tracery glass at its center and a pointed stone doorway below carrying a carved Marian monogram. The heavy iron gate stands open, and inside a person in white can be seen sitting in the wooden pews. Wrought-iron lanterns are bracketed to the walls at either side, pines press in from both edges of the frame, and the sky above is cloudless deep blue." width="100%" />
 
 <img src="/assets/20260806-bellver-chapel-steps.jpg" alt="Sherri stands at the foot of a broad flight of rough stone steps climbing the pine-covered hillside toward the castle, turning back toward the camera. She wears a maroon sleeveless top, white shorts, and white sneakers. The steps rise from the cobbled terrace in the foreground and bend out of sight into the trees, bordered on the right by a dry-stone retaining wall with the corner of the chapel and its iron gate at the frame edge. Dry yellow grass, low scrub, and Aleppo pines fill the slope under a bright blue sky with a few thin white clouds." width="100%" />

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: England and Iberia Day 13
-subtitle: My favorite stop of the trip
+subtitle: Málaga, my favorite stop of the trip
 date:  2026-08-10
 published: true
 categories: travel england portugal spain
