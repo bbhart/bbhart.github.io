@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: Getting Started With The New Google Cardboard
 description: >-
   Four-ish easy steps to getting started with (the updated) Google Cardboard

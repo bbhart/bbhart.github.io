@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: Tesla’s self-driving trip
 description: >-
   Earlier this week Tesla Motors posted a video of a fully-autonomous drive from

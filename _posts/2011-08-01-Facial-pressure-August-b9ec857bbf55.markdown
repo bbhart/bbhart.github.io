@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: Facial pressure August
 description: >-
   I’m still experiencing my facial pressure issue. This has been going on since

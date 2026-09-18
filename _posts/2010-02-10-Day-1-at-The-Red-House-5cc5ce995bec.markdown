@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: Day 1 at The Red House
 subtitle: Settling in to our second Celebration house
 date: '2010-02-10T03:11:53.000Z'

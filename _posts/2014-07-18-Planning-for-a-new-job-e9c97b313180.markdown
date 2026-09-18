@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: Planning for a new job
 description: >-
   Around 11 months ago, I started the first new job I’ve had in 11 years. I

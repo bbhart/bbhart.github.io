@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: Big companies
 description: Here’s a fairly typical Big Company problem.
 date: '2010-11-12T17:46:36.000Z'

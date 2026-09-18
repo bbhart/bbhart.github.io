@@ -124,3 +124,50 @@
 
   .pager__older { margin-left: auto; }
 }
+
+// Section filter (All / Travel / Technology / Life) --------------------------
+
+.section-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0 0 2rem;
+  font-family: var(--font-ui);
+  font-size: 0.875rem;
+
+  a {
+    padding: 0.35rem 0.85rem;
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    color: var(--ink);
+    text-decoration: none;
+
+    span { color: var(--muted); margin-left: 0.2rem; }
+
+    &:hover { border-color: var(--accent); color: var(--accent); }
+
+    &[aria-current="page"] {
+      background: var(--ink);
+      border-color: var(--ink);
+      color: var(--bg);
+
+      span { color: inherit; opacity: 0.7; }
+    }
+  }
+}
+
+.year-label {
+  margin: 2.5rem 0 0.25rem;
+  font-family: var(--font-ui);
+  font-size: var(--step-small);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+
+.post-rows--compact .post-row a { padding: 0.9rem 0; }
+
+.kicker a {
+  color: inherit;
+  text-decoration: none;
+}

@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: When I was Mayor of Burj Al Arab
 description: >-
   This is the Burj Al Arab hotel, arguably one of the finest in the world.

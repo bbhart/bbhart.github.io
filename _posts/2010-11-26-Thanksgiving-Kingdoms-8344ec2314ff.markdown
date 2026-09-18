@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: Thanksgiving Kingdoms
 date: '2010-11-26T06:14:18.000Z'
 categories: []

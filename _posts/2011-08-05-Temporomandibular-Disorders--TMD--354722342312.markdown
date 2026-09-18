@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: Temporomandibular Disorders (TMD)
 description: See this entry and this follow-up for some context.
 date: '2011-08-05T12:38:54.000Z'

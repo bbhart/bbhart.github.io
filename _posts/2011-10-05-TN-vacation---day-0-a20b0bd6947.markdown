@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: TN vacation — day 0
 description: >-
   Intro: Since anyone and everyone is on the Internet these days, you’d have to

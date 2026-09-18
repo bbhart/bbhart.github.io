@@ -21,6 +21,15 @@ europe-2007:
     - [Gibraltar, 36.140, -5.353]
     - [Tangier, 35.759, -5.834]
 
+India-2019-recap:
+  label: India
+  year: 2019
+  pin: [12.972, 77.594]
+  stops:
+    - [San Francisco, 37.621, -122.379]
+    - [Dubai, 25.204, 55.271]
+    - [Bengaluru, 12.972, 77.594]
+
 Iceland-trip-2023-recap:
   label: Iceland
   year: 2023

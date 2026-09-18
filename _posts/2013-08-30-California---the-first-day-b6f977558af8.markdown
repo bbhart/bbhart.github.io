@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: Living in California - the beginning
 subtitle: The first six days of living in Sunnyvale
 date: '2013-08-30T03:20:06.000Z'

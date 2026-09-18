@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: Jaunt raises $65 million
 description: >-
   Today Jaunt (my employer) announces we’ve closed our Series C round, raising

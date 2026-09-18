@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: MacBook Air
 subtitle: The best laptop I've ever owned
 date: '2011-10-19T02:26:32.000Z'

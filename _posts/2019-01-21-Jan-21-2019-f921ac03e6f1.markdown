@@ -1,5 +1,7 @@
 ---
 layout: post
+section: travel
+rollup_key: 2019india
 title: Back in India
 subtitle: This time with travel buddies
 date: '2019-01-21T11:25:19.282Z'

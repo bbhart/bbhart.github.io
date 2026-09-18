@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: Oculus Touch controllers — first thoughts
 description: >-
   This is not intended to be a complete review. These are my experiences from

@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: North Carolina residents
 subtitle: Life is weird and stressful right now
 date: 2020-06-11 01:21:41 -0400

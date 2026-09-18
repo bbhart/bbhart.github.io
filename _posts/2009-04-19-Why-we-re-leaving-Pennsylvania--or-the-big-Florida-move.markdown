@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: Why we’re leaving Pennsylvania (or the big Florida move)
 description: >-
   Why, you ask, were we needing to print so desperately? We made an offer on a

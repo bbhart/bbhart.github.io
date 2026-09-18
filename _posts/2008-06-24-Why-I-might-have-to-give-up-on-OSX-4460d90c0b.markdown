@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: Why I might have to give up on OSX
 subtitle: OSX is weird
 date: '2008-06-24T15:55:35.000Z'

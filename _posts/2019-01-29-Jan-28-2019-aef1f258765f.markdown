@@ -1,5 +1,7 @@
 ---
 layout: post
+section: travel
+rollup_key: 2019india
 title: End of third trip to India
 subtitle: Jet lag and mental fog
 date: '2019-01-29T02:10:16.115Z'

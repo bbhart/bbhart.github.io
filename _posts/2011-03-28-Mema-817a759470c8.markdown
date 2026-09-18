@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: Mema
 description: >-
   My world became a little bit smaller this past Saturday morning when I lost my

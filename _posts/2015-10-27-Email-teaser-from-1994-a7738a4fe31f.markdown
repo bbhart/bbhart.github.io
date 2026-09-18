@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: Email teaser from 1994
 description: >-
   The email below is from 1994, and is regarding the UCF InPrint newspaper, a

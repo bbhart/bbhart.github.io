@@ -354,3 +354,18 @@
   margin-top: 4rem;
   max-width: var(--measure);
 }
+
+// Technology / Life band -----------------------------------------------------
+
+.sections {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+  margin-top: 4rem;
+
+  .post-rows { margin-top: 0.5rem; }
+}
+
+@media (max-width: 720px) {
+  .sections { grid-template-columns: 1fr; }
+}

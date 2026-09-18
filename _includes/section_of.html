@@ -1,0 +1,6 @@
+{% comment %}
+  Sets `post_section` for include.post: its `section:` front matter, or
+  "travel" when it's categorized travel. Categories drive permalinks, so
+  non-travel posts carry `section:` instead of a category.
+  (GitHub Pages runs Jekyll 3.x, whose where_exp can't express this with `or`.)
+{% endcomment %}{% assign post_section = include.post.section %}{% if post_section == nil or post_section == "" %}{% if include.post.categories contains "travel" %}{% assign post_section = "travel" %}{% else %}{% assign post_section = "" %}{% endif %}{% endif %}

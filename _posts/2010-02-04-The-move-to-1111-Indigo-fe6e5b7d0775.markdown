@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: The move to 1111 Indigo
 subtitle: Our first Celebration house
 date: '2010-02-04T00:11:08.000Z'

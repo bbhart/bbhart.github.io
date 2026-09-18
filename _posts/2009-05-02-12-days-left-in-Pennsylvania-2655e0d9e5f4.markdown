@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: 12 days left in Pennsylvania
 description: Sold our house and are moving to Celebration
 date: '2009-05-02T00:14:23.000Z'
