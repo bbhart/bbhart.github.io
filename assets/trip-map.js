@@ -8,6 +8,15 @@
 
   var trips = JSON.parse(dataEl.textContent).filter(function (t) { return t.pin; });
   var narrow = window.matchMedia("(max-width: 720px)");
+  // Touch screens get a 44px tap target around each pin (the dot itself is
+  // drawn by CSS), and pins merge sooner so those targets don't overlap.
+  var touch = window.matchMedia("(pointer: coarse)").matches;
+  var HIT = touch ? 44 : 18;
+  var GROUP_PX = HIT + 4;
+  var CLUSTER = touch ? 44 : 30;
+  // On phones, keep fitted pins clear of the zoom buttons and attribution
+  // in the bottom-right corner, where a pin can't be tapped.
+  var PHONE_BR = [70, 110];
 
   var map = L.map(el, {
     zoomControl: false,
@@ -61,8 +70,8 @@
     return L.divIcon({
       className: "trip-pin" + (on ? " is-active" : ""),
       html: '<span class="trip-pin__dot"></span><span class="trip-pin__label">' + t.label + " <b>" + t.year + "</b></span>",
-      iconSize: [18, 18],
-      iconAnchor: [9, 9]
+      iconSize: [HIT, HIT],
+      iconAnchor: [HIT / 2, HIT / 2]
     });
   }
 
@@ -72,7 +81,7 @@
   var home = function () {
     // Leave room on the left for the intro panel on wide screens.
     map.fitBounds(bounds, narrow.matches
-      ? { padding: [20, 20], maxZoom: 4 }
+      ? { paddingTopLeft: [20, 20], paddingBottomRight: [PHONE_BR[0] - 30, PHONE_BR[1] - 50], maxZoom: 4 }
       : { paddingTopLeft: [400, 50], paddingBottomRight: [50, 50], maxZoom: 4 });
   };
   home();
@@ -87,6 +96,11 @@
   // Pins that land on top of each other (London and Paris at world zoom)
   // fold into a numbered bubble; tapping it zooms in until they separate.
   var groups = L.layerGroup().addTo(map);
+  // Tap targets are squares, so compare the larger of the x and y gaps:
+  // straight-line distance lets two squares overlap on the diagonal.
+  function tooClose(a, b) {
+    return Math.max(Math.abs(a.x - b.x), Math.abs(a.y - b.y)) < GROUP_PX;
+  }
   function regroup() {
     groups.clearLayers();
     var left = Object.keys(pins).map(function (k) { return pins[k]; });
@@ -94,10 +108,19 @@
     while (left.length) {
       var head = left.shift();
       var hp = map.latLngToContainerPoint(head.trip.pin);
-      var near = left.filter(function (p) { return hp.distanceTo(map.latLngToContainerPoint(p.trip.pin)) < 22; });
+      var near = left.filter(function (p) { return tooClose(hp, map.latLngToContainerPoint(p.trip.pin)); });
       if (!near.length) continue;
       left = left.filter(function (p) { return near.indexOf(p) < 0; });
       var members = [head].concat(near);
+      // The bubble sits at the group's center, which can land on a pin that
+      // wasn't close to the first member; pull those in until nothing is.
+      for (var grew = true; grew;) {
+        var c = map.latLngToContainerPoint(L.latLngBounds(members.map(function (p) { return p.trip.pin; })).getCenter());
+        var more = left.filter(function (p) { return tooClose(c, map.latLngToContainerPoint(p.trip.pin)); });
+        grew = more.length > 0;
+        members = members.concat(more);
+        left = left.filter(function (p) { return more.indexOf(p) < 0; });
+      }
       if (members.some(function (p) { return p.trip.slug === active; })) continue;
       members.forEach(function (p) { map.removeLayer(p.marker); });
       addGroup(members);
@@ -107,14 +130,22 @@
   function addGroup(members) {
     var b = L.latLngBounds(members.map(function (p) { return p.trip.pin; }));
     L.marker(b.getCenter(), {
-      icon: L.divIcon({ className: "trip-cluster", html: "<span>" + members.length + "</span>", iconSize: [30, 30] }),
+      icon: L.divIcon({ className: "trip-cluster", html: "<span>" + members.length + "</span>", iconSize: [CLUSTER, CLUSTER] }),
       title: members.map(function (p) { return p.trip.label; }).join(", "),
       keyboard: true,
       zIndexOffset: 500
     }).on("click", function () {
-      map.flyToBounds(b, narrow.matches
-        ? { padding: [70, 70], duration: 0.6 }
-        : { paddingTopLeft: [420, 80], paddingBottomRight: [80, 80], duration: 0.6 });
+      var opts = narrow.matches
+        ? { paddingTopLeft: [50, 50], paddingBottomRight: PHONE_BR, duration: 0.6 }
+        : { paddingTopLeft: [420, 80], paddingBottomRight: [80, 80], duration: 0.6 };
+      // Always zoom in at least a step, or a group that re-forms at the
+      // fitted zoom would never come apart.
+      var fitZoom = map.getBoundsZoom(b, false, L.point(narrow.matches ? 140 : 500, 160));
+      if (fitZoom > map.getZoom() + 0.5) {
+        map.flyToBounds(b, opts);
+      } else {
+        map.flyTo(b.getCenter(), Math.min(map.getZoom() + 1.5, map.getMaxZoom()), { duration: 0.6 });
+      }
     }).addTo(groups);
   }
   map.on("zoomend", regroup);
@@ -141,7 +172,7 @@
     var fit = pts.length ? L.latLngBounds(pts) : L.latLngBounds([p.trip.pin]);
     map.flyToBounds(fit, {
       paddingTopLeft: narrow.matches ? [30, 30] : [420, 60],
-      paddingBottomRight: narrow.matches ? [30, 30] : [60, 60],
+      paddingBottomRight: narrow.matches ? PHONE_BR : [60, 60],
       maxZoom: 6,
       duration: 0.8
     });
