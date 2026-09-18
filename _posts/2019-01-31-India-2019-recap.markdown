@@ -5,6 +5,7 @@ subtitle: My third trip to the Bangalore office, by way of an overnight layover 
 date:  2019-01-31
 categories: travel rollup
 destination: india
+background: '/assets/20190120-bangalore-palace-courtyard-bg.jpg'
 locations_visited:
   - San Francisco, California, USA
   - Dubai, United Arab Emirates

@@ -1,7 +1,8 @@
 ---
 layout: post
 section: tech
-title: Jan 11 2018
+title: How I got hooked on VR
+subtitle: Oculus Connect as an enthusiast, a missed Kickstarter, and a DK1 in the summer of 2013
 description: >-
   This is the first post in what is my delayed response to a new year resolution
   to write more. It’ll mostly be random fragments of…

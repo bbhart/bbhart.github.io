@@ -3,6 +3,7 @@ layout: post
 section: travel
 rollup_key: 2019india
 title: Leaving India
+subtitle: Sick for the last few days, and some candid feedback overheard at the airport
 description: >-
   Last day in India. Low-grade sickness has kicked my ass the past few days.
   It’s something I picked up somewhere on the way to India, and…
@@ -13,5 +14,13 @@ slug: /@bbhart_ca/jan-26-2019-367672cb4a50
 ---
 
 Last day in India. Low-grade sickness has kicked my ass the past few days. It’s something I picked up somewhere on the way to India, and then I haven’t been able to overcome it. The constant sore throat and sinus drip made it tough to sleep; my average has been 4 1/2–5 hours a night. Friday I surrendered to the cold and lack of sleep and didn’t leave the hotel room all day. Today (Saturday) I feel a little bit better. Today is also the day I start the long journey back to the States. I accomplished what I needed to here in Bangalore, I only wish I had felt better in the process.
+
+<img src="/assets/20190124-leela-palace-gardens.jpg" alt="Sunlit gardens at The Leela Palace in Bengaluru on a hazy morning: a manicured lawn crossed by long palm shadows, a stand of tall coconut and fan palms heavy with fruit, dense tropical shrubs, a curving stone path at lower right, a pot of red and pink petunias in the corner, and the edge of a domed building visible through the fronds" width="100%" />
+
+<img src="/assets/20190124-bellandur-street-signs.jpg" alt="Crowded shop signage on a street in Bellandur, Bengaluru, under a clear blue sky: a red and white sign for The Muthoot Group featuring actor Amitabh Bachchan in a red shawl with his palms pressed together in greeting, a red Gold Loan sign with the Muthoot elephant logo, a green pharmacy cross, an Apollo Pharmacy sign, and a large sign for Venkateshwara Enterprises in Kannada and English script, with strings of small lights hanging across the storefronts" width="100%" />
+
+<img src="/assets/20190124-bengaluru-team-dinner.jpg" alt="A group of about a dozen colleagues seated along a long wooden table at a dinner at an open-air brewpub in Bengaluru at night, many smiling at the camera, with glasses of beer and candles in glass holders on the table, a blue E3 table marker, a large wooden barrel at right, and corrugated metal walls, a brick arch, and potted plants behind them" width="100%" />
+
+<img src="/assets/20190125-leela-palace-pool-lunch.jpg" alt="A black lacquered bento box lunch on a padded poolside lounger at The Leela Palace in Bengaluru, its red compartments holding penne in meat sauce, fried croquettes, a small salad, grated cheese, garlic bread, and watermelon, papaya, and kiwi, with silverware on a white napkin beside it and the bright blue pool, white umbrellas, and loungers under tropical trees in the background" width="100%" />
 
 Woman a few chairs down from me is on the phone, giving some very candid feedback. “You interrupt a lot. You’re interrupting me again. When you have a conversation, you’re entirely focused on what you want to get out of the conversation. You need to be self-aware.” And so on. Not yelling, very matter-of-fact. The British accent takes out some of the sting but it’s still 🔥.
