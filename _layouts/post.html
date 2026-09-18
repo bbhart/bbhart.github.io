@@ -2,70 +2,59 @@
 layout: default
 ---
 
-<!-- Page Header -->
-{% if page.background %}
-<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
-  {% else %}
-  <header class="masthead">
+{% include hero.html %}
+
+<article>
+  <header class="page-heading container">
+    {% include kicker.html categories=page.categories %}
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}
+    <p class="subtitle">{{ page.subtitle }}</p>
     {% endif %}
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
-          <div class="post-heading">
-            <h1>{{ page.title }}</h1>
-            {% if page.subtitle %}
-            <h2 class="subheading">{{ page.subtitle }}</h2>
-            {% endif %}
-            <span class="meta">Posted by
-              <a href="#">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
-              on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
-              content=page.content %}
-            </span>
-          </div>
-        </div>
-      </div>
-    </div>
+    <p class="meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %-d, %Y' }}</time>
+      &middot; {% include read_time.html content=page.content %}
+    </p>
   </header>
 
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto postbody">
-
-        {{ content }}
-
-        {% if page.rollup_key %}
-        {% assign trip_posts = site.posts | where: "rollup_key", page.rollup_key | sort: 'date' %}
-        {% if trip_posts.size > 1 %}
-        <hr>
-        <aside class="more-from-trip">
-          <h3>More from this trip</h3>
-          <ul>
-          {% for tp in trip_posts %}
-            {% unless tp.url == page.url %}
-            <li><a href="{{ tp.url | prepend: site.baseurl | replace: '//', '/' }}">{{ tp.title }}</a>{% if tp.subtitle %} — <span class="text-muted">{{ tp.subtitle }}</span>{% endif %}</li>
-            {% endunless %}
-          {% endfor %}
-          </ul>
-        </aside>
-        {% endif %}
-        {% endif %}
-
-        <hr>
-
-        <div class="clearfix">
-
-          {% if page.previous.url %}
-          <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline">
-              Post</span></a>
-          {% endif %}
-          {% if page.next.url %}
-          <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline">
-              Post</span> &rarr;</a>
-          {% endif %}
-
-        </div>
-
-      </div>
+  <div class="page-body container">
+    <div class="prose">
+      {{ content }}
     </div>
+
+    {% if page.rollup_key %}
+    {% assign trip_posts = site.posts | where: "rollup_key", page.rollup_key | sort: 'date' %}
+    {% if trip_posts.size > 1 %}
+    <aside class="trip-list">
+      <h2>More from this trip</h2>
+      <ol>
+      {% for tp in trip_posts %}
+        {% if tp.url == page.url %}
+        <li aria-current="page">{{ tp.title }}</li>
+        {% else %}
+        <li><a href="{{ tp.url | relative_url }}">{{ tp.title }}</a>{% if tp.subtitle %} <span class="text-muted">— {{ tp.subtitle }}</span>{% endif %}</li>
+        {% endif %}
+      {% endfor %}
+      </ol>
+    </aside>
+    {% endif %}
+    {% endif %}
+
+    {% if page.previous.url or page.next.url %}
+    <nav class="post-nav" aria-label="More posts">
+      {% if page.previous.url %}
+      <a class="post-nav__prev" href="{{ page.previous.url | relative_url }}">
+        <span class="post-nav__label">&larr; Previous</span>
+        <span class="post-nav__title">{{ page.previous.title }}</span>
+      </a>
+      {% endif %}
+      {% if page.next.url %}
+      <a class="post-nav__next" href="{{ page.next.url | relative_url }}">
+        <span class="post-nav__label">Next &rarr;</span>
+        <span class="post-nav__title">{{ page.next.title }}</span>
+      </a>
+      {% endif %}
+    </nav>
+    {% endif %}
   </div>
+</article>

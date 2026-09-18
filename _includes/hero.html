@@ -1,0 +1,9 @@
+{% comment %}
+  Full-width photo from front matter `background:`. Pass alt=... for the
+  image description; the page title is the fallback.
+{% endcomment %}
+{% if page.background %}
+<figure class="hero">
+  <img src="{{ page.background | relative_url }}" alt="{{ include.alt | default: page.title | escape }}" fetchpriority="high">
+</figure>
+{% endif %}

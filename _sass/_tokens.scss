@@ -1,0 +1,41 @@
+// Design tokens. Colors are CSS custom properties so dark mode is a
+// single override block. GitHub Pages compiles with libsass (sassc),
+// so stick to @import and avoid Sass min()/max() — clamp() passes through.
+
+:root {
+  --bg: #FAF7F2;
+  --bg-raised: #F3EEE5;
+  --ink: #1F1D1A;
+  --muted: #6B645A;
+  --accent: #B4532A;
+  --accent-hover: #8E3F1E;
+  --rule: #E6DFD3;
+
+  --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+  --font-body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --font-ui: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --measure: 680px;
+  --wide: 960px;
+  --gutter: 1.25rem;
+
+  --step-body: clamp(1.125rem, 1.05rem + 0.3vw, 1.25rem);
+  --step-h1: clamp(2.25rem, 1.6rem + 2.6vw, 3.5rem);
+  --step-h2: clamp(1.5rem, 1.3rem + 0.9vw, 2rem);
+  --step-h3: clamp(1.25rem, 1.15rem + 0.4vw, 1.4rem);
+  --step-small: 0.8125rem;
+
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1C1A17;
+    --bg-raised: #25221E;
+    --ink: #ECE6DC;
+    --muted: #A69D90;
+    --accent: #E07A4F;
+    --accent-hover: #F09A74;
+    --rule: #35312B;
+  }
+}
