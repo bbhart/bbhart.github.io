@@ -31,7 +31,7 @@ bluesky_username: bbhart.com
 
 # Build settings
 # theme: minima
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+# remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll  (replaced by the in-repo editorial theme, 2026-09)
 #theme: jekyll-theme-clean-blog
 # Docs for theme: https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll
 
@@ -64,6 +64,7 @@ plugins:
 #   - vendor/ruby/
 exclude:
   - travels/
+  - docs/
 
 paginate: 25
 paginate_path: "/posts/page:num/"

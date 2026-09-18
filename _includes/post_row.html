@@ -1,0 +1,11 @@
+{% assign p = include.post %}
+<li class="post-row{% unless p.background %} post-row--text{% endunless %}">
+  <a href="{{ p.url | relative_url }}">
+    <div>
+      <h3>{{ p.title }}</h3>
+      <p>{% if p.subtitle %}{{ p.subtitle }}{% else %}{{ p.excerpt | strip_html | truncatewords: 20 }}{% endif %}</p>
+      <span class="meta"><time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%b %-d, %Y" }}</time> · {% include read_time.html content=p.content %}</span>
+    </div>
+    {% if p.background %}<img src="{{ p.background | relative_url }}" alt="" loading="lazy" width="120" height="90">{% endif %}
+  </a>
+</li>

@@ -1,0 +1,8 @@
+{% comment %}
+  Category line above a title, e.g. "England · Portugal · Spain".
+  Skips generic categories that say nothing about where the post is.
+{% endcomment %}
+{% assign skip = "travel,rollup,europe,reviews,hotels" | split: "," %}
+{% capture kicker %}{% for c in include.categories %}{% unless skip contains c %}{{ c | replace: "-", " " }}|{% endunless %}{% endfor %}{% endcapture %}
+{% assign kicker_parts = kicker | split: "|" %}
+{% if kicker_parts.size > 0 %}<p class="kicker">{{ kicker_parts | join: " · " }}</p>{% endif %}
