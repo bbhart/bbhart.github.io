@@ -1,0 +1,130 @@
+---
+# Map data for the home page. Keyed by the recap post's slug (its filename
+# minus the date). `pin` is where the trip's marker sits; `stops` draw the
+# route when the trip is selected. Coordinates are [lat, lng].
+#
+# A recap with no entry here still shows in the trip grid, just not on the map.
+
+europe-2007:
+  label: Western Europe cruise
+  year: 2007
+  pin: [48.857, 2.352]
+  stops:
+    - [Southampton, 50.904, -1.404]
+    - [Le Havre, 49.494, 0.107]
+    - [Paris, 48.857, 2.352]
+    - [Zeebrugge, 51.333, 3.207]
+    - [Amsterdam, 52.370, 4.895]
+    - [La Rochelle, 46.160, -1.151]
+    - [Bilbao, 43.263, -2.935]
+    - [Lisbon, 38.722, -9.139]
+    - [Gibraltar, 36.140, -5.353]
+    - [Tangier, 35.759, -5.834]
+
+Iceland-trip-2023-recap:
+  label: Iceland
+  year: 2023
+  pin: [64.663, -21.290]
+  stops:
+    - [Reykjavik, 64.146, -21.942]
+    - [Reykholt, 64.663, -21.290]
+    - [Húsafell, 64.700, -20.867]
+
+Japan-Trip-2024-recap:
+  label: Japan
+  year: 2024
+  pin: [35.011, 135.768]
+  stops:
+    - [Tokyo, 35.676, 139.650]
+    - [Kamakura, 35.319, 139.547]
+    - [Kyoto, 35.011, 135.768]
+
+Iceland-Cruise-2024-recap:
+  label: New York to Iceland
+  year: 2024
+  pin: [60.719, -46.036]
+  stops:
+    - [Bayonne, 40.669, -74.114]
+    - [Halifax, 44.649, -63.575]
+    - [St. John's, 47.561, -52.713]
+    - [Qaqortoq, 60.719, -46.036]
+    - [Ísafjörður, 66.075, -23.135]
+    - [Akureyri, 65.683, -18.110]
+    - [Reykjavik, 64.146, -21.942]
+
+Iceland-Visit-2024-recap:
+  label: South Iceland
+  year: 2024
+  pin: [63.419, -19.006]
+  stops:
+    - [Reykjavik, 64.146, -21.942]
+    - [Selfoss, 63.933, -20.997]
+    - [Steinar, 63.540, -19.720]
+    - [Vík, 63.419, -19.006]
+
+Caribbean-Cruise-Winter-2024-recap:
+  label: Southern Caribbean
+  year: 2024
+  pin: [12.524, -70.027]
+  stops:
+    - [Fort Lauderdale, 26.122, -80.137]
+    - [George Town, 19.295, -81.381]
+    - [Oranjestad, 12.524, -70.027]
+    - [Willemstad, 12.109, -68.934]
+    - [Kralendijk, 12.150, -68.268]
+    - [San Juan, 18.466, -66.106]
+    - [Puerto Plata, 19.793, -70.689]
+    - [Fort Lauderdale, 26.122, -80.137]
+
+Norway-and-Denmark-2025-recap:
+  label: Norway and Denmark
+  year: 2025
+  pin: [60.391, 5.322]
+  stops:
+    - [Bergen, 60.391, 5.322]
+    - [Balestrand, 61.207, 6.534]
+    - [Voss, 60.628, 6.418]
+    - [Oslo, 59.913, 10.752]
+    - [Copenhagen, 55.676, 12.568]
+
+Switzerland-and-Germany-recap:
+  label: Switzerland and Germany
+  year: 2025
+  pin: [46.608, 7.922]
+  stops:
+    - [Zurich, 47.377, 8.542]
+    - [Wengen, 46.608, 7.922]
+    - [Zermatt, 46.020, 7.749]
+    - [Appenzell, 47.331, 9.410]
+    - [Füssen, 47.571, 10.701]
+    - [Garmisch-Partenkirchen, 47.492, 11.095]
+    - [Munich, 48.135, 11.582]
+
+Rome-and-Silversea-recap:
+  label: Rome and the Mediterranean
+  year: 2026
+  pin: [41.903, 12.496]
+  stops:
+    - [Rome, 41.903, 12.496]
+    - [Livorno, 43.548, 10.311]
+    - [València, 39.470, -0.376]
+    - [Cartagena, 37.606, -0.986]
+    - [Portimão, 37.138, -8.537]
+    - [Lisbon, 38.722, -9.139]
+
+England-and-Iberia-recap:
+  label: England and Iberia
+  year: 2026
+  pin: [51.507, -0.128]
+  stops:
+    - [London, 51.507, -0.128]
+    - [Southampton, 50.904, -1.404]
+    - [Porto, 41.183, -8.700]
+    - [Lisbon, 38.722, -9.139]
+    - [Palma, 39.570, 2.650]
+    - [Barcelona, 41.385, 2.173]
+    - [Ibiza, 38.907, 1.433]
+    - [Málaga, 36.721, -4.421]
+    - [La Coruña, 43.362, -8.411]
+    - [Bilbao, 43.263, -2.935]
+    - [Southampton, 50.904, -1.404]
