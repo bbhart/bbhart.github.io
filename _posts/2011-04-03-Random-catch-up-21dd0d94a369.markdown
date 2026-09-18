@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: Random catch-up
 date: '2011-04-03T03:06:00.000Z'
 categories: []

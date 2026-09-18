@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: Leaving a job for the great unknown
 description: >-
   It’s been a whirlwind. In the 15 months I was there, Jaunt tripled in size,

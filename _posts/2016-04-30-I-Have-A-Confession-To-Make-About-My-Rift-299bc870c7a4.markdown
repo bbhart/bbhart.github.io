@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: I Have A Confession To Make About My Rift
 description: >-
   I have a confession to make: my Rift CV1 arrived 10 days ago and I haven’t

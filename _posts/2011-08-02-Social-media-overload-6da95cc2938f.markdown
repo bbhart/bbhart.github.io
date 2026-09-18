@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: Social media overload
 subtitle: a/k/a The One Where Ross And Chandler Try To Quit The Gym
 date: '2011-08-02T02:39:48.000Z'

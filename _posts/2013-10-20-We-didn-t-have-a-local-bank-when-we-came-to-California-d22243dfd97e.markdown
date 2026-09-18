@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: We didn’t have a local bank when we came to California
 description: >-
   Nor did I feel like we needed oneFor the past few years we’ve banked with

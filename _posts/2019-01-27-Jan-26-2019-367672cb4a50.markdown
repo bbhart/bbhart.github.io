@@ -1,5 +1,7 @@
 ---
 layout: post
+section: travel
+rollup_key: 2019india
 title: Leaving India
 description: >-
   Last day in India. Low-grade sickness has kicked my ass the past few days.

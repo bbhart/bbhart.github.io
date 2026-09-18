@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: 'OK, What Changed?'
 description: Or how diligent Change Management keeps LinkedIn up.
 date: '2017-10-30T16:23:10.448Z'

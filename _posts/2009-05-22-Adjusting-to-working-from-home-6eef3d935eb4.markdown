@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: Adjusting to working from home
 subtitle: Routine is the key for my working from home
 date: '2009-05-22T18:30:12.000Z'

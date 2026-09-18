@@ -1,0 +1,30 @@
+---
+layout: post
+title: India in 2019
+subtitle: My third trip to the Bangalore office, by way of an overnight layover in Dubai
+date:  2019-01-31
+categories: travel rollup
+destination: india
+locations_visited:
+  - San Francisco, California, USA
+  - Dubai, United Arab Emirates
+  - Bengaluru, India
+countries_visited: [United Arab Emirates, India]
+---
+
+{% assign sorted_posts = site.posts | where: "rollup_key", "2019india" | sort: 'date' %}
+
+<h2>Contents</h2>
+<ul>
+{% for post in sorted_posts %}
+<li/><strong><a href="{{ post.url }}">{{ post.title }}</a></strong> ({{ post.date | date: "%D" }}){% if post.subtitle %}: {{ post.subtitle }}{% endif %}
+{% endfor %}
+</ul>
+
+<p/>
+
+{% for post in sorted_posts %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  {% if post.subtitle %}<strong>{{ post.subtitle }}</strong>{% endif %}
+  {{ post.content }}
+{% endfor %}

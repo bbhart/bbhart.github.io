@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: Expanding Tastes
 subtitle: I like more kinds of food now than I did in the past. Why is that?
 date: '2010-06-01T03:40:15.000Z'

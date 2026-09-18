@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: 'So goodbye, yellow print couches'
 description: >-
   They were picked up this morning, off to their next adventure. Thanks, Craig

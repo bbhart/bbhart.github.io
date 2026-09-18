@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: A few words on Creativerse
 description: >-
   According to Steam, I’ve played 134 hours of Playful Corp’s game Creativerse.

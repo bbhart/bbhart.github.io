@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: Lending Club update — 10 months later
 description: >-
   It’s been about ten months since I started my Lending Club IRA account as

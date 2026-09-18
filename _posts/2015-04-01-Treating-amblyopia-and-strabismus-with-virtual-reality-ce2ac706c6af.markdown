@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: Treating amblyopia and strabismus with virtual reality
 description: >-
   Diplopia is a virtual reality title designed to provide targeted exercises for

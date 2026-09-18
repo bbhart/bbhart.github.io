@@ -3,6 +3,8 @@ layout: page
 title: Posts
 ---
 
+{% include section_nav.html current="all" %}
+
 <ul class="post-rows">
   {% for post in paginator.posts %}
   {% include post_row.html post=post %}

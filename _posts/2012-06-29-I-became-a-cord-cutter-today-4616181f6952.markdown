@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: I became a cord cutter today
 date: '2012-06-29T02:55:10.000Z'
 categories: []

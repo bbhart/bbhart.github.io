@@ -5,4 +5,7 @@
 {% assign skip = "travel,rollup,europe,reviews,hotels" | split: "," %}
 {% capture kicker %}{% for c in include.categories %}{% unless skip contains c %}{{ c | replace: "-", " " }}|{% endunless %}{% endfor %}{% endcapture %}
 {% assign kicker_parts = kicker | split: "|" %}
-{% if kicker_parts.size > 0 %}<p class="kicker">{{ kicker_parts | join: " · " }}</p>{% endif %}
+{% if kicker_parts.size > 0 %}<p class="kicker">{{ kicker_parts | join: " · " }}</p>
+{% elsif include.section == "tech" %}<p class="kicker"><a href="{{ "/tech/" | relative_url }}">Technology</a></p>
+{% elsif include.section == "life" %}<p class="kicker"><a href="{{ "/life/" | relative_url }}">Life</a></p>
+{% elsif include.section == "travel" %}<p class="kicker"><a href="{{ "/travel/" | relative_url }}">Travel</a></p>{% endif %}

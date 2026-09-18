@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: TN vacation — day 2
 description: >-
   We woke up in Clinton, SC, this morning and arrived in Johnson City, TN,

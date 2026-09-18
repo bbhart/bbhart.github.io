@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: Interacting with the computer
 subtitle: Human-computer interaction still has a long way to go
 date: '2010-01-26T20:39:42.000Z'

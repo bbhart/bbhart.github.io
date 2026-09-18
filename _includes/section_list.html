@@ -1,0 +1,16 @@
+{% comment %} Every post in include.section, newest first, under year headings. {% endcomment %}
+{% assign current_year = "" %}
+{% for p in site.posts %}
+  {% include section_of.html post=p %}
+  {% if post_section == include.section %}
+    {% assign y = p.date | date: "%Y" %}
+    {% if y != current_year %}
+      {% unless current_year == "" %}</ul>{% endunless %}
+      <h2 class="year-label">{{ y }}</h2>
+      <ul class="post-rows">
+      {% assign current_year = y %}
+    {% endif %}
+    {% include post_row.html post=p %}
+  {% endif %}
+{% endfor %}
+{% unless current_year == "" %}</ul>{% endunless %}

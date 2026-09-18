@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: What I want in a primary care physician
 date: '2011-07-07T20:46:42.000Z'
 categories: []

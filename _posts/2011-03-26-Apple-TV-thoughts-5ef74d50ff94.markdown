@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: Apple TV thoughts
 description: >-
   Mi hermano emailed me a few minutes ago asking if I had purchased an Apple TV

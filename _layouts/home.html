@@ -11,7 +11,7 @@ layout: default
   <div class="atlas__intro">
     <p class="kicker">Travel journals</p>
     <h1 id="atlas-title">Where I've been</h1>
-    <p class="atlas__lede">{{ site.description }}</p>
+    <p class="atlas__lede">Journals from every trip, plus writing on <a href="{{ "/tech/" | relative_url }}">technology</a> and <a href="{{ "/life/" | relative_url }}">life</a>. From Holly Springs, NC.</p>
     {% capture stop_names %}{% for trip in site.data.trips %}{% for s in trip[1].stops %}{{ s[0] }}|{% endfor %}{% endfor %}{% endcapture %}
     {% assign stop_count = stop_names | split: "|" | uniq | size %}
     <p class="meta">{{ recaps.size }} trips &middot; {{ stop_count }} places &middot; since {{ first_trip.date | date: "%Y" }}</p>
@@ -55,6 +55,30 @@ layout: default
       {% endfor %}
     </ul>
   </section>
+
+  <div class="sections">
+    {% assign bands = "tech:Technology,life:Life" | split: "," %}
+    {% for band in bands %}
+    {% assign parts = band | split: ":" %}
+    {% assign band_posts = site.posts | where: "section", parts[0] %}
+    <section aria-labelledby="band-{{ parts[0] }}">
+      <h2 class="section-label" id="band-{{ parts[0] }}">{{ parts[1] }}</h2>
+      <ul class="post-rows post-rows--compact">
+        {% for post in band_posts limit: 3 %}
+        <li class="post-row post-row--text">
+          <a href="{{ post.url | relative_url }}">
+            <div>
+              <h3>{{ post.title }}</h3>
+              <span class="meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time></span>
+            </div>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+      <a class="more-link" href="{{ parts[0] | prepend: "/" | append: "/" | relative_url }}">All {{ parts[1] | downcase }} posts ({{ band_posts.size }}) &rarr;</a>
+    </section>
+    {% endfor %}
+  </div>
 
   <section class="latest" aria-labelledby="latest-title">
     <h2 class="section-label" id="latest-title">Latest posts</h2>

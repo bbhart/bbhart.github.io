@@ -1,5 +1,6 @@
 ---
 layout: post
+section: tech
 title: Jan 11 2018
 description: >-
   This is the first post in what is my delayed response to a new year resolution

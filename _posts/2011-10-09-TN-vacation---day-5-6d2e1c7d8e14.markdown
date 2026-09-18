@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: TN vacation — day 5
 description: 'September 8, 2011'
 date: '2011-10-09T17:05:39.000Z'

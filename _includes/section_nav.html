@@ -1,0 +1,9 @@
+{% comment %} Filter links shared by /posts/, /travel/, /tech/ and /life/. {% endcomment %}
+{% assign n_travel = 0 %}{% assign n_tech = 0 %}{% assign n_life = 0 %}
+{% for p in site.posts %}{% include section_of.html post=p %}{% if post_section == "travel" %}{% assign n_travel = n_travel | plus: 1 %}{% elsif post_section == "tech" %}{% assign n_tech = n_tech | plus: 1 %}{% elsif post_section == "life" %}{% assign n_life = n_life | plus: 1 %}{% endif %}{% endfor %}
+<nav class="section-nav" aria-label="Filter posts">
+  <a href="{{ "/posts/" | relative_url }}"{% if include.current == "all" %} aria-current="page"{% endif %}>All <span>{{ site.posts.size }}</span></a>
+  <a href="{{ "/travel/" | relative_url }}"{% if include.current == "travel" %} aria-current="page"{% endif %}>Travel <span>{{ n_travel }}</span></a>
+  <a href="{{ "/tech/" | relative_url }}"{% if include.current == "tech" %} aria-current="page"{% endif %}>Technology <span>{{ n_tech }}</span></a>
+  <a href="{{ "/life/" | relative_url }}"{% if include.current == "life" %} aria-current="page"{% endif %}>Life <span>{{ n_life }}</span></a>
+</nav>

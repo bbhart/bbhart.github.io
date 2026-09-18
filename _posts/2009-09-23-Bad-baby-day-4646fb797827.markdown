@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: Bad baby day
 subtitle: Adventures with our six week old
 date: '2009-09-23T23:14:20.000Z'

@@ -1,5 +1,6 @@
 ---
 layout: post
+section: life
 title: Figuring out California
 description: >-
   Today was the start of my third week of work. Life is getting better as I
