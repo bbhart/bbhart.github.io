@@ -30,8 +30,14 @@ Replace the Clean Blog (Bootstrap 4) remote theme with a self-owned, framework-f
   minus `travel`/`rollup`), title, italic subtitle, date and read time. "More from this trip"
   as a numbered list. Previous/next as titled text links.
 - Page: same header; image only when `background` is set; `description` as subtitle.
-- Home: newest post as a large feature, next 8 as thumbnail rows, then "All posts".
-- Posts index: same rows plus Newer/Older links.
+- Home: a trip map (Leaflet over a Natural Earth vector basemap, pins from
+  `_data/trips.yml` keyed by recap slug), a trip-recap photo grid, a Technology / Life
+  band, then the five latest posts. Overlapping pins fold into numbered groups; touch
+  screens get 44px tap targets.
+- Sections: travel posts are `categories: travel`; tech and life posts carry
+  `section: tech|life` instead of a category, because categories are part of the
+  permalink. `/travel/`, `/tech/`, `/life/` list each section by year.
+- Posts index: same rows plus All / Travel / Technology / Life filters and Newer/Older links.
 - Footer: inline SVG social icons and copyright.
 
 ## Fallbacks
