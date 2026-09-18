@@ -1,7 +1,21 @@
 // Long-form body copy for posts and pages.
 
 .prose {
+  // Long URLs and code in link text would otherwise push phones sideways.
+  overflow-wrap: break-word;
+  // Instagram's embed briefly positions its iframe absolutely at width 100%
+  // while it loads; keep that 100% relative to the column, not the page.
+  position: relative;
+
   > :first-child { margin-top: 0; }
+
+  // Instagram's embed script sets an inline min-width of 326px, wider than
+  // the text column on a 320px phone.
+  iframe.instagram-media,
+  blockquote.instagram-media {
+    min-width: 0 !important;
+    max-width: 100% !important;
+  }
 
   h2,
   h3 { margin-top: 2.2em; }
