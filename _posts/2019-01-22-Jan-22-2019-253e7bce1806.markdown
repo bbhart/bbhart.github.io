@@ -3,6 +3,7 @@ layout: post
 section: travel
 rollup_key: 2019india
 title: India day 2
+subtitle: A foggy morning, a shared cold, and why in-person still matters
 date: '2019-01-22T17:25:24.017Z'
 categories: travel india
 keywords: []

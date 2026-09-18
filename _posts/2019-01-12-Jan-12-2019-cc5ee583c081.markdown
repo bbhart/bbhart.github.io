@@ -1,7 +1,8 @@
 ---
 layout: post
 section: life
-title: Jan 12 2019
+title: From film school plans to a Finance degree
+subtitle: How I ended up at UCF, and a major I can't remember choosing
 description: >-
   This is the second post in what is my delayed response to a new year
   resolution to write more. It’ll mostly be random fragments of…

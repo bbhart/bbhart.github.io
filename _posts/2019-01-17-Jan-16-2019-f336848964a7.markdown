@@ -1,7 +1,8 @@
 ---
 layout: post
 section: tech
-title: Jan 16 2019
+title: Oculus Go is good, but the Quest will be a game changer
+subtitle: Plus learning UE4, and leaving tomorrow for India
 description: >-
   Oculus Go is good but not great. It caters to an audience that isn’t me, is
   all. A friend at work uses his to watch movies in his bed while…

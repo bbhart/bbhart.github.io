@@ -1,7 +1,8 @@
 ---
 layout: post
 section: tech
-title: Jan 29 2019
+title: The engineering manager treadmill
+subtitle: An architecture course, Facebook paying for your data, and job descriptions that want past coding experience
 description: >-
   After posting last night I started the Architectural Imagination course. I’m
   either jet lag punchy or not wired for the deeply intangible…
