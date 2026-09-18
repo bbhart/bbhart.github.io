@@ -72,13 +72,16 @@
     gap: 0.5rem;
   }
 
+  // Wrap onto a second line rather than scroll: a scrolling row hides
+  // About and Contact off-screen with nothing to say they're there.
   .site-nav {
-    margin-left: calc(-1 * var(--gutter));
-    margin-right: calc(-1 * var(--gutter));
-    padding: 0 var(--gutter);
-    width: calc(100% + 2 * var(--gutter));
+    margin-left: 0;
+    overflow: visible;
 
-    ul { gap: 1.25rem; }
+    ul {
+      flex-wrap: wrap;
+      gap: 0.35rem 1.1rem;
+    }
   }
 }
 
@@ -105,6 +108,16 @@
     margin: 0 0 0.5rem;
     font-size: var(--step-h1);
   }
+}
+
+// Phones: a shorter photo so the title shows above the fold.
+@media (max-width: 720px) {
+  .hero img {
+    height: 42vh;
+    min-height: 220px;
+  }
+
+  .page-heading { padding-top: 2rem; }
 }
 
 .kicker,
