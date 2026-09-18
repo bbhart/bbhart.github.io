@@ -17,6 +17,10 @@ locations:
   - name: Hartsfield-Jackson Atlanta International Airport
     type: airport
     country: United States
+venues:
+  - name: Delta Sky Club
+    type: lounge
+    location: Raleigh-Durham International Airport
 transport:
   - type: rideshare
     provider: Uber
@@ -35,6 +39,9 @@ activities:
   - TSA PreCheck
   - Terminal T to Terminal E connection in Atlanta
   - Overnight transatlantic flight
+challenges:
+  - RDU to Atlanta flight delayed at least 90 minutes, leaving about 15 minutes to make the Atlanta connection
+  - Main cabin economy on the overnight transatlantic leg meant head-bobbing instead of sleep
 companions:
   - Sherri
   - Siena
@@ -49,7 +56,7 @@ And so it begins.
 
 <img src="/assets/20260729-holly-springs-packed-luggage.jpg" alt="Four packed roller suitcases staged together on the hardwood floor of a kitchen at home — a black softside bag with a luggage tag, a dark hardside spinner, a tan patterned bag with a yellow pineapple tag, and a large navy softside bag — with bar stools, a stainless refrigerator, and white cabinetry in the background" width="100%" />
 
-Our first flight, RDU to Atlanta, was delayed until 8:45pm. We learned this moments after our Uber pulled into the driveway to take us to the airport, so off we went anyway. The ride was fine; the driver didn't help unload the luggage, though.
+Our first flight, RDU to Atlanta, was delayed until 8:45pm. We learned this moments after our Uber pulled into the driveway to take us to the airport, so off we went anyway. 
 
 Zero wait at TSA PreCheck, with one exception: Sherri tried to take a bottle of water through and was escorted back out to the exit to try again.
 
