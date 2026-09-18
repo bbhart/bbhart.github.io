@@ -1,0 +1,356 @@
+// Home page: trip map ("atlas"), trip grid, latest posts.
+
+.atlas {
+  position: relative;
+  border-bottom: 1px solid var(--rule);
+}
+
+.atlas__map {
+  height: 78vh;
+  min-height: 460px;
+  max-height: 820px;
+  z-index: 0;
+}
+
+.atlas .leaflet-container { background: var(--sea); }
+
+.land {
+  fill: var(--land);
+  fill-opacity: 1;
+  stroke: var(--border-land);
+}
+
+.atlas__intro,
+.atlas__card {
+  position: absolute;
+  z-index: 500;
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  box-shadow: 0 12px 32px rgba(31, 29, 26, 0.14);
+}
+
+.atlas__intro {
+  top: 2rem;
+  left: 2rem;
+  width: 340px;
+  padding: 1.5rem 1.6rem 1.25rem;
+
+  h1 {
+    margin: 0 0 0.6rem;
+    // unquote: libsass would otherwise try to do the math inside clamp()
+    font-size: unquote("clamp(2rem, 1.6rem + 1.5vw, 2.75rem)");
+  }
+
+  .meta { margin-bottom: 0.9rem; }
+}
+
+.atlas__lede {
+  margin: 0 0 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+.atlas__hint {
+  margin: 0;
+  padding-top: 0.8rem;
+  border-top: 1px solid var(--rule);
+  font-family: var(--font-ui);
+  font-size: var(--step-small);
+  color: var(--muted);
+}
+
+// On wide screens the trip card takes the intro's place while a trip is open.
+.atlas.is-selected .atlas__intro { display: none; }
+
+.atlas__card {
+  top: 2rem;
+  left: 2rem;
+  width: 340px;
+  overflow: hidden;
+
+  &[hidden] { display: none; }
+
+  img {
+    width: 100%;
+    height: 170px;
+    object-fit: cover;
+  }
+
+  h2 {
+    margin: 0 0 0.4rem;
+    font-size: 1.35rem;
+  }
+
+  .kicker { margin-bottom: 0.4rem; }
+}
+
+.atlas__card-link {
+  display: block;
+  color: var(--ink);
+  text-decoration: none;
+
+  &:hover h2 { color: var(--accent); }
+}
+
+.atlas__card-body { padding: 1.1rem 1.25rem 1.25rem; }
+
+.atlas__card-sub {
+  margin: 0 0 0.9rem;
+  font-size: 0.95rem;
+  line-height: 1.45;
+  color: var(--muted);
+}
+
+.atlas__card-cta {
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.atlas__close {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  z-index: 1;
+  width: 2rem;
+  height: 2rem;
+  border: 0;
+  border-radius: 50%;
+  background: var(--bg);
+  color: var(--ink);
+  font-size: 1.3rem;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+// Leaflet chrome, restyled ----------------------------------------------
+
+.atlas .leaflet-container { font-family: var(--font-ui); }
+
+.atlas .leaflet-container .leaflet-control-attribution {
+  background: color-mix(in srgb, var(--bg) 85%, transparent);
+  color: var(--muted);
+  font-size: 0.7rem;
+
+  a { color: var(--muted); }
+}
+
+.atlas .leaflet-bar a {
+  background: var(--bg);
+  color: var(--ink);
+  border-color: var(--rule);
+}
+
+// Pins ------------------------------------------------------------------
+
+.trip-pin {
+  background: none;
+  border: 0;
+}
+
+.trip-pin__dot {
+  display: block;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: 3px solid var(--bg);
+  box-shadow: 0 0 0 1px var(--accent), 0 2px 6px rgba(0, 0, 0, 0.3);
+  transition: transform 0.15s;
+}
+
+.trip-pin__label {
+  position: absolute;
+  left: 24px;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 0.25rem 0.55rem;
+  white-space: nowrap;
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--ink);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s;
+
+  b {
+    font-weight: 400;
+    color: var(--muted);
+  }
+}
+
+.trip-pin:hover,
+.trip-pin:focus-visible,
+.trip-pin.is-hover,
+.trip-pin.is-active {
+  z-index: 1000 !important;
+
+  .trip-pin__dot { transform: scale(1.25); }
+  .trip-pin__label { opacity: 1; }
+}
+
+.trip-pin.is-active .trip-pin__dot {
+  background: var(--ink);
+  box-shadow: 0 0 0 1px var(--ink), 0 0 0 8px color-mix(in srgb, var(--accent) 30%, transparent);
+}
+
+.trip-cluster {
+  background: none;
+  border: 0;
+
+  span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: var(--accent);
+    border: 3px solid var(--bg);
+    box-shadow: 0 0 0 1px var(--accent), 0 2px 6px rgba(0, 0, 0, 0.3);
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--bg);
+  }
+}
+
+.trip-route {
+  stroke: var(--accent);
+  fill: none;
+}
+
+.trip-stop {
+  stroke: var(--accent);
+  fill: var(--bg);
+  fill-opacity: 1;
+}
+
+.leaflet-tooltip.trip-tip {
+  background: var(--ink);
+  color: var(--bg);
+  border: 0;
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  box-shadow: none;
+
+  &::before { border-top-color: var(--ink); }
+}
+
+// Phones: intro above the map, card below it ------------------------------
+
+@media (max-width: 720px) {
+  .atlas {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .atlas__intro,
+  .atlas__card {
+    position: static;
+    width: auto;
+    box-shadow: none;
+    border: 0;
+  }
+
+  .atlas__intro {
+    order: -1;
+    padding: 2rem var(--gutter) 1.25rem;
+  }
+
+  .atlas.is-selected .atlas__intro { display: block; }
+
+  .atlas__hint { display: none; }
+
+  .atlas__map {
+    height: 58vh;
+    min-height: 340px;
+  }
+
+  .atlas__card {
+    border-top: 1px solid var(--rule);
+    position: relative;
+    top: auto;
+    left: auto;
+  }
+}
+
+// Trip grid ---------------------------------------------------------------
+
+.trips { margin-top: 3.5rem; }
+
+.trip-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 1.5rem 1.25rem;
+  list-style: none;
+  margin: 1rem 0 0;
+  padding: 0;
+}
+
+.trip-card {
+  display: block;
+  color: var(--ink);
+  text-decoration: none;
+
+  img,
+  .trip-card__blank {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: 3px;
+    margin-bottom: 0.7rem;
+    background: var(--bg-raised);
+    transition: transform 0.2s;
+  }
+
+  .trip-card__blank {
+    display: flex;
+    align-items: flex-end;
+    padding: 1rem;
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    line-height: 1.1;
+    color: var(--accent);
+    background:
+      radial-gradient(circle at 70% 30%, color-mix(in srgb, var(--accent) 22%, transparent), transparent 60%),
+      var(--bg-raised);
+  }
+
+  &:hover {
+    img,
+    .trip-card__blank { transform: translateY(-3px); }
+
+    .trip-card__title { color: var(--accent); }
+  }
+}
+
+.trip-card__year {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+
+.trip-card__title {
+  display: block;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.15rem;
+  line-height: 1.25;
+  transition: color 0.15s;
+}
+
+.latest {
+  margin-top: 4rem;
+  max-width: var(--measure);
+}

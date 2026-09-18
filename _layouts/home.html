@@ -2,31 +2,92 @@
 layout: default
 ---
 
-<div class="container">
+{% assign recaps = site.posts | where_exp: "p", "p.categories contains 'rollup'" %}
+{% assign first_trip = recaps | last %}
+
+<section class="atlas" aria-labelledby="atlas-title">
+  <div class="atlas__map" id="trip-map" role="region" aria-label="Map of trips. Select a pin to see the trip."></div>
+
+  <div class="atlas__intro">
+    <p class="kicker">Travel journals</p>
+    <h1 id="atlas-title">Where I've been</h1>
+    <p class="atlas__lede">{{ site.description }}</p>
+    {% capture stop_names %}{% for trip in site.data.trips %}{% for s in trip[1].stops %}{{ s[0] }}|{% endfor %}{% endfor %}{% endcapture %}
+    {% assign stop_count = stop_names | split: "|" | uniq | size %}
+    <p class="meta">{{ recaps.size }} trips &middot; {{ stop_count }} places &middot; since {{ first_trip.date | date: "%Y" }}</p>
+    <p class="atlas__hint">Select a pin to see the trip.</p>
+  </div>
+
+  <article class="atlas__card" id="trip-card" hidden aria-live="polite">
+    <button class="atlas__close" type="button" aria-label="Close">&times;</button>
+    <a class="atlas__card-link" href="#">
+      <img alt="" hidden>
+      <div class="atlas__card-body">
+        <p class="kicker"></p>
+        <h2></h2>
+        <p class="atlas__card-sub"></p>
+        <span class="atlas__card-cta">Read the trip &rarr;</span>
+      </div>
+    </a>
+  </article>
+</section>
+
+<div class="container container--wide">
 
   {{ content }}
 
-  <p class="intro">{{ site.description }}</p>
+  <section class="trips" aria-labelledby="trips-title">
+    <h2 class="section-label" id="trips-title">Trip recaps</h2>
+    <ul class="trip-grid">
+      {% for p in recaps %}
+      {% assign t = site.data.trips[p.slug] %}
+      <li>
+        <a class="trip-card" href="{{ p.url | relative_url }}" data-trip="{{ p.slug }}">
+          {% if p.background %}
+          <img src="{{ p.background | relative_url }}" alt="" loading="lazy">
+          {% else %}
+          <span class="trip-card__blank" aria-hidden="true">{{ t.label | default: p.title }}</span>
+          {% endif %}
+          <span class="trip-card__year">{% if t.year %}{{ t.year }}{% else %}{{ p.date | date: "%Y" }}{% endif %}</span>
+          <span class="trip-card__title">{{ t.label | default: p.title }}</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
 
-  {% assign latest = site.posts.first %}
-  {% if latest %}
-  <a class="feature" href="{{ latest.url | relative_url }}">
-    {% if latest.background %}<img src="{{ latest.background | relative_url }}" alt="" fetchpriority="high">{% endif %}
-    {% include kicker.html categories=latest.categories %}
-    <h2>{{ latest.title }}</h2>
-    <p class="subtitle">{% if latest.subtitle %}{{ latest.subtitle }}{% else %}{{ latest.excerpt | strip_html | truncatewords: 25 }}{% endif %}</p>
-    <p class="meta"><time datetime="{{ latest.date | date_to_xmlschema }}">{{ latest.date | date: '%B %-d, %Y' }}</time> &middot; {% include read_time.html content=latest.content %}</p>
-  </a>
-  {% endif %}
-
-  <h2 class="section-label">Recent posts</h2>
-  <ul class="post-rows">
-    {% for post in site.posts offset: 1 limit: 8 %}
-    {% include post_row.html post=post %}
-    {% endfor %}
-  </ul>
-
-  <a class="more-link" href="{{ "/posts/" | relative_url }}">All posts &rarr;</a>
+  <section class="latest" aria-labelledby="latest-title">
+    <h2 class="section-label" id="latest-title">Latest posts</h2>
+    <ul class="post-rows">
+      {% for post in site.posts limit: 5 %}
+      {% include post_row.html post=post %}
+      {% endfor %}
+    </ul>
+    <a class="more-link" href="{{ "/posts/" | relative_url }}">All posts &rarr;</a>
+  </section>
 
   <div class="page-body"></div>
 </div>
+
+<script id="trip-data" type="application/json">
+[
+{% for p in recaps %}{% assign t = site.data.trips[p.slug] %}
+  {
+    "slug": {{ p.slug | jsonify }},
+    "url": {{ p.url | relative_url | jsonify }},
+    "title": {{ p.title | jsonify }},
+    "label": {{ t.label | default: p.title | jsonify }},
+    "subtitle": {{ p.subtitle | jsonify }},
+    "year": {% if t.year %}{{ t.year }}{% else %}{{ p.date | date: "%Y" }}{% endif %},
+    "image": {% if p.background %}{{ p.background | relative_url | jsonify }}{% else %}null{% endif %},
+    "pin": {% if t.pin %}{{ t.pin | jsonify }}{% else %}null{% endif %},
+    "stops": {% if t.stops %}{{ t.stops | jsonify }}{% else %}[]{% endif %}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
+</script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+<script src="{{ "/assets/trip-map.js" | relative_url }}"></script>
