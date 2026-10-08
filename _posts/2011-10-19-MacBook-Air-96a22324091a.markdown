@@ -7,6 +7,8 @@ date: '2011-10-19T02:26:32.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/macbook-air-96a22324091a
+redirect_from:
+  - /macbook-air-46a8b3ab6ace
 ---
 
 **_Update: Nov 1, 2018:_** _my wife still uses this MacBook Air as her primary home computer. We did a battery replacement last year, which was relatively painless, and this laptop still meets our needs. Amazing._

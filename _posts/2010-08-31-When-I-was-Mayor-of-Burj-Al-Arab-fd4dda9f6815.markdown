@@ -9,6 +9,8 @@ date: '2010-08-31T14:44:18.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/when-i-was-mayor-of-burj-al-arab-fd4dda9f6815
+redirect_from:
+  - /burj-al-arab-f7cdbdb465be
 ---
 
 ![](/assets/0__VLImEXD0GFdypCbj.jpg)

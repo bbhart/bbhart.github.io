@@ -7,6 +7,8 @@ date: '2013-08-30T03:20:06.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/california-the-first-day-b6f977558af8
+redirect_from:
+  - /california-the-first-day-a1ac0e88aff6
 ---
 
 I’ve been in California for six days now. Let me try to exhausingly recap my schedule first, and then I’ll add thoughts and impressions. Where relevant, times are in Pacific. This entry covers the first day.

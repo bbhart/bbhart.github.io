@@ -7,6 +7,8 @@ date: '2011-08-05T12:38:54.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/temporomandibular-disorders-tmd-354722342312
+redirect_from:
+  - /temporomandibular-disorders-tmd-7646acaca3fc
 ---
 
 I visited with a maxillofacial guy on Wednesday and learned a few things. Most importantly, I’m not going crazy. They did a a lot more nodding-and-agreeing than frowning and brow-furrowing, which was a relief. The doctor did his poking and prodding and listening and questioning, with a diagnosis of a temporomandibular disorder.

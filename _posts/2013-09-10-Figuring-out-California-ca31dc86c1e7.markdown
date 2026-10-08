@@ -9,6 +9,8 @@ date: '2013-09-10T02:13:29.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/figuring-out-california-ca31dc86c1e7
+redirect_from:
+  - /figuring-out-california-d49d56811bef
 ---
 
 Today was the start of my third week of work. Life is getting better as I learn a new schedule, a new company, and a new home.

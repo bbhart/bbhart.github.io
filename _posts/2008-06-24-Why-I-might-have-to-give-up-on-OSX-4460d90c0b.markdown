@@ -7,6 +7,8 @@ date: '2008-06-24T15:55:35.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/why-i-might-have-to-give-up-on-osx-4460d90c0b
+redirect_from:
+  - /why-i-might-have-to-give-up-on-osx-344ff9b38930
 ---
 
 _Originally published at_ [_bbhart.com_](https://bbhart.com/why-i-might-have-to-give-up-on-osx-344ff9b38930) _on June 24, 2008._

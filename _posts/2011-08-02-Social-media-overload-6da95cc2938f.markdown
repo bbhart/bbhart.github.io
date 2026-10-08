@@ -7,6 +7,8 @@ date: '2011-08-02T02:39:48.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/social-media-overload-6da95cc2938f
+redirect_from:
+  - /social-media-overload-6f2cf91f5652
 ---
 
 Alternately titled: The One Where Ross And Chandler Try To Quit The Gym

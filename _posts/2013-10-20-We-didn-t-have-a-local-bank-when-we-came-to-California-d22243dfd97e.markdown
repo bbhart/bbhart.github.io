@@ -9,6 +9,8 @@ date: '2013-10-20T05:45:55.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/we-didnt-have-a-local-bank-when-we-came-to-california-d22243dfd97e
+redirect_from:
+  - /we-didnt-have-a-local-bank-cb94a61dadbd
 ---
 
 Nor did I feel like we needed one.

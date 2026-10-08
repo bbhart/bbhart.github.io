@@ -7,6 +7,8 @@ date: '2010-02-10T03:11:53.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/day-1-at-the-red-house-5cc5ce995bec
+redirect_from:
+  - /new-house-day-1-1e3c82dc0111
 ---
 
 Everything’s here. The garage is full, there are boxes _everywhere_, but:

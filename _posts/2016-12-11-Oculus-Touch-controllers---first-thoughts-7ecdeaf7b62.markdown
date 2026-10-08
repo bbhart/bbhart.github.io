@@ -9,6 +9,8 @@ date: '2016-12-11T20:28:20.575Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/oculus-touch-controllers-first-thoughts-7ecdeaf7b62
+redirect_from:
+  - /oculus-touch-controllers-first-thoughts-799b3eb06caa
 ---
 
 ![](/assets//1__lIg4lrBmBnM2K63fbAvIOA.jpeg)

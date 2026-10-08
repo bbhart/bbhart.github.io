@@ -7,6 +7,8 @@ date: '2009-05-02T00:14:23.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/12-days-left-in-pennsylvania-2655e0d9e5f4
+redirect_from:
+  - /12-days-2122c19291df
 ---
 
 Twelve more days left in Pennsylvania. To bring you up to speed, we:

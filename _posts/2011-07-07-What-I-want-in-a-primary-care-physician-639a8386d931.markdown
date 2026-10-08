@@ -6,6 +6,8 @@ date: '2011-07-07T20:46:42.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/what-i-want-in-a-primary-care-physician-639a8386d931
+redirect_from:
+  - /what-i-want-in-a-primary-care-physician-d21e79dacce0
 ---
 
 My recent head pressure issue has made me more aware of how a portion of our healthcare system works, how I work, and how out-of-sync we are. These synchronization issues may be common knowledge to you, but I’ve been relatively healthy my whole life. Half-decades would elapse without visiting a doctor’s office. This weird head problem has made me think a lot more about what I need from the system.

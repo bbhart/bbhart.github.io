@@ -9,6 +9,7 @@ Disallow: /README.md
 Disallow: /LICENSE
 Disallow: /_config.yml
 Disallow: /_site/
+Disallow: /cdn-cgi/
 
 # Explicitly allow API directory
 Allow: /api/

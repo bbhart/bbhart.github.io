@@ -9,6 +9,9 @@ date: '2011-08-01T18:47:02.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/facial-pressure-august-b9ec857bbf55
+redirect_from:
+  - /facial-pressure-august-23292310edbf
+  - /1054/facial-pressure-august/
 ---
 
 I’m still experiencing my facial pressure issue. This has been going on since late April… so rounding, let’s call it three solid months.

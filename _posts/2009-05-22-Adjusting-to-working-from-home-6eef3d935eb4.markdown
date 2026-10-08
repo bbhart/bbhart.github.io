@@ -7,6 +7,8 @@ date: '2009-05-22T18:30:12.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/adjusting-to-working-from-home-6eef3d935eb4
+redirect_from:
+  - /working-from-home-b39b89d2d295
 ---
 
 This is day three of me working from home. I’m settling in pretty well, working hard to develop discipline.

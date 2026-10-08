@@ -7,6 +7,8 @@ date: '2011-10-09T17:05:39.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/tn-vacation-day-5-6d2e1c7d8e14
+redirect_from:
+  - /tn-vacation-day-5-52bc175211a6
 ---
 
 **September 8, 2011**

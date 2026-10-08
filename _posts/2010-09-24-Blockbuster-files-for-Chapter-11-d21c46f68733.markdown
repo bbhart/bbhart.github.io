@@ -7,6 +7,8 @@ date: '2010-09-24T14:29:12.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/blockbuster-files-for-chapter-11-d21c46f68733
+redirect_from:
+  - /blockbuster-files-for-chapter-11-73b2478fd955
 ---
 
 **News:** [The Washington Post: Blockbuster seeks Chapter 11 protection](http://www.washingtonpost.com/wp-dyn/content/article/2010/09/23/AR2010092306660.html)

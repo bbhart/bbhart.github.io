@@ -3,6 +3,9 @@ layout: page
 title: Contact Me
 description: Reaching out to Brian
 background: '/assets/bg-matterhorn.jpg'
+permalink: /contact/
+redirect_from:
+  - /contact.html
 ---
 
 Your best bets for reaching me are:

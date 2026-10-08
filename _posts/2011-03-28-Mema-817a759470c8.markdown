@@ -9,6 +9,8 @@ date: '2011-03-28T21:32:40.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/mema-817a759470c8
+redirect_from:
+  - /mema-bc4d03a3e21d
 ---
 
 My world became a little bit smaller this past Saturday morning when I lost my sweet grandma Nora, or Mema as we called her.

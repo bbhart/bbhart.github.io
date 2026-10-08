@@ -65,6 +65,13 @@ plugins:
 exclude:
   - travels/
   - docs/
+  - scripts/
+  - HOWTO.md
+  - README.md
+  - README-TRAVEL-DATA-API.md
+  - servelocal.sh
+  - test_travel_data.rb
+  - travel-data-test.json
 
 paginate: 25
 paginate_path: "/posts/page:num/"

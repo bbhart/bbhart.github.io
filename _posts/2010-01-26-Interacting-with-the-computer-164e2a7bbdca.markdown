@@ -7,6 +7,8 @@ date: '2010-01-26T20:39:42.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/interacting-with-the-computer-164e2a7bbdca
+redirect_from:
+  - /interacting-with-the-computer-a69afce87f4b
 ---
 
 How much time do you spend every day walking your PC through the steps necessary to turn your intentions into actions?

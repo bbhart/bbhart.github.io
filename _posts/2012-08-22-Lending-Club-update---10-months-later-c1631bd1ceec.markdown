@@ -9,6 +9,8 @@ date: '2012-08-22T14:17:12.000Z'
 categories: []
 keywords: []
 slug: /@bbhart_ca/lending-club-update-10-months-later-c1631bd1ceec
+redirect_from:
+  - /lending-club-update-10-months-later-acf0976e1838
 ---
 
 It’s been about ten months since I started my Lending Club IRA account.
