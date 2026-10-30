@@ -137,3 +137,18 @@ England-and-Iberia-recap:
     - [La Coruña, 43.362, -8.411]
     - [Bilbao, 43.263, -2.935]
     - [Southampton, 50.904, -1.404]
+
+# Uncomment on publish day. Left commented while the posts are unpublished:
+# home.html counts stop names from every entry here, so a live entry would
+# change the production "places" count before the trip is public.
+# Transatlantic-Crossing-recap:
+#   label: Transatlantic Crossing
+#   year: 2026
+#   pin: [37.740, -25.668]
+#   stops:
+#     - [Southampton, 50.904, -1.404]
+#     - [Vigo, 42.240, -8.727]
+#     - [Lisbon, 38.722, -9.139]
+#     - [Ponta Delgada, 37.740, -25.668]
+#     - [Royal Naval Dockyard, 32.327, -64.834]
+#     - [Port Canaveral, 28.410, -80.618]
