@@ -14,7 +14,7 @@ This generally assumes you're a first time cruiser but more experienced folks mi
 
 You've never sailed before. You're perhaps nervous about getting sea sick, getting regular sick, not having enough to do, not liking your cabin, not liking the ports, not knowing how to get to the ship, and on and on. There's a lot to think about, with no frame of reference to draw from. 
 
-As you're planning your **first** cruise, here are some things to keep in mind. After this, read the Finding a Cruise section.
+As you're planning your **first** cruise, here are some things to keep in mind. After this, read the Finding a Cruise section for other considerations.
 
 ### Cruise duration
 A 3 or 4 night cruise out of Port Canaveral or Galveston attracts a different crowd than a 12 night Mediterranean out of Barcelona. If you're nervous about seasickness, you might decide to book a a 3 night cruise with the intention of limiting your time onboard if you're feeling ill or if there's too much of a party atmosphere or other vibes problems. The challenge here, though, is that a 7 night cruise isn't just a 3 night cruise but longer. It's a different mood. On a 7 night, there's more time to relax, settle in, get to know the staff, establish routines, make "ship friends", have opinions about favorite restaurants and dishes, etc. Unless my client had strong opinions one way or the other, I would recommend a 7 night as a first cruise.
@@ -51,11 +51,32 @@ I'll go deeper on cabin location in the next section, but for your first cruise 
 
 ## Finding a Cruise (Generally)
 
+### What Do You Want To Do?
+
+The Caribbean is great for catamaran trips, snorkeling, touring old forts, and lounging on a beach. Northern Europe if you want walking tours, museums, cathedrals, and bike tours. Do you want to power tour a European capital in a day or sip Piña coladas on the beach? 
+
 ### Where Do You Want To Go?
+
+Part of this is determined by what you want to do (above). 
 
 Generally, the regions are: Alaska, Antarctica, Asia, Australia and New Zealand, Bermuda, Canada and New England, Caribbean, Hawaii, Mediterranean, Mexican Riviera, Northern Europe, Panama Canal, South America, South Pacific, Transatlantic. 
 
 Some of this may be decided for you based on how much time you have off work and how far you want to fly. Seasonality also matters. Alaska itineraries run May through September when it's warmer in the northern hemisphere, while Antarctica is accessible November through March. 
+
+### Who Should You Sail With?
+
+Speaking somewhat generally, the cruise categories are:
+
+- Budget: older ships, lowest fares, often aimed at one regional market. Examples are Margaritaville at Sea, Marella and Ambassador.
+- Mainstream (also called contemporary): big ships, lots of activities, low fares plus many extra charges. Examples are Carnival, Royal Caribbean, Norwegian, and MSC.
+- Premium: better food and service, with a quieter, often older crowd. Examples are Celebrity, Princess, Holland America and Cunard.
+- Luxury: small ships, lots of crew per guest, and mostly all-inclusive fares. Examples are Silversea, Regent Seven Seas, Seabourn, Explora Journeys and Oceania. Some sources split off an ultra-luxury tier, usually Regent, Silversea and Seabourn.
+- Expedition: small, rugged ships going to remote destinations, with naturalists on board and landings by Zodiac boat. Examples are Lindblad, Hurtigruten, and the expedition fleets of Silversea, Seabourn and Scenic.
+- River: riverboats carrying roughly 100–200 passengers, mostly in Europe. Examples are Viking River, AmaWaterways and Avalon.
+
+And I love Disney Cruise Line (DCL) but I don't know how to categorize them! They charge premium prices and offer premium service, but the experience is busy, family-oriented, and mass-market. Let's consider DCL its own thing.
+
+Who you sail with depends a lot on 1) your budget, 2) how many other people you want to be around, 3) your desired level of service, 4) the experiences you're looking to have, and 5) who you're sailing with (kids?). 
 
 ### Cabin location
 
