@@ -31,16 +31,41 @@ transport:
     departure_time: 5:00pm
 trip_stage: embarkation
 companions:
-  - TODO
+  - solo
 ---
 
 - **Start of day:** Moxy Southampton
 - **End of day:** At sea
 
+The weather was cool and crisp, perfect for a walk. In the Moxy lobby, I passed a crowd of 20 people or so waiting for their bus transfer and made my way to the sidewalk outside. From the Moxy it's around a 20 minute walk along flat ground to the cruise terminal; it's really not bad at all. 
+
+If walking to the City or Horizon terminals in Southampton are interesting to you, I did a [brief writeup of the route](https://bbhart.com/travel/england/2026/Walking-from-Southampton-Central-Station-to-the-Cruise-Terminal.html) back in August. 
+
 <img src="/assets/20261018-southampton-horizon-terminal-walkway.jpg" alt="A pedestrian path through Southampton docks with large mustard-yellow lettering painted on the asphalt reading 'City and Horizon Terminals' beneath an arrow pointing ahead, a black roller suitcase parked mid-path, a parking lot behind wire fencing on the left, and a road with cars and railings on the right under a sunny blue sky with scattered clouds" width="100%" />
+
+My home for the next 13 nights: 
 
 <img src="/assets/20261018-southampton-stateroom.jpg" alt="View from the foot of the bed in a cruise ship stateroom, with a white duvet, a teal runner, and teal and grey throw pillows. Grey curtains frame a sliding glass door onto the veranda, where a large circular cutout in the white bulkhead frames the colorful buildings of the Southampton waterfront. A wall-mounted television is on the right" width="100%" />
 
+This is stateroom 6102 onboard the Celebrity Apex. It's a category P2 -- Deluxe Porthole View with Veranda -- which, if I'm being honest, I wasn't aware was a thing.
+
+<figure>
+    <img src="/assets/20261018-celebrity-apex-deluxe-porthole-veranda.jpg" alt="Celebrity Cruises listing for the P2 Deluxe Porthole View with Veranda category. A promotional photo shows a stateroom with a bed made in white and navy linens facing a sliding door onto a veranda, where a large round porthole cutout in the bulkhead frames the open sea. A grey sofa with navy cushions and a large red abstract print sits on the left, and a desk with a marble-based lamp sits on the right, over a grey carpet with a geometric pattern. Below the photo, text reads: 'Located at either end of the ship, in the Deluxe Porthole View with Veranda you'll have the choice to relax in your spacious living area, or step outside to enjoy morning coffee and evening sunsets.'" width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Deluxe Porthole View with Veranda (image: Celebrity Cruises)</figcaption>
+</figure>
+
+It was great! It has a narrow but functional veranda, plus all the light the sliding doors let in. I didn't use the veranda as often as I likely would have on a different cruise. Part of that was the weather (it was cool or cold the first half of the cruise), part of it was the uncomfortable chairs, but it was great to be able to step out there and get some fresh air and see what the temperature is like. 
+
+The location, all the way forward, did mean I felt a lot more ship motion than if I'd been perched midship. While we did have a few days with a lot of movement, it was the type of movement that didn't trigger seasickness. 
+
+<img src="/assets/20261018-deck-6-deckplan-forward.png" alt="Deck plan of the forward end of Deck 6 on the Celebrity Apex, showing the tapered bow at the top and two rows of staterooms running down either side of a central corridor. Pink staterooms 6100 through 6115 sit closest to the bow, with a red arrow in the central corridor pointing to stateroom 6102, second from the front on the right-hand side, and orange staterooms 6116 through 6127 continue aft. Small diamond, square, and wave symbols mark some of the cabins" style="display: block; width: 496px; max-width: 100%; margin: 2rem auto;" />
+
+I went to the top deck to watch sailaway. Neither of this year's sailaways from Southampton yielded good photos. I missed my chance to photograph our passing by the Queen Mary 2, also. 
+
 <img src="/assets/20261018-southampton-sailaway-wake.jpg" alt="The ship's white churning wake trailing across grey-green Southampton Water at sailaway, under a broad sky of soft grey and lilac clouds with patches of pale blue. In the distance, the dark-hulled Queen Mary 2 sits alongside a quay next to tall white grain silos, with container cranes on the far shore" width="100%" />
+
+I finished the day with some cruise ship pizza and a book. 
+
+<img src="/assets/20261018-oceanview-pizza-and-kindle.jpg" alt="Reading a Kindle at night in the ship's Oceanview Café buffet, with a bare knee and the glowing e-reader page in the foreground and a white marble table holding a plate with the last scraps of a meal and a fork at left. A yellow 'Take Care, Watch Your Step' sign stands on the floor beside a curving black-and-cream scalloped carpet, and beyond it a chef in whites works at a lit serving station framed by a navy wall with a gold geometric pattern. A few diners sit at tables along the curved windows under copper pendant lamps and a round recessed ceiling" width="100%" />
 
 {% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

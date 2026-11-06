@@ -1,15 +1,19 @@
 {
-  "generated_at": "2026-08-27T02:25:18Z",
-  "total_posts": 151,
+  "generated_at": "2026-11-06T17:45:10Z",
+  "total_posts": 157,
   "trips": [
     {
       "rollup_key": "2007eu",
       "posts": [
         {
           "title": "European Vacation 2007 Day 1",
-          "date": "2007-04-20",
+          "date": "2007-04-20 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-1.html",
           "subtitle": "Leaving on a jet plane — the scramble out of New Jersey",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -39,9 +43,13 @@
         },
         {
           "title": "European Vacation 2007 Day 2",
-          "date": "2007-04-21",
+          "date": "2007-04-21 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-2.html",
           "subtitle": "Untangling the English rail system, then embarking at Southampton",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -81,9 +89,13 @@
         },
         {
           "title": "European Vacation 2007 Day 3",
-          "date": "2007-04-22",
+          "date": "2007-04-22 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-3.html",
           "subtitle": "Le Havre and a jet-lagged bus dash to Paris",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -117,9 +129,13 @@
         },
         {
           "title": "European Vacation 2007 Day 4",
-          "date": "2007-04-23",
+          "date": "2007-04-23 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-4.html",
           "subtitle": "Waffles, devil beer, and quaint Brugge",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -157,9 +173,13 @@
         },
         {
           "title": "European Vacation 2007 Day 5",
-          "date": "2007-04-24",
+          "date": "2007-04-24 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-5.html",
           "subtitle": "Walking Amsterdam, a canal tour, and a scenic sail-away",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -189,9 +209,13 @@
         },
         {
           "title": "European Vacation 2007 Day 6",
-          "date": "2007-04-25",
+          "date": "2007-04-25 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-6.html",
           "subtitle": "Sea Day #1 and the serendipitous dress shirt",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -211,9 +235,13 @@
         },
         {
           "title": "European Vacation 2007 Day 7",
-          "date": "2007-04-26",
+          "date": "2007-04-26 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-7.html",
           "subtitle": "La Rochelle didn't quite WOW me",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -234,9 +262,13 @@
         },
         {
           "title": "European Vacation 2007 Day 8",
-          "date": "2007-04-27",
+          "date": "2007-04-27 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-8.html",
           "subtitle": "Bilbao, the Guggenheim, and a river walk promenade",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -268,9 +300,13 @@
         },
         {
           "title": "European Vacation 2007 Day 9",
-          "date": "2007-04-28",
+          "date": "2007-04-28 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-9.html",
           "subtitle": "Sea Day #2",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -290,9 +326,13 @@
         },
         {
           "title": "European Vacation 2007 Day 10",
-          "date": "2007-04-29",
+          "date": "2007-04-29 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-10.html",
           "subtitle": "Lisbon grows on me",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -317,9 +357,13 @@
         },
         {
           "title": "European Vacation 2007 Day 11",
-          "date": "2007-04-30",
+          "date": "2007-04-30 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-11.html",
           "subtitle": "The Rock of Gibraltar — my favorite port of the trip",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -353,9 +397,13 @@
         },
         {
           "title": "European Vacation 2007 Day 12",
-          "date": "2007-05-01",
+          "date": "2007-05-01 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-12.html",
           "subtitle": "Tangier — the most different place I'd ever been",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -390,9 +438,13 @@
         },
         {
           "title": "European Vacation 2007 Day 13",
-          "date": "2007-05-02",
+          "date": "2007-05-02 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-13.html",
           "subtitle": "Sea Day #3 — eating, packing, tipping",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -412,9 +464,13 @@
         },
         {
           "title": "European Vacation 2007 Day 14",
-          "date": "2007-05-03",
+          "date": "2007-05-03 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-14.html",
           "subtitle": "Debarking into Barcelona and Las Ramblas",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -452,9 +508,13 @@
         },
         {
           "title": "European Vacation 2007 Day 15",
-          "date": "2007-05-04",
+          "date": "2007-05-04 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-15.html",
           "subtitle": "A big touring day — Sagrada Família and Bonanova",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -495,9 +555,13 @@
         },
         {
           "title": "European Vacation 2007 Day 16",
-          "date": "2007-05-05",
+          "date": "2007-05-05 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-16.html",
           "subtitle": "A few weary hours in London (and a nearly lost bag)",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -540,9 +604,13 @@
         },
         {
           "title": "European Vacation 2007 Day 17",
-          "date": "2007-05-06",
+          "date": "2007-05-06 00:00:00 -0400",
+          "url": "/travel/europe/2007/europe-2007-day-17.html",
           "subtitle": "The long flight home",
-          "categories": "travel europe",
+          "categories": [
+            "travel",
+            "europe"
+          ],
           "tags": [
             "april2007"
           ],
@@ -573,13 +641,118 @@
       ]
     },
     {
+      "rollup_key": "2019india",
+      "posts": [
+        {
+          "title": "Back in India",
+          "date": "2019-01-21 06:25:19 -0500",
+          "url": "/travel/india/2019/@bbhart_ca-jan-21-2019-f921ac03e6f1.html",
+          "subtitle": "This time with travel buddies",
+          "categories": [
+            "travel",
+            "india"
+          ],
+          "tags": [],
+          "rollup_key": "2019india",
+          "day_type": "travel",
+          "trip_type": "business",
+          "location": "Bengaluru, India",
+          "locations": [
+            {
+              "name": "San Francisco",
+              "country": "USA",
+              "region": "California"
+            },
+            {
+              "name": "Dubai",
+              "country": "United Arab Emirates"
+            },
+            {
+              "name": "Bengaluru",
+              "country": "India",
+              "region": "Karnataka"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Airbnb apartment",
+              "location": "Dubai, United Arab Emirates",
+              "type": "accommodation"
+            }
+          ],
+          "transport": [
+            {
+              "type": "air",
+              "route": "San Francisco to Bengaluru",
+              "notes": "Overnight extended layover in Dubai"
+            }
+          ],
+          "travel_companions": [
+            "Walter",
+            "Andy"
+          ]
+        },
+        {
+          "title": "India day 2",
+          "date": "2019-01-22 12:25:24 -0500",
+          "url": "/travel/india/2019/@bbhart_ca-jan-22-2019-253e7bce1806.html",
+          "subtitle": "A foggy morning, a shared cold, and why in-person still matters",
+          "categories": [
+            "travel",
+            "india"
+          ],
+          "tags": [],
+          "rollup_key": "2019india",
+          "trip_type": "business",
+          "location": "Bengaluru, India",
+          "locations": [
+            {
+              "name": "Bengaluru",
+              "country": "India",
+              "region": "Karnataka"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "The Leela",
+              "location": "Bengaluru, India",
+              "type": "accommodation"
+            }
+          ],
+          "weather": "Foggy, damp, and cold"
+        },
+        {
+          "title": "Leaving India",
+          "date": "2019-01-26 21:49:14 -0500",
+          "url": "/2019/@bbhart_ca-jan-26-2019-367672cb4a50.html",
+          "subtitle": "Sick for the last few days, and some candid feedback overheard at the airport",
+          "categories": [],
+          "tags": [],
+          "rollup_key": "2019india"
+        },
+        {
+          "title": "End of third trip to India",
+          "date": "2019-01-28 21:10:16 -0500",
+          "url": "/2019/@bbhart_ca-jan-28-2019-aef1f258765f.html",
+          "subtitle": "Jet lag and mental fog",
+          "categories": [],
+          "tags": [],
+          "rollup_key": "2019india"
+        }
+      ]
+    },
+    {
       "rollup_key": "2023iceland",
       "posts": [
         {
           "title": "Iceland 2023 Day 1",
-          "date": "2023-06-11",
+          "date": "2023-06-11 00:00:00 -0400",
+          "url": "/travel/iceland/2023/Iceland-2023-Day-1.html",
           "subtitle": "Arrival and settling in",
-          "categories": "travel iceland",
+          "categories": [
+            "travel",
+            "iceland"
+          ],
           "tags": [
             "june2023"
           ],
@@ -649,9 +822,13 @@
         },
         {
           "title": "Iceland 2023 Day 2",
-          "date": "2023-06-12",
+          "date": "2023-06-12 00:00:00 -0400",
+          "url": "/travel/iceland/2023/Iceland-2023-Day-2.html",
           "subtitle": "Recovery and exploration around the Golden Circle",
-          "categories": "travel iceland",
+          "categories": [
+            "travel",
+            "iceland"
+          ],
           "tags": [
             "june2023"
           ],
@@ -783,9 +960,13 @@
         },
         {
           "title": "Iceland 2023 Day 3",
-          "date": "2023-06-13",
+          "date": "2023-06-13 00:00:00 -0400",
+          "url": "/travel/iceland/2023/Iceland-2023-Day-3.html",
           "subtitle": "Perfect weather and after-hours touring",
-          "categories": "travel iceland",
+          "categories": [
+            "travel",
+            "iceland"
+          ],
           "tags": [
             "june2023"
           ],
@@ -852,9 +1033,13 @@
         },
         {
           "title": "Iceland 2023 Day 4",
-          "date": "2023-06-14",
+          "date": "2023-06-14 00:00:00 -0400",
+          "url": "/travel/iceland/2023/Iceland-2023-Day-4.html",
           "subtitle": "Thingvellir and the journey to Húsafell",
-          "categories": "travel iceland",
+          "categories": [
+            "travel",
+            "iceland"
+          ],
           "tags": [
             "june2023"
           ],
@@ -939,9 +1124,13 @@
         },
         {
           "title": "Iceland 2023 Day 5",
-          "date": "2023-06-15",
+          "date": "2023-06-15 00:00:00 -0400",
+          "url": "/travel/iceland/2023/Iceland-2023-Day-5.html",
           "subtitle": "Lava tubes and waterfall hunting",
-          "categories": "travel iceland",
+          "categories": [
+            "travel",
+            "iceland"
+          ],
           "tags": [
             "june2023"
           ],
@@ -1066,9 +1255,13 @@
         },
         {
           "title": "Iceland 2023 Day 6",
-          "date": "2023-06-16",
+          "date": "2023-06-16 00:00:00 -0400",
+          "url": "/travel/iceland/2023/Iceland-2023-Day-6.html",
           "subtitle": "Horses and hot springs",
-          "categories": "travel iceland",
+          "categories": [
+            "travel",
+            "iceland"
+          ],
           "tags": [
             "june2023"
           ],
@@ -1236,9 +1429,13 @@
         },
         {
           "title": "Iceland 2023 Day 7",
-          "date": "2023-06-17",
+          "date": "2023-06-17 00:00:00 -0400",
+          "url": "/travel/iceland/2023/Iceland-2023-Day-7.html",
           "subtitle": "Moving day to Reykjavik",
-          "categories": "travel iceland",
+          "categories": [
+            "travel",
+            "iceland"
+          ],
           "tags": [
             "june2023"
           ],
@@ -1320,9 +1517,13 @@
         },
         {
           "title": "Iceland 2023 Day 8",
-          "date": "2023-06-18",
+          "date": "2023-06-18 00:00:00 -0400",
+          "url": "/travel/iceland/2023/Iceland-2023-Day-8.html",
           "subtitle": "Rainy day in Reykjavik",
-          "categories": "travel iceland",
+          "categories": [
+            "travel",
+            "iceland"
+          ],
           "tags": [
             "june2023"
           ],
@@ -1505,9 +1706,13 @@
         },
         {
           "title": "Iceland 2023 Day 9",
-          "date": "2023-06-19",
+          "date": "2023-06-19 00:00:00 -0400",
+          "url": "/travel/iceland/2023/Iceland-2023-Day-9.html",
           "subtitle": "Departure day and KEF airport chaos",
-          "categories": "travel iceland",
+          "categories": [
+            "travel",
+            "iceland"
+          ],
           "tags": [
             "june2023"
           ],
@@ -1653,9 +1858,13 @@
         {
           "title": "Japan Planning",
           "date": "2024-01-23 07:31:47 -0500",
+          "url": "/travel/japan/2024/Japan-Planning.html",
           "subtitle": "Where Brian realizes he probably shouldn't try to YOLO a 12 day trip to Japan",
-          "categories": "travel japan",
-          "tags": null,
+          "categories": [
+            "travel",
+            "japan"
+          ],
+          "tags": [],
           "rollup_key": "2024japan",
           "trip_stage": "planning",
           "trip_type": "solo",
@@ -1680,10 +1889,14 @@
         },
         {
           "title": "Japan T-minus 3 days",
-          "date": "2024-01-29",
+          "date": "2024-01-29 00:00:00 -0500",
+          "url": "/travel/japan/2024/Japan-T-minus-3-days.html",
           "subtitle": "As ready as I'm going to be",
-          "categories": "travel japan",
-          "tags": null,
+          "categories": [
+            "travel",
+            "japan"
+          ],
+          "tags": [],
           "rollup_key": "2024japan",
           "trip_stage": "planning",
           "locations": [
@@ -1733,10 +1946,14 @@
         },
         {
           "title": "Japan Trip Days 1 and 2",
-          "date": "2024-02-02",
+          "date": "2024-02-02 00:00:00 -0500",
+          "url": "/travel/japan/2024/Japan-Trip-Days-1-and-2.html",
           "subtitle": "The travel over and jet lag",
-          "categories": "travel japan",
-          "tags": null,
+          "categories": [
+            "travel",
+            "japan"
+          ],
+          "tags": [],
           "rollup_key": "2024japan",
           "trip_stage": "outbound",
           "locations": [
@@ -1840,10 +2057,14 @@
         },
         {
           "title": "Japan trip day 3",
-          "date": "2024-02-03",
+          "date": "2024-02-03 00:00:00 -0500",
+          "url": "/travel/japan/2024/Japan-trip-day-3.html",
           "subtitle": "First explorations in Tokyo",
-          "categories": "travel japan",
-          "tags": null,
+          "categories": [
+            "travel",
+            "japan"
+          ],
+          "tags": [],
           "rollup_key": "2024japan",
           "locations": [
             {
@@ -1971,10 +2192,14 @@
         },
         {
           "title": "Japan trip day 4",
-          "date": "2024-02-04",
+          "date": "2024-02-04 00:00:00 -0500",
+          "url": "/travel/japan/2024/Japan-trip-day-4.html",
           "subtitle": "Tokyo",
-          "categories": "travel japan",
-          "tags": null,
+          "categories": [
+            "travel",
+            "japan"
+          ],
+          "tags": [],
           "rollup_key": "2024japan",
           "locations": [
             {
@@ -2096,10 +2321,14 @@
         },
         {
           "title": "Japan trip days 5, 6, and 7",
-          "date": "2024-02-07",
+          "date": "2024-02-07 00:00:00 -0500",
+          "url": "/travel/japan/2024/Japan-trip-days-5-6-and-7.html",
           "subtitle": "Kamakura",
-          "categories": "travel japan",
-          "tags": null,
+          "categories": [
+            "travel",
+            "japan"
+          ],
+          "tags": [],
           "rollup_key": "2024japan",
           "locations": [
             {
@@ -2274,10 +2503,14 @@
         },
         {
           "title": "Japan trip days 8 and 9",
-          "date": "2024-02-09",
+          "date": "2024-02-09 00:00:00 -0500",
+          "url": "/travel/japan/2024/Japan-trip-days-8-and-9.html",
           "subtitle": "Kyoto",
-          "categories": "travel japan",
-          "tags": null,
+          "categories": [
+            "travel",
+            "japan"
+          ],
+          "tags": [],
           "rollup_key": "2024japan",
           "locations": [
             {
@@ -2430,10 +2663,14 @@
         },
         {
           "title": "Leaving Japan",
-          "date": "2024-02-10",
+          "date": "2024-02-10 00:00:00 -0500",
+          "url": "/travel/japan/2024/Leaving-Japan.html",
           "subtitle": "Cutting the trip short but excited for next time",
-          "categories": "travel japan",
-          "tags": null,
+          "categories": [
+            "travel",
+            "japan"
+          ],
+          "tags": [],
           "rollup_key": "2024japan",
           "trip_stage": "return_travel",
           "trip_duration": "10 days (truncated from 13 on day 4)",
@@ -2496,10 +2733,14 @@
         },
         {
           "title": "Shinkansen",
-          "date": "2024-03-18",
+          "date": "2024-03-18 00:00:00 -0400",
+          "url": "/travel/japan/2024/Shinkansen.html",
           "subtitle": "Antiquated systems for the futuristic bullet train",
-          "categories": "travel japan",
-          "tags": null,
+          "categories": [
+            "travel",
+            "japan"
+          ],
+          "tags": [],
           "rollup_key": "2024japan",
           "locations": [
             {
@@ -2548,9 +2789,13 @@
       "posts": [
         {
           "title": "Switzerland 2024 Day 1",
-          "date": "2024-07-11",
+          "date": "2024-07-11 00:00:00 -0400",
+          "url": "/travel/switzerland/2024/switzerland-2024-day-1.html",
           "subtitle": "RDU to Zurich — a jet-lagged arrival",
-          "categories": "travel switzerland",
+          "categories": [
+            "travel",
+            "switzerland"
+          ],
           "tags": [
             "july2024"
           ],
@@ -2585,9 +2830,13 @@
         },
         {
           "title": "Switzerland 2024 Day 2",
-          "date": "2024-07-12",
+          "date": "2024-07-12 00:00:00 -0400",
+          "url": "/travel/switzerland/2024/switzerland-2024-day-2.html",
           "subtitle": "A low-energy day in Zurich",
-          "categories": "travel switzerland",
+          "categories": [
+            "travel",
+            "switzerland"
+          ],
           "tags": [
             "july2024"
           ],
@@ -2603,9 +2852,13 @@
         },
         {
           "title": "Switzerland 2024 Day 3",
-          "date": "2024-07-13",
+          "date": "2024-07-13 00:00:00 -0400",
+          "url": "/travel/switzerland/2024/switzerland-2024-day-3.html",
           "subtitle": "The train to Wengen",
-          "categories": "travel switzerland",
+          "categories": [
+            "travel",
+            "switzerland"
+          ],
           "tags": [
             "july2024"
           ],
@@ -2642,9 +2895,13 @@
         },
         {
           "title": "Switzerland 2024 Day 4",
-          "date": "2024-07-14",
+          "date": "2024-07-14 00:00:00 -0400",
+          "url": "/travel/switzerland/2024/switzerland-2024-day-4.html",
           "subtitle": "The Panorama Trail and a look at Mürren",
-          "categories": "travel switzerland",
+          "categories": [
+            "travel",
+            "switzerland"
+          ],
           "tags": [
             "july2024"
           ],
@@ -2685,9 +2942,13 @@
         },
         {
           "title": "Switzerland 2024 Day 5",
-          "date": "2024-07-15",
+          "date": "2024-07-15 00:00:00 -0400",
+          "url": "/travel/switzerland/2024/switzerland-2024-day-5.html",
           "subtitle": "Moving day, with a lakeside detour to Spiez",
-          "categories": "travel switzerland",
+          "categories": [
+            "travel",
+            "switzerland"
+          ],
           "tags": [
             "july2024"
           ],
@@ -2724,9 +2985,13 @@
         },
         {
           "title": "Switzerland 2024 Day 6",
-          "date": "2024-07-16",
+          "date": "2024-07-16 00:00:00 -0400",
+          "url": "/travel/switzerland/2024/switzerland-2024-day-6.html",
           "subtitle": "Stumbling onto the Aletsch Glacier from Riederalp",
-          "categories": "travel switzerland",
+          "categories": [
+            "travel",
+            "switzerland"
+          ],
           "tags": [
             "july2024"
           ],
@@ -2769,9 +3034,13 @@
         },
         {
           "title": "Switzerland 2024 Day 7",
-          "date": "2024-07-17",
+          "date": "2024-07-17 00:00:00 -0400",
+          "url": "/travel/switzerland/2024/switzerland-2024-day-7.html",
           "subtitle": "The Gourmet Trail to Zermatt — and the loneliness of solo travel",
-          "categories": "travel switzerland",
+          "categories": [
+            "travel",
+            "switzerland"
+          ],
           "tags": [
             "july2024"
           ],
@@ -2822,9 +3091,13 @@
         },
         {
           "title": "Switzerland 2024 Day 8",
-          "date": "2024-07-18",
+          "date": "2024-07-18 00:00:00 -0400",
+          "url": "/travel/switzerland/2024/switzerland-2024-day-8.html",
           "subtitle": "The Riffelalp–Sunnegga Nature Trail and cold, clear Grünsee",
-          "categories": "travel switzerland",
+          "categories": [
+            "travel",
+            "switzerland"
+          ],
           "tags": [
             "july2024"
           ],
@@ -2870,9 +3143,13 @@
         },
         {
           "title": "Switzerland 2024 Day 9",
-          "date": "2024-07-19",
+          "date": "2024-07-19 00:00:00 -0400",
+          "url": "/travel/switzerland/2024/switzerland-2024-day-9.html",
           "subtitle": "Moving to car-free Bettmeralp and the best roast beef sandwich",
-          "categories": "travel switzerland",
+          "categories": [
+            "travel",
+            "switzerland"
+          ],
           "tags": [
             "july2024"
           ],
@@ -2911,9 +3188,13 @@
         },
         {
           "title": "Switzerland 2024 Day 10",
-          "date": "2024-07-20",
+          "date": "2024-07-20 00:00:00 -0400",
+          "url": "/travel/switzerland/2024/switzerland-2024-day-10.html",
           "subtitle": "A lighter day above Bettmeralp and one more look at the glacier",
-          "categories": "travel switzerland",
+          "categories": [
+            "travel",
+            "switzerland"
+          ],
           "tags": [
             "july2024"
           ],
@@ -2944,9 +3225,13 @@
         },
         {
           "title": "Switzerland 2024 Day 11",
-          "date": "2024-07-21",
+          "date": "2024-07-21 00:00:00 -0400",
+          "url": "/travel/switzerland/2024/switzerland-2024-day-11.html",
           "subtitle": "Schloss Thun and a more local Swiss vibe",
-          "categories": "travel switzerland",
+          "categories": [
+            "travel",
+            "switzerland"
+          ],
           "tags": [
             "july2024"
           ],
@@ -2979,9 +3264,13 @@
         },
         {
           "title": "Switzerland 2024 Day 12",
-          "date": "2024-07-22",
+          "date": "2024-07-22 00:00:00 -0400",
+          "url": "/travel/switzerland/2024/switzerland-2024-day-12.html",
           "subtitle": "The long journey home",
-          "categories": "travel switzerland",
+          "categories": [
+            "travel",
+            "switzerland"
+          ],
           "tags": [
             "july2024"
           ],
@@ -3017,10 +3306,14 @@
         },
         {
           "title": "Switzerland Travels 2024",
-          "date": "2024-07-23",
+          "date": "2024-07-23 00:00:00 -0400",
+          "url": "/travel/switzerland/2024/switzerland-2024.html",
           "subtitle": "A solo journey through Zurich, Wengen, Brig, Zermatt, Bettmeralp, and Thun.",
-          "categories": "travel switzerland",
-          "tags": null,
+          "categories": [
+            "travel",
+            "switzerland"
+          ],
+          "tags": [],
           "rollup_key": "2024ch",
           "trip_type": "solo",
           "trip_duration": "July 10-22, 2024",
@@ -3188,10 +3481,15 @@
       "posts": [
         {
           "title": "Iceland Cruise Day 1",
-          "date": "2024-08-02",
+          "date": "2024-08-02 00:00:00 -0400",
+          "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-1.html",
           "subtitle": "When we almost leave for a vacation",
-          "categories": "travel cruise iceland",
-          "tags": null,
+          "categories": [
+            "travel",
+            "cruise",
+            "iceland"
+          ],
+          "tags": [],
           "rollup_key": "2024icelandcruise",
           "day_type": "travel_day",
           "trip_stage": "pre_cruise",
@@ -3227,9 +3525,14 @@
         },
         {
           "title": "Iceland Cruise Day 2",
-          "date": "2024-08-03",
+          "date": "2024-08-03 00:00:00 -0400",
+          "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-2.html",
           "subtitle": "An early morning flight and first family visit to New York",
-          "categories": "travel cruise iceland",
+          "categories": [
+            "travel",
+            "cruise",
+            "iceland"
+          ],
           "tags": [
             "new york city",
             "jersey city"
@@ -3382,9 +3685,14 @@
         },
         {
           "title": "Iceland Cruise Day 3",
-          "date": "2024-08-04",
+          "date": "2024-08-04 00:00:00 -0400",
+          "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-3.html",
           "subtitle": "Celebrity cruise embarkation in Bayonne and a stormy sail away",
-          "categories": "travel cruise iceland",
+          "categories": [
+            "travel",
+            "cruise",
+            "iceland"
+          ],
           "tags": [
             "new york city",
             "jersey city",
@@ -3494,9 +3802,14 @@
         },
         {
           "title": "Iceland Cruise Day 4",
-          "date": "2024-08-05",
+          "date": "2024-08-05 00:00:00 -0400",
+          "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-4.html",
           "subtitle": "Between NYC and Halifax, the first of many sea days we'd have on this voyage",
-          "categories": "travel cruise iceland",
+          "categories": [
+            "travel",
+            "cruise",
+            "iceland"
+          ],
           "tags": [
             "celebrity",
             "celebrity eclipse"
@@ -3548,9 +3861,14 @@
         },
         {
           "title": "Iceland Cruise Day 5",
-          "date": "2024-08-06",
+          "date": "2024-08-06 00:00:00 -0400",
+          "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-5-Halifax.html",
           "subtitle": "A cloudy day in a familiar city, with lots of family",
-          "categories": "travel cruise iceland",
+          "categories": [
+            "travel",
+            "cruise",
+            "iceland"
+          ],
           "tags": [
             "halifax",
             "celebrity",
@@ -3708,9 +4026,14 @@
         },
         {
           "title": "Iceland Cruise Day 6",
-          "date": "2024-08-07",
+          "date": "2024-08-07 00:00:00 -0400",
+          "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-6.html",
           "subtitle": "Sea day between Halifax and St. John's, NL",
-          "categories": "travel cruise iceland",
+          "categories": [
+            "travel",
+            "cruise",
+            "iceland"
+          ],
           "tags": [
             "celebrity",
             "celebrity eclipse"
@@ -3773,9 +4096,14 @@
         },
         {
           "title": "Iceland Cruise Day 7",
-          "date": "2024-08-08",
+          "date": "2024-08-08 00:00:00 -0400",
+          "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-7-StJohns.html",
           "subtitle": "St. John's, Newfoundland & Labrador",
-          "categories": "travel cruise iceland",
+          "categories": [
+            "travel",
+            "cruise",
+            "iceland"
+          ],
           "tags": [
             "st johns",
             "celebrity",
@@ -3912,9 +4240,14 @@
         },
         {
           "title": "Iceland Cruise Day 8",
-          "date": "2024-08-09",
+          "date": "2024-08-09 00:00:00 -0400",
+          "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-8.html",
           "subtitle": "Sea day 1 between St. John's and Greenland",
-          "categories": "travel cruise iceland",
+          "categories": [
+            "travel",
+            "cruise",
+            "iceland"
+          ],
           "tags": [
             "celebrity",
             "celebrity eclipse"
@@ -4003,9 +4336,14 @@
         },
         {
           "title": "Iceland Cruise Day 9",
-          "date": "2024-08-10",
+          "date": "2024-08-10 00:00:00 -0400",
+          "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-9.html",
           "subtitle": "A special birthday sea day off the coast of Greenland!",
-          "categories": "travel cruise iceland",
+          "categories": [
+            "travel",
+            "cruise",
+            "iceland"
+          ],
           "tags": [
             "celebrity",
             "celebrity eclipse"
@@ -4076,9 +4414,14 @@
         },
         {
           "title": "Iceland Cruise Day 10",
-          "date": "2024-08-11",
+          "date": "2024-08-11 00:00:00 -0400",
+          "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-10-Greenland.html",
           "subtitle": "Drizzly day in Qaqortoq, Greenland",
-          "categories": "travel cruise iceland",
+          "categories": [
+            "travel",
+            "cruise",
+            "iceland"
+          ],
           "tags": [
             "greenland",
             "qaqortoq",
@@ -4165,9 +4508,14 @@
         },
         {
           "title": "Iceland Cruise Days 11 and 12",
-          "date": "2024-08-12",
+          "date": "2024-08-12 00:00:00 -0400",
+          "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-11-and-12.html",
           "subtitle": "Rocky sea days between Greenland and Iceland",
-          "categories": "travel cruise iceland",
+          "categories": [
+            "travel",
+            "cruise",
+            "iceland"
+          ],
           "tags": [
             "celebrity",
             "celebrity eclipse"
@@ -4212,9 +4560,14 @@
         },
         {
           "title": "Iceland Cruise Day 13",
-          "date": "2024-08-14",
+          "date": "2024-08-14 00:00:00 -0400",
+          "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-13-Akureyri.html",
           "subtitle": "The northern Iceland city Akureyri, and an educational shore excursion",
-          "categories": "travel cruise iceland",
+          "categories": [
+            "travel",
+            "cruise",
+            "iceland"
+          ],
           "tags": [
             "akureyri",
             "iceland",
@@ -4290,9 +4643,14 @@
         },
         {
           "title": "Iceland Cruise Day 14",
-          "date": "2024-08-15",
+          "date": "2024-08-15 00:00:00 -0400",
+          "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-14-Isafjordur.html",
           "subtitle": "Isafjordur, Iceland",
-          "categories": "travel cruise iceland",
+          "categories": [
+            "travel",
+            "cruise",
+            "iceland"
+          ],
           "tags": [
             "isafjordur",
             "iceland",
@@ -4350,9 +4708,14 @@
         },
         {
           "title": "Iceland Cruise Day 15",
-          "date": "2024-08-16",
+          "date": "2024-08-16 00:00:00 -0400",
+          "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-15-Reykjavik.html",
           "subtitle": "The end of the cruise, Reykjavik",
-          "categories": "travel cruise iceland",
+          "categories": [
+            "travel",
+            "cruise",
+            "iceland"
+          ],
           "tags": [
             "reykjavik",
             "iceland",
@@ -4407,9 +4770,13 @@
       "posts": [
         {
           "title": "Iceland Visit 2024 Day 1",
-          "date": "2024-09-03",
+          "date": "2024-09-03 00:00:00 -0400",
+          "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-1.html",
           "subtitle": "South coast of Iceland",
-          "categories": "travel iceland",
+          "categories": [
+            "travel",
+            "iceland"
+          ],
           "tags": [
             "reykjavik",
             "iceland"
@@ -4553,9 +4920,13 @@
         },
         {
           "title": "Iceland Visit 2024 Day 2",
-          "date": "2024-09-21",
+          "date": "2024-09-21 00:00:00 -0400",
+          "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-2.html",
           "subtitle": "South coast of Iceland",
-          "categories": "travel iceland",
+          "categories": [
+            "travel",
+            "iceland"
+          ],
           "tags": [
             "reykjavik",
             "iceland"
@@ -4628,9 +4999,13 @@
         },
         {
           "title": "Iceland Visit 2024 Day 3",
-          "date": "2024-09-22",
+          "date": "2024-09-22 00:00:00 -0400",
+          "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-3.html",
           "subtitle": "Old Charm Reykjavik",
-          "categories": "travel iceland",
+          "categories": [
+            "travel",
+            "iceland"
+          ],
           "tags": [
             "reykjavik",
             "iceland"
@@ -4734,9 +5109,13 @@
         },
         {
           "title": "Iceland Visit 2024 Day 4",
-          "date": "2024-09-22",
+          "date": "2024-09-22 00:00:00 -0400",
+          "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-4.html",
           "subtitle": "17 days of travel come to an end",
-          "categories": "travel iceland",
+          "categories": [
+            "travel",
+            "iceland"
+          ],
           "tags": [
             "reykjavik",
             "iceland"
@@ -4796,9 +5175,13 @@
       "posts": [
         {
           "title": "Celebrity Cruise Day 0",
-          "date": "2024-12-21",
+          "date": "2024-12-21 00:00:00 -0500",
+          "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-0.html",
           "subtitle": "Heading to Fort Lauderdale",
-          "categories": "travel caribbean",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
           "tags": [
             "celebrity",
             "cruise",
@@ -4908,9 +5291,13 @@
         },
         {
           "title": "Celebrity Cruise Day 1",
-          "date": "2024-12-22",
+          "date": "2024-12-22 00:00:00 -0500",
+          "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-1.html",
           "subtitle": "Getting to the ship",
-          "categories": "travel caribbean",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
           "tags": [
             "celebrity",
             "cruise",
@@ -5000,9 +5387,13 @@
         },
         {
           "title": "Celebrity Cruise Day 2",
-          "date": "2024-12-23",
+          "date": "2024-12-23 00:00:00 -0500",
+          "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-2.html",
           "subtitle": "Mobility",
-          "categories": "travel caribbean",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
           "tags": [
             "celebrity",
             "cruise",
@@ -5064,9 +5455,13 @@
         },
         {
           "title": "Celebrity Cruise Day 3",
-          "date": "2024-12-24",
+          "date": "2024-12-24 00:00:00 -0500",
+          "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-3-Grand-Cayman.html",
           "subtitle": "Grand Cayman",
-          "categories": "travel caribbean",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
           "tags": [
             "celebrity",
             "cruise",
@@ -5151,9 +5546,13 @@
         },
         {
           "title": "Celebrity Cruise Day 5",
-          "date": "2024-12-26",
+          "date": "2024-12-26 00:00:00 -0500",
+          "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-5-Aruba.html",
           "subtitle": "Aruba",
-          "categories": "travel caribbean",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
           "tags": [
             "celebrity",
             "cruise",
@@ -5249,9 +5648,13 @@
         },
         {
           "title": "Celebrity Cruise Day 6",
-          "date": "2024-12-27",
+          "date": "2024-12-27 00:00:00 -0500",
+          "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-6-Curacao.html",
           "subtitle": "Curaçao",
-          "categories": "travel caribbean",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
           "tags": [
             "celebrity",
             "cruise",
@@ -5354,9 +5757,13 @@
         },
         {
           "title": "Celebrity Cruise Day 7",
-          "date": "2024-12-28",
+          "date": "2024-12-28 00:00:00 -0500",
+          "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-7-Bonaire.html",
           "subtitle": "Bonaire",
-          "categories": "travel caribbean",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
           "tags": [
             "celebrity",
             "cruise",
@@ -5440,9 +5847,13 @@
         },
         {
           "title": "Celebrity Cruise Day 8",
-          "date": "2024-12-29",
+          "date": "2024-12-29 00:00:00 -0500",
+          "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-8.html",
           "subtitle": "Sea day",
-          "categories": "travel caribbean",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
           "tags": [
             "celebrity",
             "cruise",
@@ -5501,9 +5912,13 @@
         },
         {
           "title": "Celebrity Cruise Day 9",
-          "date": "2024-12-30",
+          "date": "2024-12-30 00:00:00 -0500",
+          "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-9-San-Juan.html",
           "subtitle": "San Juan",
-          "categories": "travel caribbean",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
           "tags": [
             "celebrity",
             "cruise",
@@ -5599,9 +6014,13 @@
         },
         {
           "title": "Celebrity Cruise Day 10",
-          "date": "2024-12-31",
+          "date": "2024-12-31 00:00:00 -0500",
+          "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-10-Puerto-Plata.html",
           "subtitle": "Puerto Plata, Dominican Republic",
-          "categories": "travel caribbean",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
           "tags": [
             "celebrity",
             "cruise",
@@ -5717,9 +6136,15 @@
       "posts": [
         {
           "title": "Quick review of the Omni Amelia Island",
-          "date": "2025-03-31",
+          "date": "2025-03-31 00:00:00 -0400",
+          "url": "/travel/florida/hotels/reviews/2025/Omni-Amelia-Island.html",
           "subtitle": null,
-          "categories": "travel florida hotels reviews",
+          "categories": [
+            "travel",
+            "florida",
+            "hotels",
+            "reviews"
+          ],
           "tags": [
             "florida",
             "disney"
@@ -5775,9 +6200,14 @@
       "posts": [
         {
           "title": "Norway and Denmark Day 1",
-          "date": "2025-05-08",
+          "date": "2025-05-08 00:00:00 -0400",
+          "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-1.html",
           "subtitle": "24 hours of travel begins",
-          "categories": "travel norway denmark",
+          "categories": [
+            "travel",
+            "norway",
+            "denmark"
+          ],
           "tags": [
             "may2025"
           ],
@@ -5823,9 +6253,14 @@
         },
         {
           "title": "Norway and Denmark Day 2",
-          "date": "2025-05-09",
+          "date": "2025-05-09 00:00:00 -0400",
+          "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-2.html",
           "subtitle": "24 hours of travel concludes, strolling around Bergen",
-          "categories": "travel norway denmark",
+          "categories": [
+            "travel",
+            "norway",
+            "denmark"
+          ],
           "tags": [
             "may2025"
           ],
@@ -5895,9 +6330,14 @@
         },
         {
           "title": "Norway and Denmark Day 3",
-          "date": "2025-05-10",
+          "date": "2025-05-10 00:00:00 -0400",
+          "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-3.html",
           "subtitle": "Full day in Bergen Norway",
-          "categories": "travel norway denmark",
+          "categories": [
+            "travel",
+            "norway",
+            "denmark"
+          ],
           "tags": [
             "may2025"
           ],
@@ -5946,9 +6386,14 @@
         },
         {
           "title": "Norway and Denmark Day 4",
-          "date": "2025-05-11",
+          "date": "2025-05-11 00:00:00 -0400",
+          "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-4.html",
           "subtitle": "Bergen to Balestrand",
-          "categories": "travel norway denmark",
+          "categories": [
+            "travel",
+            "norway",
+            "denmark"
+          ],
           "tags": [
             "may2025"
           ],
@@ -6020,9 +6465,14 @@
         },
         {
           "title": "VIDEO Bergen to Balestrand ferry",
-          "date": "2025-05-11",
+          "date": "2025-05-11 00:00:00 -0400",
+          "url": "/travel/norway/denmark/2025/VIDEO-Bergen-to-Balestrand.html",
           "subtitle": "Where I also learn how to kind of edit videos",
-          "categories": "travel norway denmark",
+          "categories": [
+            "travel",
+            "norway",
+            "denmark"
+          ],
           "tags": [
             "may2025"
           ],
@@ -6049,9 +6499,14 @@
         },
         {
           "title": "Norway and Denmark Day 5",
-          "date": "2025-05-12",
+          "date": "2025-05-12 00:00:00 -0400",
+          "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-5.html",
           "subtitle": "Balestrand hike",
-          "categories": "travel norway denmark",
+          "categories": [
+            "travel",
+            "norway",
+            "denmark"
+          ],
           "tags": [
             "may2025"
           ],
@@ -6111,9 +6566,14 @@
         },
         {
           "title": "Norway and Denmark Day 6",
-          "date": "2025-05-13",
+          "date": "2025-05-13 00:00:00 -0400",
+          "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-6.html",
           "subtitle": "Balestrand to Voss",
-          "categories": "travel norway denmark",
+          "categories": [
+            "travel",
+            "norway",
+            "denmark"
+          ],
           "tags": [
             "may2025"
           ],
@@ -6187,9 +6647,14 @@
         },
         {
           "title": "Norway and Denmark Day 7",
-          "date": "2025-05-14",
+          "date": "2025-05-14 00:00:00 -0400",
+          "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-7.html",
           "subtitle": "Sightseeing around Voss",
-          "categories": "travel norway denmark",
+          "categories": [
+            "travel",
+            "norway",
+            "denmark"
+          ],
           "tags": [
             "may2025"
           ],
@@ -6250,9 +6715,14 @@
         },
         {
           "title": "Norway and Denmark Day 8",
-          "date": "2025-05-15",
+          "date": "2025-05-15 00:00:00 -0400",
+          "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-8.html",
           "subtitle": "Train from Voss to Oslo",
-          "categories": "travel norway denmark",
+          "categories": [
+            "travel",
+            "norway",
+            "denmark"
+          ],
           "tags": [
             "may2025"
           ],
@@ -6322,9 +6792,14 @@
         },
         {
           "title": "Norway and Denmark Day 9",
-          "date": "2025-05-16",
+          "date": "2025-05-16 00:00:00 -0400",
+          "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-9.html",
           "subtitle": "Oslo and the ferry",
-          "categories": "travel norway denmark",
+          "categories": [
+            "travel",
+            "norway",
+            "denmark"
+          ],
           "tags": [
             "may2025"
           ],
@@ -6404,9 +6879,14 @@
         },
         {
           "title": "Norway and Denmark Day 10",
-          "date": "2025-05-17",
+          "date": "2025-05-17 00:00:00 -0400",
+          "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-10.html",
           "subtitle": "Arrival in Copenhagen",
-          "categories": "travel norway denmark",
+          "categories": [
+            "travel",
+            "norway",
+            "denmark"
+          ],
           "tags": [
             "may2025"
           ],
@@ -6475,9 +6955,14 @@
         },
         {
           "title": "Norway and Denmark Day 11",
-          "date": "2025-05-18",
+          "date": "2025-05-18 00:00:00 -0400",
+          "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-11.html",
           "subtitle": "The travel wall",
-          "categories": "travel norway denmark",
+          "categories": [
+            "travel",
+            "norway",
+            "denmark"
+          ],
           "tags": [
             "may2025"
           ],
@@ -6515,9 +7000,14 @@
         },
         {
           "title": "Norway and Denmark Day 12",
-          "date": "2025-05-19",
+          "date": "2025-05-19 00:00:00 -0400",
+          "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-12.html",
           "subtitle": "Copenhagen to RDU",
-          "categories": "travel norway denmark",
+          "categories": [
+            "travel",
+            "norway",
+            "denmark"
+          ],
           "tags": [
             "may2025"
           ],
@@ -6592,9 +7082,14 @@
       "posts": [
         {
           "title": "Switzerland and Germany Day 1",
-          "date": "2025-07-29",
+          "date": "2025-07-29 00:00:00 -0400",
+          "url": "/travel/norway/denmark/2025/Switzerland-and-Germany-Day-1.html",
           "subtitle": "RDU to Zurich",
-          "categories": "travel norway denmark",
+          "categories": [
+            "travel",
+            "norway",
+            "denmark"
+          ],
           "tags": [
             "july2025"
           ],
@@ -6632,9 +7127,14 @@
         },
         {
           "title": "Switzerland and Germany Day 2",
-          "date": "2025-07-30",
+          "date": "2025-07-30 00:00:00 -0400",
+          "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-2.html",
           "subtitle": "Planes and trains",
-          "categories": "travel switzerland germany",
+          "categories": [
+            "travel",
+            "switzerland",
+            "germany"
+          ],
           "tags": [
             "july2025"
           ],
@@ -6723,9 +7223,14 @@
         },
         {
           "title": "Switzerland and Germany Day 3",
-          "date": "2025-07-31",
+          "date": "2025-07-31 00:00:00 -0400",
+          "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-3.html",
           "subtitle": "Wengen, Lauterbrunnen, and the panorama walk",
-          "categories": "travel switzerland germany",
+          "categories": [
+            "travel",
+            "switzerland",
+            "germany"
+          ],
           "tags": [
             "july2025"
           ],
@@ -6796,9 +7301,14 @@
         },
         {
           "title": "Switzerland and Germany Day 4",
-          "date": "2025-08-01",
+          "date": "2025-08-01 00:00:00 -0400",
+          "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-4.html",
           "subtitle": "Wengen to Zermatt",
-          "categories": "travel switzerland germany",
+          "categories": [
+            "travel",
+            "switzerland",
+            "germany"
+          ],
           "tags": [
             "august2025"
           ],
@@ -6898,9 +7408,14 @@
         },
         {
           "title": "Switzerland and Germany Day 5",
-          "date": "2025-08-02",
+          "date": "2025-08-02 00:00:00 -0400",
+          "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-5.html",
           "subtitle": "Hikes, bikes, and carts in Zermatt",
-          "categories": "travel switzerland germany",
+          "categories": [
+            "travel",
+            "switzerland",
+            "germany"
+          ],
           "tags": [
             "august2025"
           ],
@@ -6997,9 +7512,14 @@
         },
         {
           "title": "Switzerland and Germany Day 6",
-          "date": "2025-08-03",
+          "date": "2025-08-03 00:00:00 -0400",
+          "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-6.html",
           "subtitle": "Up to Gornergrat and its Matterhorn views above Zermatt",
-          "categories": "travel switzerland germany",
+          "categories": [
+            "travel",
+            "switzerland",
+            "germany"
+          ],
           "tags": [
             "august2025"
           ],
@@ -7056,9 +7576,14 @@
         },
         {
           "title": "Switzerland and Germany Day 7",
-          "date": "2025-08-04",
+          "date": "2025-08-04 00:00:00 -0400",
+          "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-7.html",
           "subtitle": "A brief overnight in Appenzell",
-          "categories": "travel switzerland germany",
+          "categories": [
+            "travel",
+            "switzerland",
+            "germany"
+          ],
           "tags": [
             "august2025"
           ],
@@ -7146,9 +7671,14 @@
         },
         {
           "title": "Switzerland and Germany Day 8",
-          "date": "2025-08-05",
+          "date": "2025-08-05 00:00:00 -0400",
+          "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-8.html",
           "subtitle": "Füssen - a fairytale castle and less-than-fairytail transit",
-          "categories": "travel switzerland germany",
+          "categories": [
+            "travel",
+            "switzerland",
+            "germany"
+          ],
           "tags": [
             "august2025"
           ],
@@ -7304,9 +7834,14 @@
         },
         {
           "title": "Switzerland and Germany Day 9",
-          "date": "2025-08-06",
+          "date": "2025-08-06 00:00:00 -0400",
+          "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-9.html",
           "subtitle": "Scenic journey to Garmisch-Partenkirchen",
-          "categories": "travel switzerland germany",
+          "categories": [
+            "travel",
+            "switzerland",
+            "germany"
+          ],
           "tags": [
             "august2025"
           ],
@@ -7406,9 +7941,14 @@
         },
         {
           "title": "Switzerland and Germany Day 10",
-          "date": "2025-08-07",
+          "date": "2025-08-07 00:00:00 -0400",
+          "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-10.html",
           "subtitle": "Around Garmisch-Partenkirchen",
-          "categories": "travel switzerland germany",
+          "categories": [
+            "travel",
+            "switzerland",
+            "germany"
+          ],
           "tags": [
             "august2025"
           ],
@@ -7473,9 +8013,14 @@
         },
         {
           "title": "Switzerland and Germany Day 11",
-          "date": "2025-08-08",
+          "date": "2025-08-08 00:00:00 -0400",
+          "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-11.html",
           "subtitle": "Walking around Garmisch",
-          "categories": "travel switzerland germany",
+          "categories": [
+            "travel",
+            "switzerland",
+            "germany"
+          ],
           "tags": [
             "august2025"
           ],
@@ -7545,9 +8090,14 @@
         },
         {
           "title": "Switzerland and Germany Day 12",
-          "date": "2025-08-09",
+          "date": "2025-08-09 00:00:00 -0400",
+          "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-12.html",
           "subtitle": "To Munich!",
-          "categories": "travel switzerland germany",
+          "categories": [
+            "travel",
+            "switzerland",
+            "germany"
+          ],
           "tags": [
             "august2025"
           ],
@@ -7621,9 +8171,14 @@
         },
         {
           "title": "Switzerland and Germany Day 13",
-          "date": "2025-08-10",
+          "date": "2025-08-10 00:00:00 -0400",
+          "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-13.html",
           "subtitle": "Casual Sunday in Munich",
-          "categories": "travel switzerland germany",
+          "categories": [
+            "travel",
+            "switzerland",
+            "germany"
+          ],
           "tags": [
             "august2025"
           ],
@@ -7694,9 +8249,14 @@
         },
         {
           "title": "Switzerland and Germany Day 14",
-          "date": "2025-08-11",
+          "date": "2025-08-11 00:00:00 -0400",
+          "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-14.html",
           "subtitle": "To the airport",
-          "categories": "travel switzerland germany",
+          "categories": [
+            "travel",
+            "switzerland",
+            "germany"
+          ],
           "tags": [
             "august2025"
           ],
@@ -7765,9 +8325,14 @@
         },
         {
           "title": "Switzerland and Germany Day 15",
-          "date": "2025-08-12",
+          "date": "2025-08-12 00:00:00 -0400",
+          "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-15.html",
           "subtitle": "The trip home",
-          "categories": "travel switzerland germany",
+          "categories": [
+            "travel",
+            "switzerland",
+            "germany"
+          ],
           "tags": [
             "august2025"
           ],
@@ -7835,9 +8400,14 @@
       "posts": [
         {
           "title": "Rome and Silversea Day 1",
-          "date": "2026-05-04",
+          "date": "2026-05-04 00:00:00 -0400",
+          "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-1.html",
           "subtitle": "Travels to Europe",
-          "categories": "travel rome silversea",
+          "categories": [
+            "travel",
+            "rome",
+            "silversea"
+          ],
           "tags": [
             "may2026"
           ],
@@ -7910,9 +8480,14 @@
         },
         {
           "title": "Rome and Silversea Day 2",
-          "date": "2026-05-05",
+          "date": "2026-05-05 00:00:00 -0400",
+          "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-2.html",
           "subtitle": "The day of many steps",
-          "categories": "travel rome silversea",
+          "categories": [
+            "travel",
+            "rome",
+            "silversea"
+          ],
           "tags": [
             "may2026"
           ],
@@ -8075,9 +8650,14 @@
         },
         {
           "title": "Rome and Silversea Day 3",
-          "date": "2026-05-06",
+          "date": "2026-05-06 00:00:00 -0400",
+          "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-3.html",
           "subtitle": "It's Rome, so more walking and eating",
-          "categories": "travel rome silversea",
+          "categories": [
+            "travel",
+            "rome",
+            "silversea"
+          ],
           "tags": [
             "may2026"
           ],
@@ -8190,9 +8770,14 @@
         },
         {
           "title": "Rome and Silversea Day 4",
-          "date": "2026-05-07",
+          "date": "2026-05-07 00:00:00 -0400",
+          "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-4.html",
           "subtitle": "The Vatican, Colosseum, Forum, Trevi, and Pantheon",
-          "categories": "travel rome silversea",
+          "categories": [
+            "travel",
+            "rome",
+            "silversea"
+          ],
           "tags": [
             "may2026"
           ],
@@ -8318,9 +8903,14 @@
         },
         {
           "title": "Rome and Silversea Day 5",
-          "date": "2026-05-08",
+          "date": "2026-05-08 00:00:00 -0400",
+          "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-5.html",
           "subtitle": "Embark day on the Silversea Silver Spirit",
-          "categories": "travel rome silversea",
+          "categories": [
+            "travel",
+            "rome",
+            "silversea"
+          ],
           "tags": [
             "may2026"
           ],
@@ -8494,9 +9084,14 @@
         },
         {
           "title": "Rome and Silversea Day 6",
-          "date": "2026-05-09",
+          "date": "2026-05-09 00:00:00 -0400",
+          "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-6.html",
           "subtitle": "A deliberately low-key day in Livorno",
-          "categories": "travel rome silversea",
+          "categories": [
+            "travel",
+            "rome",
+            "silversea"
+          ],
           "tags": [
             "may2026"
           ],
@@ -8611,9 +9206,14 @@
         },
         {
           "title": "Rome and Silversea Day 7",
-          "date": "2026-05-10",
+          "date": "2026-05-10 00:00:00 -0400",
+          "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-7.html",
           "subtitle": "A full day at sea between Italy and Spain",
-          "categories": "travel rome silversea",
+          "categories": [
+            "travel",
+            "rome",
+            "silversea"
+          ],
           "tags": [
             "may2026"
           ],
@@ -8688,9 +9288,14 @@
         },
         {
           "title": "Rome and Silversea Day 8",
-          "date": "2026-05-11",
+          "date": "2026-05-11 00:00:00 -0400",
+          "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-8.html",
           "subtitle": "A day in València, Spain",
-          "categories": "travel rome silversea",
+          "categories": [
+            "travel",
+            "rome",
+            "silversea"
+          ],
           "tags": [
             "may2026"
           ],
@@ -8790,9 +9395,14 @@
         },
         {
           "title": "Rome and Silversea Day 9",
-          "date": "2026-05-12",
+          "date": "2026-05-12 00:00:00 -0400",
+          "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-9.html",
           "subtitle": "A day in Cartagena, Spain",
-          "categories": "travel rome silversea",
+          "categories": [
+            "travel",
+            "rome",
+            "silversea"
+          ],
           "tags": [
             "may2026"
           ],
@@ -8902,9 +9512,14 @@
         },
         {
           "title": "Rome and Silversea Day 10",
-          "date": "2026-05-13",
+          "date": "2026-05-13 00:00:00 -0400",
+          "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-10.html",
           "subtitle": "A sea day and the passage past Gibraltar",
-          "categories": "travel rome silversea",
+          "categories": [
+            "travel",
+            "rome",
+            "silversea"
+          ],
           "tags": [
             "may2026"
           ],
@@ -9002,9 +9617,14 @@
         },
         {
           "title": "Rome and Silversea Day 11",
-          "date": "2026-05-14",
+          "date": "2026-05-14 00:00:00 -0400",
+          "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-11.html",
           "subtitle": "A day in Portimão and Silves, Portugal",
-          "categories": "travel rome silversea",
+          "categories": [
+            "travel",
+            "rome",
+            "silversea"
+          ],
           "tags": [
             "may2026"
           ],
@@ -9123,9 +9743,14 @@
         },
         {
           "title": "Rome and Silversea Day 12",
-          "date": "2026-05-15",
+          "date": "2026-05-15 00:00:00 -0400",
+          "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-12.html",
           "subtitle": "Disembarkation in Lisbon and the flight home",
-          "categories": "travel rome silversea",
+          "categories": [
+            "travel",
+            "rome",
+            "silversea"
+          ],
           "tags": [
             "may2026"
           ],
@@ -9188,9 +9813,15 @@
       "posts": [
         {
           "title": "England and Iberia Day 1",
-          "date": "2026-07-29",
+          "date": "2026-07-29 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-1.html",
           "subtitle": "A delay, a tight connection, and a red-eye",
-          "categories": "travel england portugal spain",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -9211,6 +9842,13 @@
               "name": "Hartsfield-Jackson Atlanta International Airport",
               "type": "airport",
               "country": "United States"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Delta Sky Club",
+              "type": "lounge",
+              "location": "Raleigh-Durham International Airport"
             }
           ],
           "transport": [
@@ -9239,6 +9877,10 @@
             "Terminal T to Terminal E connection in Atlanta",
             "Overnight transatlantic flight"
           ],
+          "challenges": [
+            "RDU to Atlanta flight delayed at least 90 minutes, leaving about 15 minutes to make the Atlanta connection",
+            "Main cabin economy on the overnight transatlantic leg meant head-bobbing instead of sleep"
+          ],
           "companions": [
             "Sherri",
             "Siena",
@@ -9247,9 +9889,15 @@
         },
         {
           "title": "England and Iberia Day 2",
-          "date": "2026-07-30",
+          "date": "2026-07-30 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-2.html",
           "subtitle": "Heathrow to Bankside, and 20,000 steps on no sleep",
-          "categories": "travel england portugal spain",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -9342,9 +9990,15 @@
         },
         {
           "title": "England and Iberia Day 3",
-          "date": "2026-07-31",
+          "date": "2026-07-31 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-3.html",
           "subtitle": "Coffee, Carnaby Street, and the Tube",
-          "categories": "travel england portugal spain",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -9446,9 +10100,15 @@
         },
         {
           "title": "England and Iberia Day 4",
-          "date": "2026-08-01",
+          "date": "2026-08-01 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-4.html",
           "subtitle": "Waterloo to Southampton, and the walk to the terminal",
-          "categories": "travel england portugal spain",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -9543,9 +10203,15 @@
         },
         {
           "title": "England and Iberia Day 5",
-          "date": "2026-08-02",
+          "date": "2026-08-02 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-5.html",
           "subtitle": "A sea day and the last of the jet lag",
-          "categories": "travel england portugal spain",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -9603,9 +10269,15 @@
         },
         {
           "title": "England and Iberia Day 6",
-          "date": "2026-08-03",
+          "date": "2026-08-03 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-6.html",
           "subtitle": "A gray day in Matosinhos",
-          "categories": "travel england portugal spain",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -9661,9 +10333,15 @@
         },
         {
           "title": "England and Iberia Day 7",
-          "date": "2026-08-04",
+          "date": "2026-08-04 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-7.html",
           "subtitle": "Uphill in Lisbon, and a flea market find",
-          "categories": "travel england portugal spain",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -9729,9 +10407,15 @@
         },
         {
           "title": "England and Iberia Day 8",
-          "date": "2026-08-05",
+          "date": "2026-08-05 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-8.html",
           "subtitle": "Gibraltar off the rail, and a slow sea day",
-          "categories": "travel england portugal spain",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -9782,9 +10466,15 @@
         },
         {
           "title": "England and Iberia Day 9",
-          "date": "2026-08-06",
-          "subtitle": "A hot castle, a lucky taxi, and Segways in Palma",
-          "categories": "travel england portugal spain",
+          "date": "2026-08-06 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-9.html",
+          "subtitle": "Palma de Mallorca: a hot hike to a castle, a lucky taxi, and a Segway adventure",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -9837,7 +10527,7 @@
           ],
           "dining": [
             {
-              "venue": "Tapas restaurant",
+              "venue": "Maura",
               "meal": "late lunch",
               "location": "Palma de Mallorca",
               "notes": "Middling"
@@ -9859,9 +10549,15 @@
         },
         {
           "title": "England and Iberia Day 10",
-          "date": "2026-08-07",
+          "date": "2026-08-07 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-10.html",
           "subtitle": "Barcelona on half a tank",
-          "categories": "travel england portugal spain",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -9908,9 +10604,15 @@
         },
         {
           "title": "England and Iberia Day 11",
-          "date": "2026-08-08",
+          "date": "2026-08-08 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-11.html",
           "subtitle": "Waiting out the heat in Ibiza",
-          "categories": "travel england portugal spain",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -9962,9 +10664,15 @@
         },
         {
           "title": "England and Iberia Day 12",
-          "date": "2026-08-09",
+          "date": "2026-08-09 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-12.html",
           "subtitle": "Sea day",
-          "categories": "travel england portugal spain",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -10001,9 +10709,15 @@
         },
         {
           "title": "England and Iberia Day 13",
-          "date": "2026-08-10",
-          "subtitle": "My favorite stop of the trip",
-          "categories": "travel england portugal spain",
+          "date": "2026-08-10 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-13.html",
+          "subtitle": "Málaga, my favorite stop of the trip",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -10097,9 +10811,15 @@
         },
         {
           "title": "England and Iberia Day 14",
-          "date": "2026-08-11",
+          "date": "2026-08-11 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-14.html",
           "subtitle": "Sea day stuff, and a primer for tomorrow's eclipse",
-          "categories": "travel england portugal spain",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -10155,9 +10875,15 @@
         },
         {
           "title": "England and Iberia Day 15",
-          "date": "2026-08-12",
+          "date": "2026-08-12 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-15.html",
           "subtitle": "La Coruña, Spain AND AN ECLIPSE!",
-          "categories": "travel england portugal spain",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -10236,9 +10962,15 @@
         },
         {
           "title": "England and Iberia Day 16",
-          "date": "2026-08-13",
-          "subtitle": "Where we visit fast food restaurants in Bilbao",
-          "categories": "travel england portugal spain",
+          "date": "2026-08-13 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-16.html",
+          "subtitle": "Where we visit American fast food restaurants in Bilbao",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -10326,9 +11058,15 @@
         },
         {
           "title": "England and Iberia Day 17",
-          "date": "2026-08-14",
+          "date": "2026-08-14 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-17.html",
           "subtitle": "The final day, somewhere in the English Channel",
-          "categories": "travel england portugal spain",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -10371,9 +11109,15 @@
         },
         {
           "title": "England and Iberia Day 18",
-          "date": "2026-08-15",
+          "date": "2026-08-15 00:00:00 -0400",
+          "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-18.html",
           "subtitle": "Homeward bound",
-          "categories": "travel england portugal spain",
+          "categories": [
+            "travel",
+            "england",
+            "portugal",
+            "spain"
+          ],
           "tags": [
             "july2026"
           ],
@@ -10444,6 +11188,180 @@
           ]
         }
       ]
+    },
+    {
+      "rollup_key": "2026transatlantic",
+      "posts": [
+        {
+          "title": "Transatlantic Crossing Day 1",
+          "date": "2026-10-15 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-1.html",
+          "subtitle": "Back to Southampton after only 2 months",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "outbound",
+          "locations": [
+            {
+              "name": "Holly Springs",
+              "type": "town",
+              "country": "United States"
+            },
+            {
+              "name": "Raleigh-Durham International Airport",
+              "type": "airport",
+              "country": "United States"
+            },
+            {
+              "name": "John F. Kennedy International Airport",
+              "type": "airport",
+              "country": "United States"
+            }
+          ],
+          "transport": [
+            {
+              "type": "flight",
+              "carrier": "Delta",
+              "route": "RDU → JFK",
+              "departure_time": "7:57pm"
+            },
+            {
+              "type": "flight",
+              "carrier": "Virgin Atlantic",
+              "route": "JFK → LHR",
+              "departure_time": "11:55pm",
+              "overnight": true
+            }
+          ],
+          "companions": [
+            "solo"
+          ]
+        },
+        {
+          "title": "Transatlantic Crossing Day 2",
+          "date": "2026-10-16 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-2.html",
+          "subtitle": "Transfer to Southampton and beating jet lag",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "pre-cruise",
+          "locations": [
+            {
+              "name": "London Heathrow Airport",
+              "type": "airport",
+              "country": "England"
+            },
+            {
+              "name": "Southampton",
+              "type": "port_city",
+              "country": "England"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Moxy Southampton",
+              "location": "Southampton",
+              "night": "1 of 2"
+            }
+          ],
+          "transport": [
+            {
+              "type": "flight",
+              "carrier": "Virgin Atlantic",
+              "route": "JFK → LHR",
+              "arrival_time": "12:05pm"
+            },
+            {
+              "type": "coach",
+              "provider": "National Express",
+              "route": "Heathrow → Southampton"
+            }
+          ],
+          "companions": [
+            "solo"
+          ]
+        },
+        {
+          "title": "Transatlantic Crossing Day 3",
+          "date": "2026-10-17 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-3.html",
+          "subtitle": "Titanic museum and Winchester",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "pre-cruise",
+          "locations": [
+            {
+              "name": "Southampton",
+              "type": "port_city",
+              "country": "England"
+            },
+            {
+              "name": "Winchester",
+              "type": "city",
+              "country": "England"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Moxy Southampton",
+              "location": "Southampton",
+              "night": "2 of 2"
+            }
+          ],
+          "venues": [
+            {
+              "name": "SeaCity Museum",
+              "type": "museum",
+              "location": "Southampton"
+            }
+          ],
+          "transport": [
+            {
+              "type": "train",
+              "route": "Southampton Central → Winchester",
+              "departure_time": "~3:00pm",
+              "notes": "Off-peak day return"
+            },
+            {
+              "type": "train",
+              "route": "Winchester → Southampton Central"
+            }
+          ],
+          "activities": [
+            "SeaCity Museum Titanic exhibits",
+            "Afternoon trip to Winchester"
+          ],
+          "companions": [
+            "solo"
+          ]
+        }
+      ]
     }
   ],
   "all_locations": [
@@ -10473,6 +11391,7 @@
     "Bayonne",
     "Bayonne, New Jersey, USA",
     "Bengaluru",
+    "Bengaluru, India",
     "Bergen Airport (BGO), Norway",
     "Bergen Ferry Terminal",
     "Bergen Harbor/Waterfront",
@@ -10516,6 +11435,7 @@
     "Downtown Oslo malls",
     "Downtown Voss",
     "Dubai",
+    "Dubai, United Arab Emirates",
     "Durham, NC",
     "Efstidalur II",
     "Efstidalur II Farm & Restaurant",
@@ -10555,6 +11475,7 @@
     "Istanbul",
     "JFK Airport",
     "Jersey City",
+    "John F. Kennedy International Airport",
     "Kamakura",
     "Keflavik Airport (KEF), Iceland",
     "Keflavík International Airport (KEF)",
@@ -10633,6 +11554,7 @@
     "Rome, Italy",
     "Royal Palace (Oslo)",
     "San Francisco",
+    "San Francisco, California, USA",
     "San Juan",
     "Sandsstølen viewpoint",
     "Schwangau",
@@ -10684,6 +11606,7 @@
     "Wengen",
     "Wengen, Switzerland",
     "Willemstad",
+    "Winchester",
     "Yokohama",
     "Zeebrugge",
     "Zeebrugge, Belgium",
@@ -10706,6 +11629,7 @@
     "Aerial photography of Greenland",
     "After-dinner drinks in the Panorama Lounge",
     "Afternoon RIB boat tour of the Algarve sea caves, including Benagil",
+    "Afternoon trip to Winchester",
     "Aiguille du Midi cable car to 3842m",
     "Aletsch Glacier hikes (Riederalp and Bettmeralp)",
     "Arrival home in Holly Springs",
@@ -10920,6 +11844,7 @@
     "Scenic sail-away down the river",
     "Schloss Thun castle visit",
     "Scooter rental and ride",
+    "SeaCity Museum Titanic exhibits",
     "Second trip ashore on foot with Siena",
     "Second trip ashore with Siena and Rowan",
     "Secrets of Cartagena with Paella walking tour",
@@ -11203,9 +12128,13 @@
   "timeline": [
     {
       "title": "European Vacation 2007 Day 1",
-      "date": "2007-04-20",
+      "date": "2007-04-20 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-1.html",
       "subtitle": "Leaving on a jet plane — the scramble out of New Jersey",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11235,9 +12164,13 @@
     },
     {
       "title": "European Vacation 2007 Day 2",
-      "date": "2007-04-21",
+      "date": "2007-04-21 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-2.html",
       "subtitle": "Untangling the English rail system, then embarking at Southampton",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11277,9 +12210,13 @@
     },
     {
       "title": "European Vacation 2007 Day 3",
-      "date": "2007-04-22",
+      "date": "2007-04-22 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-3.html",
       "subtitle": "Le Havre and a jet-lagged bus dash to Paris",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11313,9 +12250,13 @@
     },
     {
       "title": "European Vacation 2007 Day 4",
-      "date": "2007-04-23",
+      "date": "2007-04-23 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-4.html",
       "subtitle": "Waffles, devil beer, and quaint Brugge",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11353,9 +12294,13 @@
     },
     {
       "title": "European Vacation 2007 Day 5",
-      "date": "2007-04-24",
+      "date": "2007-04-24 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-5.html",
       "subtitle": "Walking Amsterdam, a canal tour, and a scenic sail-away",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11385,9 +12330,13 @@
     },
     {
       "title": "European Vacation 2007 Day 6",
-      "date": "2007-04-25",
+      "date": "2007-04-25 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-6.html",
       "subtitle": "Sea Day #1 and the serendipitous dress shirt",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11407,9 +12356,13 @@
     },
     {
       "title": "European Vacation 2007 Day 7",
-      "date": "2007-04-26",
+      "date": "2007-04-26 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-7.html",
       "subtitle": "La Rochelle didn't quite WOW me",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11430,9 +12383,13 @@
     },
     {
       "title": "European Vacation 2007 Day 8",
-      "date": "2007-04-27",
+      "date": "2007-04-27 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-8.html",
       "subtitle": "Bilbao, the Guggenheim, and a river walk promenade",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11464,9 +12421,13 @@
     },
     {
       "title": "European Vacation 2007 Day 9",
-      "date": "2007-04-28",
+      "date": "2007-04-28 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-9.html",
       "subtitle": "Sea Day #2",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11486,9 +12447,13 @@
     },
     {
       "title": "European Vacation 2007 Day 10",
-      "date": "2007-04-29",
+      "date": "2007-04-29 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-10.html",
       "subtitle": "Lisbon grows on me",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11513,9 +12478,13 @@
     },
     {
       "title": "European Vacation 2007 Day 11",
-      "date": "2007-04-30",
+      "date": "2007-04-30 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-11.html",
       "subtitle": "The Rock of Gibraltar — my favorite port of the trip",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11549,9 +12518,13 @@
     },
     {
       "title": "European Vacation 2007 Day 12",
-      "date": "2007-05-01",
+      "date": "2007-05-01 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-12.html",
       "subtitle": "Tangier — the most different place I'd ever been",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11586,9 +12559,13 @@
     },
     {
       "title": "European Vacation 2007 Day 13",
-      "date": "2007-05-02",
+      "date": "2007-05-02 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-13.html",
       "subtitle": "Sea Day #3 — eating, packing, tipping",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11608,9 +12585,13 @@
     },
     {
       "title": "European Vacation 2007 Day 14",
-      "date": "2007-05-03",
+      "date": "2007-05-03 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-14.html",
       "subtitle": "Debarking into Barcelona and Las Ramblas",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11648,9 +12629,13 @@
     },
     {
       "title": "European Vacation 2007 Day 15",
-      "date": "2007-05-04",
+      "date": "2007-05-04 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-15.html",
       "subtitle": "A big touring day — Sagrada Família and Bonanova",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11691,9 +12676,13 @@
     },
     {
       "title": "European Vacation 2007 Day 16",
-      "date": "2007-05-05",
+      "date": "2007-05-05 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-16.html",
       "subtitle": "A few weary hours in London (and a nearly lost bag)",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11736,9 +12725,13 @@
     },
     {
       "title": "European Vacation 2007 Day 17",
-      "date": "2007-05-06",
+      "date": "2007-05-06 00:00:00 -0400",
+      "url": "/travel/europe/2007/europe-2007-day-17.html",
       "subtitle": "The long flight home",
-      "categories": "travel europe",
+      "categories": [
+        "travel",
+        "europe"
+      ],
       "tags": [
         "april2007"
       ],
@@ -11768,10 +12761,14 @@
     },
     {
       "title": "European Vacation 2007",
-      "date": "2007-05-07",
+      "date": "2007-05-07 00:00:00 -0400",
+      "url": "/travel/rollup/2007/europe-2007.html",
       "subtitle": "A 14-night cruise with Sherri, plus two nights in Barcelona and one in London -- a trip spanning France, England, Belgium, the Netherlands, Spain, Portugal, Gibraltar, and Morocco.",
-      "categories": "travel rollup",
-      "tags": null,
+      "categories": [
+        "travel",
+        "rollup"
+      ],
+      "tags": [],
       "rollup_key": null,
       "trip_type": "rollup",
       "trip_duration": "April 20 - May 6, 2007",
@@ -11814,11 +12811,15 @@
     },
     {
       "title": "Back in India",
-      "date": "2019-01-21T11:25:19.282Z",
+      "date": "2019-01-21 06:25:19 -0500",
+      "url": "/travel/india/2019/@bbhart_ca-jan-21-2019-f921ac03e6f1.html",
       "subtitle": "This time with travel buddies",
-      "categories": "travel india",
-      "tags": null,
-      "rollup_key": null,
+      "categories": [
+        "travel",
+        "india"
+      ],
+      "tags": [],
+      "rollup_key": "2019india",
       "day_type": "travel",
       "trip_type": "business",
       "location": "Bengaluru, India",
@@ -11859,11 +12860,15 @@
     },
     {
       "title": "India day 2",
-      "date": "2019-01-22T17:25:24.017Z",
-      "subtitle": null,
-      "categories": "travel india",
-      "tags": null,
-      "rollup_key": null,
+      "date": "2019-01-22 12:25:24 -0500",
+      "url": "/travel/india/2019/@bbhart_ca-jan-22-2019-253e7bce1806.html",
+      "subtitle": "A foggy morning, a shared cold, and why in-person still matters",
+      "categories": [
+        "travel",
+        "india"
+      ],
+      "tags": [],
+      "rollup_key": "2019india",
       "trip_type": "business",
       "location": "Bengaluru, India",
       "locations": [
@@ -11883,11 +12888,54 @@
       "weather": "Foggy, damp, and cold"
     },
     {
+      "title": "Leaving India",
+      "date": "2019-01-26 21:49:14 -0500",
+      "url": "/2019/@bbhart_ca-jan-26-2019-367672cb4a50.html",
+      "subtitle": "Sick for the last few days, and some candid feedback overheard at the airport",
+      "categories": [],
+      "tags": [],
+      "rollup_key": "2019india"
+    },
+    {
+      "title": "End of third trip to India",
+      "date": "2019-01-28 21:10:16 -0500",
+      "url": "/2019/@bbhart_ca-jan-28-2019-aef1f258765f.html",
+      "subtitle": "Jet lag and mental fog",
+      "categories": [],
+      "tags": [],
+      "rollup_key": "2019india"
+    },
+    {
+      "title": "India in 2019",
+      "date": "2019-01-31 00:00:00 -0500",
+      "url": "/travel/rollup/2019/India-2019-recap.html",
+      "subtitle": "My third trip to the Bangalore office, by way of an overnight layover in Dubai",
+      "categories": [
+        "travel",
+        "rollup"
+      ],
+      "tags": [],
+      "rollup_key": null,
+      "locations_visited": [
+        "San Francisco, California, USA",
+        "Dubai, United Arab Emirates",
+        "Bengaluru, India"
+      ],
+      "countries_visited": [
+        "United Arab Emirates",
+        "India"
+      ]
+    },
+    {
       "title": "Switzerland Travels 2019",
       "date": "2019-07-26 12:00:00 -0400",
+      "url": "/travel/switzerland/2019/switzerland-2019.html",
       "subtitle": "Travels to Geneva, Chamonix (France), and Interlaken",
-      "categories": "travel switzerland",
-      "tags": null,
+      "categories": [
+        "travel",
+        "switzerland"
+      ],
+      "tags": [],
       "rollup_key": null,
       "trip_type": "solo",
       "trip_duration": "June 27 - July 7, 2019",
@@ -12067,9 +13115,13 @@
     },
     {
       "title": "Iceland 2023 Day 1",
-      "date": "2023-06-11",
+      "date": "2023-06-11 00:00:00 -0400",
+      "url": "/travel/iceland/2023/Iceland-2023-Day-1.html",
       "subtitle": "Arrival and settling in",
-      "categories": "travel iceland",
+      "categories": [
+        "travel",
+        "iceland"
+      ],
       "tags": [
         "june2023"
       ],
@@ -12139,9 +13191,13 @@
     },
     {
       "title": "Iceland 2023 Day 2",
-      "date": "2023-06-12",
+      "date": "2023-06-12 00:00:00 -0400",
+      "url": "/travel/iceland/2023/Iceland-2023-Day-2.html",
       "subtitle": "Recovery and exploration around the Golden Circle",
-      "categories": "travel iceland",
+      "categories": [
+        "travel",
+        "iceland"
+      ],
       "tags": [
         "june2023"
       ],
@@ -12273,9 +13329,13 @@
     },
     {
       "title": "Iceland 2023 Day 3",
-      "date": "2023-06-13",
+      "date": "2023-06-13 00:00:00 -0400",
+      "url": "/travel/iceland/2023/Iceland-2023-Day-3.html",
       "subtitle": "Perfect weather and after-hours touring",
-      "categories": "travel iceland",
+      "categories": [
+        "travel",
+        "iceland"
+      ],
       "tags": [
         "june2023"
       ],
@@ -12342,9 +13402,13 @@
     },
     {
       "title": "Iceland 2023 Day 4",
-      "date": "2023-06-14",
+      "date": "2023-06-14 00:00:00 -0400",
+      "url": "/travel/iceland/2023/Iceland-2023-Day-4.html",
       "subtitle": "Thingvellir and the journey to Húsafell",
-      "categories": "travel iceland",
+      "categories": [
+        "travel",
+        "iceland"
+      ],
       "tags": [
         "june2023"
       ],
@@ -12429,9 +13493,13 @@
     },
     {
       "title": "Iceland 2023 Day 5",
-      "date": "2023-06-15",
+      "date": "2023-06-15 00:00:00 -0400",
+      "url": "/travel/iceland/2023/Iceland-2023-Day-5.html",
       "subtitle": "Lava tubes and waterfall hunting",
-      "categories": "travel iceland",
+      "categories": [
+        "travel",
+        "iceland"
+      ],
       "tags": [
         "june2023"
       ],
@@ -12556,9 +13624,13 @@
     },
     {
       "title": "Iceland 2023 Day 6",
-      "date": "2023-06-16",
+      "date": "2023-06-16 00:00:00 -0400",
+      "url": "/travel/iceland/2023/Iceland-2023-Day-6.html",
       "subtitle": "Horses and hot springs",
-      "categories": "travel iceland",
+      "categories": [
+        "travel",
+        "iceland"
+      ],
       "tags": [
         "june2023"
       ],
@@ -12726,9 +13798,13 @@
     },
     {
       "title": "Iceland 2023 Day 7",
-      "date": "2023-06-17",
+      "date": "2023-06-17 00:00:00 -0400",
+      "url": "/travel/iceland/2023/Iceland-2023-Day-7.html",
       "subtitle": "Moving day to Reykjavik",
-      "categories": "travel iceland",
+      "categories": [
+        "travel",
+        "iceland"
+      ],
       "tags": [
         "june2023"
       ],
@@ -12810,9 +13886,13 @@
     },
     {
       "title": "Iceland 2023 Day 8",
-      "date": "2023-06-18",
+      "date": "2023-06-18 00:00:00 -0400",
+      "url": "/travel/iceland/2023/Iceland-2023-Day-8.html",
       "subtitle": "Rainy day in Reykjavik",
-      "categories": "travel iceland",
+      "categories": [
+        "travel",
+        "iceland"
+      ],
       "tags": [
         "june2023"
       ],
@@ -12995,9 +14075,13 @@
     },
     {
       "title": "Iceland 2023 Day 9",
-      "date": "2023-06-19",
+      "date": "2023-06-19 00:00:00 -0400",
+      "url": "/travel/iceland/2023/Iceland-2023-Day-9.html",
       "subtitle": "Departure day and KEF airport chaos",
-      "categories": "travel iceland",
+      "categories": [
+        "travel",
+        "iceland"
+      ],
       "tags": [
         "june2023"
       ],
@@ -13137,10 +14221,14 @@
     },
     {
       "title": "Iceland 2023 - our first family trip to Iceland",
-      "date": "2023-06-30",
+      "date": "2023-06-30 00:00:00 -0400",
+      "url": "/travel/rollup/2023/Iceland-trip-2023-recap.html",
       "subtitle": "Our first trip to Iceland and the kids' first real trip to Europe",
-      "categories": "travel rollup",
-      "tags": null,
+      "categories": [
+        "travel",
+        "rollup"
+      ],
+      "tags": [],
       "rollup_key": null,
       "trip_type": "family",
       "locations_visited": [
@@ -13155,9 +14243,13 @@
     {
       "title": "Japan Planning",
       "date": "2024-01-23 07:31:47 -0500",
+      "url": "/travel/japan/2024/Japan-Planning.html",
       "subtitle": "Where Brian realizes he probably shouldn't try to YOLO a 12 day trip to Japan",
-      "categories": "travel japan",
-      "tags": null,
+      "categories": [
+        "travel",
+        "japan"
+      ],
+      "tags": [],
       "rollup_key": "2024japan",
       "trip_stage": "planning",
       "trip_type": "solo",
@@ -13182,10 +14274,14 @@
     },
     {
       "title": "Japan T-minus 3 days",
-      "date": "2024-01-29",
+      "date": "2024-01-29 00:00:00 -0500",
+      "url": "/travel/japan/2024/Japan-T-minus-3-days.html",
       "subtitle": "As ready as I'm going to be",
-      "categories": "travel japan",
-      "tags": null,
+      "categories": [
+        "travel",
+        "japan"
+      ],
+      "tags": [],
       "rollup_key": "2024japan",
       "trip_stage": "planning",
       "locations": [
@@ -13235,10 +14331,14 @@
     },
     {
       "title": "Japan Trip Days 1 and 2",
-      "date": "2024-02-02",
+      "date": "2024-02-02 00:00:00 -0500",
+      "url": "/travel/japan/2024/Japan-Trip-Days-1-and-2.html",
       "subtitle": "The travel over and jet lag",
-      "categories": "travel japan",
-      "tags": null,
+      "categories": [
+        "travel",
+        "japan"
+      ],
+      "tags": [],
       "rollup_key": "2024japan",
       "trip_stage": "outbound",
       "locations": [
@@ -13342,10 +14442,14 @@
     },
     {
       "title": "Japan trip day 3",
-      "date": "2024-02-03",
+      "date": "2024-02-03 00:00:00 -0500",
+      "url": "/travel/japan/2024/Japan-trip-day-3.html",
       "subtitle": "First explorations in Tokyo",
-      "categories": "travel japan",
-      "tags": null,
+      "categories": [
+        "travel",
+        "japan"
+      ],
+      "tags": [],
       "rollup_key": "2024japan",
       "locations": [
         {
@@ -13473,10 +14577,14 @@
     },
     {
       "title": "Japan trip day 4",
-      "date": "2024-02-04",
+      "date": "2024-02-04 00:00:00 -0500",
+      "url": "/travel/japan/2024/Japan-trip-day-4.html",
       "subtitle": "Tokyo",
-      "categories": "travel japan",
-      "tags": null,
+      "categories": [
+        "travel",
+        "japan"
+      ],
+      "tags": [],
       "rollup_key": "2024japan",
       "locations": [
         {
@@ -13598,10 +14706,14 @@
     },
     {
       "title": "Japan trip days 5, 6, and 7",
-      "date": "2024-02-07",
+      "date": "2024-02-07 00:00:00 -0500",
+      "url": "/travel/japan/2024/Japan-trip-days-5-6-and-7.html",
       "subtitle": "Kamakura",
-      "categories": "travel japan",
-      "tags": null,
+      "categories": [
+        "travel",
+        "japan"
+      ],
+      "tags": [],
       "rollup_key": "2024japan",
       "locations": [
         {
@@ -13776,10 +14888,14 @@
     },
     {
       "title": "Japan trip days 8 and 9",
-      "date": "2024-02-09",
+      "date": "2024-02-09 00:00:00 -0500",
+      "url": "/travel/japan/2024/Japan-trip-days-8-and-9.html",
       "subtitle": "Kyoto",
-      "categories": "travel japan",
-      "tags": null,
+      "categories": [
+        "travel",
+        "japan"
+      ],
+      "tags": [],
       "rollup_key": "2024japan",
       "locations": [
         {
@@ -13932,10 +15048,14 @@
     },
     {
       "title": "Leaving Japan",
-      "date": "2024-02-10",
+      "date": "2024-02-10 00:00:00 -0500",
+      "url": "/travel/japan/2024/Leaving-Japan.html",
       "subtitle": "Cutting the trip short but excited for next time",
-      "categories": "travel japan",
-      "tags": null,
+      "categories": [
+        "travel",
+        "japan"
+      ],
+      "tags": [],
       "rollup_key": "2024japan",
       "trip_stage": "return_travel",
       "trip_duration": "10 days (truncated from 13 on day 4)",
@@ -13998,10 +15118,14 @@
     },
     {
       "title": "Shinkansen",
-      "date": "2024-03-18",
+      "date": "2024-03-18 00:00:00 -0400",
+      "url": "/travel/japan/2024/Shinkansen.html",
       "subtitle": "Antiquated systems for the futuristic bullet train",
-      "categories": "travel japan",
-      "tags": null,
+      "categories": [
+        "travel",
+        "japan"
+      ],
+      "tags": [],
       "rollup_key": "2024japan",
       "locations": [
         {
@@ -14045,10 +15169,14 @@
     },
     {
       "title": "Brian's first trip to Japan in 2024",
-      "date": "2024-03-19",
+      "date": "2024-03-19 00:00:00 -0400",
+      "url": "/travel/rollup/2024/Japan-Trip-2024-recap.html",
       "subtitle": "Exploring Tokyo, Kamakura, and Kyoto",
-      "categories": "travel rollup",
-      "tags": null,
+      "categories": [
+        "travel",
+        "rollup"
+      ],
+      "tags": [],
       "rollup_key": null,
       "locations_visited": [
         "Tokyo",
@@ -14061,9 +15189,13 @@
     },
     {
       "title": "Switzerland 2024 Day 1",
-      "date": "2024-07-11",
+      "date": "2024-07-11 00:00:00 -0400",
+      "url": "/travel/switzerland/2024/switzerland-2024-day-1.html",
       "subtitle": "RDU to Zurich — a jet-lagged arrival",
-      "categories": "travel switzerland",
+      "categories": [
+        "travel",
+        "switzerland"
+      ],
       "tags": [
         "july2024"
       ],
@@ -14098,9 +15230,13 @@
     },
     {
       "title": "Switzerland 2024 Day 2",
-      "date": "2024-07-12",
+      "date": "2024-07-12 00:00:00 -0400",
+      "url": "/travel/switzerland/2024/switzerland-2024-day-2.html",
       "subtitle": "A low-energy day in Zurich",
-      "categories": "travel switzerland",
+      "categories": [
+        "travel",
+        "switzerland"
+      ],
       "tags": [
         "july2024"
       ],
@@ -14116,9 +15252,13 @@
     },
     {
       "title": "Switzerland 2024 Day 3",
-      "date": "2024-07-13",
+      "date": "2024-07-13 00:00:00 -0400",
+      "url": "/travel/switzerland/2024/switzerland-2024-day-3.html",
       "subtitle": "The train to Wengen",
-      "categories": "travel switzerland",
+      "categories": [
+        "travel",
+        "switzerland"
+      ],
       "tags": [
         "july2024"
       ],
@@ -14155,9 +15295,13 @@
     },
     {
       "title": "Switzerland 2024 Day 4",
-      "date": "2024-07-14",
+      "date": "2024-07-14 00:00:00 -0400",
+      "url": "/travel/switzerland/2024/switzerland-2024-day-4.html",
       "subtitle": "The Panorama Trail and a look at Mürren",
-      "categories": "travel switzerland",
+      "categories": [
+        "travel",
+        "switzerland"
+      ],
       "tags": [
         "july2024"
       ],
@@ -14198,9 +15342,13 @@
     },
     {
       "title": "Switzerland 2024 Day 5",
-      "date": "2024-07-15",
+      "date": "2024-07-15 00:00:00 -0400",
+      "url": "/travel/switzerland/2024/switzerland-2024-day-5.html",
       "subtitle": "Moving day, with a lakeside detour to Spiez",
-      "categories": "travel switzerland",
+      "categories": [
+        "travel",
+        "switzerland"
+      ],
       "tags": [
         "july2024"
       ],
@@ -14237,9 +15385,13 @@
     },
     {
       "title": "Switzerland 2024 Day 6",
-      "date": "2024-07-16",
+      "date": "2024-07-16 00:00:00 -0400",
+      "url": "/travel/switzerland/2024/switzerland-2024-day-6.html",
       "subtitle": "Stumbling onto the Aletsch Glacier from Riederalp",
-      "categories": "travel switzerland",
+      "categories": [
+        "travel",
+        "switzerland"
+      ],
       "tags": [
         "july2024"
       ],
@@ -14282,9 +15434,13 @@
     },
     {
       "title": "Switzerland 2024 Day 7",
-      "date": "2024-07-17",
+      "date": "2024-07-17 00:00:00 -0400",
+      "url": "/travel/switzerland/2024/switzerland-2024-day-7.html",
       "subtitle": "The Gourmet Trail to Zermatt — and the loneliness of solo travel",
-      "categories": "travel switzerland",
+      "categories": [
+        "travel",
+        "switzerland"
+      ],
       "tags": [
         "july2024"
       ],
@@ -14335,9 +15491,13 @@
     },
     {
       "title": "Switzerland 2024 Day 8",
-      "date": "2024-07-18",
+      "date": "2024-07-18 00:00:00 -0400",
+      "url": "/travel/switzerland/2024/switzerland-2024-day-8.html",
       "subtitle": "The Riffelalp–Sunnegga Nature Trail and cold, clear Grünsee",
-      "categories": "travel switzerland",
+      "categories": [
+        "travel",
+        "switzerland"
+      ],
       "tags": [
         "july2024"
       ],
@@ -14383,9 +15543,13 @@
     },
     {
       "title": "Switzerland 2024 Day 9",
-      "date": "2024-07-19",
+      "date": "2024-07-19 00:00:00 -0400",
+      "url": "/travel/switzerland/2024/switzerland-2024-day-9.html",
       "subtitle": "Moving to car-free Bettmeralp and the best roast beef sandwich",
-      "categories": "travel switzerland",
+      "categories": [
+        "travel",
+        "switzerland"
+      ],
       "tags": [
         "july2024"
       ],
@@ -14424,9 +15588,13 @@
     },
     {
       "title": "Switzerland 2024 Day 10",
-      "date": "2024-07-20",
+      "date": "2024-07-20 00:00:00 -0400",
+      "url": "/travel/switzerland/2024/switzerland-2024-day-10.html",
       "subtitle": "A lighter day above Bettmeralp and one more look at the glacier",
-      "categories": "travel switzerland",
+      "categories": [
+        "travel",
+        "switzerland"
+      ],
       "tags": [
         "july2024"
       ],
@@ -14457,9 +15625,13 @@
     },
     {
       "title": "Switzerland 2024 Day 11",
-      "date": "2024-07-21",
+      "date": "2024-07-21 00:00:00 -0400",
+      "url": "/travel/switzerland/2024/switzerland-2024-day-11.html",
       "subtitle": "Schloss Thun and a more local Swiss vibe",
-      "categories": "travel switzerland",
+      "categories": [
+        "travel",
+        "switzerland"
+      ],
       "tags": [
         "july2024"
       ],
@@ -14492,9 +15664,13 @@
     },
     {
       "title": "Switzerland 2024 Day 12",
-      "date": "2024-07-22",
+      "date": "2024-07-22 00:00:00 -0400",
+      "url": "/travel/switzerland/2024/switzerland-2024-day-12.html",
       "subtitle": "The long journey home",
-      "categories": "travel switzerland",
+      "categories": [
+        "travel",
+        "switzerland"
+      ],
       "tags": [
         "july2024"
       ],
@@ -14530,10 +15706,14 @@
     },
     {
       "title": "Switzerland Travels 2024",
-      "date": "2024-07-23",
+      "date": "2024-07-23 00:00:00 -0400",
+      "url": "/travel/switzerland/2024/switzerland-2024.html",
       "subtitle": "A solo journey through Zurich, Wengen, Brig, Zermatt, Bettmeralp, and Thun.",
-      "categories": "travel switzerland",
-      "tags": null,
+      "categories": [
+        "travel",
+        "switzerland"
+      ],
+      "tags": [],
       "rollup_key": "2024ch",
       "trip_type": "solo",
       "trip_duration": "July 10-22, 2024",
@@ -14696,10 +15876,15 @@
     },
     {
       "title": "Iceland Cruise Day 1",
-      "date": "2024-08-02",
+      "date": "2024-08-02 00:00:00 -0400",
+      "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-1.html",
       "subtitle": "When we almost leave for a vacation",
-      "categories": "travel cruise iceland",
-      "tags": null,
+      "categories": [
+        "travel",
+        "cruise",
+        "iceland"
+      ],
+      "tags": [],
       "rollup_key": "2024icelandcruise",
       "day_type": "travel_day",
       "trip_stage": "pre_cruise",
@@ -14735,9 +15920,14 @@
     },
     {
       "title": "Iceland Cruise Day 2",
-      "date": "2024-08-03",
+      "date": "2024-08-03 00:00:00 -0400",
+      "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-2.html",
       "subtitle": "An early morning flight and first family visit to New York",
-      "categories": "travel cruise iceland",
+      "categories": [
+        "travel",
+        "cruise",
+        "iceland"
+      ],
       "tags": [
         "new york city",
         "jersey city"
@@ -14890,9 +16080,14 @@
     },
     {
       "title": "Iceland Cruise Day 3",
-      "date": "2024-08-04",
+      "date": "2024-08-04 00:00:00 -0400",
+      "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-3.html",
       "subtitle": "Celebrity cruise embarkation in Bayonne and a stormy sail away",
-      "categories": "travel cruise iceland",
+      "categories": [
+        "travel",
+        "cruise",
+        "iceland"
+      ],
       "tags": [
         "new york city",
         "jersey city",
@@ -15002,9 +16197,14 @@
     },
     {
       "title": "Iceland Cruise Day 4",
-      "date": "2024-08-05",
+      "date": "2024-08-05 00:00:00 -0400",
+      "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-4.html",
       "subtitle": "Between NYC and Halifax, the first of many sea days we'd have on this voyage",
-      "categories": "travel cruise iceland",
+      "categories": [
+        "travel",
+        "cruise",
+        "iceland"
+      ],
       "tags": [
         "celebrity",
         "celebrity eclipse"
@@ -15056,9 +16256,14 @@
     },
     {
       "title": "Iceland Cruise Day 5",
-      "date": "2024-08-06",
+      "date": "2024-08-06 00:00:00 -0400",
+      "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-5-Halifax.html",
       "subtitle": "A cloudy day in a familiar city, with lots of family",
-      "categories": "travel cruise iceland",
+      "categories": [
+        "travel",
+        "cruise",
+        "iceland"
+      ],
       "tags": [
         "halifax",
         "celebrity",
@@ -15216,9 +16421,14 @@
     },
     {
       "title": "Iceland Cruise Day 6",
-      "date": "2024-08-07",
+      "date": "2024-08-07 00:00:00 -0400",
+      "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-6.html",
       "subtitle": "Sea day between Halifax and St. John's, NL",
-      "categories": "travel cruise iceland",
+      "categories": [
+        "travel",
+        "cruise",
+        "iceland"
+      ],
       "tags": [
         "celebrity",
         "celebrity eclipse"
@@ -15281,9 +16491,14 @@
     },
     {
       "title": "Iceland Cruise Day 7",
-      "date": "2024-08-08",
+      "date": "2024-08-08 00:00:00 -0400",
+      "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-7-StJohns.html",
       "subtitle": "St. John's, Newfoundland & Labrador",
-      "categories": "travel cruise iceland",
+      "categories": [
+        "travel",
+        "cruise",
+        "iceland"
+      ],
       "tags": [
         "st johns",
         "celebrity",
@@ -15420,9 +16635,14 @@
     },
     {
       "title": "Iceland Cruise Day 8",
-      "date": "2024-08-09",
+      "date": "2024-08-09 00:00:00 -0400",
+      "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-8.html",
       "subtitle": "Sea day 1 between St. John's and Greenland",
-      "categories": "travel cruise iceland",
+      "categories": [
+        "travel",
+        "cruise",
+        "iceland"
+      ],
       "tags": [
         "celebrity",
         "celebrity eclipse"
@@ -15511,9 +16731,14 @@
     },
     {
       "title": "Iceland Cruise Day 9",
-      "date": "2024-08-10",
+      "date": "2024-08-10 00:00:00 -0400",
+      "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-9.html",
       "subtitle": "A special birthday sea day off the coast of Greenland!",
-      "categories": "travel cruise iceland",
+      "categories": [
+        "travel",
+        "cruise",
+        "iceland"
+      ],
       "tags": [
         "celebrity",
         "celebrity eclipse"
@@ -15584,9 +16809,14 @@
     },
     {
       "title": "Iceland Cruise Day 10",
-      "date": "2024-08-11",
+      "date": "2024-08-11 00:00:00 -0400",
+      "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-10-Greenland.html",
       "subtitle": "Drizzly day in Qaqortoq, Greenland",
-      "categories": "travel cruise iceland",
+      "categories": [
+        "travel",
+        "cruise",
+        "iceland"
+      ],
       "tags": [
         "greenland",
         "qaqortoq",
@@ -15673,9 +16903,14 @@
     },
     {
       "title": "Iceland Cruise Days 11 and 12",
-      "date": "2024-08-12",
+      "date": "2024-08-12 00:00:00 -0400",
+      "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-11-and-12.html",
       "subtitle": "Rocky sea days between Greenland and Iceland",
-      "categories": "travel cruise iceland",
+      "categories": [
+        "travel",
+        "cruise",
+        "iceland"
+      ],
       "tags": [
         "celebrity",
         "celebrity eclipse"
@@ -15720,9 +16955,14 @@
     },
     {
       "title": "Iceland Cruise Day 13",
-      "date": "2024-08-14",
+      "date": "2024-08-14 00:00:00 -0400",
+      "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-13-Akureyri.html",
       "subtitle": "The northern Iceland city Akureyri, and an educational shore excursion",
-      "categories": "travel cruise iceland",
+      "categories": [
+        "travel",
+        "cruise",
+        "iceland"
+      ],
       "tags": [
         "akureyri",
         "iceland",
@@ -15798,9 +17038,14 @@
     },
     {
       "title": "Iceland Cruise Day 14",
-      "date": "2024-08-15",
+      "date": "2024-08-15 00:00:00 -0400",
+      "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-14-Isafjordur.html",
       "subtitle": "Isafjordur, Iceland",
-      "categories": "travel cruise iceland",
+      "categories": [
+        "travel",
+        "cruise",
+        "iceland"
+      ],
       "tags": [
         "isafjordur",
         "iceland",
@@ -15858,9 +17103,14 @@
     },
     {
       "title": "Iceland Cruise Day 15",
-      "date": "2024-08-16",
+      "date": "2024-08-16 00:00:00 -0400",
+      "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-15-Reykjavik.html",
       "subtitle": "The end of the cruise, Reykjavik",
-      "categories": "travel cruise iceland",
+      "categories": [
+        "travel",
+        "cruise",
+        "iceland"
+      ],
       "tags": [
         "reykjavik",
         "iceland",
@@ -15910,10 +17160,14 @@
     },
     {
       "title": "Our cruise voyage from New York to Iceland in 2024",
-      "date": "2024-08-31",
+      "date": "2024-08-31 00:00:00 -0400",
+      "url": "/travel/rollup/2024/Iceland-Cruise-2024-recap.html",
       "subtitle": "A rugged, chilly vacation sailing from New York to Iceland via Canada and Greenland",
-      "categories": "travel rollup",
-      "tags": null,
+      "categories": [
+        "travel",
+        "rollup"
+      ],
+      "tags": [],
       "rollup_key": null,
       "trip_type": "rollup",
       "trip_duration": "August 4-16, 2024",
@@ -15940,9 +17194,13 @@
     },
     {
       "title": "Iceland Visit 2024 Day 1",
-      "date": "2024-09-03",
+      "date": "2024-09-03 00:00:00 -0400",
+      "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-1.html",
       "subtitle": "South coast of Iceland",
-      "categories": "travel iceland",
+      "categories": [
+        "travel",
+        "iceland"
+      ],
       "tags": [
         "reykjavik",
         "iceland"
@@ -16086,9 +17344,13 @@
     },
     {
       "title": "Iceland Visit 2024 Day 2",
-      "date": "2024-09-21",
+      "date": "2024-09-21 00:00:00 -0400",
+      "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-2.html",
       "subtitle": "South coast of Iceland",
-      "categories": "travel iceland",
+      "categories": [
+        "travel",
+        "iceland"
+      ],
       "tags": [
         "reykjavik",
         "iceland"
@@ -16161,9 +17423,13 @@
     },
     {
       "title": "Iceland Visit 2024 Day 3",
-      "date": "2024-09-22",
+      "date": "2024-09-22 00:00:00 -0400",
+      "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-3.html",
       "subtitle": "Old Charm Reykjavik",
-      "categories": "travel iceland",
+      "categories": [
+        "travel",
+        "iceland"
+      ],
       "tags": [
         "reykjavik",
         "iceland"
@@ -16267,9 +17533,13 @@
     },
     {
       "title": "Iceland Visit 2024 Day 4",
-      "date": "2024-09-22",
+      "date": "2024-09-22 00:00:00 -0400",
+      "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-4.html",
       "subtitle": "17 days of travel come to an end",
-      "categories": "travel iceland",
+      "categories": [
+        "travel",
+        "iceland"
+      ],
       "tags": [
         "reykjavik",
         "iceland"
@@ -16324,10 +17594,14 @@
     },
     {
       "title": "Iceland post-cruise visit 2024",
-      "date": "2024-09-23",
+      "date": "2024-09-23 00:00:00 -0400",
+      "url": "/travel/rollup/2024/Iceland-Visit-2024-recap.html",
       "subtitle": "Our four days on land in Iceland after disembarking our cruise in Reykjavik",
-      "categories": "travel rollup",
-      "tags": null,
+      "categories": [
+        "travel",
+        "rollup"
+      ],
+      "tags": [],
       "rollup_key": null,
       "trip_type": "rollup",
       "trip_duration": "August 16-19, 2024",
@@ -16348,9 +17622,13 @@
     },
     {
       "title": "Celebrity Cruise Day 0",
-      "date": "2024-12-21",
+      "date": "2024-12-21 00:00:00 -0500",
+      "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-0.html",
       "subtitle": "Heading to Fort Lauderdale",
-      "categories": "travel caribbean",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
       "tags": [
         "celebrity",
         "cruise",
@@ -16460,9 +17738,13 @@
     },
     {
       "title": "Celebrity Cruise Day 1",
-      "date": "2024-12-22",
+      "date": "2024-12-22 00:00:00 -0500",
+      "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-1.html",
       "subtitle": "Getting to the ship",
-      "categories": "travel caribbean",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
       "tags": [
         "celebrity",
         "cruise",
@@ -16552,9 +17834,13 @@
     },
     {
       "title": "Celebrity Cruise Day 2",
-      "date": "2024-12-23",
+      "date": "2024-12-23 00:00:00 -0500",
+      "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-2.html",
       "subtitle": "Mobility",
-      "categories": "travel caribbean",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
       "tags": [
         "celebrity",
         "cruise",
@@ -16616,9 +17902,13 @@
     },
     {
       "title": "Celebrity Cruise Day 3",
-      "date": "2024-12-24",
+      "date": "2024-12-24 00:00:00 -0500",
+      "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-3-Grand-Cayman.html",
       "subtitle": "Grand Cayman",
-      "categories": "travel caribbean",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
       "tags": [
         "celebrity",
         "cruise",
@@ -16703,9 +17993,13 @@
     },
     {
       "title": "Celebrity Cruise Day 5",
-      "date": "2024-12-26",
+      "date": "2024-12-26 00:00:00 -0500",
+      "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-5-Aruba.html",
       "subtitle": "Aruba",
-      "categories": "travel caribbean",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
       "tags": [
         "celebrity",
         "cruise",
@@ -16801,9 +18095,13 @@
     },
     {
       "title": "Celebrity Cruise Day 6",
-      "date": "2024-12-27",
+      "date": "2024-12-27 00:00:00 -0500",
+      "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-6-Curacao.html",
       "subtitle": "Curaçao",
-      "categories": "travel caribbean",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
       "tags": [
         "celebrity",
         "cruise",
@@ -16906,9 +18204,13 @@
     },
     {
       "title": "Celebrity Cruise Day 7",
-      "date": "2024-12-28",
+      "date": "2024-12-28 00:00:00 -0500",
+      "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-7-Bonaire.html",
       "subtitle": "Bonaire",
-      "categories": "travel caribbean",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
       "tags": [
         "celebrity",
         "cruise",
@@ -16992,9 +18294,13 @@
     },
     {
       "title": "Celebrity Cruise Day 8",
-      "date": "2024-12-29",
+      "date": "2024-12-29 00:00:00 -0500",
+      "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-8.html",
       "subtitle": "Sea day",
-      "categories": "travel caribbean",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
       "tags": [
         "celebrity",
         "cruise",
@@ -17053,9 +18359,13 @@
     },
     {
       "title": "Celebrity Cruise Day 9",
-      "date": "2024-12-30",
+      "date": "2024-12-30 00:00:00 -0500",
+      "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-9-San-Juan.html",
       "subtitle": "San Juan",
-      "categories": "travel caribbean",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
       "tags": [
         "celebrity",
         "cruise",
@@ -17151,9 +18461,13 @@
     },
     {
       "title": "Celebrity Cruise Day 10",
-      "date": "2024-12-31",
+      "date": "2024-12-31 00:00:00 -0500",
+      "url": "/travel/caribbean/2024/Celebrity-Cruise-Day-10-Puerto-Plata.html",
       "subtitle": "Puerto Plata, Dominican Republic",
-      "categories": "travel caribbean",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
       "tags": [
         "celebrity",
         "cruise",
@@ -17264,10 +18578,14 @@
     },
     {
       "title": "Celebrity Eclipse Southern Caribbean in Winter 2024",
-      "date": "2025-01-15",
+      "date": "2025-01-15 00:00:00 -0500",
+      "url": "/travel/rollup/2025/Caribbean-Cruise-Winter-2024-recap.html",
       "subtitle": "A family trip to the Cayman Islands, Aruba, Curaçoa, Bonaire, Puerto Rico, and the DR aboard the Celebrity Eclipse",
-      "categories": "travel rollup",
-      "tags": null,
+      "categories": [
+        "travel",
+        "rollup"
+      ],
+      "tags": [],
       "rollup_key": null,
       "trip_type": "cruise",
       "locations_visited": [
@@ -17330,9 +18648,12 @@
     },
     {
       "title": "Planning For Solo Travel",
-      "date": "2025-01-18",
+      "date": "2025-01-18 00:00:00 -0500",
+      "url": "/travel/2025/Planning-For-Solo-Travel.html",
       "subtitle": "Striking the balance between too little and too much",
-      "categories": "travel",
+      "categories": [
+        "travel"
+      ],
       "tags": [
         "solotravel"
       ],
@@ -17347,9 +18668,15 @@
     },
     {
       "title": "Quick review of the Omni Amelia Island",
-      "date": "2025-03-31",
+      "date": "2025-03-31 00:00:00 -0400",
+      "url": "/travel/florida/hotels/reviews/2025/Omni-Amelia-Island.html",
       "subtitle": null,
-      "categories": "travel florida hotels reviews",
+      "categories": [
+        "travel",
+        "florida",
+        "hotels",
+        "reviews"
+      ],
       "tags": [
         "florida",
         "disney"
@@ -17400,9 +18727,14 @@
     },
     {
       "title": "Norway and Denmark Day 1",
-      "date": "2025-05-08",
+      "date": "2025-05-08 00:00:00 -0400",
+      "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-1.html",
       "subtitle": "24 hours of travel begins",
-      "categories": "travel norway denmark",
+      "categories": [
+        "travel",
+        "norway",
+        "denmark"
+      ],
       "tags": [
         "may2025"
       ],
@@ -17448,9 +18780,14 @@
     },
     {
       "title": "Norway and Denmark Day 2",
-      "date": "2025-05-09",
+      "date": "2025-05-09 00:00:00 -0400",
+      "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-2.html",
       "subtitle": "24 hours of travel concludes, strolling around Bergen",
-      "categories": "travel norway denmark",
+      "categories": [
+        "travel",
+        "norway",
+        "denmark"
+      ],
       "tags": [
         "may2025"
       ],
@@ -17520,9 +18857,14 @@
     },
     {
       "title": "Norway and Denmark Day 3",
-      "date": "2025-05-10",
+      "date": "2025-05-10 00:00:00 -0400",
+      "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-3.html",
       "subtitle": "Full day in Bergen Norway",
-      "categories": "travel norway denmark",
+      "categories": [
+        "travel",
+        "norway",
+        "denmark"
+      ],
       "tags": [
         "may2025"
       ],
@@ -17571,9 +18913,14 @@
     },
     {
       "title": "Norway and Denmark Day 4",
-      "date": "2025-05-11",
+      "date": "2025-05-11 00:00:00 -0400",
+      "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-4.html",
       "subtitle": "Bergen to Balestrand",
-      "categories": "travel norway denmark",
+      "categories": [
+        "travel",
+        "norway",
+        "denmark"
+      ],
       "tags": [
         "may2025"
       ],
@@ -17645,9 +18992,14 @@
     },
     {
       "title": "VIDEO Bergen to Balestrand ferry",
-      "date": "2025-05-11",
+      "date": "2025-05-11 00:00:00 -0400",
+      "url": "/travel/norway/denmark/2025/VIDEO-Bergen-to-Balestrand.html",
       "subtitle": "Where I also learn how to kind of edit videos",
-      "categories": "travel norway denmark",
+      "categories": [
+        "travel",
+        "norway",
+        "denmark"
+      ],
       "tags": [
         "may2025"
       ],
@@ -17674,9 +19026,14 @@
     },
     {
       "title": "Norway and Denmark Day 5",
-      "date": "2025-05-12",
+      "date": "2025-05-12 00:00:00 -0400",
+      "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-5.html",
       "subtitle": "Balestrand hike",
-      "categories": "travel norway denmark",
+      "categories": [
+        "travel",
+        "norway",
+        "denmark"
+      ],
       "tags": [
         "may2025"
       ],
@@ -17736,9 +19093,14 @@
     },
     {
       "title": "Norway and Denmark Day 6",
-      "date": "2025-05-13",
+      "date": "2025-05-13 00:00:00 -0400",
+      "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-6.html",
       "subtitle": "Balestrand to Voss",
-      "categories": "travel norway denmark",
+      "categories": [
+        "travel",
+        "norway",
+        "denmark"
+      ],
       "tags": [
         "may2025"
       ],
@@ -17812,9 +19174,14 @@
     },
     {
       "title": "Norway and Denmark Day 7",
-      "date": "2025-05-14",
+      "date": "2025-05-14 00:00:00 -0400",
+      "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-7.html",
       "subtitle": "Sightseeing around Voss",
-      "categories": "travel norway denmark",
+      "categories": [
+        "travel",
+        "norway",
+        "denmark"
+      ],
       "tags": [
         "may2025"
       ],
@@ -17875,9 +19242,14 @@
     },
     {
       "title": "Norway and Denmark Day 8",
-      "date": "2025-05-15",
+      "date": "2025-05-15 00:00:00 -0400",
+      "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-8.html",
       "subtitle": "Train from Voss to Oslo",
-      "categories": "travel norway denmark",
+      "categories": [
+        "travel",
+        "norway",
+        "denmark"
+      ],
       "tags": [
         "may2025"
       ],
@@ -17947,9 +19319,14 @@
     },
     {
       "title": "Norway and Denmark Day 9",
-      "date": "2025-05-16",
+      "date": "2025-05-16 00:00:00 -0400",
+      "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-9.html",
       "subtitle": "Oslo and the ferry",
-      "categories": "travel norway denmark",
+      "categories": [
+        "travel",
+        "norway",
+        "denmark"
+      ],
       "tags": [
         "may2025"
       ],
@@ -18029,9 +19406,14 @@
     },
     {
       "title": "Norway and Denmark Day 10",
-      "date": "2025-05-17",
+      "date": "2025-05-17 00:00:00 -0400",
+      "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-10.html",
       "subtitle": "Arrival in Copenhagen",
-      "categories": "travel norway denmark",
+      "categories": [
+        "travel",
+        "norway",
+        "denmark"
+      ],
       "tags": [
         "may2025"
       ],
@@ -18100,9 +19482,14 @@
     },
     {
       "title": "Norway and Denmark Day 11",
-      "date": "2025-05-18",
+      "date": "2025-05-18 00:00:00 -0400",
+      "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-11.html",
       "subtitle": "The travel wall",
-      "categories": "travel norway denmark",
+      "categories": [
+        "travel",
+        "norway",
+        "denmark"
+      ],
       "tags": [
         "may2025"
       ],
@@ -18140,9 +19527,14 @@
     },
     {
       "title": "Norway and Denmark Day 12",
-      "date": "2025-05-19",
+      "date": "2025-05-19 00:00:00 -0400",
+      "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-12.html",
       "subtitle": "Copenhagen to RDU",
-      "categories": "travel norway denmark",
+      "categories": [
+        "travel",
+        "norway",
+        "denmark"
+      ],
       "tags": [
         "may2025"
       ],
@@ -18212,10 +19604,14 @@
     },
     {
       "title": "Norway and Denmark in 2025",
-      "date": "2025-07-03",
+      "date": "2025-07-03 00:00:00 -0400",
+      "url": "/travel/rollup/2025/Norway-and-Denmark-2025-recap.html",
       "subtitle": "Exploring Bergen, Balestrand, Voss, Oslo, and Copenhagen",
-      "categories": "travel rollup",
-      "tags": null,
+      "categories": [
+        "travel",
+        "rollup"
+      ],
+      "tags": [],
       "rollup_key": null,
       "trip_type": "rollup",
       "trip_duration": "May 8-19, 2025",
@@ -18238,9 +19634,14 @@
     },
     {
       "title": "Switzerland and Germany Day 1",
-      "date": "2025-07-29",
+      "date": "2025-07-29 00:00:00 -0400",
+      "url": "/travel/norway/denmark/2025/Switzerland-and-Germany-Day-1.html",
       "subtitle": "RDU to Zurich",
-      "categories": "travel norway denmark",
+      "categories": [
+        "travel",
+        "norway",
+        "denmark"
+      ],
       "tags": [
         "july2025"
       ],
@@ -18278,9 +19679,14 @@
     },
     {
       "title": "Switzerland and Germany Day 2",
-      "date": "2025-07-30",
+      "date": "2025-07-30 00:00:00 -0400",
+      "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-2.html",
       "subtitle": "Planes and trains",
-      "categories": "travel switzerland germany",
+      "categories": [
+        "travel",
+        "switzerland",
+        "germany"
+      ],
       "tags": [
         "july2025"
       ],
@@ -18369,9 +19775,14 @@
     },
     {
       "title": "Switzerland and Germany Day 3",
-      "date": "2025-07-31",
+      "date": "2025-07-31 00:00:00 -0400",
+      "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-3.html",
       "subtitle": "Wengen, Lauterbrunnen, and the panorama walk",
-      "categories": "travel switzerland germany",
+      "categories": [
+        "travel",
+        "switzerland",
+        "germany"
+      ],
       "tags": [
         "july2025"
       ],
@@ -18442,9 +19853,14 @@
     },
     {
       "title": "Switzerland and Germany Day 4",
-      "date": "2025-08-01",
+      "date": "2025-08-01 00:00:00 -0400",
+      "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-4.html",
       "subtitle": "Wengen to Zermatt",
-      "categories": "travel switzerland germany",
+      "categories": [
+        "travel",
+        "switzerland",
+        "germany"
+      ],
       "tags": [
         "august2025"
       ],
@@ -18544,9 +19960,14 @@
     },
     {
       "title": "Switzerland and Germany Day 5",
-      "date": "2025-08-02",
+      "date": "2025-08-02 00:00:00 -0400",
+      "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-5.html",
       "subtitle": "Hikes, bikes, and carts in Zermatt",
-      "categories": "travel switzerland germany",
+      "categories": [
+        "travel",
+        "switzerland",
+        "germany"
+      ],
       "tags": [
         "august2025"
       ],
@@ -18643,9 +20064,14 @@
     },
     {
       "title": "Switzerland and Germany Day 6",
-      "date": "2025-08-03",
+      "date": "2025-08-03 00:00:00 -0400",
+      "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-6.html",
       "subtitle": "Up to Gornergrat and its Matterhorn views above Zermatt",
-      "categories": "travel switzerland germany",
+      "categories": [
+        "travel",
+        "switzerland",
+        "germany"
+      ],
       "tags": [
         "august2025"
       ],
@@ -18702,9 +20128,14 @@
     },
     {
       "title": "Switzerland and Germany Day 7",
-      "date": "2025-08-04",
+      "date": "2025-08-04 00:00:00 -0400",
+      "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-7.html",
       "subtitle": "A brief overnight in Appenzell",
-      "categories": "travel switzerland germany",
+      "categories": [
+        "travel",
+        "switzerland",
+        "germany"
+      ],
       "tags": [
         "august2025"
       ],
@@ -18792,9 +20223,14 @@
     },
     {
       "title": "Switzerland and Germany Day 8",
-      "date": "2025-08-05",
+      "date": "2025-08-05 00:00:00 -0400",
+      "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-8.html",
       "subtitle": "Füssen - a fairytale castle and less-than-fairytail transit",
-      "categories": "travel switzerland germany",
+      "categories": [
+        "travel",
+        "switzerland",
+        "germany"
+      ],
       "tags": [
         "august2025"
       ],
@@ -18950,9 +20386,14 @@
     },
     {
       "title": "Switzerland and Germany Day 9",
-      "date": "2025-08-06",
+      "date": "2025-08-06 00:00:00 -0400",
+      "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-9.html",
       "subtitle": "Scenic journey to Garmisch-Partenkirchen",
-      "categories": "travel switzerland germany",
+      "categories": [
+        "travel",
+        "switzerland",
+        "germany"
+      ],
       "tags": [
         "august2025"
       ],
@@ -19052,9 +20493,14 @@
     },
     {
       "title": "Switzerland and Germany Day 10",
-      "date": "2025-08-07",
+      "date": "2025-08-07 00:00:00 -0400",
+      "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-10.html",
       "subtitle": "Around Garmisch-Partenkirchen",
-      "categories": "travel switzerland germany",
+      "categories": [
+        "travel",
+        "switzerland",
+        "germany"
+      ],
       "tags": [
         "august2025"
       ],
@@ -19119,9 +20565,14 @@
     },
     {
       "title": "Switzerland and Germany Day 11",
-      "date": "2025-08-08",
+      "date": "2025-08-08 00:00:00 -0400",
+      "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-11.html",
       "subtitle": "Walking around Garmisch",
-      "categories": "travel switzerland germany",
+      "categories": [
+        "travel",
+        "switzerland",
+        "germany"
+      ],
       "tags": [
         "august2025"
       ],
@@ -19191,9 +20642,14 @@
     },
     {
       "title": "Switzerland and Germany Day 12",
-      "date": "2025-08-09",
+      "date": "2025-08-09 00:00:00 -0400",
+      "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-12.html",
       "subtitle": "To Munich!",
-      "categories": "travel switzerland germany",
+      "categories": [
+        "travel",
+        "switzerland",
+        "germany"
+      ],
       "tags": [
         "august2025"
       ],
@@ -19267,9 +20723,14 @@
     },
     {
       "title": "Switzerland and Germany Day 13",
-      "date": "2025-08-10",
+      "date": "2025-08-10 00:00:00 -0400",
+      "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-13.html",
       "subtitle": "Casual Sunday in Munich",
-      "categories": "travel switzerland germany",
+      "categories": [
+        "travel",
+        "switzerland",
+        "germany"
+      ],
       "tags": [
         "august2025"
       ],
@@ -19340,9 +20801,14 @@
     },
     {
       "title": "Switzerland and Germany Day 14",
-      "date": "2025-08-11",
+      "date": "2025-08-11 00:00:00 -0400",
+      "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-14.html",
       "subtitle": "To the airport",
-      "categories": "travel switzerland germany",
+      "categories": [
+        "travel",
+        "switzerland",
+        "germany"
+      ],
       "tags": [
         "august2025"
       ],
@@ -19411,9 +20877,14 @@
     },
     {
       "title": "Switzerland and Germany Day 15",
-      "date": "2025-08-12",
+      "date": "2025-08-12 00:00:00 -0400",
+      "url": "/travel/switzerland/germany/2025/Switzerland-and-Germany-Day-15.html",
       "subtitle": "The trip home",
-      "categories": "travel switzerland germany",
+      "categories": [
+        "travel",
+        "switzerland",
+        "germany"
+      ],
       "tags": [
         "august2025"
       ],
@@ -19476,10 +20947,14 @@
     },
     {
       "title": "Switzerland and Germany in 2025",
-      "date": "2025-10-15",
+      "date": "2025-10-15 00:00:00 -0400",
+      "url": "/travel/rollup/2025/Switzerland-and-Germany-recap.html",
       "subtitle": "A summer 2025 trip to Switzerland and Germany with my 16 year old son",
-      "categories": "travel rollup",
-      "tags": null,
+      "categories": [
+        "travel",
+        "rollup"
+      ],
+      "tags": [],
       "rollup_key": null,
       "trip_type": "rollup",
       "trip_duration": "July 29 - August 12, 2025",
@@ -19511,9 +20986,13 @@
     },
     {
       "title": "Some Things About Iceland",
-      "date": "2025-12-11",
+      "date": "2025-12-11 00:00:00 -0500",
+      "url": "/iceland/travel/2025/Some-Things-About-Iceland.html",
       "subtitle": "Random thoughts in no order",
-      "categories": "iceland travel",
+      "categories": [
+        "iceland",
+        "travel"
+      ],
       "tags": [
         "iceland",
         "travel",
@@ -19617,9 +21096,14 @@
     },
     {
       "title": "Rome and Silversea Day 1",
-      "date": "2026-05-04",
+      "date": "2026-05-04 00:00:00 -0400",
+      "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-1.html",
       "subtitle": "Travels to Europe",
-      "categories": "travel rome silversea",
+      "categories": [
+        "travel",
+        "rome",
+        "silversea"
+      ],
       "tags": [
         "may2026"
       ],
@@ -19692,9 +21176,14 @@
     },
     {
       "title": "Rome and Silversea Day 2",
-      "date": "2026-05-05",
+      "date": "2026-05-05 00:00:00 -0400",
+      "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-2.html",
       "subtitle": "The day of many steps",
-      "categories": "travel rome silversea",
+      "categories": [
+        "travel",
+        "rome",
+        "silversea"
+      ],
       "tags": [
         "may2026"
       ],
@@ -19857,9 +21346,14 @@
     },
     {
       "title": "Rome and Silversea Day 3",
-      "date": "2026-05-06",
+      "date": "2026-05-06 00:00:00 -0400",
+      "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-3.html",
       "subtitle": "It's Rome, so more walking and eating",
-      "categories": "travel rome silversea",
+      "categories": [
+        "travel",
+        "rome",
+        "silversea"
+      ],
       "tags": [
         "may2026"
       ],
@@ -19972,9 +21466,14 @@
     },
     {
       "title": "Rome and Silversea Day 4",
-      "date": "2026-05-07",
+      "date": "2026-05-07 00:00:00 -0400",
+      "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-4.html",
       "subtitle": "The Vatican, Colosseum, Forum, Trevi, and Pantheon",
-      "categories": "travel rome silversea",
+      "categories": [
+        "travel",
+        "rome",
+        "silversea"
+      ],
       "tags": [
         "may2026"
       ],
@@ -20100,9 +21599,14 @@
     },
     {
       "title": "Rome and Silversea Day 5",
-      "date": "2026-05-08",
+      "date": "2026-05-08 00:00:00 -0400",
+      "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-5.html",
       "subtitle": "Embark day on the Silversea Silver Spirit",
-      "categories": "travel rome silversea",
+      "categories": [
+        "travel",
+        "rome",
+        "silversea"
+      ],
       "tags": [
         "may2026"
       ],
@@ -20276,9 +21780,14 @@
     },
     {
       "title": "Rome and Silversea Day 6",
-      "date": "2026-05-09",
+      "date": "2026-05-09 00:00:00 -0400",
+      "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-6.html",
       "subtitle": "A deliberately low-key day in Livorno",
-      "categories": "travel rome silversea",
+      "categories": [
+        "travel",
+        "rome",
+        "silversea"
+      ],
       "tags": [
         "may2026"
       ],
@@ -20393,9 +21902,14 @@
     },
     {
       "title": "Rome and Silversea Day 7",
-      "date": "2026-05-10",
+      "date": "2026-05-10 00:00:00 -0400",
+      "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-7.html",
       "subtitle": "A full day at sea between Italy and Spain",
-      "categories": "travel rome silversea",
+      "categories": [
+        "travel",
+        "rome",
+        "silversea"
+      ],
       "tags": [
         "may2026"
       ],
@@ -20470,9 +21984,14 @@
     },
     {
       "title": "Rome and Silversea Day 8",
-      "date": "2026-05-11",
+      "date": "2026-05-11 00:00:00 -0400",
+      "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-8.html",
       "subtitle": "A day in València, Spain",
-      "categories": "travel rome silversea",
+      "categories": [
+        "travel",
+        "rome",
+        "silversea"
+      ],
       "tags": [
         "may2026"
       ],
@@ -20572,9 +22091,14 @@
     },
     {
       "title": "Rome and Silversea Day 9",
-      "date": "2026-05-12",
+      "date": "2026-05-12 00:00:00 -0400",
+      "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-9.html",
       "subtitle": "A day in Cartagena, Spain",
-      "categories": "travel rome silversea",
+      "categories": [
+        "travel",
+        "rome",
+        "silversea"
+      ],
       "tags": [
         "may2026"
       ],
@@ -20684,9 +22208,14 @@
     },
     {
       "title": "Rome and Silversea Day 10",
-      "date": "2026-05-13",
+      "date": "2026-05-13 00:00:00 -0400",
+      "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-10.html",
       "subtitle": "A sea day and the passage past Gibraltar",
-      "categories": "travel rome silversea",
+      "categories": [
+        "travel",
+        "rome",
+        "silversea"
+      ],
       "tags": [
         "may2026"
       ],
@@ -20784,9 +22313,14 @@
     },
     {
       "title": "Rome and Silversea Day 11",
-      "date": "2026-05-14",
+      "date": "2026-05-14 00:00:00 -0400",
+      "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-11.html",
       "subtitle": "A day in Portimão and Silves, Portugal",
-      "categories": "travel rome silversea",
+      "categories": [
+        "travel",
+        "rome",
+        "silversea"
+      ],
       "tags": [
         "may2026"
       ],
@@ -20905,9 +22439,14 @@
     },
     {
       "title": "Rome and Silversea Day 12",
-      "date": "2026-05-15",
+      "date": "2026-05-15 00:00:00 -0400",
+      "url": "/travel/rome/silversea/2026/Rome-and-Silversea-Day-12.html",
       "subtitle": "Disembarkation in Lisbon and the flight home",
-      "categories": "travel rome silversea",
+      "categories": [
+        "travel",
+        "rome",
+        "silversea"
+      ],
       "tags": [
         "may2026"
       ],
@@ -20965,10 +22504,14 @@
     },
     {
       "title": "Rome and Silversea in 2026",
-      "date": "2026-05-16",
+      "date": "2026-05-16 00:00:00 -0400",
+      "url": "/travel/rollup/2026/Rome-and-Silversea-recap.html",
       "subtitle": "Exploring Rome, Livorno, València, Cartagena, Portimão, and Lisbon",
-      "categories": "travel rollup",
-      "tags": null,
+      "categories": [
+        "travel",
+        "rollup"
+      ],
+      "tags": [],
       "rollup_key": null,
       "trip_type": "rollup",
       "trip_duration": "May 4-15, 2026",
@@ -20994,9 +22537,15 @@
     },
     {
       "title": "England and Iberia Day 1",
-      "date": "2026-07-29",
+      "date": "2026-07-29 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-1.html",
       "subtitle": "A delay, a tight connection, and a red-eye",
-      "categories": "travel england portugal spain",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -21017,6 +22566,13 @@
           "name": "Hartsfield-Jackson Atlanta International Airport",
           "type": "airport",
           "country": "United States"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Delta Sky Club",
+          "type": "lounge",
+          "location": "Raleigh-Durham International Airport"
         }
       ],
       "transport": [
@@ -21045,6 +22601,10 @@
         "Terminal T to Terminal E connection in Atlanta",
         "Overnight transatlantic flight"
       ],
+      "challenges": [
+        "RDU to Atlanta flight delayed at least 90 minutes, leaving about 15 minutes to make the Atlanta connection",
+        "Main cabin economy on the overnight transatlantic leg meant head-bobbing instead of sleep"
+      ],
       "companions": [
         "Sherri",
         "Siena",
@@ -21053,9 +22613,15 @@
     },
     {
       "title": "England and Iberia Day 2",
-      "date": "2026-07-30",
+      "date": "2026-07-30 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-2.html",
       "subtitle": "Heathrow to Bankside, and 20,000 steps on no sleep",
-      "categories": "travel england portugal spain",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -21148,9 +22714,15 @@
     },
     {
       "title": "England and Iberia Day 3",
-      "date": "2026-07-31",
+      "date": "2026-07-31 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-3.html",
       "subtitle": "Coffee, Carnaby Street, and the Tube",
-      "categories": "travel england portugal spain",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -21252,9 +22824,15 @@
     },
     {
       "title": "England and Iberia Day 4",
-      "date": "2026-08-01",
+      "date": "2026-08-01 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-4.html",
       "subtitle": "Waterloo to Southampton, and the walk to the terminal",
-      "categories": "travel england portugal spain",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -21349,10 +22927,14 @@
     },
     {
       "title": "Walking from Southampton Central Station to the Cruise Terminal",
-      "date": "2026-08-01",
+      "date": "2026-08-01 00:00:00 -0400",
+      "url": "/travel/england/2026/Walking-from-Southampton-Central-Station-to-the-Cruise-Terminal.html",
       "subtitle": "Step-by-step directions to the Horizon terminal (berth 102) at the Port of Southampton",
-      "categories": "travel england",
-      "tags": null,
+      "categories": [
+        "travel",
+        "england"
+      ],
+      "tags": [],
       "rollup_key": null,
       "locations": [
         {
@@ -21388,9 +22970,15 @@
     },
     {
       "title": "England and Iberia Day 5",
-      "date": "2026-08-02",
+      "date": "2026-08-02 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-5.html",
       "subtitle": "A sea day and the last of the jet lag",
-      "categories": "travel england portugal spain",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -21448,9 +23036,15 @@
     },
     {
       "title": "England and Iberia Day 6",
-      "date": "2026-08-03",
+      "date": "2026-08-03 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-6.html",
       "subtitle": "A gray day in Matosinhos",
-      "categories": "travel england portugal spain",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -21506,9 +23100,15 @@
     },
     {
       "title": "England and Iberia Day 7",
-      "date": "2026-08-04",
+      "date": "2026-08-04 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-7.html",
       "subtitle": "Uphill in Lisbon, and a flea market find",
-      "categories": "travel england portugal spain",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -21574,9 +23174,15 @@
     },
     {
       "title": "England and Iberia Day 8",
-      "date": "2026-08-05",
+      "date": "2026-08-05 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-8.html",
       "subtitle": "Gibraltar off the rail, and a slow sea day",
-      "categories": "travel england portugal spain",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -21627,9 +23233,15 @@
     },
     {
       "title": "England and Iberia Day 9",
-      "date": "2026-08-06",
-      "subtitle": "A hot castle, a lucky taxi, and Segways in Palma",
-      "categories": "travel england portugal spain",
+      "date": "2026-08-06 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-9.html",
+      "subtitle": "Palma de Mallorca: a hot hike to a castle, a lucky taxi, and a Segway adventure",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -21682,7 +23294,7 @@
       ],
       "dining": [
         {
-          "venue": "Tapas restaurant",
+          "venue": "Maura",
           "meal": "late lunch",
           "location": "Palma de Mallorca",
           "notes": "Middling"
@@ -21704,9 +23316,15 @@
     },
     {
       "title": "England and Iberia Day 10",
-      "date": "2026-08-07",
+      "date": "2026-08-07 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-10.html",
       "subtitle": "Barcelona on half a tank",
-      "categories": "travel england portugal spain",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -21753,9 +23371,15 @@
     },
     {
       "title": "England and Iberia Day 11",
-      "date": "2026-08-08",
+      "date": "2026-08-08 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-11.html",
       "subtitle": "Waiting out the heat in Ibiza",
-      "categories": "travel england portugal spain",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -21807,9 +23431,15 @@
     },
     {
       "title": "England and Iberia Day 12",
-      "date": "2026-08-09",
+      "date": "2026-08-09 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-12.html",
       "subtitle": "Sea day",
-      "categories": "travel england portugal spain",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -21846,9 +23476,15 @@
     },
     {
       "title": "England and Iberia Day 13",
-      "date": "2026-08-10",
-      "subtitle": "My favorite stop of the trip",
-      "categories": "travel england portugal spain",
+      "date": "2026-08-10 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-13.html",
+      "subtitle": "Málaga, my favorite stop of the trip",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -21942,9 +23578,15 @@
     },
     {
       "title": "England and Iberia Day 14",
-      "date": "2026-08-11",
+      "date": "2026-08-11 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-14.html",
       "subtitle": "Sea day stuff, and a primer for tomorrow's eclipse",
-      "categories": "travel england portugal spain",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -22000,9 +23642,15 @@
     },
     {
       "title": "England and Iberia Day 15",
-      "date": "2026-08-12",
+      "date": "2026-08-12 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-15.html",
       "subtitle": "La Coruña, Spain AND AN ECLIPSE!",
-      "categories": "travel england portugal spain",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -22081,9 +23729,15 @@
     },
     {
       "title": "England and Iberia Day 16",
-      "date": "2026-08-13",
-      "subtitle": "Where we visit fast food restaurants in Bilbao",
-      "categories": "travel england portugal spain",
+      "date": "2026-08-13 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-16.html",
+      "subtitle": "Where we visit American fast food restaurants in Bilbao",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -22171,9 +23825,15 @@
     },
     {
       "title": "England and Iberia Day 17",
-      "date": "2026-08-14",
+      "date": "2026-08-14 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-17.html",
       "subtitle": "The final day, somewhere in the English Channel",
-      "categories": "travel england portugal spain",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -22216,9 +23876,15 @@
     },
     {
       "title": "England and Iberia Day 18",
-      "date": "2026-08-15",
+      "date": "2026-08-15 00:00:00 -0400",
+      "url": "/travel/england/portugal/spain/2026/England-and-Iberia-Day-18.html",
       "subtitle": "Homeward bound",
-      "categories": "travel england portugal spain",
+      "categories": [
+        "travel",
+        "england",
+        "portugal",
+        "spain"
+      ],
       "tags": [
         "july2026"
       ],
@@ -22290,10 +23956,14 @@
     },
     {
       "title": "England and Iberia in 2026",
-      "date": "2026-08-16",
+      "date": "2026-08-16 00:00:00 -0400",
+      "url": "/travel/rollup/2026/England-and-Iberia-recap.html",
       "subtitle": "Three days in London, then a 14-night round-trip cruise from Southampton through Portugal and Spain",
-      "categories": "travel rollup",
-      "tags": null,
+      "categories": [
+        "travel",
+        "rollup"
+      ],
+      "tags": [],
       "rollup_key": null,
       "trip_type": "rollup",
       "trip_duration": "July 29 - August 15, 2026",
@@ -22326,6 +23996,175 @@
         "Sherri",
         "Siena",
         "Rowan"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 1",
+      "date": "2026-10-15 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-1.html",
+      "subtitle": "Back to Southampton after only 2 months",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "outbound",
+      "locations": [
+        {
+          "name": "Holly Springs",
+          "type": "town",
+          "country": "United States"
+        },
+        {
+          "name": "Raleigh-Durham International Airport",
+          "type": "airport",
+          "country": "United States"
+        },
+        {
+          "name": "John F. Kennedy International Airport",
+          "type": "airport",
+          "country": "United States"
+        }
+      ],
+      "transport": [
+        {
+          "type": "flight",
+          "carrier": "Delta",
+          "route": "RDU → JFK",
+          "departure_time": "7:57pm"
+        },
+        {
+          "type": "flight",
+          "carrier": "Virgin Atlantic",
+          "route": "JFK → LHR",
+          "departure_time": "11:55pm",
+          "overnight": true
+        }
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 2",
+      "date": "2026-10-16 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-2.html",
+      "subtitle": "Transfer to Southampton and beating jet lag",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "pre-cruise",
+      "locations": [
+        {
+          "name": "London Heathrow Airport",
+          "type": "airport",
+          "country": "England"
+        },
+        {
+          "name": "Southampton",
+          "type": "port_city",
+          "country": "England"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Moxy Southampton",
+          "location": "Southampton",
+          "night": "1 of 2"
+        }
+      ],
+      "transport": [
+        {
+          "type": "flight",
+          "carrier": "Virgin Atlantic",
+          "route": "JFK → LHR",
+          "arrival_time": "12:05pm"
+        },
+        {
+          "type": "coach",
+          "provider": "National Express",
+          "route": "Heathrow → Southampton"
+        }
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 3",
+      "date": "2026-10-17 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-3.html",
+      "subtitle": "Titanic museum and Winchester",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "pre-cruise",
+      "locations": [
+        {
+          "name": "Southampton",
+          "type": "port_city",
+          "country": "England"
+        },
+        {
+          "name": "Winchester",
+          "type": "city",
+          "country": "England"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Moxy Southampton",
+          "location": "Southampton",
+          "night": "2 of 2"
+        }
+      ],
+      "venues": [
+        {
+          "name": "SeaCity Museum",
+          "type": "museum",
+          "location": "Southampton"
+        }
+      ],
+      "transport": [
+        {
+          "type": "train",
+          "route": "Southampton Central → Winchester",
+          "departure_time": "~3:00pm",
+          "notes": "Off-peak day return"
+        },
+        {
+          "type": "train",
+          "route": "Winchester → Southampton Central"
+        }
+      ],
+      "activities": [
+        "SeaCity Museum Titanic exhibits",
+        "Afternoon trip to Winchester"
+      ],
+      "companions": [
+        "solo"
       ]
     }
   ]
