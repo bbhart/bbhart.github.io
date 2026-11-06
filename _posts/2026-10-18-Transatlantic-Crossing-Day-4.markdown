@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Transatlantic Crossing Day 4
-subtitle: TODO
+subtitle: Embarkation in Southampton
 date:  2026-10-18
-published: false
+published: true
 categories: travel england spain portugal bermuda
 rollup_key: 2026transatlantic
 tags: [october2026]
+background: '/assets/20261018-southampton-sailaway-wake-bg.jpg'
 locations:
   - name: Southampton
     type: port_city
@@ -39,7 +40,7 @@ companions:
 
 The weather was cool and crisp, perfect for a walk. In the Moxy lobby, I passed a crowd of 20 people or so waiting for their bus transfer and made my way to the sidewalk outside. From the Moxy it's around a 20 minute walk along flat ground to the cruise terminal; it's really not bad at all. 
 
-If walking to the City or Horizon terminals in Southampton are interesting to you, I did a [brief writeup of the route](https://bbhart.com/travel/england/2026/Walking-from-Southampton-Central-Station-to-the-Cruise-Terminal.html) back in August. 
+If walking to the City or Horizon terminals in Southampton is interesting to you, I did a [brief writeup of the route](https://bbhart.com/travel/england/2026/Walking-from-Southampton-Central-Station-to-the-Cruise-Terminal.html) back in August. 
 
 <img src="/assets/20261018-southampton-horizon-terminal-walkway.jpg" alt="A pedestrian path through Southampton docks with large mustard-yellow lettering painted on the asphalt reading 'City and Horizon Terminals' beneath an arrow pointing ahead, a black roller suitcase parked mid-path, a parking lot behind wire fencing on the left, and a road with cars and railings on the right under a sunny blue sky with scattered clouds" width="100%" />
 
@@ -54,7 +55,7 @@ This is stateroom 6102 onboard the Celebrity Apex. It's a category P2 -- Deluxe 
     <figcaption style="text-align: center; font-style:italic;">Deluxe Porthole View with Veranda (image: Celebrity Cruises)</figcaption>
 </figure>
 
-It was great! It has a narrow but functional veranda, plus all the light the sliding doors let in. I didn't use the veranda as often as I likely would have on a different cruise. Part of that was the weather (it was cool or cold the first half of the cruise), part of it was the uncomfortable chairs, but it was great to be able to step out there and get some fresh air and see what the temperature is like. 
+It was great! It has a narrow but functional veranda, plus all the light the sliding doors let in. I didn't use the veranda as often as I likely would have on a different cruise. Part of that was the weather (it was cool or cold the first half of the cruise), part of it was the uncomfortable chairs, but it was great to be able to step out there and get some fresh air and see what the temperature was like. 
 
 The location, all the way forward, did mean I felt a lot more ship motion than if I'd been perched midship. While we did have a few days with a lot of movement, it was the type of movement that didn't trigger seasickness. 
 

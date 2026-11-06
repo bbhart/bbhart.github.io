@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T17:45:10Z",
-  "total_posts": 157,
+  "generated_at": "2026-11-06T19:03:22Z",
+  "total_posts": 158,
   "trips": [
     {
       "rollup_key": "2007eu",
@@ -11356,6 +11356,63 @@
           "activities": [
             "SeaCity Museum Titanic exhibits",
             "Afternoon trip to Winchester"
+          ],
+          "companions": [
+            "solo"
+          ]
+        },
+        {
+          "title": "Transatlantic Crossing Day 4",
+          "date": "2026-10-18 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-4.html",
+          "subtitle": "Embarkation in Southampton",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "embarkation",
+          "locations": [
+            {
+              "name": "Southampton",
+              "type": "port_city",
+              "country": "England"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Moxy Southampton",
+              "location": "Southampton",
+              "checkout": true
+            },
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "location": "Southampton (embarkation)",
+              "night": "1 of 13"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Horizon Cruise Terminal (Terminal 102)",
+              "type": "cruise_terminal",
+              "location": "Southampton"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise",
+              "line": "Celebrity Cruises",
+              "vessel": "Celebrity Apex",
+              "route": "Embarkation at Southampton",
+              "departure_time": "5:00pm"
+            }
           ],
           "companions": [
             "solo"
@@ -24162,6 +24219,63 @@
       "activities": [
         "SeaCity Museum Titanic exhibits",
         "Afternoon trip to Winchester"
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 4",
+      "date": "2026-10-18 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-4.html",
+      "subtitle": "Embarkation in Southampton",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "embarkation",
+      "locations": [
+        {
+          "name": "Southampton",
+          "type": "port_city",
+          "country": "England"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Moxy Southampton",
+          "location": "Southampton",
+          "checkout": true
+        },
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "location": "Southampton (embarkation)",
+          "night": "1 of 13"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Horizon Cruise Terminal (Terminal 102)",
+          "type": "cruise_terminal",
+          "location": "Southampton"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise",
+          "line": "Celebrity Cruises",
+          "vessel": "Celebrity Apex",
+          "route": "Embarkation at Southampton",
+          "departure_time": "5:00pm"
+        }
       ],
       "companions": [
         "solo"
