@@ -24,7 +24,7 @@ transport:
     departure_time: 6:00pm
 trip_stage: port_call
 companions:
-  - TODO
+  - solo
 ---
 
 - **Start of day:** Ponta Delgada, Azores

@@ -28,7 +28,7 @@ transport:
     departure_time: 3:37pm
 trip_stage: disembarkation
 companions:
-  - TODO
+  - solo
 ---
 
 - **Start of day:** Port Canaveral, Florida

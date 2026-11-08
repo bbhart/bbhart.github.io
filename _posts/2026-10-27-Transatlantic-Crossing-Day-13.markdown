@@ -17,7 +17,7 @@ accommodations:
     night: 10 of 13
 trip_stage: at_sea
 companions:
-  - TODO
+  - solo
 ---
 
 - **Start of day:** At sea

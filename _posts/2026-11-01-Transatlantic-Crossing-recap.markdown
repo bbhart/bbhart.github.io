@@ -22,7 +22,7 @@ locations_visited:
   - Royal Naval Dockyard, Bermuda
   - Port Canaveral, Florida
 travel_companions:
-  - TODO
+  - solo
 transport:
   - Delta flights
   - National Express coach

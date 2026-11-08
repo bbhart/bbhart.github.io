@@ -21,6 +21,8 @@ locations_visited:
   - Portimão, Portugal
   - Silves, Portugal
   - Lisbon, Portugal
+travel_companions:
+  - solo
 transport:
   - transatlantic flights (Delta)
   - Silversea Silver Spirit cruise

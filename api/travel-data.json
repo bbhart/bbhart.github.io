@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T19:03:22Z",
-  "total_posts": 158,
+  "generated_at": "2026-11-08T22:49:53Z",
+  "total_posts": 159,
   "trips": [
     {
       "rollup_key": "2007eu",
@@ -11417,6 +11417,62 @@
           "companions": [
             "solo"
           ]
+        },
+        {
+          "title": "Transatlantic Crossing Day 6",
+          "date": "2026-10-20 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-6.html",
+          "subtitle": "Vigo Spain",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "Vigo",
+              "type": "port_city",
+              "country": "Spain"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "3 of 13"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Castelo do Castro",
+              "type": "fortress",
+              "location": "Vigo"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise",
+              "line": "Celebrity Cruises",
+              "vessel": "Celebrity Apex",
+              "route": "Port call at Vigo, Spain",
+              "arrival_time": "9:30am",
+              "departure_time": "5:00pm"
+            }
+          ],
+          "activities": [
+            "Uphill walk to Castelo do Castro and O Castro park",
+            "Long way back to the ship along one of the main market streets"
+          ],
+          "companions": [
+            "solo"
+          ]
         }
       ]
     }
@@ -11651,6 +11707,7 @@
     "Vangsnes (unplanned fjord tour)",
     "Vatican City",
     "Vigeland Park",
+    "Vigo",
     "Vik",
     "Visp",
     "Voss gondola (Hangurstoppen)",
@@ -11830,6 +11887,7 @@
     "Local lunch near the terminal",
     "Local lunch near the waterfront",
     "London Eye",
+    "Long way back to the ship along one of the main market streets",
     "Lunch at BWI Concourse A",
     "Lunch at Copenhagen Airport",
     "Lunch at La Terrazza",
@@ -11955,6 +12013,7 @@
     "Two-hour Segway tour of Palma old town, booked through GetYourGuide",
     "Uber to RDU",
     "Unplanned bonus tour to Vangsnes car ferry terminus",
+    "Uphill walk to Castelo do Castro and O Castro park",
     "Vatican Wednesday General Audience ticket pickup at the Bronze Doors",
     "Viewing Blue Lagoon from airplane",
     "Views over the bullring, city and port from the Gibralfaro",
@@ -22590,6 +22649,9 @@
       "transport": [
         "transatlantic flights (Delta)",
         "Silversea Silver Spirit cruise"
+      ],
+      "travel_companions": [
+        "solo"
       ]
     },
     {
@@ -24276,6 +24338,62 @@
           "route": "Embarkation at Southampton",
           "departure_time": "5:00pm"
         }
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 6",
+      "date": "2026-10-20 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-6.html",
+      "subtitle": "Vigo Spain",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "Vigo",
+          "type": "port_city",
+          "country": "Spain"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "3 of 13"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Castelo do Castro",
+          "type": "fortress",
+          "location": "Vigo"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise",
+          "line": "Celebrity Cruises",
+          "vessel": "Celebrity Apex",
+          "route": "Port call at Vigo, Spain",
+          "arrival_time": "9:30am",
+          "departure_time": "5:00pm"
+        }
+      ],
+      "activities": [
+        "Uphill walk to Castelo do Castro and O Castro park",
+        "Long way back to the ship along one of the main market streets"
       ],
       "companions": [
         "solo"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transatlantic Crossing Day 5
-subtitle: TODO
+subtitle: Sea day, plus room controls
 date:  2026-10-19
 published: false
 categories: travel england spain portugal bermuda
@@ -17,18 +17,27 @@ accommodations:
     night: 2 of 13
 trip_stage: at_sea
 companions:
-  - TODO
+  - solo
 ---
 
 - **Start of day:** At sea
 - **End of day:** At sea
 
+The first of many sea days over the duration of the cruise. 
+
 <video src="/assets/20261019-at-sea-aft-lounge-ocean.mp4" width="100%" controls playsinline muted></video>
 
 <img src="/assets/20261019-at-sea-sunset-glass-dome.jpg" alt="Two large ceramic sculptures on round wooden pedestals inside a glass-walled triangular-latticed lounge at the top of the ship, one a woven-textured coral-and-cream vessel, the other a stacked green form. The low sun sets over the Atlantic through the windows, casting a glittering path of light on the water and long shadows across the patterned carpet" width="100%" />
 
+Since I never have much to share on sea days, I'll share this: in the _last hour_ of the last cruise, I discovered I can control the stateroom lights and thermostat from the Celebrity app. Notice the Stateroom icon in the center?
+
 <img src="/assets/20261019-at-sea-celebrity-app-home.jpg" alt="Screenshot of the Celebrity Cruises app home screen showing 'Ship Time 12:19 AM' and 'Today - At Sea' over an overhead illustration of the ship on turquoise water, with a Shortcuts grid below including Cart, Wi-Fi, Depart, Food, Account, Photos, Excursions, Stateroom, Safety, Future Cruise, Videos, Vote, Itinerary, and Tender" width="100%" />
 
+It takes you here:
 <img src="/assets/20261019-at-sea-celebrity-app-room-controls.jpg" alt="Screenshot of the Celebrity Cruises app's stateroom controls for the living room, showing 'Ship Time 12:20 AM,' a current temperature of 75 °F with up and down arrows, living room lights set to 50%, and scene buttons for Morning, Evening, Sleep, and Movie" width="100%" />
+
+Besides the environmental controls, you can also control the TV... but that's less convenient than just using the remote. 
+
+Overall: an average sea day.
 
 {% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}
