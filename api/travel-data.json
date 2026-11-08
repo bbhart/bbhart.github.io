@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T22:49:53Z",
-  "total_posts": 159,
+  "generated_at": "2026-11-08T22:50:56Z",
+  "total_posts": 160,
   "trips": [
     {
       "rollup_key": "2007eu",
@@ -11412,6 +11412,41 @@
               "vessel": "Celebrity Apex",
               "route": "Embarkation at Southampton",
               "departure_time": "5:00pm"
+            }
+          ],
+          "companions": [
+            "solo"
+          ]
+        },
+        {
+          "title": "Transatlantic Crossing Day 5",
+          "date": "2026-10-19 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-5.html",
+          "subtitle": "Sea day, plus room controls",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "Atlantic Ocean",
+              "type": "ocean",
+              "country": "International waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "2 of 13"
             }
           ],
           "companions": [
@@ -24337,6 +24372,41 @@
           "vessel": "Celebrity Apex",
           "route": "Embarkation at Southampton",
           "departure_time": "5:00pm"
+        }
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 5",
+      "date": "2026-10-19 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-5.html",
+      "subtitle": "Sea day, plus room controls",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "Atlantic Ocean",
+          "type": "ocean",
+          "country": "International waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "2 of 13"
         }
       ],
       "companions": [
