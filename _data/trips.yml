@@ -151,21 +151,6 @@ England-and-Iberia-recap:
     - [Bilbao, 43.263, -2.935]
     - [Southampton, 50.904, -1.404]
 
-# Uncomment on publish day. Left commented while the posts are unpublished:
-# home.html counts stop names from every entry here, so a live entry would
-# change the production "places" count before the trip is public.
-# Transatlantic-Crossing-recap:
-#   label: Transatlantic Crossing
-#   year: 2026
-#   pin: [37.740, -25.668]
-#   stops:
-#     - [Southampton, 50.904, -1.404]
-#     - [Vigo, 42.240, -8.727]
-#     - [Lisbon, 38.722, -9.139]
-#     - [Ponta Delgada, 37.740, -25.668]
-#     - [Royal Naval Dockyard, 32.327, -64.834]
-#     - [Port Canaveral, 28.410, -80.618]
-
 # Label-only entries: no pin or stops, so no route-map marker.
 switzerland-2024:
   rollup_key: 2024ch
@@ -176,3 +161,14 @@ Transatlantic-Crossing-recap:
   rollup_key: 2026transatlantic
   label: Transatlantic Crossing
   year: 2026
+  # Uncomment on publish day. Left commented while the posts are unpublished:
+  # the /trips/ page counts stop names from every entry here, so live stops
+  # would change the production "places" count before the trip is public.
+  # pin: [37.740, -25.668]
+  # stops:
+  #   - [Southampton, 50.904, -1.404]
+  #   - [Vigo, 42.240, -8.727]
+  #   - [Lisbon, 38.722, -9.139]
+  #   - [Ponta Delgada, 37.740, -25.668]
+  #   - [Royal Naval Dockyard, 32.327, -64.834]
+  #   - [Port Canaveral, 28.410, -80.618]
