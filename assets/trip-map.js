@@ -11,7 +11,7 @@
   trips.forEach(function (t) { bySlug[t.slug] = t; });
 
   var atlas = window.createAtlas(el, trips.map(function (t) {
-    return { id: t.slug, at: t.pin, label: t.label + " <b>" + t.year + "</b>", title: t.title };
+    return { id: t.slug, at: t.pin, label: t.label + " <b>" + t.year + "</b>", title: t.title, name: t.label };
   }), { onSelect: select });
   var map = atlas.map;
   var narrow = atlas.narrow;

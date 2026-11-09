@@ -16,6 +16,6 @@ https://bsky.app/profile/bbhart.com
 
 ## Key pages
 
-- [Trip Recaps](https://bbhart.com/recaps/): complete journals for each trip, one recap per trip.
+- [Trips](https://bbhart.com/trips/): complete journals for each trip, one recap per trip.
 - [About](https://bbhart.com/about/): who Brian is.
 - [All posts](https://bbhart.com/posts/): reverse-chronological index.

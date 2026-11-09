@@ -1,6 +1,7 @@
 // Shared by the home city map and the /trips/ route map: the Leaflet setup,
 // vector basemap, pins, and the numbered bubbles overlapping pins fold into.
-// items: [{ id, at: [lat, lng], label (HTML), title }]
+// items: [{ id, at: [lat, lng], label (HTML), title, name }]
+//   name: the short name used in bubble tooltips.
 // opts: { onSelect: function (id), maxZoom }
 (function () {
   window.createAtlas = function (el, items, opts) {
@@ -128,7 +129,7 @@
       var b = L.latLngBounds(members.map(function (p) { return p.item.at; }));
       L.marker(b.getCenter(), {
         icon: L.divIcon({ className: "trip-cluster", html: "<span>" + members.length + "</span>", iconSize: [CLUSTER, CLUSTER] }),
-        title: members.map(function (p) { return p.item.title; }).join(", "),
+        title: members.map(function (p) { return p.item.name; }).join(", "),
         keyboard: true,
         zIndexOffset: 500
       }).on("click", function () {
