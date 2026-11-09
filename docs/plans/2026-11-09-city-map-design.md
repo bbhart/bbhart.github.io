@@ -53,17 +53,25 @@ For each city:
 
 1. Find published posts whose `locations` or `locations_visited` match the city.
    Entries may be strings or hashes with a `name`.
-2. Group by `rollup_key`. A post with no `rollup_key` is its own group.
+2. Group by trip key: the post's `rollup_key`, else the `rollup_key` of its entry
+   in `_data/trips.yml`, else the post itself as a one-post group.
 3. Each group makes one card, linked to its earliest non-recap post. If only the
    recap is tagged, the card links to the recap.
 4. Sort cards newest first.
 
-Recaps are posts with the `rollup` category.
+Recaps are posts with the `rollup` category. They carry no `rollup_key` of their
+own, and adding one would list each recap inside its own day-by-day index, so
+each `_data/trips.yml` entry gains a `rollup_key` field. That field also supplies
+the card's trip label. Two label-only entries are added, with no pin or stops:
+`switzerland-2024`, whose recap is not in the `rollup` category, and
+`Transatlantic-Crossing-recap`, which is unpublished.
 
 Zurich is the reference case: two cards, 2024 and 2025.
 
 **Images.** Use the linked post's `background`, then the trip recap's
 `background`, then the text-only tile the trip grid already uses.
+
+**Trip label.** The `_data/trips.yml` label and year, else the post title.
 
 **Dates.** The card shows the linked post's date, which may be a travel day.
 
@@ -73,10 +81,12 @@ A city with no matching posts gets no pin.
 
 **Pins.** Same dot as today, with the city name on hover or keyboard focus.
 Overlapping pins fold into a numbered bubble, and clicking a bubble zooms in
-until they separate.
+until they separate. The city map's maximum zoom is 12, not the route map's 6,
+because towns a few kilometres apart cannot separate at 6. Grouping switches off
+at maximum zoom, so every pin stays reachable.
 
-**Selecting a pin.** The pin is highlighted and the map pans to it without
-changing zoom. The panel takes the existing card position: replacing the intro
+**Selecting a pin.** The pin is highlighted and the map pans only as far as
+needed to clear the panel, without changing zoom. The panel takes the existing card position: replacing the intro
 panel on wide screens, and below or over the map on phones. It shows the city
 name and one card per trip.
 
