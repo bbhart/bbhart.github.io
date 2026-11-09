@@ -1,11 +1,14 @@
 ---
-# Map data for the home page. Keyed by the recap post's slug (its filename
+# Map data for the /trips/ page. Keyed by the recap post's slug (its filename
 # minus the date). `pin` is where the trip's marker sits; `stops` draw the
 # route when the trip is selected. Coordinates are [lat, lng].
+# `rollup_key` ties the recap to its day posts, and `label` and `year` name the
+# trip on home page city cards.
 #
 # A recap with no entry here still shows in the trip grid, just not on the map.
 
 europe-2007:
+  rollup_key: 2007eu
   label: Western Europe cruise
   year: 2007
   pin: [48.857, 2.352]
@@ -22,6 +25,7 @@ europe-2007:
     - [Tangier, 35.759, -5.834]
 
 India-2019-recap:
+  rollup_key: 2019india
   label: India
   year: 2019
   pin: [12.972, 77.594]
@@ -31,6 +35,7 @@ India-2019-recap:
     - [Bengaluru, 12.972, 77.594]
 
 Iceland-trip-2023-recap:
+  rollup_key: 2023iceland
   label: Iceland
   year: 2023
   pin: [64.663, -21.290]
@@ -40,6 +45,7 @@ Iceland-trip-2023-recap:
     - [Húsafell, 64.700, -20.867]
 
 Japan-Trip-2024-recap:
+  rollup_key: 2024japan
   label: Japan
   year: 2024
   pin: [35.011, 135.768]
@@ -49,6 +55,7 @@ Japan-Trip-2024-recap:
     - [Kyoto, 35.011, 135.768]
 
 Iceland-Cruise-2024-recap:
+  rollup_key: 2024icelandcruise
   label: New York to Iceland
   year: 2024
   pin: [60.719, -46.036]
@@ -62,6 +69,7 @@ Iceland-Cruise-2024-recap:
     - [Reykjavik, 64.146, -21.942]
 
 Iceland-Visit-2024-recap:
+  rollup_key: 2024icelandonland
   label: South Iceland
   year: 2024
   pin: [63.419, -19.006]
@@ -72,6 +80,7 @@ Iceland-Visit-2024-recap:
     - [Vík, 63.419, -19.006]
 
 Caribbean-Cruise-Winter-2024-recap:
+  rollup_key: 2024wintercaribbean
   label: Southern Caribbean
   year: 2024
   pin: [12.524, -70.027]
@@ -86,6 +95,7 @@ Caribbean-Cruise-Winter-2024-recap:
     - [Fort Lauderdale, 26.122, -80.137]
 
 Norway-and-Denmark-2025-recap:
+  rollup_key: 2025norway
   label: Norway and Denmark
   year: 2025
   pin: [60.391, 5.322]
@@ -97,6 +107,7 @@ Norway-and-Denmark-2025-recap:
     - [Copenhagen, 55.676, 12.568]
 
 Switzerland-and-Germany-recap:
+  rollup_key: 2025chde
   label: Switzerland and Germany
   year: 2025
   pin: [46.608, 7.922]
@@ -110,6 +121,7 @@ Switzerland-and-Germany-recap:
     - [Munich, 48.135, 11.582]
 
 Rome-and-Silversea-recap:
+  rollup_key: 2026romesilversea
   label: Rome and the Mediterranean
   year: 2026
   pin: [41.903, 12.496]
@@ -122,6 +134,7 @@ Rome-and-Silversea-recap:
     - [Lisbon, 38.722, -9.139]
 
 England-and-Iberia-recap:
+  rollup_key: 2026iberia
   label: England and Iberia
   year: 2026
   pin: [51.507, -0.128]
@@ -152,3 +165,14 @@ England-and-Iberia-recap:
 #     - [Ponta Delgada, 37.740, -25.668]
 #     - [Royal Naval Dockyard, 32.327, -64.834]
 #     - [Port Canaveral, 28.410, -80.618]
+
+# Label-only entries: no pin or stops, so no route-map marker.
+switzerland-2024:
+  rollup_key: 2024ch
+  label: Switzerland
+  year: 2024
+
+Transatlantic-Crossing-recap:
+  rollup_key: 2026transatlantic
+  label: Transatlantic Crossing
+  year: 2026
