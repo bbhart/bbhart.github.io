@@ -17,7 +17,7 @@ trips I've actually taken.
 {% endfor %}
 </ul>
 
-<p>Looking for the complete trip journals instead? See <a href="{{ '/recaps/' | relative_url }}">Trip Recaps</a>,
+<p>Looking for the complete trip journals instead? See <a href="{{ '/trips/' | relative_url }}">Trips</a>,
 or the <a href="{{ '/countries/' | relative_url }}">Countries</a> I've slept in.</p>
 
 <script type="application/ld+json">

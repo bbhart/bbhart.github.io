@@ -4,7 +4,7 @@
     <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     <nav class="site-nav" aria-label="Main">
       <ul>
-        {% assign nav = "Posts:/posts/,Destinations:/destinations/,Trip Recaps:/recaps/,Countries:/countries/,About:/about/,Contact:/contact/" | split: "," %}
+        {% assign nav = "Posts:/posts/,Destinations:/destinations/,Trips:/trips/,Countries:/countries/,About:/about/,Contact:/contact/" | split: "," %}
         {% for item in nav %}
         {% assign parts = item | split: ":" %}
         <li><a href="{{ parts[1] | relative_url }}"{% if page.url contains parts[1] %} aria-current="page"{% endif %}>{{ parts[0] }}</a></li>
