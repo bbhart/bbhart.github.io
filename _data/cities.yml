@@ -27,7 +27,7 @@ Bengaluru:
   aliases: ["Bengaluru, India"]
 Bergen:
   coords: [60.391, 5.322]
-  aliases: ["Bergen, Norway"]
+  aliases: ["Bergen, Norway", "Downtown Bergen"]
 Bern:
   coords: [46.948, 7.447]
 Bettmeralp:
@@ -61,7 +61,7 @@ Civitavecchia:
   coords: [42.094, 11.794]
 Copenhagen:
   coords: [55.676, 12.568]
-  aliases: ["Copenhagen, Denmark"]
+  aliases: ["Copenhagen, Denmark", "Downtown Copenhagen", "Copenhagen city center", "Copenhagen streets"]
 Dubai:
   coords: [25.204, 55.271]
   aliases: ["Dubai, United Arab Emirates"]
@@ -155,7 +155,7 @@ Oranjestad:
   coords: [12.524, -70.027]
 Oslo:
   coords: [59.913, 10.752]
-  aliases: ["Oslo, Norway"]
+  aliases: ["Oslo, Norway", "Downtown Oslo", "Downtown Oslo malls"]
 Palma de Mallorca:
   coords: [39.570, 2.650]
   aliases: ["Palma de Mallorca, Spain"]
@@ -247,7 +247,7 @@ Visp:
   coords: [46.294, 7.881]
 Voss:
   coords: [60.628, 6.418]
-  aliases: ["Voss, Norway"]
+  aliases: ["Voss, Norway", "Downtown Voss", "Voss town center"]
 Wasserauen:
   coords: [47.284, 9.424]
 Wengen:
