@@ -1,0 +1,270 @@
+---
+# Cities with a pin on the home page map. Post `locations` and
+# `locations_visited` names match a key or one of its `aliases`.
+# A post tagged with a new city shows no pin until the city is added here.
+# Coordinates are [lat, lng].
+
+Akureyri:
+  coords: [65.683, -18.110]
+  aliases: ["Akureyri, Iceland"]
+Amsterdam:
+  coords: [52.370, 4.895]
+  aliases: ["Amsterdam, Netherlands"]
+Appenzell:
+  coords: [47.331, 9.410]
+  aliases: ["Appenzell, Switzerland"]
+Balestrand:
+  coords: [61.207, 6.534]
+  aliases: ["Balestrand, Norway", "Balestrand town"]
+Barcelona:
+  coords: [41.385, 2.173]
+  aliases: ["Barcelona, Spain"]
+Bayonne:
+  coords: [40.669, -74.114]
+  aliases: ["Bayonne, New Jersey, USA"]
+Bengaluru:
+  coords: [12.972, 77.594]
+  aliases: ["Bengaluru, India"]
+Bergen:
+  coords: [60.391, 5.322]
+  aliases: ["Bergen, Norway"]
+Bern:
+  coords: [46.948, 7.447]
+Bettmeralp:
+  coords: [46.392, 8.064]
+Bilbao:
+  coords: [43.263, -2.935]
+  aliases: ["Bilbao, Spain"]
+Blankenberge:
+  coords: [51.313, 3.132]
+Borgarnes:
+  coords: [64.538, -21.921]
+Boston:
+  coords: [42.360, -71.058]
+Bregenz:
+  coords: [47.503, 9.747]
+Brig:
+  coords: [46.317, 7.988]
+Brugge:
+  coords: [51.209, 3.225]
+  aliases: ["Brugge, Belgium"]
+Buchloe:
+  coords: [48.037, 10.725]
+Cartagena:
+  coords: [37.606, -0.986]
+  aliases: ["Cartagena, Spain"]
+Chamonix-Mont-Blanc:
+  coords: [45.924, 6.869]
+Chichester:
+  coords: [50.837, -0.780]
+Civitavecchia:
+  coords: [42.094, 11.794]
+Copenhagen:
+  coords: [55.676, 12.568]
+  aliases: ["Copenhagen, Denmark"]
+Dubai:
+  coords: [25.204, 55.271]
+  aliases: ["Dubai, United Arab Emirates"]
+Durham:
+  coords: [35.994, -78.899]
+  aliases: ["Durham, NC"]
+Fort Lauderdale:
+  coords: [26.122, -80.137]
+Füssen:
+  coords: [47.571, 10.701]
+  aliases: ["Füssen, Germany"]
+Garmisch-Partenkirchen:
+  coords: [47.492, 11.095]
+  aliases: ["Garmisch-Partenkirchen, Germany"]
+Geneva:
+  coords: [46.204, 6.143]
+George Town:
+  coords: [19.295, -81.381]
+Gibraltar:
+  coords: [36.140, -5.353]
+Halifax:
+  coords: [44.649, -63.575]
+  aliases: ["Halifax, Nova Scotia, Canada"]
+Holly Springs:
+  coords: [35.651, -78.833]
+  aliases: ["Holly Springs, NC"]
+Húsafell:
+  coords: [64.700, -20.867]
+Ibiza:
+  coords: [38.907, 1.433]
+  aliases: ["Ibiza, Spain"]
+Interlaken:
+  coords: [46.686, 7.863]
+Ísafjörður:
+  coords: [66.075, -23.135]
+  aliases: ["Ísafjörður, Iceland"]
+Istanbul:
+  coords: [41.008, 28.978]
+Jersey City:
+  coords: [40.728, -74.078]
+Kamakura:
+  coords: [35.319, 139.547]
+Kralendijk:
+  coords: [12.150, -68.268]
+Kyoto:
+  coords: [35.011, 135.768]
+La Coruña:
+  coords: [43.362, -8.411]
+  aliases: ["La Coruña, Spain"]
+La Rochelle:
+  coords: [46.160, -1.151]
+  aliases: ["La Rochelle, France"]
+Laugarvatn:
+  coords: [64.214, -20.733]
+  aliases: ["Laugarvatn area"]
+Lauterbrunnen:
+  coords: [46.594, 7.908]
+  aliases: ["Lauterbrunnen, Switzerland"]
+Le Havre:
+  coords: [49.494, 0.107]
+  aliases: ["Le Havre, France"]
+Lisbon:
+  coords: [38.722, -9.139]
+  aliases: ["Lisbon, Portugal"]
+Livorno:
+  coords: [43.548, 10.311]
+  aliases: ["Livorno, Italy"]
+London:
+  coords: [51.507, -0.128]
+  aliases: ["London, England", "London, United Kingdom"]
+Málaga:
+  coords: [36.721, -4.421]
+  aliases: ["Málaga, Spain"]
+Manhattan:
+  coords: [40.758, -73.985]
+Matosinhos:
+  coords: [41.184, -8.696]
+  aliases: ["Matosinhos, Portugal", "Leixões", "Porto (Leixões), Portugal"]
+Minneapolis:
+  coords: [44.978, -93.265]
+Mörel:
+  coords: [46.355, 8.045]
+Munich:
+  coords: [48.135, 11.582]
+  aliases: ["Munich, Germany"]
+Mürren:
+  coords: [46.559, 7.892]
+Newark:
+  coords: [40.736, -74.172]
+Oranjestad:
+  coords: [12.524, -70.027]
+Oslo:
+  coords: [59.913, 10.752]
+  aliases: ["Oslo, Norway"]
+Palma de Mallorca:
+  coords: [39.570, 2.650]
+  aliases: ["Palma de Mallorca, Spain"]
+Paris:
+  coords: [48.857, 2.352]
+  aliases: ["Paris, France"]
+Pflach:
+  coords: [47.514, 10.680]
+Ponta Delgada:
+  coords: [37.740, -25.668]
+  aliases: ["Ponta Delgada, Azores, Portugal"]
+Port Canaveral:
+  coords: [28.410, -80.618]
+  aliases: ["Port Canaveral, Florida"]
+Portimão:
+  coords: [37.138, -8.537]
+  aliases: ["Portimão, Portugal"]
+Puerto Plata:
+  coords: [19.793, -70.689]
+Qaqortoq:
+  coords: [60.719, -46.036]
+  aliases: ["Qaqortoq, Greenland"]
+Raleigh:
+  coords: [35.780, -78.639]
+Reykholt:
+  coords: [64.663, -21.290]
+Reykjavik:
+  coords: [64.146, -21.942]
+  aliases: ["Reykjavik, Iceland"]
+Riederalp:
+  coords: [46.382, 8.026]
+Rome:
+  coords: [41.903, 12.496]
+  aliases: ["Rome, Italy"]
+Royal Naval Dockyard:
+  coords: [32.327, -64.834]
+  aliases: ["Royal Naval Dockyard, Bermuda"]
+San Francisco:
+  coords: [37.621, -122.379]
+  aliases: ["San Francisco, California, USA"]
+San Juan:
+  coords: [18.466, -66.106]
+Schwangau:
+  coords: [47.577, 10.739]
+Selfoss:
+  coords: [63.933, -20.997]
+  aliases: ["Selfoss, Iceland"]
+Silves:
+  coords: [37.189, -8.439]
+  aliases: ["Silves, Portugal"]
+Southampton:
+  coords: [50.904, -1.404]
+  aliases: ["Southampton, England", "Southampton, United Kingdom"]
+Spiez:
+  coords: [46.688, 7.680]
+St. Gallen:
+  coords: [47.424, 9.377]
+St. John's:
+  coords: [47.561, -52.713]
+  aliases: ["St. John's, Newfoundland, Canada"]
+St. Margrethen:
+  coords: [47.452, 9.637]
+  aliases: ["St. Margrethen SG"]
+Steinar:
+  coords: [63.540, -19.720]
+  aliases: ["Steinar, South Iceland"]
+Tangier:
+  coords: [35.759, -5.834]
+  aliases: ["Tangier, Morocco"]
+Thun:
+  coords: [46.758, 7.628]
+Tokyo:
+  coords: [35.676, 139.650]
+València:
+  coords: [39.470, -0.376]
+  aliases: ["València, Spain"]
+Vangsnes:
+  coords: [61.167, 6.633]
+  aliases: ["Vangsnes (unplanned fjord tour)"]
+Vatican City:
+  coords: [41.904, 12.453]
+Vigo:
+  coords: [42.240, -8.727]
+  aliases: ["Vigo, Spain"]
+Vík:
+  coords: [63.419, -19.006]
+  aliases: ["Vik", "Vík, Iceland"]
+Visp:
+  coords: [46.294, 7.881]
+Voss:
+  coords: [60.628, 6.418]
+  aliases: ["Voss, Norway"]
+Wasserauen:
+  coords: [47.284, 9.424]
+Wengen:
+  coords: [46.608, 7.922]
+  aliases: ["Wengen, Switzerland"]
+Willemstad:
+  coords: [12.109, -68.934]
+Winchester:
+  coords: [51.063, -1.308]
+Yokohama:
+  coords: [35.444, 139.638]
+Zeebrugge:
+  coords: [51.333, 3.207]
+  aliases: ["Zeebrugge, Belgium"]
+Zermatt:
+  coords: [46.020, 7.749]
+  aliases: ["Zermatt, Switzerland"]
+Zurich:
+  coords: [47.377, 8.542]
+  aliases: ["Zurich, Switzerland"]
