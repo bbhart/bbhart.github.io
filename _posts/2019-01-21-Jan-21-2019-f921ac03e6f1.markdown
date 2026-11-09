@@ -6,6 +6,7 @@ title: Back in India
 subtitle: This time with travel buddies
 date: '2019-01-21T11:25:19.282Z'
 categories: travel india
+background: '/assets/20190120-bangalore-palace-courtyard.jpg'
 keywords: []
 slug: /@bbhart_ca/jan-21-2019-f921ac03e6f1
 location: Bengaluru, India

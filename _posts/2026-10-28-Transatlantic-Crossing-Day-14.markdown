@@ -7,6 +7,7 @@ published: false
 categories: travel england spain portugal bermuda
 rollup_key: 2026transatlantic
 tags: [october2026]
+background: '/assets/20261028-dockyard-commissioners-house.jpg'
 locations:
   - name: Royal Naval Dockyard
     type: port

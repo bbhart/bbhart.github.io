@@ -7,6 +7,7 @@ published: false
 categories: travel england spain portugal bermuda
 rollup_key: 2026transatlantic
 tags: [october2026]
+background: '/assets/20261021-lisbon-castelo-sao-jorge-gate.jpg'
 locations:
   - name: Lisbon
     type: port_city

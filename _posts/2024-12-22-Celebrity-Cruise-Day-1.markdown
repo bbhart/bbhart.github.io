@@ -6,7 +6,7 @@ date:  2024-12-22
 categories: travel caribbean
 rollup_key: 2024wintercaribbean
 tags: [celebrity, cruise, dec2024]
-background:
+background: '/assets/20241222-eclipse-lawn.jpg'
 transport:
   - type: bus
     from: Embassy Suites Fort Lauderdale

@@ -5,6 +5,7 @@ subtitle: Cutting the trip short but excited for next time
 date: 2024-02-10
 rollup_key: 2024japan
 categories: travel japan
+background: '/assets/2024-kamakura-sugimoto.jpg'
 transport:
   - type: train
     from: Kyoto

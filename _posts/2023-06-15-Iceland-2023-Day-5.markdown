@@ -6,6 +6,7 @@ date: 2023-06-15
 categories: travel iceland
 rollup_key: 2023iceland
 tags: [june2023]
+background: '/assets/20230615-vidgelmir-cave-stairs.jpg'
 accommodation:
   - name: Húsafell Cottage (Airbnb)
     location: Húsafell, Iceland

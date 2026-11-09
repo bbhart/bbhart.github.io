@@ -7,6 +7,7 @@ published: false
 categories: travel england spain portugal bermuda
 rollup_key: 2026transatlantic
 tags: [october2026]
+background: '/assets/20261023-lagoa-do-fogo-mist.jpg'
 locations:
   - name: Ponta Delgada
     type: port_city

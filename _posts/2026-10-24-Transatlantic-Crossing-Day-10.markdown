@@ -7,6 +7,7 @@ published: false
 categories: travel england spain portugal bermuda
 rollup_key: 2026transatlantic
 tags: [october2026]
+background: '/assets/20261024-at-sea-radar-dome-sundeck.jpg'
 locations:
   - name: Atlantic Ocean
     type: ocean

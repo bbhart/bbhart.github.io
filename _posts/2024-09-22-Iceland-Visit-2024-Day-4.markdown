@@ -6,7 +6,7 @@ date:  2024-09-22
 categories: travel iceland
 tags: [reykjavik, iceland]
 rollup_key: 2024icelandonland
-background:
+background: '/assets/20240819-iceland-outside-apartment.jpg'
 trip_day: 4
 day_type: travel_day
 trip_stage: post-cruise

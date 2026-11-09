@@ -9,6 +9,7 @@ description: >-
   It’s something I picked up somewhere on the way to India, and…
 date: '2019-01-27T02:49:14.126Z'
 categories: []
+background: '/assets/20190124-leela-palace-gardens.jpg'
 keywords: []
 slug: /@bbhart_ca/jan-26-2019-367672cb4a50
 ---
