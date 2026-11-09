@@ -9,10 +9,13 @@
   var trips = JSON.parse(dataEl.textContent).filter(function (t) { return t.pin; });
   var bySlug = {};
   trips.forEach(function (t) { bySlug[t.slug] = t; });
+  // Compact land trips, such as Iceland 2023, need this zoom to read as a
+  // route; at 6 their legs are short stubs hidden behind the pin and label.
+  var ROUTE_MAX_ZOOM = 9;
 
   var atlas = window.createAtlas(el, trips.map(function (t) {
     return { id: t.slug, at: t.pin, label: t.label + " <b>" + t.year + "</b>", title: t.title, name: t.label };
-  }), { onSelect: select });
+  }), { onSelect: select, maxZoom: ROUTE_MAX_ZOOM });
   var map = atlas.map;
   var narrow = atlas.narrow;
 
@@ -43,7 +46,7 @@
     map.flyToBounds(fit, {
       paddingTopLeft: narrow.matches ? [30, 30] : [420, 60],
       paddingBottomRight: narrow.matches ? atlas.PHONE_BR : [60, 60],
-      maxZoom: 6,
+      maxZoom: ROUTE_MAX_ZOOM,
       duration: 0.8
     });
 

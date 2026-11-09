@@ -175,8 +175,9 @@
 
 // The marker element is the tap target (18px with a mouse, 44px on touch
 // screens; set in map-base.js). The visible dot sits centered inside it.
-.trip-pin,
-.trip-cluster {
+// Doubled-up selector: leaflet.css loads later and sets display: block.
+.leaflet-marker-icon.trip-pin,
+.leaflet-marker-icon.trip-cluster {
   display: flex;
   align-items: center;
   justify-content: center;
