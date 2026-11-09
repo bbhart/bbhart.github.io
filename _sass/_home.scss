@@ -281,6 +281,10 @@
   fill-opacity: 1;
 }
 
+.trip-stop--stay {
+  fill: var(--accent);
+}
+
 .leaflet-tooltip.trip-tip {
   background: var(--ink);
   color: var(--bg);

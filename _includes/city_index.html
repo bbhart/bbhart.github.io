@@ -20,8 +20,11 @@
     {%- endfor -%}
     {%- if hit -%}
       {%- assign key = post.rollup_key | default: site.data.trips[post.slug].rollup_key | default: post.url -%}
-      {%- assign hits = hits | push: post -%}
-      {%- assign hit_keys = hit_keys | push: key -%}
+      {%- comment -%}Liquid treats 0 as truthy, but a missing key is nil: compare to nil so 0-night cruise ports count.{%- endcomment -%}
+      {%- if entry[1].stays[key] != nil -%}
+        {%- assign hits = hits | push: post -%}
+        {%- assign hit_keys = hit_keys | push: key -%}
+      {%- endif -%}
     {%- endif -%}
   {%- endfor -%}
   {%- if hits.size == 0 -%}{%- continue -%}{%- endif -%}
@@ -69,7 +72,7 @@
       {%- assign label = chosen.title -%}
     {%- endif -%}
 
-    {%- capture card -%}{"url":{{ chosen.url | relative_url | jsonify }},"image":{% if image %}{{ image | relative_url | jsonify }}{% else %}null{% endif %},"date":{{ chosen.date | date: "%Y-%m-%d" | jsonify }},"dateLabel":{{ chosen.date | date: "%b %-d, %Y" | jsonify }},"trip":{{ label | jsonify }}}{%- endcapture -%}
+    {%- capture card -%}{"url":{{ chosen.url | relative_url | jsonify }},"image":{% if image %}{{ image | relative_url | jsonify }}{% else %}null{% endif %},"date":{{ chosen.date | date: "%Y-%m-%d" | jsonify }},"dateLabel":{{ chosen.date | date: "%b %-d, %Y" | jsonify }},"trip":{{ label | jsonify }},"nights":{{ entry[1].stays[key] | jsonify }}}{%- endcapture -%}
     {%- assign cards = cards | push: card -%}
   {%- endfor -%}
 

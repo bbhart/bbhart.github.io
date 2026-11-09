@@ -138,3 +138,28 @@ regenerating, because no post content changes.
 
 A post tagged with a new city shows no pin until that city is added to
 `cities.yml`. The file's header comment says so, as `trips.yml` does for recaps.
+
+## Amendment: who gets a pin
+
+This narrows "Which places get pins" and "Card selection" above.
+
+**The rule.** On land trips, a town gets a pin if Brian slept there at least one
+night. On cruises, every port gets a pin, plus shore excursion towns with real
+narrative in the post; both are recorded as 0 nights. Day trips on land, transit
+and layovers, and home towns get no pin.
+
+**Format.** Each entry in `_data/cities.yml` carries `stays`, a map of trip key to
+nights:
+
+```yaml
+Reykjavik:
+  coords: [64.146, -21.942]
+  stays: {2023iceland: 2, 2024icelandcruise: 0, 2024icelandonland: 1}
+```
+
+A post counts for a city only if its trip key is in that city's `stays`, so a new
+stay needs a line there. Each card carries `nights`, shown on its date line.
+`_data/trips.yml` stops take an optional 4th element for nights.
+
+Zurich has one card under this rule, 2024. The 2025 trip only passed through its
+airport and station.

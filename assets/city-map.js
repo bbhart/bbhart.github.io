@@ -27,6 +27,12 @@
     return node;
   }
 
+  function nightsSuffix(n) {
+    if (n >= 2) return " · " + n + " nights";
+    if (n === 1) return " · 1 night";
+    return "";
+  }
+
   function cardItem(card) {
     var link = document.createElement("a");
     link.className = "trip-card";
@@ -41,7 +47,7 @@
       blank.setAttribute("aria-hidden", "true");
       link.appendChild(blank);
     }
-    link.appendChild(text("span", "trip-card__year", card.dateLabel));
+    link.appendChild(text("span", "trip-card__year", card.dateLabel + nightsSuffix(card.nights)));
     link.appendChild(text("span", "trip-card__title", card.trip));
     var li = document.createElement("li");
     li.appendChild(link);

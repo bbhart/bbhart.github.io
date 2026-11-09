@@ -31,8 +31,11 @@
       L.polyline(arc(pts[i - 1], pts[i]), { className: "trip-route", weight: 2, dashArray: "4 6", interactive: false }).addTo(route);
     }
     trip.stops.forEach(function (s) {
-      L.circleMarker([s[1], s[2]], { className: "trip-stop", radius: 4, weight: 2, interactive: true })
-        .bindTooltip(s[0], { direction: "top", offset: [0, -4], className: "trip-tip" })
+      // s[3], when present, is nights slept at this stop.
+      var stay = s[3] >= 2;
+      var label = s[3] ? s[0] + " · " + s[3] + (s[3] === 1 ? " night" : " nights") : s[0];
+      L.circleMarker([s[1], s[2]], { className: stay ? "trip-stop trip-stop--stay" : "trip-stop", radius: stay ? 7 : 4, weight: 2, interactive: true })
+        .bindTooltip(label, { direction: "top", offset: [0, -4], className: "trip-tip" })
         .addTo(route);
     });
 

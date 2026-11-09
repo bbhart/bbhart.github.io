@@ -2,6 +2,8 @@
 # Map data for the /trips/ page. Keyed by the recap post's slug (its filename
 # minus the date). `pin` is where the trip's marker sits; `stops` draw the
 # route when the trip is selected. Coordinates are [lat, lng].
+# A stop is [name, lat, lng], with an optional 4th element for nights slept
+# there; omit it for 0.
 # `rollup_key` ties the recap to its day posts, and `label` and `year` name the
 # trip on home page city cards.
 #
@@ -23,6 +25,8 @@ europe-2007:
     - [Lisbon, 38.722, -9.139]
     - [Gibraltar, 36.140, -5.353]
     - [Tangier, 35.759, -5.834]
+    - [Barcelona, 41.385, 2.173, 2]
+    - [London, 51.507, -0.128, 1]
 
 India-2019-recap:
   rollup_key: 2019india
@@ -31,8 +35,8 @@ India-2019-recap:
   pin: [12.972, 77.594]
   stops:
     - [San Francisco, 37.621, -122.379]
-    - [Dubai, 25.204, 55.271]
-    - [Bengaluru, 12.972, 77.594]
+    - [Dubai, 25.204, 55.271, 1]
+    - [Bengaluru, 12.972, 77.594, 7]
 
 Iceland-trip-2023-recap:
   rollup_key: 2023iceland
@@ -40,9 +44,9 @@ Iceland-trip-2023-recap:
   year: 2023
   pin: [64.663, -21.290]
   stops:
-    - [Reykjavik, 64.146, -21.942]
-    - [Reykholt, 64.663, -21.290]
-    - [Húsafell, 64.700, -20.867]
+    - [Reykholt, 64.170, -20.450, 3]
+    - [Húsafell, 64.700, -20.867, 3]
+    - [Reykjavik, 64.146, -21.942, 2]
 
 Japan-Trip-2024-recap:
   rollup_key: 2024japan
@@ -50,9 +54,9 @@ Japan-Trip-2024-recap:
   year: 2024
   pin: [35.011, 135.768]
   stops:
-    - [Tokyo, 35.676, 139.650]
-    - [Kamakura, 35.319, 139.547]
-    - [Kyoto, 35.011, 135.768]
+    - [Tokyo, 35.676, 139.650, 3]
+    - [Kamakura, 35.319, 139.547, 2]
+    - [Kyoto, 35.011, 135.768, 3]
 
 Iceland-Cruise-2024-recap:
   rollup_key: 2024icelandcruise
@@ -60,12 +64,13 @@ Iceland-Cruise-2024-recap:
   year: 2024
   pin: [60.719, -46.036]
   stops:
+    - [Jersey City, 40.728, -74.078, 1]
     - [Bayonne, 40.669, -74.114]
     - [Halifax, 44.649, -63.575]
     - [St. John's, 47.561, -52.713]
     - [Qaqortoq, 60.719, -46.036]
-    - [Ísafjörður, 66.075, -23.135]
     - [Akureyri, 65.683, -18.110]
+    - [Ísafjörður, 66.075, -23.135]
     - [Reykjavik, 64.146, -21.942]
 
 Iceland-Visit-2024-recap:
@@ -76,8 +81,9 @@ Iceland-Visit-2024-recap:
   stops:
     - [Reykjavik, 64.146, -21.942]
     - [Selfoss, 63.933, -20.997]
-    - [Steinar, 63.540, -19.720]
+    - [Steinar, 63.540, -19.720, 2]
     - [Vík, 63.419, -19.006]
+    - [Reykjavik, 64.146, -21.942, 1]
 
 Caribbean-Cruise-Winter-2024-recap:
   rollup_key: 2024wintercaribbean
@@ -85,7 +91,7 @@ Caribbean-Cruise-Winter-2024-recap:
   year: 2024
   pin: [12.524, -70.027]
   stops:
-    - [Fort Lauderdale, 26.122, -80.137]
+    - [Fort Lauderdale, 26.122, -80.137, 1]
     - [George Town, 19.295, -81.381]
     - [Oranjestad, 12.524, -70.027]
     - [Willemstad, 12.109, -68.934]
@@ -100,11 +106,11 @@ Norway-and-Denmark-2025-recap:
   year: 2025
   pin: [60.391, 5.322]
   stops:
-    - [Bergen, 60.391, 5.322]
-    - [Balestrand, 61.207, 6.534]
-    - [Voss, 60.628, 6.418]
-    - [Oslo, 59.913, 10.752]
-    - [Copenhagen, 55.676, 12.568]
+    - [Bergen, 60.391, 5.322, 2]
+    - [Balestrand, 61.207, 6.534, 2]
+    - [Voss, 60.628, 6.418, 2]
+    - [Oslo, 59.913, 10.752, 1]
+    - [Copenhagen, 55.676, 12.568, 2]
 
 Switzerland-and-Germany-recap:
   rollup_key: 2025chde
@@ -113,12 +119,12 @@ Switzerland-and-Germany-recap:
   pin: [46.608, 7.922]
   stops:
     - [Zurich, 47.377, 8.542]
-    - [Wengen, 46.608, 7.922]
-    - [Zermatt, 46.020, 7.749]
-    - [Appenzell, 47.331, 9.410]
-    - [Füssen, 47.571, 10.701]
-    - [Garmisch-Partenkirchen, 47.492, 11.095]
-    - [Munich, 48.135, 11.582]
+    - [Wengen, 46.608, 7.922, 2]
+    - [Zermatt, 46.020, 7.749, 3]
+    - [Appenzell, 47.331, 9.410, 1]
+    - [Füssen, 47.571, 10.701, 1]
+    - [Garmisch-Partenkirchen, 47.492, 11.095, 3]
+    - [Munich, 48.135, 11.582, 3]
 
 Rome-and-Silversea-recap:
   rollup_key: 2026romesilversea
@@ -126,7 +132,8 @@ Rome-and-Silversea-recap:
   year: 2026
   pin: [41.903, 12.496]
   stops:
-    - [Rome, 41.903, 12.496]
+    - [Rome, 41.903, 12.496, 3]
+    - [Civitavecchia, 42.094, 11.794]
     - [Livorno, 43.548, 10.311]
     - [València, 39.470, -0.376]
     - [Cartagena, 37.606, -0.986]
@@ -139,11 +146,11 @@ England-and-Iberia-recap:
   year: 2026
   pin: [51.507, -0.128]
   stops:
-    - [London, 51.507, -0.128]
+    - [London, 51.507, -0.128, 2]
     - [Southampton, 50.904, -1.404]
-    - [Porto, 41.183, -8.700]
+    - [Matosinhos, 41.184, -8.696]
     - [Lisbon, 38.722, -9.139]
-    - [Palma, 39.570, 2.650]
+    - [Palma de Mallorca, 39.570, 2.650]
     - [Barcelona, 41.385, 2.173]
     - [Ibiza, 38.907, 1.433]
     - [Málaga, 36.721, -4.421]
@@ -157,6 +164,11 @@ switzerland-2024:
   label: Switzerland
   year: 2024
 
+switzerland-2019:
+  rollup_key: 2019switzerland
+  label: Switzerland
+  year: 2019
+
 Transatlantic-Crossing-recap:
   rollup_key: 2026transatlantic
   label: Transatlantic Crossing
@@ -166,7 +178,7 @@ Transatlantic-Crossing-recap:
   # would change the production "places" count before the trip is public.
   # pin: [37.740, -25.668]
   # stops:
-  #   - [Southampton, 50.904, -1.404]
+  #   - [Southampton, 50.904, -1.404, 2]
   #   - [Vigo, 42.240, -8.727]
   #   - [Lisbon, 38.722, -9.139]
   #   - [Ponta Delgada, 37.740, -25.668]
