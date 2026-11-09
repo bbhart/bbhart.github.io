@@ -81,10 +81,17 @@
     }
     home();
 
+    // Leaflet only turns Enter into a click on markers that have a popup.
+    function onEnter(action) {
+      return function (e) { if (e.originalEvent.key === "Enter") action(); };
+    }
+
     items.forEach(function (item) {
+      function selectItem() { opts.onSelect(item.id); }
       var m = L.marker(item.at, { icon: pinIcon(item, false), title: item.title, keyboard: true, riseOnHover: true })
         .addTo(map)
-        .on("click", function () { opts.onSelect(item.id); });
+        .on("click", selectItem)
+        .on("keypress", onEnter(selectItem));
       pins[item.id] = { marker: m, item: item };
     });
 
@@ -127,12 +134,7 @@
 
     function addGroup(members) {
       var b = L.latLngBounds(members.map(function (p) { return p.item.at; }));
-      L.marker(b.getCenter(), {
-        icon: L.divIcon({ className: "trip-cluster", html: "<span>" + members.length + "</span>", iconSize: [CLUSTER, CLUSTER] }),
-        title: members.map(function (p) { return p.item.name; }).join(", "),
-        keyboard: true,
-        zIndexOffset: 500
-      }).on("click", function () {
+      function zoomToGroup() {
         var fitOpts = narrow.matches
           ? { paddingTopLeft: [50, 50], paddingBottomRight: PHONE_BR, duration: 0.6 }
           : { paddingTopLeft: [420, 80], paddingBottomRight: [80, 80], duration: 0.6 };
@@ -144,7 +146,15 @@
         } else {
           map.flyTo(b.getCenter(), Math.min(map.getZoom() + 1.5, map.getMaxZoom()), { duration: 0.6 });
         }
-      }).addTo(groups);
+      }
+      L.marker(b.getCenter(), {
+        icon: L.divIcon({ className: "trip-cluster", html: "<span>" + members.length + "</span>", iconSize: [CLUSTER, CLUSTER] }),
+        title: members.map(function (p) { return p.item.name; }).join(", "),
+        keyboard: true,
+        zIndexOffset: 500
+      }).on("click", zoomToGroup)
+        .on("keypress", onEnter(zoomToGroup))
+        .addTo(groups);
     }
     map.on("zoomend", regroup);
     regroup();
@@ -153,6 +163,8 @@
       if (active && pins[active]) pins[active].marker.setIcon(pinIcon(pins[active].item, false));
       active = id;
       if (id && pins[id]) pins[id].marker.setIcon(pinIcon(pins[id].item, true));
+      // The active pin stays out of bubbles, so fold it back in once released.
+      if (id === null) regroup();
     }
 
     return {

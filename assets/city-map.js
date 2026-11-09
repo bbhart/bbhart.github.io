@@ -18,6 +18,7 @@
   var panel = document.getElementById("city-card");
   var list = panel.querySelector(".city-cards");
   var box = el.closest(".atlas");
+  var selected = null;
 
   function text(tag, className, value) {
     var node = document.createElement(tag);
@@ -50,16 +51,18 @@
   function select(name) {
     var city = byName[name];
     if (!city) return;
+    selected = name;
     atlas.setActive(name);
     atlas.map.panInside(city.coords, atlas.narrow.matches
       ? { padding: [30, 30] }
       : { paddingTopLeft: [420, 60], paddingBottomRight: [60, 60] });
 
     panel.querySelector("h2").textContent = city.name;
-    var newest = city.cards.slice().sort(function (a, b) { return a.date < b.date ? 1 : -1; });
+    var newest = city.cards.slice().sort(function (a, b) { return b.date.localeCompare(a.date); });
     list.replaceChildren.apply(list, newest.map(cardItem));
     panel.hidden = false;
     panel.scrollTop = 0;
+    panel.focus({ preventScroll: true });
     box.classList.add("is-selected");
     // On phones the panel sits below the map, possibly off screen.
     if (atlas.narrow.matches) panel.scrollIntoView({ behavior: "smooth", block: "nearest" });
@@ -69,6 +72,10 @@
     atlas.setActive(null);
     panel.hidden = true;
     box.classList.remove("is-selected");
+    // After setActive: it regroups, and getElement() is null if the pin folded.
+    var pin = selected && atlas.pins[selected].marker.getElement();
+    if (pin) pin.focus();
+    selected = null;
   }
 
   panel.querySelector(".atlas__close").addEventListener("click", clear);

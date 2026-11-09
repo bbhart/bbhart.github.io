@@ -150,7 +150,6 @@
 
   .trip-card__blank {
     height: 170px;
-    aspect-ratio: auto;
   }
 }
 
@@ -175,7 +174,7 @@
 // Pins ------------------------------------------------------------------
 
 // The marker element is the tap target (18px with a mouse, 44px on touch
-// screens; set in trip-map.js). The visible dot sits centered inside it.
+// screens; set in map-base.js). The visible dot sits centered inside it.
 .trip-pin,
 .trip-cluster {
   display: flex;
@@ -330,7 +329,7 @@
     left: auto;
   }
 
-  .atlas__card--city { max-height: none; }
+  .atlas__card--city { max-height: none; overflow: visible; }
 }
 
 // Trip grid ---------------------------------------------------------------
