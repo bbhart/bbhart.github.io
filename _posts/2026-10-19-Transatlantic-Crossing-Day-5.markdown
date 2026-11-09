@@ -7,6 +7,7 @@ published: true
 categories: travel england spain portugal bermuda
 rollup_key: 2026transatlantic
 tags: [october2026]
+background: '/assets/20261019-at-sea-sunset-glass-dome-bg.jpg'
 locations:
   - name: Atlantic Ocean
     type: ocean
@@ -38,6 +39,8 @@ It takes you here:
 <img src="/assets/20261019-at-sea-celebrity-app-room-controls.jpg" alt="Screenshot of the Celebrity Cruises app's stateroom controls for the living room, showing 'Ship Time 12:20 AM,' a current temperature of 75 °F with up and down arrows, living room lights set to 50%, and scene buttons for Morning, Evening, Sleep, and Movie" width="100%" />
 
 Besides the environmental controls, you can also control the TV... but that's less convenient than just using the remote. 
+
+So now you know.
 
 Overall: an average sea day.
 
