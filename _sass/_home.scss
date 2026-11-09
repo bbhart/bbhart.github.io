@@ -1,4 +1,4 @@
-// Home page: trip map ("atlas"), trip grid, latest posts.
+// Home and /trips/ pages: map ("atlas"), trip grid, latest posts.
 
 .atlas {
   position: relative;
@@ -124,6 +124,34 @@
   line-height: 1;
   cursor: pointer;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+// City panel: replaces the trip card on the home map, one card per trip.
+.atlas__card--city {
+  max-height: calc(100% - 4rem);
+  overflow-y: auto;
+  padding: 1.25rem;
+
+  h2 { margin: 0 2.25rem 1rem 0; }
+
+  .atlas__close {
+    position: sticky;
+    float: right;
+    margin: -0.5rem -0.5rem 0 0;
+  }
+}
+
+.city-cards {
+  display: grid;
+  gap: 1.25rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  .trip-card__blank {
+    height: 170px;
+    aspect-ratio: auto;
+  }
 }
 
 // Leaflet chrome, restyled ----------------------------------------------
@@ -301,6 +329,8 @@
     top: auto;
     left: auto;
   }
+
+  .atlas__card--city { max-height: none; }
 }
 
 // Trip grid ---------------------------------------------------------------
