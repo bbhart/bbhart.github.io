@@ -169,6 +169,10 @@ switzerland-2019:
   label: Switzerland
   year: 2019
 
+Omni-Amelia-Island:
+  rollup_key: 2025springbreak
+  label: Omni Amelia Island
+
 Transatlantic-Crossing-recap:
   rollup_key: 2026transatlantic
   label: Transatlantic Crossing

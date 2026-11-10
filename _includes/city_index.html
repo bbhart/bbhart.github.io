@@ -67,7 +67,7 @@
     {%- assign image = chosen.background | default: recap_image -%}
 
     {%- if trip -%}
-      {%- capture label -%}{{ trip.label }} {{ trip.year }}{%- endcapture -%}
+      {%- capture label -%}{{ trip.label }}{% if trip.year %} {{ trip.year }}{% endif %}{%- endcapture -%}
     {%- else -%}
       {%- assign label = chosen.title -%}
     {%- endif -%}
