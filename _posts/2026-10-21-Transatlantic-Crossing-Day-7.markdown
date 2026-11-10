@@ -30,6 +30,8 @@ companions:
 - **Start of day:** Lisbon, Portugal
 - **End of day:** At sea
 
+Of the four ports on this voyage, [Lisbon is the easiest one to do if you don't want to book a shore excursion](https://bbhart.com/travel/england/portugal/spain/2026/England-and-Iberia-Day-7.html). Still, I wanted to get out into the country some and didn't want to rent a car, so I booked a tour out to the coast and to the [José Maria da Fonseca winery](https://www.jmf.pt/index.php?id=111). 
+
 <img src="/assets/20261021-azeitao-jose-maria-da-fonseca.jpg" alt="A tour group walking along a cobblestone street in Vila Nogueira de Azeitão beside the long whitewashed wall of the José Maria da Fonseca winery, its name spelled out in large gold letters decorated with painted tiles, under a tiled roofline and an overcast sky" width="100%" />
 
 <img src="/assets/20261021-azeitao-grape-azulejos.jpg" alt="Close-up of hand-painted Portuguese azulejo tiles at the José Maria da Fonseca winery, showing a cluster of blue grapes and green vine leaves on a white glazed background, framed by small blue-and-yellow floral motifs at the tile corners" width="100%" />
@@ -44,16 +46,23 @@ companions:
 
 <img src="/assets/20261021-azeitao-wine-shop-signs.jpg" alt="Two ornate azulejo tile signs side by side at the José Maria da Fonseca winery, each topped with a yellow castle tower and ringed with the name 'José Maria da Fonseca' in a blue oval band, one reading 'Wine Shop' and the other 'Loja de Vinhos'" width="100%" />
 
+While the shore excursion was well-run and delivered on what was promised, it started me thinking there needs to be a published ratio of bus time to not bus time. We spent around 2.5 hours on the bus for this 4 hour excursion. **That's not a complaint**, as it's a necessary part of the trip, but I'd like to be able to filter for trips where there's more _doing_. 
+
+After returning to the cruise terminal I walked around town near the ship, covering some of the same ground as our August trip. 
+
 <img src="/assets/20261021-lisbon-azulejo-portrait.jpg" alt="A square of modern azulejo tile art set into a whitewashed gatepost marked '34A' in Lisbon, depicting a woman's face cradled in her hands, her skin and hands covered in blue-and-white traditional tile patterns against a black background, next to a green iron gate under a deep blue sky" width="100%" />
 
+This is a dog park:
 <img src="/assets/20261021-lisbon-castle-archaeological-site.jpg" alt="An archaeological excavation area near the Castelo de São Jorge in Lisbon, with crumbling stone walls of old buildings, a dirt yard with wooden boardwalks and benches, wooden fencing with information panels, and tall cypress trees against a clear blue sky" width="100%" />
 
+I walked up the hill to [Castelo de São Jorge](https://castelodesaojorge.pt/en/). I decided to save it for a future visit when I'd have more time. 
 <img src="/assets/20261021-lisbon-castelo-sao-jorge-gate.jpg" alt="The ornate stone gateway leading to the Castelo de São Jorge in Lisbon, topped with a carved coat of arms, beside a high stone wall shaded by large trees. Visitors walk over the cobblestones toward the arch, and souvenir stalls under white umbrellas sell tiles and textiles along the wall" width="100%" />
 
 <img src="/assets/20261021-lisbon-dog-walking-posters.jpg" alt="Two posters pasted on a graffiti-covered green door in Lisbon advertising 'Maria's Dog Walking Service,' one in English reading 'No time to walk?' and one in Portuguese reading 'Sem tempo para passear?', each with a close-up of a brown-and-white dog against a pink sunburst and a QR code" width="100%" />
 
 <img src="/assets/20261021-lisbon-alfama-stairway.jpg" alt="A narrow cobbled stairway descending between a white wall with an iron handrail and old tiled townhouses with wrought-iron balconies in Lisbon's Alfama, an iron street lamp arching over the alley, a leafy tree overhead, and a sliver of the Tagus visible at the bottom under a clear blue sky" width="100%" />
 
+And for the second time in as many months I found myself sailing under the [Ponte 25 de Abril bridge](https://en.wikipedia.org/wiki/25_de_Abril_Bridge). 
 <video src="/assets/20261021-lisbon-sailaway-25-de-abril-bridge.mp4" width="100%" controls playsinline muted></video>
 
 {% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

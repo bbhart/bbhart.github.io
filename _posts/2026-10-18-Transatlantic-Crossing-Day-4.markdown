@@ -38,6 +38,59 @@ companions:
 - **Start of day:** Moxy Southampton
 - **End of day:** At sea
 
+Cruise embarkation day! Over the next two weeks I'll visit 4 ports and try to be OK with 8 (!!) sea days.
+
+The itinerary:
+
+<style>
+.itinerary-table {
+  width: 100%;
+  margin-bottom: 2rem;
+  border-collapse: collapse;
+  font-size: 0.8rem;
+  line-height: 1.35;
+}
+.itinerary-table th,
+.itinerary-table td {
+  border: 1px solid #ccc;
+  padding: 0.35rem 0.5rem;
+  text-align: left;
+  vertical-align: top;
+}
+.itinerary-table th {
+  background-color: #f4f4f4;
+  font-weight: 700;
+  white-space: nowrap;
+}
+@media (max-width: 576px) {
+  .itinerary-table {
+    font-size: 0.7rem;
+  }
+  .itinerary-table th,
+  .itinerary-table td {
+    padding: 0.25rem 0.35rem;
+  }
+}
+</style>
+
+| Date | Place | About |
+| ---- | ----- | ----- |
+| Sunday, October 18 | Southampton, England | Embarkation, 5:00pm sailaway |
+| Monday, October 19 | [At Sea]({% post_url 2026-10-19-Transatlantic-Crossing-Day-5 %}) | |
+| Tuesday, October 20 | [Vigo, Spain]({% post_url 2026-10-20-Transatlantic-Crossing-Day-6 %}) | Galicia, 9:30am to 5:00pm |
+| Wednesday, October 21 | Lisbon, Portugal | Portugal's capital, 8:00am to 5:00pm |
+| Thursday, October 22 | At Sea | |
+| Friday, October 23 | [Ponta Delgada, Azores]({% post_url 2026-10-23-Transatlantic-Crossing-Day-9 %}) | São Miguel island, 10:00am to 6:00pm |
+| Saturday, October 24 | At Sea | |
+| Sunday, October 25 | At Sea | |
+| Monday, October 26 | At Sea | |
+| Tuesday, October 27 | At Sea | |
+| Wednesday, October 28 | Royal Naval Dockyard, Bermuda | 8:00am to 5:00pm |
+| Thursday, October 29 | At Sea | |
+| Friday, October 30 | At Sea | |
+| Saturday, October 31 | Port Canaveral, Florida | Disembark |
+{: .itinerary-table}
+
 The weather was cool and crisp, perfect for a walk. In the Moxy lobby, I passed a crowd of 20 people or so waiting for their bus transfer and made my way to the sidewalk outside. From the Moxy it's around a 20 minute walk along flat ground to the cruise terminal; it's really not bad at all. 
 
 If walking to the City or Horizon terminals in Southampton is interesting to you, I did a [brief writeup of the route](https://bbhart.com/travel/england/2026/Walking-from-Southampton-Central-Station-to-the-Cruise-Terminal.html) back in August. 

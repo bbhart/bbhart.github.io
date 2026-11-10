@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T13:19:19Z",
-  "total_posts": 160,
+  "generated_at": "2026-11-10T22:52:53Z",
+  "total_posts": 161,
   "trips": [
     {
       "rollup_key": "2007eu",
@@ -11508,6 +11508,72 @@
           "companions": [
             "solo"
           ]
+        },
+        {
+          "title": "Transatlantic Crossing Day 9",
+          "date": "2026-10-23 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-9.html",
+          "subtitle": "Ponta Delgada, Azores",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "Ponta Delgada",
+              "type": "port_city",
+              "country": "Portugal (Azores)"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "6 of 13"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Lagoa do Fogo",
+              "type": "crater_lake",
+              "location": "São Miguel"
+            },
+            {
+              "name": "Caldeira Velha",
+              "type": "geothermal_reserve",
+              "location": "São Miguel"
+            },
+            {
+              "name": "Gorreana tea plantation",
+              "type": "tea_plantation",
+              "location": "São Miguel"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise",
+              "line": "Celebrity Cruises",
+              "vessel": "Celebrity Apex",
+              "route": "Port call at Ponta Delgada, Azores",
+              "arrival_time": "10:00am",
+              "departure_time": "6:00pm"
+            }
+          ],
+          "activities": [
+            "Morning walk around Ponta Delgada, including the farmers market",
+            "4.5 hour shore excursion to Lagoa do Fogo, Caldeira Velha, and the Gorreana tea plantation"
+          ],
+          "companions": [
+            "solo"
+          ]
         }
       ]
     }
@@ -11684,6 +11750,7 @@
     "Paris",
     "Paris, France",
     "Pflach",
+    "Ponta Delgada",
     "Portimão",
     "Portimão, Portugal",
     "Porto (Leixões), Portugal",
@@ -11770,6 +11837,7 @@
   ],
   "all_activities": [
     "3-mile Bordalsgjelet Gorge hike",
+    "4.5 hour shore excursion to Lagoa do Fogo, Caldeira Velha, and the Gorreana tea plantation",
     "6+ hour scenic train journey through varied Norwegian landscape",
     "6:30pm sailaway",
     "75 minutes waiting on sunny train platform",
@@ -11939,6 +12007,7 @@
     "Moonrise photography over fjord",
     "Morning run to Faxi Bakery for drinks and pastries",
     "Morning shore excursion to Silves (market, archaeology museum, cathedral, and castle)",
+    "Morning walk around Ponta Delgada, including the farmers market",
     "Muster station check-in",
     "Muster station safety drill in the Show Lounge",
     "Málaga Cathedral and the Museo Picasso, seen from outside",
@@ -24464,6 +24533,72 @@
       "activities": [
         "Uphill walk to Castelo do Castro and O Castro park",
         "Long way back to the ship along one of the main market streets"
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 9",
+      "date": "2026-10-23 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-9.html",
+      "subtitle": "Ponta Delgada, Azores",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "Ponta Delgada",
+          "type": "port_city",
+          "country": "Portugal (Azores)"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "6 of 13"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Lagoa do Fogo",
+          "type": "crater_lake",
+          "location": "São Miguel"
+        },
+        {
+          "name": "Caldeira Velha",
+          "type": "geothermal_reserve",
+          "location": "São Miguel"
+        },
+        {
+          "name": "Gorreana tea plantation",
+          "type": "tea_plantation",
+          "location": "São Miguel"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise",
+          "line": "Celebrity Cruises",
+          "vessel": "Celebrity Apex",
+          "route": "Port call at Ponta Delgada, Azores",
+          "arrival_time": "10:00am",
+          "departure_time": "6:00pm"
+        }
+      ],
+      "activities": [
+        "Morning walk around Ponta Delgada, including the farmers market",
+        "4.5 hour shore excursion to Lagoa do Fogo, Caldeira Velha, and the Gorreana tea plantation"
       ],
       "companions": [
         "solo"
