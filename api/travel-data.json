@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T22:52:53Z",
-  "total_posts": 161,
+  "generated_at": "2026-11-10T22:56:19Z",
+  "total_posts": 163,
   "trips": [
     {
       "rollup_key": "2007eu",
@@ -11504,6 +11504,86 @@
           "activities": [
             "Uphill walk to Castelo do Castro and O Castro park",
             "Long way back to the ship along one of the main market streets"
+          ],
+          "companions": [
+            "solo"
+          ]
+        },
+        {
+          "title": "Transatlantic Crossing Day 7",
+          "date": "2026-10-21 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-7.html",
+          "subtitle": "Lisbon, Portugal",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "Lisbon",
+              "type": "port_city",
+              "country": "Portugal"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "4 of 13"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise",
+              "line": "Celebrity Cruises",
+              "vessel": "Celebrity Apex",
+              "route": "Port call at Lisbon, Portugal",
+              "arrival_time": "8:00am",
+              "departure_time": "5:00pm"
+            }
+          ],
+          "companions": [
+            "solo"
+          ]
+        },
+        {
+          "title": "Transatlantic Crossing Day 8",
+          "date": "2026-10-22 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-8.html",
+          "subtitle": "Sea day",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "Atlantic Ocean",
+              "type": "ocean",
+              "country": "International waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "5 of 13"
+            }
           ],
           "companions": [
             "solo"
@@ -24533,6 +24613,86 @@
       "activities": [
         "Uphill walk to Castelo do Castro and O Castro park",
         "Long way back to the ship along one of the main market streets"
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 7",
+      "date": "2026-10-21 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-7.html",
+      "subtitle": "Lisbon, Portugal",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "Lisbon",
+          "type": "port_city",
+          "country": "Portugal"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "4 of 13"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise",
+          "line": "Celebrity Cruises",
+          "vessel": "Celebrity Apex",
+          "route": "Port call at Lisbon, Portugal",
+          "arrival_time": "8:00am",
+          "departure_time": "5:00pm"
+        }
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 8",
+      "date": "2026-10-22 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-8.html",
+      "subtitle": "Sea day",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "Atlantic Ocean",
+          "type": "ocean",
+          "country": "International waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "5 of 13"
+        }
       ],
       "companions": [
         "solo"

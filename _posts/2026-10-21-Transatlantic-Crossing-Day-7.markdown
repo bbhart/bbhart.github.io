@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Transatlantic Crossing Day 7
-subtitle: TODO
+subtitle: Lisbon, Portugal
 date:  2026-10-21
-published: false
+published: true
 categories: travel england spain portugal bermuda
 rollup_key: 2026transatlantic
 tags: [october2026]
+background: '/assets/20261021-lisbon-castelo-sao-jorge-gate-bg.jpg'
 locations:
   - name: Lisbon
     type: port_city
@@ -53,9 +54,11 @@ After returning to the cruise terminal I walked around town near the ship, cover
 <img src="/assets/20261021-lisbon-azulejo-portrait.jpg" alt="A square of modern azulejo tile art set into a whitewashed gatepost marked '34A' in Lisbon, depicting a woman's face cradled in her hands, her skin and hands covered in blue-and-white traditional tile patterns against a black background, next to a green iron gate under a deep blue sky" width="100%" />
 
 This is a dog park:
+
 <img src="/assets/20261021-lisbon-castle-archaeological-site.jpg" alt="An archaeological excavation area near the Castelo de São Jorge in Lisbon, with crumbling stone walls of old buildings, a dirt yard with wooden boardwalks and benches, wooden fencing with information panels, and tall cypress trees against a clear blue sky" width="100%" />
 
 I walked up the hill to [Castelo de São Jorge](https://castelodesaojorge.pt/en/). I decided to save it for a future visit when I'd have more time. 
+
 <img src="/assets/20261021-lisbon-castelo-sao-jorge-gate.jpg" alt="The ornate stone gateway leading to the Castelo de São Jorge in Lisbon, topped with a carved coat of arms, beside a high stone wall shaded by large trees. Visitors walk over the cobblestones toward the arch, and souvenir stalls under white umbrellas sell tiles and textiles along the wall" width="100%" />
 
 <img src="/assets/20261021-lisbon-dog-walking-posters.jpg" alt="Two posters pasted on a graffiti-covered green door in Lisbon advertising 'Maria's Dog Walking Service,' one in English reading 'No time to walk?' and one in Portuguese reading 'Sem tempo para passear?', each with a close-up of a brown-and-white dog against a pink sunburst and a QR code" width="100%" />
@@ -63,6 +66,7 @@ I walked up the hill to [Castelo de São Jorge](https://castelodesaojorge.pt/en/
 <img src="/assets/20261021-lisbon-alfama-stairway.jpg" alt="A narrow cobbled stairway descending between a white wall with an iron handrail and old tiled townhouses with wrought-iron balconies in Lisbon's Alfama, an iron street lamp arching over the alley, a leafy tree overhead, and a sliver of the Tagus visible at the bottom under a clear blue sky" width="100%" />
 
 And for the second time in as many months I found myself sailing under the [Ponte 25 de Abril bridge](https://en.wikipedia.org/wiki/25_de_Abril_Bridge). 
+
 <video src="/assets/20261021-lisbon-sailaway-25-de-abril-bridge.mp4" width="100%" controls playsinline muted></video>
 
 {% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

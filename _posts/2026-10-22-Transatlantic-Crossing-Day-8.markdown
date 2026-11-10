@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Transatlantic Crossing Day 8
-subtitle: TODO
+subtitle: Sea day
 date:  2026-10-22
-published: false
+published: true
 categories: travel england spain portugal bermuda
 rollup_key: 2026transatlantic
 tags: [october2026]
+background: '/assets/20261022-at-sea-pool-deck-sunset-bg.jpg'
 locations:
   - name: Atlantic Ocean
     type: ocean

@@ -78,8 +78,8 @@ The itinerary:
 | Sunday, October 18 | Southampton, England | Embarkation, 5:00pm sailaway |
 | Monday, October 19 | [At Sea]({% post_url 2026-10-19-Transatlantic-Crossing-Day-5 %}) | |
 | Tuesday, October 20 | [Vigo, Spain]({% post_url 2026-10-20-Transatlantic-Crossing-Day-6 %}) | Galicia, 9:30am to 5:00pm |
-| Wednesday, October 21 | Lisbon, Portugal | Portugal's capital, 8:00am to 5:00pm |
-| Thursday, October 22 | At Sea | |
+| Wednesday, October 21 | [Lisbon, Portugal]({% post_url 2026-10-21-Transatlantic-Crossing-Day-7 %}) | Portugal's capital, 8:00am to 5:00pm |
+| Thursday, October 22 | [At Sea]({% post_url 2026-10-22-Transatlantic-Crossing-Day-8 %}) | |
 | Friday, October 23 | [Ponta Delgada, Azores]({% post_url 2026-10-23-Transatlantic-Crossing-Day-9 %}) | São Miguel island, 10:00am to 6:00pm |
 | Saturday, October 24 | At Sea | |
 | Sunday, October 25 | At Sea | |
