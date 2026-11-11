@@ -215,14 +215,11 @@ Transatlantic-Crossing-recap:
   year: 2026
   start: 2026-10-15
   end: 2026-10-31
-  # Uncomment on publish day. Left commented while the posts are unpublished:
-  # the /trips/ page counts stop names from every entry here, so live stops
-  # would change the production "places" count before the trip is public.
-  # pin: [37.740, -25.668]
-  # stops:
-  #   - [Southampton, 50.904, -1.404, 2]
-  #   - [Vigo, 42.240, -8.727]
-  #   - [Lisbon, 38.722, -9.139]
-  #   - [Ponta Delgada, 37.740, -25.668]
-  #   - [Royal Naval Dockyard, 32.327, -64.834]
-  #   - [Port Canaveral, 28.410, -80.618]
+  pin: [37.740, -25.668]
+  stops:
+    - [Southampton, 50.904, -1.404, 2]
+    - [Vigo, 42.240, -8.727]
+    - [Lisbon, 38.722, -9.139]
+    - [Ponta Delgada, 37.740, -25.668]
+    - [Royal Naval Dockyard, 32.327, -64.834]
+    - [Port Canaveral, 28.410, -80.618]
