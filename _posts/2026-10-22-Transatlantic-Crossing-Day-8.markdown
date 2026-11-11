@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Transatlantic Crossing Day 8
-subtitle: TODO
+subtitle: Sea day
 date:  2026-10-22
-published: false
+published: true
 categories: travel england spain portugal bermuda
 rollup_key: 2026transatlantic
 tags: [october2026]
-background: '/assets/20261022-at-sea-pool-deck-sunset.jpg'
+background: '/assets/20261022-at-sea-pool-deck-sunset-bg.jpg'
 locations:
   - name: Atlantic Ocean
     type: ocean
@@ -23,6 +23,8 @@ companions:
 
 - **Start of day:** At sea
 - **End of day:** At sea
+
+It's a sea day. Still too cool to be laying out on deck.
 
 <img src="/assets/20261022-at-sea-pool-deck-sunset.jpg" alt="The ship's pool deck at dusk, with a lit blue pool lined with loungers, rolled white towels on a stand in the foreground, a large illuminated screen, radar domes and a mast at the top of the ship, and the big orange arch of the upper deck at the right, all set against a dramatic sky of dark clouds and an orange sunset over the Atlantic" width="100%" />
 

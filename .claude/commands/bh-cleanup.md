@@ -9,6 +9,7 @@ argument-hint: File name or post slug (optional; defaults to the open/most recen
 - Read/inspect: ls, find, cat, head, grep, Glob, Grep, Read
 - WebSearch / WebFetch to identify link targets
 - Editing the target file for spelling corrections and link resolution
+- Inserting the missing blank line before a footnote definition (pass 1)
 - Filling in placeholder or missing front-matter metadata values in pass 4, from facts the post
   body already states
 
@@ -55,6 +56,35 @@ Do **not** touch:
 - Anything inside front matter, HTML tags, image filenames, alt text, or `{% %}` Liquid.
 
 Keep a list of every spelling fix for the report.
+
+**Footnote spacing.** A footnote definition (`[^1]: ...`) must have a blank line above it. When
+it sits directly under the `**Footnotes**:` label — or under any other text — kramdown reads it as
+a continuation of that paragraph: the definition renders as literal `[^1]: ...` text and the
+in-body `[^1]` marker doesn't link. The build doesn't fail, so only a check catches it.
+
+List every definition together with the line above it:
+
+```
+grep -n -B1 -E '^\[\^[^]]+\]:' <post>
+```
+
+In the output, the definition lines carry `:` after the line number and the line above carries
+`-`. A definition needs fixing when its `-` line has text on it. A `-` line that is empty, or that
+is itself another `[^n]:` definition, is fine. (This check deliberately avoids awk: this command
+file substitutes `$`-numbered tokens with the command's arguments, which mangles awk's field
+variables.)
+
+Fix each hit directly by inserting one blank line above it, so the post ends like this:
+
+```
+**Footnotes**:
+
+[^1]: OK so the ship isn't "done" when you sail away from the shipyard...
+```
+
+Change nothing else — not the label, not the footnote text. Consecutive definitions (`[^1]:` then
+`[^2]:` on the next line) need no blank line between them, and the check above already skips
+them. List each fix in the report alongside the spelling fixes.
 
 ### 2. Grammar — suggest, don't change
 
@@ -322,7 +352,8 @@ independent from here on.
 When done, print in chat:
 
 1. **File** — the resolved path.
-2. **Spelling fixes** — a table: line, before, after. Say "none" if none.
+2. **Spelling fixes** — a table: line, before, after. Say "none" if none. Include any footnote
+   spacing fix as its own row ("blank line added before `[^1]:`").
 3. **Links resolved** — a table: line, marker text, final anchor text, target URL or
    `post_url`. Note whether internal or external.
 4. **Markers still open** — any that needed a decision Brian hasn't given yet.
@@ -353,7 +384,7 @@ it under the tables.
 
 ## Verify
 
-If spelling, links, front-matter metadata, or the `background:` key changed, confirm the post
+If spelling, footnote spacing, links, front-matter metadata, or the `background:` key changed, confirm the post
 still builds — a bad `post_url` fails the Jekyll build, and malformed YAML fails it outright.
 
 **Never build into `_site`.** Brian usually has a dev server running, and `jekyll serve` serves
