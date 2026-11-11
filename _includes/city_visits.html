@@ -1,0 +1,121 @@
+{%- comment -%}
+  Visits to one _data/cities.yml entry, one per trip: shared by the home map
+  (city_index.html) and the Places page (places.md).
+
+  Call it inside a loop over site.data.cities, passing the loop's entry:
+    include city_visits.html entry=entry kinds="stays"            (home map)
+    include city_visits.html entry=entry kinds="stays,day_trips"  (Places)
+
+  `entry` is one [name, data] pair from site.data.cities. `kinds` is a comma-separated list of the entry's visit fields to consider:
+  `stays` (trip key to nights; 0 is a cruise port or shore excursion) and
+  `day_trips` (list of trip keys). A key in both counts as a stay.
+
+  Liquid has no return values, so this sets parallel arrays in the caller's
+  scope, one element per visit, ordered by each trip's newest post tagging the
+  city (newest first):
+    visit_count   number of visits (0 when no post matches)
+    visit_keys    trip key (rollup_key)
+    visit_kinds   "stays" or "day_trips"
+    visit_nights  stays[key] for a stay, nil for a day trip
+    visit_posts   chosen post: the trip's earliest non-recap post tagging the
+                  city, else the recap
+    visit_images  chosen post's background, else the trip recap's, else nil
+    visit_trips   trip label and year from _data/trips.yml, else post title
+  Read element i of each with visit_posts[i] and so on. Internal variables are
+  prefixed cv_ because includes share the caller's scope.
+{%- endcomment -%}
+{%- assign cv_nothing = "" | split: "" -%}
+{%- assign cv_loc_fields = "locations,locations_visited" | split: "," -%}
+{%- assign cv_kinds = include.kinds | default: "stays" | split: "," -%}
+{%- assign cv_city = include.entry[1] -%}
+{%- assign cv_names = cv_city.aliases | default: cv_nothing | push: include.entry[0] -%}
+
+{%- assign cv_hits = cv_nothing -%}
+{%- assign cv_hit_keys = cv_nothing -%}
+{%- assign cv_hit_kinds = cv_nothing -%}
+{%- for cv_post in site.posts -%}
+  {%- assign cv_hit = false -%}
+  {%- for cv_field in cv_loc_fields -%}
+    {%- for cv_loc in cv_post[cv_field] -%}
+      {%- assign cv_loc_name = cv_loc.name | default: cv_loc -%}
+      {%- if cv_names contains cv_loc_name -%}{%- assign cv_hit = true -%}{%- endif -%}
+    {%- endfor -%}
+  {%- endfor -%}
+  {%- unless cv_hit -%}{%- continue -%}{%- endunless -%}
+  {%- assign cv_key = cv_post.rollup_key | default: site.data.trips[cv_post.slug].rollup_key | default: cv_post.url -%}
+  {%- assign cv_kind = nil -%}
+  {%- comment -%}Liquid treats 0 as truthy, but a missing key is nil: compare to nil so 0-night cruise ports count.{%- endcomment -%}
+  {%- if cv_kinds contains "stays" and cv_city.stays[cv_key] != nil -%}
+    {%- assign cv_kind = "stays" -%}
+  {%- elsif cv_kinds contains "day_trips" and cv_city.day_trips contains cv_key -%}
+    {%- assign cv_kind = "day_trips" -%}
+  {%- endif -%}
+  {%- if cv_kind -%}
+    {%- assign cv_hits = cv_hits | push: cv_post -%}
+    {%- assign cv_hit_keys = cv_hit_keys | push: cv_key -%}
+    {%- assign cv_hit_kinds = cv_hit_kinds | push: cv_kind -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- assign visit_keys = cv_nothing -%}
+{%- assign visit_kinds = cv_nothing -%}
+{%- assign visit_nights = cv_nothing -%}
+{%- assign visit_posts = cv_nothing -%}
+{%- assign visit_images = cv_nothing -%}
+{%- assign visit_trips = cv_nothing -%}
+
+{%- assign cv_hits_oldest = cv_hits | reverse -%}
+{%- assign cv_keys_oldest = cv_hit_keys | reverse -%}
+{%- for cv_key in cv_hit_keys -%}
+  {%- if visit_keys contains cv_key -%}{%- continue -%}{%- endif -%}
+  {%- assign cv_kind = cv_hit_kinds[forloop.index0] -%}
+
+  {%- assign cv_chosen = nil -%}
+  {%- assign cv_recap_hit = nil -%}
+  {%- for cv_candidate in cv_hits_oldest -%}
+    {%- if cv_keys_oldest[forloop.index0] != cv_key -%}{%- continue -%}{%- endif -%}
+    {%- if cv_candidate.categories contains "rollup" -%}
+      {%- assign cv_recap_hit = cv_candidate -%}
+    {%- elsif cv_chosen == nil -%}
+      {%- assign cv_chosen = cv_candidate -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if cv_chosen == nil -%}{%- assign cv_chosen = cv_recap_hit -%}{%- endif -%}
+
+  {%- assign cv_trip_slug = nil -%}
+  {%- assign cv_trip = nil -%}
+  {%- for cv_t in site.data.trips -%}
+    {%- if cv_t[1].rollup_key == cv_key -%}
+      {%- assign cv_trip_slug = cv_t[0] -%}
+      {%- assign cv_trip = cv_t[1] -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+  {%- assign cv_recap_image = nil -%}
+  {%- if cv_trip_slug -%}
+    {%- assign cv_trip_recap = site.posts | where: "slug", cv_trip_slug | first -%}
+    {%- assign cv_recap_image = cv_trip_recap.background -%}
+  {%- endif -%}
+  {%- assign cv_image = cv_chosen.background | default: cv_recap_image -%}
+
+  {%- if cv_trip -%}
+    {%- capture cv_label -%}{{ cv_trip.label }}{% if cv_trip.year %} {{ cv_trip.year }}{% endif %}{%- endcapture -%}
+  {%- else -%}
+    {%- assign cv_label = cv_chosen.title -%}
+  {%- endif -%}
+
+  {%- if cv_kind == "stays" -%}
+    {%- assign cv_nights = cv_city.stays[cv_key] -%}
+  {%- else -%}
+    {%- assign cv_nights = nil -%}
+  {%- endif -%}
+
+  {%- assign visit_keys = visit_keys | push: cv_key -%}
+  {%- assign visit_kinds = visit_kinds | push: cv_kind -%}
+  {%- assign visit_nights = visit_nights | push: cv_nights -%}
+  {%- assign visit_posts = visit_posts | push: cv_chosen -%}
+  {%- assign visit_images = visit_images | push: cv_image -%}
+  {%- assign visit_trips = visit_trips | push: cv_label -%}
+{%- endfor -%}
+{%- assign visit_count = visit_keys.size -%}

@@ -1,78 +1,20 @@
 {%- comment -%}
   Builds the home page city index from _data/cities.yml and post locations.
   Sets city_rows (array of JSON strings, one per city with posts) and city_count.
-  One card per trip: see docs/plans/2026-11-09-city-map-design.md.
+  One card per trip: see docs/plans/2026-11-09-city-map-design.md. Card
+  selection lives in city_visits.html, shared with the Places page.
 {%- endcomment -%}
 {%- assign nothing = "" | split: "" -%}
-{%- assign loc_fields = "locations,locations_visited" | split: "," -%}
 {%- assign city_rows = nothing -%}
 {%- for entry in site.data.cities -%}
-  {%- assign names = entry[1].aliases | default: nothing | push: entry[0] -%}
-  {%- assign hits = nothing -%}
-  {%- assign hit_keys = nothing -%}
-  {%- for post in site.posts -%}
-    {%- assign hit = false -%}
-    {%- for field in loc_fields -%}
-      {%- for loc in post[field] -%}
-        {%- assign loc_name = loc.name | default: loc -%}
-        {%- if names contains loc_name -%}{%- assign hit = true -%}{%- endif -%}
-      {%- endfor -%}
-    {%- endfor -%}
-    {%- if hit -%}
-      {%- assign key = post.rollup_key | default: site.data.trips[post.slug].rollup_key | default: post.url -%}
-      {%- comment -%}Liquid treats 0 as truthy, but a missing key is nil: compare to nil so 0-night cruise ports count.{%- endcomment -%}
-      {%- if entry[1].stays[key] != nil -%}
-        {%- assign hits = hits | push: post -%}
-        {%- assign hit_keys = hit_keys | push: key -%}
-      {%- endif -%}
-    {%- endif -%}
-  {%- endfor -%}
-  {%- if hits.size == 0 -%}{%- continue -%}{%- endif -%}
+  {%- include city_visits.html entry=entry kinds="stays" -%}
+  {%- if visit_count == 0 -%}{%- continue -%}{%- endif -%}
 
-  {%- assign hits_oldest = hits | reverse -%}
-  {%- assign keys_oldest = hit_keys | reverse -%}
-  {%- assign seen = nothing -%}
   {%- assign cards = nothing -%}
-  {%- for key in hit_keys -%}
-    {%- if seen contains key -%}{%- continue -%}{%- endif -%}
-    {%- assign seen = seen | push: key -%}
-
-    {%- assign chosen = nil -%}
-    {%- assign recap_hit = nil -%}
-    {%- for candidate in hits_oldest -%}
-      {%- if keys_oldest[forloop.index0] != key -%}{%- continue -%}{%- endif -%}
-      {%- if candidate.categories contains "rollup" -%}
-        {%- assign recap_hit = candidate -%}
-      {%- elsif chosen == nil -%}
-        {%- assign chosen = candidate -%}
-      {%- endif -%}
-    {%- endfor -%}
-    {%- if chosen == nil -%}{%- assign chosen = recap_hit -%}{%- endif -%}
-
-    {%- assign trip_slug = nil -%}
-    {%- assign trip = nil -%}
-    {%- for t in site.data.trips -%}
-      {%- if t[1].rollup_key == key -%}
-        {%- assign trip_slug = t[0] -%}
-        {%- assign trip = t[1] -%}
-        {%- break -%}
-      {%- endif -%}
-    {%- endfor -%}
-
-    {%- assign recap_image = nil -%}
-    {%- if trip_slug -%}
-      {%- assign trip_recap = site.posts | where: "slug", trip_slug | first -%}
-      {%- assign recap_image = trip_recap.background -%}
-    {%- endif -%}
-    {%- assign image = chosen.background | default: recap_image -%}
-
-    {%- if trip -%}
-      {%- capture label -%}{{ trip.label }}{% if trip.year %} {{ trip.year }}{% endif %}{%- endcapture -%}
-    {%- else -%}
-      {%- assign label = chosen.title -%}
-    {%- endif -%}
-
-    {%- capture card -%}{"url":{{ chosen.url | relative_url | jsonify }},"image":{% if image %}{{ image | relative_url | jsonify }}{% else %}null{% endif %},"date":{{ chosen.date | date: "%Y-%m-%d" | jsonify }},"dateLabel":{{ chosen.date | date: "%b %-d, %Y" | jsonify }},"trip":{{ label | jsonify }},"nights":{{ entry[1].stays[key] | jsonify }}}{%- endcapture -%}
+  {%- for chosen in visit_posts -%}
+    {%- assign i = forloop.index0 -%}
+    {%- assign image = visit_images[i] -%}
+    {%- capture card -%}{"url":{{ chosen.url | relative_url | jsonify }},"image":{% if image %}{{ image | relative_url | jsonify }}{% else %}null{% endif %},"date":{{ chosen.date | date: "%Y-%m-%d" | jsonify }},"dateLabel":{{ chosen.date | date: "%b %-d, %Y" | jsonify }},"trip":{{ visit_trips[i] | jsonify }},"nights":{{ visit_nights[i] | jsonify }}}{%- endcapture -%}
     {%- assign cards = cards | push: card -%}
   {%- endfor -%}
 
