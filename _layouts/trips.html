@@ -48,7 +48,8 @@ layout: default
           {% else %}
           <span class="trip-card__blank" aria-hidden="true">{{ t.label | default: p.title }}</span>
           {% endif %}
-          <span class="trip-card__year">{% if t.year %}{{ t.year }}{% else %}{{ p.date | date: "%Y" }}{% endif %}</span>
+          {%- comment -%} Month and year the trip started, from trips.yml `start`. {%- endcomment -%}
+          <span class="trip-card__year">{% if t.start %}{{ t.start | date: "%B %Y" }}{% elsif t.year %}{{ t.year }}{% else %}{{ p.date | date: "%Y" }}{% endif %}</span>
           <span class="trip-card__title">{{ t.label | default: p.title }}</span>
         </a>
       </li>
