@@ -44,6 +44,7 @@ companions:
 - **Start of day:** Ponta Delgada, Azores
 - **End of day:** At sea
 
+## Some background
 Early in my career, 1999-2000, I worked for Disney Cruise Line, first as a shoreside person and then as an officer living and working onboard the Disney Wonder. As part of that, I spent 5-6 weeks at the Fincantieri shipyard in Marghera, Italy, only a few miles away from Venice. Once the ship was done[^1], we sailed to Southampton in England for the christening hoopla, and then from there we started to make our way across the Atlantic to Port Canaveral. Along the way, we had an afternoon stop in Ponta Delgada, Azores. 
 
 <img src="/assets/20261023-ponta-delgada-disney-ship-archive.jpg" alt="An older, low-resolution photo of a Disney Cruise Line ship with a black hull, white superstructure, and two red funnels docked along the Ponta Delgada waterfront, seen across a parking lot of small European cars under a clear blue sky, with a red cargo ship farther along the quay and a leafy tree at right" width="100%" />
@@ -60,9 +61,7 @@ When I saw this standee in a mall I had to get a photo:
 
 Otherwise, the rest of that day was drinks and then dinner with three friends from the ship. 
 
----
-
-Back to present day.
+## Present day
 
 I booked an excursion for the afternoon. In the morning I headed off the ship shortly after arrival, intending to get my steps in and see a lot more of the town than on my first visit. 
 
@@ -89,6 +88,8 @@ Naturally the rain let up right as I was nearing the ship.
 <img src="/assets/20261023-ponta-delgada-heart-mural.jpg" alt="A whitewashed curved wall on the Ponta Delgada waterfront painted with a red heart on a green stem inside a grey frame, with orange and green brushstrokes trailing behind it, beside a wet street with parked cars and the cruise ship and port cranes visible in the distance under a grey sky" width="100%" />
 
 I boarded, had a free lunch onboard, then left again for my 4.5 hour shore excursion. 
+
+## Shore Excursion
 
 The weather was foggy with spitting rain, hard at times. Again, thankful it wasn't _cold_ rain. Our first stop was Lagoa do Fogo, a crater lake a ~45 minute ride from the cruise port. Here's my photo:
 

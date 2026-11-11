@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T22:56:19Z",
-  "total_posts": 163,
+  "generated_at": "2026-11-11T00:29:56Z",
+  "total_posts": 171,
   "trips": [
     {
       "rollup_key": "2007eu",
@@ -11654,6 +11654,344 @@
           "companions": [
             "solo"
           ]
+        },
+        {
+          "title": "Transatlantic Crossing Day 10",
+          "date": "2026-10-24 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-10.html",
+          "subtitle": "Sea day",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "Atlantic Ocean",
+              "type": "ocean",
+              "country": "International waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "7 of 13"
+            }
+          ],
+          "dining": [
+            {
+              "venue": "Eden Cafe",
+              "meal": "lunch",
+              "dishes": "Build Your Own salad"
+            },
+            {
+              "venue": "Main dining room, solo travelers table",
+              "meal": "dinner",
+              "dishes": "Coquilles Saint-Jacques"
+            }
+          ],
+          "companions": [
+            "solo"
+          ]
+        },
+        {
+          "title": "Transatlantic Crossing Day 11",
+          "date": "2026-10-25 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-11.html",
+          "subtitle": "Sea day",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "Atlantic Ocean",
+              "type": "ocean",
+              "country": "International waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "8 of 13"
+            }
+          ],
+          "dining": [
+            {
+              "venue": "Fine Cut Steakhouse",
+              "meal": "dinner",
+              "dishes": "Crabcakes, filet mignon, cheesecake"
+            }
+          ],
+          "companions": [
+            "solo"
+          ]
+        },
+        {
+          "title": "Transatlantic Crossing Day 12",
+          "date": "2026-10-26 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-12.html",
+          "subtitle": "Sea day",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "Atlantic Ocean",
+              "type": "ocean",
+              "country": "International waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "9 of 13"
+            }
+          ],
+          "companions": [
+            "solo"
+          ]
+        },
+        {
+          "title": "Transatlantic Crossing Day 13",
+          "date": "2026-10-27 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-13.html",
+          "subtitle": "Sea day",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "Atlantic Ocean",
+              "type": "ocean",
+              "country": "International waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "10 of 13"
+            }
+          ],
+          "companions": [
+            "solo"
+          ]
+        },
+        {
+          "title": "Transatlantic Crossing Day 14",
+          "date": "2026-10-28 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-14.html",
+          "subtitle": "Royal Naval Dockyard, Bermuda",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "Royal Naval Dockyard",
+              "type": "port",
+              "country": "Bermuda"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "11 of 13"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise",
+              "line": "Celebrity Cruises",
+              "vessel": "Celebrity Apex",
+              "route": "Port call at Royal Naval Dockyard, Bermuda",
+              "arrival_time": "8:00am",
+              "departure_time": "5:00pm"
+            }
+          ],
+          "activities": [
+            "Walking around the Royal Naval Dockyard",
+            "Sitting on the pirate ship on the pier"
+          ],
+          "dining": [
+            {
+              "venue": "The Frog & Onion",
+              "meal": "lunch",
+              "location": "Royal Naval Dockyard",
+              "dishes": "Bermuda fish chowder"
+            }
+          ],
+          "companions": [
+            "solo"
+          ]
+        },
+        {
+          "title": "Transatlantic Crossing Day 15",
+          "date": "2026-10-29 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-15.html",
+          "subtitle": "Sea day",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "Atlantic Ocean",
+              "type": "ocean",
+              "country": "International waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "12 of 13"
+            }
+          ],
+          "companions": [
+            "solo"
+          ]
+        },
+        {
+          "title": "Transatlantic Crossing Day 16",
+          "date": "2026-10-30 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-16.html",
+          "subtitle": "Sea day",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "Atlantic Ocean",
+              "type": "ocean",
+              "country": "International waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "13 of 13"
+            }
+          ],
+          "companions": [
+            "solo"
+          ]
+        },
+        {
+          "title": "Transatlantic Crossing Day 17",
+          "date": "2026-10-31 00:00:00 -0400",
+          "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-17.html",
+          "subtitle": "The end, Orlando and Raleigh",
+          "categories": [
+            "travel",
+            "england",
+            "spain",
+            "portugal",
+            "bermuda"
+          ],
+          "tags": [
+            "october2026"
+          ],
+          "rollup_key": "2026transatlantic",
+          "trip_stage": "disembarkation",
+          "locations": [
+            {
+              "name": "Port Canaveral",
+              "type": "port",
+              "country": "United States"
+            },
+            {
+              "name": "Orlando International Airport",
+              "type": "airport",
+              "country": "United States"
+            }
+          ],
+          "transport": [
+            {
+              "type": "shuttle",
+              "provider": "GoPort",
+              "route": "Port Canaveral → MCO"
+            },
+            {
+              "type": "flight",
+              "carrier": "Delta",
+              "route": "MCO → ATL",
+              "departure_time": "1:05pm"
+            },
+            {
+              "type": "flight",
+              "carrier": "Delta",
+              "route": "ATL → RDU",
+              "departure_time": "3:37pm"
+            }
+          ],
+          "companions": [
+            "solo"
+          ]
         }
       ]
     }
@@ -11821,6 +12159,7 @@
     "Newark Liberty International Airport",
     "North Atlantic between Greenland and Iceland",
     "Oranjestad",
+    "Orlando International Airport",
     "Oslo Central Station (Oslo S)",
     "Oslo Opera House",
     "Oslo ferry terminal",
@@ -11831,6 +12170,7 @@
     "Paris, France",
     "Pflach",
     "Ponta Delgada",
+    "Port Canaveral",
     "Portimão",
     "Portimão, Portugal",
     "Porto (Leixões), Portugal",
@@ -11847,6 +12187,7 @@
     "Riffelalp",
     "Rome",
     "Rome, Italy",
+    "Royal Naval Dockyard",
     "Royal Palace (Oslo)",
     "San Francisco",
     "San Francisco, California, USA",
@@ -12156,6 +12497,7 @@
     "Shuttle bus to the ship pier",
     "Shuttle from the cruise port into Bilbao",
     "Sightseeing in Marienplatz",
+    "Sitting on the pirate ship on the pier",
     "Sleeping in",
     "Slow loop through the Mercato Centrale covered market",
     "Solo dinner at Atlantide during the sailaway",
@@ -12226,6 +12568,7 @@
     "Walking and eating shore excursion of the old town",
     "Walking and people-watching around Copenhagen",
     "Walking around Munich Airport",
+    "Walking around the Royal Naval Dockyard",
     "Walking in the Geneva Pride Parade",
     "Walking on Opera House marble roof",
     "Walking past Buckingham Palace",
@@ -24759,6 +25102,344 @@
       "activities": [
         "Morning walk around Ponta Delgada, including the farmers market",
         "4.5 hour shore excursion to Lagoa do Fogo, Caldeira Velha, and the Gorreana tea plantation"
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 10",
+      "date": "2026-10-24 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-10.html",
+      "subtitle": "Sea day",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "Atlantic Ocean",
+          "type": "ocean",
+          "country": "International waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "7 of 13"
+        }
+      ],
+      "dining": [
+        {
+          "venue": "Eden Cafe",
+          "meal": "lunch",
+          "dishes": "Build Your Own salad"
+        },
+        {
+          "venue": "Main dining room, solo travelers table",
+          "meal": "dinner",
+          "dishes": "Coquilles Saint-Jacques"
+        }
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 11",
+      "date": "2026-10-25 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-11.html",
+      "subtitle": "Sea day",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "Atlantic Ocean",
+          "type": "ocean",
+          "country": "International waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "8 of 13"
+        }
+      ],
+      "dining": [
+        {
+          "venue": "Fine Cut Steakhouse",
+          "meal": "dinner",
+          "dishes": "Crabcakes, filet mignon, cheesecake"
+        }
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 12",
+      "date": "2026-10-26 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-12.html",
+      "subtitle": "Sea day",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "Atlantic Ocean",
+          "type": "ocean",
+          "country": "International waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "9 of 13"
+        }
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 13",
+      "date": "2026-10-27 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-13.html",
+      "subtitle": "Sea day",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "Atlantic Ocean",
+          "type": "ocean",
+          "country": "International waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "10 of 13"
+        }
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 14",
+      "date": "2026-10-28 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-14.html",
+      "subtitle": "Royal Naval Dockyard, Bermuda",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "Royal Naval Dockyard",
+          "type": "port",
+          "country": "Bermuda"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "11 of 13"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise",
+          "line": "Celebrity Cruises",
+          "vessel": "Celebrity Apex",
+          "route": "Port call at Royal Naval Dockyard, Bermuda",
+          "arrival_time": "8:00am",
+          "departure_time": "5:00pm"
+        }
+      ],
+      "activities": [
+        "Walking around the Royal Naval Dockyard",
+        "Sitting on the pirate ship on the pier"
+      ],
+      "dining": [
+        {
+          "venue": "The Frog & Onion",
+          "meal": "lunch",
+          "location": "Royal Naval Dockyard",
+          "dishes": "Bermuda fish chowder"
+        }
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 15",
+      "date": "2026-10-29 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-15.html",
+      "subtitle": "Sea day",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "Atlantic Ocean",
+          "type": "ocean",
+          "country": "International waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "12 of 13"
+        }
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 16",
+      "date": "2026-10-30 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-16.html",
+      "subtitle": "Sea day",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "Atlantic Ocean",
+          "type": "ocean",
+          "country": "International waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "13 of 13"
+        }
+      ],
+      "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing Day 17",
+      "date": "2026-10-31 00:00:00 -0400",
+      "url": "/travel/england/spain/portugal/bermuda/2026/Transatlantic-Crossing-Day-17.html",
+      "subtitle": "The end, Orlando and Raleigh",
+      "categories": [
+        "travel",
+        "england",
+        "spain",
+        "portugal",
+        "bermuda"
+      ],
+      "tags": [
+        "october2026"
+      ],
+      "rollup_key": "2026transatlantic",
+      "trip_stage": "disembarkation",
+      "locations": [
+        {
+          "name": "Port Canaveral",
+          "type": "port",
+          "country": "United States"
+        },
+        {
+          "name": "Orlando International Airport",
+          "type": "airport",
+          "country": "United States"
+        }
+      ],
+      "transport": [
+        {
+          "type": "shuttle",
+          "provider": "GoPort",
+          "route": "Port Canaveral → MCO"
+        },
+        {
+          "type": "flight",
+          "carrier": "Delta",
+          "route": "MCO → ATL",
+          "departure_time": "1:05pm"
+        },
+        {
+          "type": "flight",
+          "carrier": "Delta",
+          "route": "ATL → RDU",
+          "departure_time": "3:37pm"
+        }
       ],
       "companions": [
         "solo"

@@ -62,11 +62,17 @@ it sits directly under the `**Footnotes**:` label â€” or under any other text â€
 a continuation of that paragraph: the definition renders as literal `[^1]: ...` text and the
 in-body `[^1]` marker doesn't link. The build doesn't fail, so only a check catches it.
 
-Find every definition whose preceding line isn't blank:
+List every definition together with the line above it:
 
 ```
-awk 'prev != "" && prev !~ /^\[\^[^]]+\]:/ && /^\[\^[^]]+\]:/ {print FILENAME ":" NR ": " $0} {prev=$0}' <post>
+grep -n -B1 -E '^\[\^[^]]+\]:' <post>
 ```
+
+In the output, the definition lines carry `:` after the line number and the line above carries
+`-`. A definition needs fixing when its `-` line has text on it. A `-` line that is empty, or that
+is itself another `[^n]:` definition, is fine. (This check deliberately avoids awk: this command
+file substitutes `$`-numbered tokens with the command's arguments, which mangles awk's field
+variables.)
 
 Fix each hit directly by inserting one blank line above it, so the post ends like this:
 

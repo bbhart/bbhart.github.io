@@ -81,14 +81,14 @@ The itinerary:
 | Wednesday, October 21 | [Lisbon, Portugal]({% post_url 2026-10-21-Transatlantic-Crossing-Day-7 %}) | Portugal's capital, 8:00am to 5:00pm |
 | Thursday, October 22 | [At Sea]({% post_url 2026-10-22-Transatlantic-Crossing-Day-8 %}) | |
 | Friday, October 23 | [Ponta Delgada, Azores]({% post_url 2026-10-23-Transatlantic-Crossing-Day-9 %}) | São Miguel island, 10:00am to 6:00pm |
-| Saturday, October 24 | At Sea | |
-| Sunday, October 25 | At Sea | |
-| Monday, October 26 | At Sea | |
-| Tuesday, October 27 | At Sea | |
-| Wednesday, October 28 | Royal Naval Dockyard, Bermuda | 8:00am to 5:00pm |
-| Thursday, October 29 | At Sea | |
-| Friday, October 30 | At Sea | |
-| Saturday, October 31 | Port Canaveral, Florida | Disembark |
+| Saturday, October 24 | [At Sea]({% post_url 2026-10-24-Transatlantic-Crossing-Day-10 %}) | |
+| Sunday, October 25 | [At Sea]({% post_url 2026-10-25-Transatlantic-Crossing-Day-11 %}) | |
+| Monday, October 26 | [At Sea]({% post_url 2026-10-26-Transatlantic-Crossing-Day-12 %}) | |
+| Tuesday, October 27 | [At Sea]({% post_url 2026-10-27-Transatlantic-Crossing-Day-13 %}) | |
+| Wednesday, October 28 | [Royal Naval Dockyard, Bermuda]({% post_url 2026-10-28-Transatlantic-Crossing-Day-14 %}) | 8:00am to 5:00pm |
+| Thursday, October 29 | [At Sea]({% post_url 2026-10-29-Transatlantic-Crossing-Day-15 %}) | |
+| Friday, October 30 | [At Sea]({% post_url 2026-10-30-Transatlantic-Crossing-Day-16 %}) | |
+| Saturday, October 31 | [Port Canaveral, Florida]({% post_url 2026-10-31-Transatlantic-Crossing-Day-17 %}) | Disembark |
 {: .itinerary-table}
 
 The weather was cool and crisp, perfect for a walk. In the Moxy lobby, I passed a crowd of 20 people or so waiting for their bus transfer and made my way to the sidewalk outside. From the Moxy it's around a 20 minute walk along flat ground to the cruise terminal; it's really not bad at all. 
