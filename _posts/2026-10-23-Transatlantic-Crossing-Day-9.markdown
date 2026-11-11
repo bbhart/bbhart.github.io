@@ -47,7 +47,10 @@ companions:
 ## Some background
 Early in my career, 1999-2000, I worked for Disney Cruise Line, first as a shoreside person and then as an officer living and working onboard the Disney Wonder. As part of that, I spent 5-6 weeks at the Fincantieri shipyard in Marghera, Italy, only a few miles away from Venice. Once the ship was done[^1], we sailed to Southampton in England for the christening hoopla, and then from there we started to make our way across the Atlantic to Port Canaveral. Along the way, we had an afternoon stop in Ponta Delgada, Azores. 
 
-<img src="/assets/20261023-ponta-delgada-disney-ship-archive.jpg" alt="An older, low-resolution photo of a Disney Cruise Line ship with a black hull, white superstructure, and two red funnels docked along the Ponta Delgada waterfront, seen across a parking lot of small European cars under a clear blue sky, with a red cargo ship farther along the quay and a leafy tree at right" width="100%" />
+<figure>
+    <img src="/assets/20261023-ponta-delgada-disney-ship-archive.jpg" alt="An older, low-resolution photo of the Disney Wonder, a Disney Cruise Line ship with a black hull, white superstructure, and two red funnels docked along the Ponta Delgada waterfront, seen across a parking lot of small European cars under a clear blue sky, with a red cargo ship farther along the quay and a leafy tree at right" width="100%"/>
+    <figcaption style="text-align: center; font-style:italic;">Disney Wonder in Ponta Delgada, 1999, prior to maiden voyage</figcaption>
+</figure>
 
 Too much time has passed and I don't remember a lot about this stop. At that point all of my international travel consisted of one or two trips to Toronto, and the preceding 5-6 weeks in Italy -- which barely counts, as I was living and working in the shipyard most of the time. What I do remember is Ponta Delgada's interesting architecture, and that the city was a little gritty and hectic. 
 
