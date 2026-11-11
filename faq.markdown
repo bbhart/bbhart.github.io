@@ -34,7 +34,7 @@ faqs:
 ---
 
 Practical answers to questions I get about the places I travel. These build on the
-firsthand trip journals collected under [Destinations]({{ '/destinations/' | relative_url }}).
+firsthand trip journals collected under [Places]({{ '/places/' | relative_url }}).
 
 {% for item in page.faqs %}
 ### {{ item.q }}

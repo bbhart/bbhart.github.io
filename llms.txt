@@ -17,5 +17,6 @@ https://bsky.app/profile/bbhart.com
 ## Key pages
 
 - [Trips](https://bbhart.com/trips/): complete journals for each trip, one recap per trip.
+- [Places](https://bbhart.com/places/): every town Brian has visited and written about, by country, including cruise ports and day trips, linked to each trip's posts.
 - [About](https://bbhart.com/about/): who Brian is.
 - [All posts](https://bbhart.com/posts/): reverse-chronological index.
