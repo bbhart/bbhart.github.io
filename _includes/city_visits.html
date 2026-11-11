@@ -10,19 +10,35 @@
   `stays` (trip key to nights; 0 is a cruise port or shore excursion) and
   `day_trips` (list of trip keys). A key in both counts as a stay.
 
+  A post is the trip's recap when its categories include "rollup" or its slug
+  is the trip's _data/trips.yml key. Any other post of a trip with `start` and
+  `end` counts only when its date (as %Y-%m-%d) is from `start` to `end`
+  (or `posted_until` when set), inclusive, so planning and follow-up posts are
+  skipped. Those in-window posts are the visit's day posts.
+
   Liquid has no return values, so this sets parallel arrays in the caller's
-  scope, one element per visit, ordered by each trip's newest post tagging the
-  city (newest first):
+  scope, one element per visit, ordered by each trip's newest counted post
+  tagging the city (newest first):
     visit_count   number of visits (0 when no post matches)
     visit_keys    trip key (rollup_key)
     visit_kinds   "stays" or "day_trips"
     visit_nights  stays[key] for a stay, nil for a day trip
-    visit_posts   chosen post: the trip's earliest non-recap post tagging the
-                  city, else the recap
+    visit_posts   chosen post: the trip's earliest day post tagging the city,
+                  else the recap
     visit_images  chosen post's background, else the trip recap's, else nil
     visit_trips   trip label and year from _data/trips.yml, else post title
-  Read element i of each with visit_posts[i] and so on. Internal variables are
-  prefixed cv_ because includes share the caller's scope.
+    visit_day_counts  number of day posts for the visit
+  Read element i of each with visit_posts[i] and so on.
+
+  Day posts come as one flat list across all visits, grouped by visit in the
+  order above and oldest first within a visit, with a parallel list of the
+  visit each belongs to:
+    day_posts     the day posts (never a recap)
+    day_visits    visit index i (a number) of day_posts[n]
+  The day posts of visit i are the day_posts[n] where day_visits[n] == i.
+
+  Internal variables are prefixed cv_ because includes share the caller's
+  scope.
 {%- endcomment -%}
 {%- assign cv_nothing = "" | split: "" -%}
 {%- assign cv_loc_fields = "locations,locations_visited" | split: "," -%}
@@ -33,6 +49,7 @@
 {%- assign cv_hits = cv_nothing -%}
 {%- assign cv_hit_keys = cv_nothing -%}
 {%- assign cv_hit_kinds = cv_nothing -%}
+{%- assign cv_hit_recaps = cv_nothing -%}
 {%- for cv_post in site.posts -%}
   {%- assign cv_hit = false -%}
   {%- for cv_field in cv_loc_fields -%}
@@ -50,11 +67,29 @@
   {%- elsif cv_kinds contains "day_trips" and cv_city.day_trips contains cv_key -%}
     {%- assign cv_kind = "day_trips" -%}
   {%- endif -%}
-  {%- if cv_kind -%}
-    {%- assign cv_hits = cv_hits | push: cv_post -%}
-    {%- assign cv_hit_keys = cv_hit_keys | push: cv_key -%}
-    {%- assign cv_hit_kinds = cv_hit_kinds | push: cv_kind -%}
+  {%- unless cv_kind -%}{%- continue -%}{%- endunless -%}
+
+  {%- assign cv_is_recap = false -%}
+  {%- if cv_post.categories contains "rollup" or site.data.trips[cv_post.slug] -%}
+    {%- assign cv_is_recap = true -%}
+  {%- else -%}
+    {%- for cv_t in site.data.trips -%}
+      {%- if cv_t[1].rollup_key != cv_key -%}{%- continue -%}{%- endif -%}
+      {%- if cv_t[1].start and cv_t[1].end -%}
+        {%- assign cv_day = cv_post.date | date: "%Y-%m-%d" -%}
+        {%- assign cv_start = cv_t[1].start | date: "%Y-%m-%d" -%}
+        {%- assign cv_end = cv_t[1].posted_until | default: cv_t[1].end | date: "%Y-%m-%d" -%}
+        {%- if cv_day < cv_start or cv_day > cv_end -%}{%- assign cv_kind = nil -%}{%- endif -%}
+      {%- endif -%}
+      {%- break -%}
+    {%- endfor -%}
   {%- endif -%}
+  {%- unless cv_kind -%}{%- continue -%}{%- endunless -%}
+
+  {%- assign cv_hits = cv_hits | push: cv_post -%}
+  {%- assign cv_hit_keys = cv_hit_keys | push: cv_key -%}
+  {%- assign cv_hit_kinds = cv_hit_kinds | push: cv_kind -%}
+  {%- assign cv_hit_recaps = cv_hit_recaps | push: cv_is_recap -%}
 {%- endfor -%}
 
 {%- assign visit_keys = cv_nothing -%}
@@ -63,21 +98,30 @@
 {%- assign visit_posts = cv_nothing -%}
 {%- assign visit_images = cv_nothing -%}
 {%- assign visit_trips = cv_nothing -%}
+{%- assign visit_day_counts = cv_nothing -%}
+{%- assign day_posts = cv_nothing -%}
+{%- assign day_visits = cv_nothing -%}
 
 {%- assign cv_hits_oldest = cv_hits | reverse -%}
 {%- assign cv_keys_oldest = cv_hit_keys | reverse -%}
+{%- assign cv_recaps_oldest = cv_hit_recaps | reverse -%}
 {%- for cv_key in cv_hit_keys -%}
   {%- if visit_keys contains cv_key -%}{%- continue -%}{%- endif -%}
   {%- assign cv_kind = cv_hit_kinds[forloop.index0] -%}
+  {%- assign cv_visit = visit_keys.size -%}
 
   {%- assign cv_chosen = nil -%}
   {%- assign cv_recap_hit = nil -%}
+  {%- assign cv_day_count = 0 -%}
   {%- for cv_candidate in cv_hits_oldest -%}
     {%- if cv_keys_oldest[forloop.index0] != cv_key -%}{%- continue -%}{%- endif -%}
-    {%- if cv_candidate.categories contains "rollup" -%}
+    {%- if cv_recaps_oldest[forloop.index0] -%}
       {%- assign cv_recap_hit = cv_candidate -%}
-    {%- elsif cv_chosen == nil -%}
-      {%- assign cv_chosen = cv_candidate -%}
+    {%- else -%}
+      {%- if cv_chosen == nil -%}{%- assign cv_chosen = cv_candidate -%}{%- endif -%}
+      {%- assign day_posts = day_posts | push: cv_candidate -%}
+      {%- assign day_visits = day_visits | push: cv_visit -%}
+      {%- assign cv_day_count = cv_day_count | plus: 1 -%}
     {%- endif -%}
   {%- endfor -%}
   {%- if cv_chosen == nil -%}{%- assign cv_chosen = cv_recap_hit -%}{%- endif -%}
@@ -117,5 +161,6 @@
   {%- assign visit_posts = visit_posts | push: cv_chosen -%}
   {%- assign visit_images = visit_images | push: cv_image -%}
   {%- assign visit_trips = visit_trips | push: cv_label -%}
+  {%- assign visit_day_counts = visit_day_counts | push: cv_day_count -%}
 {%- endfor -%}
 {%- assign visit_count = visit_keys.size -%}

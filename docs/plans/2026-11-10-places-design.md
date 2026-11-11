@@ -64,6 +64,28 @@ the home map and Places call, taking the set of trip keys to consider.
 - `destinations/index.md` is removed. Nav, `head.html` breadcrumb and related
   link, `hub_body.html` breadcrumb, and `llms.txt` point to Places.
 
+## Amendment: expandable days (approved 2026-11-10)
+
+- Each `_data/trips.yml` entry gains `start` and `end` dates (first and last day
+  of the trip, from its day posts). A post dated outside its trip's window is
+  not a visit day. This also applies to link selection, so map cards and Places
+  links stop pointing at pre-trip posts such as "Japan Planning"; the home
+  map's data changes intentionally. When the day posts went up after the
+  trip (South Iceland 2024), an optional `posted_until` replaces `end` for
+  that check, so `start` and `end` stay the real travel dates.
+- A trip's recap is a post with category `rollup` or whose slug is the trip's
+  `trips.yml` key (Switzerland 2019, Omni Amelia Island and Switzerland 2024
+  have no `rollup` category). The recap is never a day post and is never
+  dropped by the window.
+- Day posts for a visit: posts of that trip tagging the place, inside the
+  window, excluding recaps.
+- A place gets an expand button when any of its trips has 2+ day posts. One
+  button per place, all collapsed by default. Collapsed shows the current line.
+  Expanded lists each trip with its day posts as "title · date", oldest first,
+  including single-day trips.
+- The button is separate from the trip links, uses `aria-expanded`, and shows
+  ▸/▾. Lists are visible without JavaScript and collapsed by script on load.
+
 ## Verification
 
 Scratchpad builds only. Checks: every `cities.yml` visit with a published post

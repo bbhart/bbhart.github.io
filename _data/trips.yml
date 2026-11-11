@@ -6,6 +6,12 @@
 # there; omit it for 0.
 # `rollup_key` ties the recap to its day posts, and `label` and `year` name the
 # trip on home page city cards.
+# `start` and `end` (YYYY-MM-DD, inclusive) are the first and last day of the
+# trip; the /trips/ grid shows the month of `start`. A post of the trip dated
+# outside them, such as a planning or follow-up post, is not a visit day: the
+# home map cards and Places skip it (see _includes/city_visits.html). The
+# recap counts whatever its date. When the day posts went up after the trip,
+# `posted_until` (the last day post's date) replaces `end` for that check.
 #
 # A recap with no entry here still shows in the trip grid, just not on the map.
 
@@ -13,6 +19,8 @@ europe-2007:
   rollup_key: 2007eu
   label: Western Europe cruise
   year: 2007
+  start: 2007-04-20
+  end: 2007-05-06
   pin: [48.857, 2.352]
   stops:
     - [Southampton, 50.904, -1.404]
@@ -32,6 +40,8 @@ India-2019-recap:
   rollup_key: 2019india
   label: India
   year: 2019
+  start: 2019-01-17
+  end: 2019-01-27
   pin: [12.972, 77.594]
   stops:
     - [San Francisco, 37.621, -122.379]
@@ -42,6 +52,8 @@ Iceland-trip-2023-recap:
   rollup_key: 2023iceland
   label: Iceland
   year: 2023
+  start: 2023-06-11
+  end: 2023-06-19
   pin: [64.663, -21.290]
   stops:
     - [Reykholt, 64.170, -20.450, 3]
@@ -52,6 +64,8 @@ Japan-Trip-2024-recap:
   rollup_key: 2024japan
   label: Japan
   year: 2024
+  start: 2024-02-01
+  end: 2024-02-10
   pin: [35.011, 135.768]
   stops:
     - [Tokyo, 35.676, 139.650, 3]
@@ -62,6 +76,8 @@ Iceland-Cruise-2024-recap:
   rollup_key: 2024icelandcruise
   label: New York to Iceland
   year: 2024
+  start: 2024-08-02
+  end: 2024-08-16
   pin: [60.719, -46.036]
   stops:
     - [Jersey City, 40.728, -74.078, 1]
@@ -77,6 +93,10 @@ Iceland-Visit-2024-recap:
   rollup_key: 2024icelandonland
   label: South Iceland
   year: 2024
+  start: 2024-08-16
+  end: 2024-08-19
+  # The day posts went up September 3-22, after the trip.
+  posted_until: 2024-09-22
   pin: [63.419, -19.006]
   stops:
     - [Reykjavik, 64.146, -21.942]
@@ -89,6 +109,8 @@ Caribbean-Cruise-Winter-2024-recap:
   rollup_key: 2024wintercaribbean
   label: Southern Caribbean
   year: 2024
+  start: 2024-12-21
+  end: 2025-01-02
   pin: [12.524, -70.027]
   stops:
     - [Fort Lauderdale, 26.122, -80.137, 1]
@@ -104,6 +126,8 @@ Norway-and-Denmark-2025-recap:
   rollup_key: 2025norway
   label: Norway and Denmark
   year: 2025
+  start: 2025-05-08
+  end: 2025-05-19
   pin: [60.391, 5.322]
   stops:
     - [Bergen, 60.391, 5.322, 2]
@@ -116,6 +140,8 @@ Switzerland-and-Germany-recap:
   rollup_key: 2025chde
   label: Switzerland and Germany
   year: 2025
+  start: 2025-07-29
+  end: 2025-08-12
   pin: [46.608, 7.922]
   stops:
     - [Zurich, 47.377, 8.542]
@@ -130,6 +156,8 @@ Rome-and-Silversea-recap:
   rollup_key: 2026romesilversea
   label: Rome and the Mediterranean
   year: 2026
+  start: 2026-05-04
+  end: 2026-05-15
   pin: [41.903, 12.496]
   stops:
     - [Rome, 41.903, 12.496, 3]
@@ -144,6 +172,8 @@ England-and-Iberia-recap:
   rollup_key: 2026iberia
   label: England and Iberia
   year: 2026
+  start: 2026-07-29
+  end: 2026-08-15
   pin: [51.507, -0.128]
   stops:
     - [London, 51.507, -0.128, 2]
@@ -163,20 +193,28 @@ switzerland-2024:
   rollup_key: 2024ch
   label: Switzerland
   year: 2024
+  start: 2024-07-10
+  end: 2024-07-22
 
 switzerland-2019:
   rollup_key: 2019switzerland
   label: Switzerland
   year: 2019
+  start: 2019-06-27
+  end: 2019-07-07
 
 Omni-Amelia-Island:
   rollup_key: 2025springbreak
   label: Omni Amelia Island
+  start: 2025-03-21
+  end: 2025-03-29
 
 Transatlantic-Crossing-recap:
   rollup_key: 2026transatlantic
   label: Transatlantic Crossing
   year: 2026
+  start: 2026-10-15
+  end: 2026-10-31
   # Uncomment on publish day. Left commented while the posts are unpublished:
   # the /trips/ page counts stop names from every entry here, so live stops
   # would change the production "places" count before the trip is public.
