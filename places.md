@@ -11,9 +11,14 @@ description: Every town I've visited and written about, by country, with a link 
 {%- comment -%}
   Built from _data/cities.yml (country, stays, day_trips, excursion) and the
   shared visit selection in _includes/city_visits.html. One row per place:
-  "<sort key>|~|<country>|~|<name>|~|<visits html>", sorted by country then
+  "<sort key>|~|<country>|~|<name>|~|<list item html>", sorted by country then
   name, accents folded so Ísafjörður sorts under I. An entry with no country
   goes under Other, last.
+
+  A place where some trip has two or more day posts also gets a toggle button
+  and a list of every trip's day posts (ul.place-days). The list is in the
+  HTML so it shows without JavaScript; the script at the bottom hides it,
+  shows the button, and wires the button up.
 {%- endcomment -%}
 {%- assign nothing = "" | split: "" -%}
 {%- assign place_rows = nothing -%}
@@ -43,7 +48,34 @@ description: Every town I've visited and written about, by country, with a link 
       <a href="{{ post.url | relative_url }}">{{ visit_trips[i] | escape }} ({{ visit_label }})</a>
     {%- endfor -%}
   {%- endcapture -%}
-  {%- capture row -%}{{ country_key }} {{ entry[0] | slugify: "latin" }}|~|{{ country }}|~|{{ entry[0] }}|~|{{ visits_html }}{%- endcapture -%}
+  {%- assign has_days = false -%}
+  {%- for n in visit_day_counts -%}{%- if n >= 2 -%}{%- assign has_days = true -%}{%- endif -%}{%- endfor -%}
+  {%- assign place_slug = entry[0] | slugify: "latin" -%}
+  {%- capture item_html -%}
+    {%- if has_days -%}
+      <button type="button" class="place-toggle" aria-expanded="false" aria-controls="days-{{ place_slug }}" hidden><span class="place-toggle-icon" aria-hidden="true">▸</span><span class="visually-hidden">Show days in {{ entry[0] | escape }}</span></button>
+    {%- endif -%}
+    <strong>{{ entry[0] | escape }}</strong> — <span class="place-visits">{{ visits_html }}</span>
+    {%- if has_days -%}
+      <ul class="place-days" id="days-{{ place_slug }}">
+      {%- for post in visit_posts -%}
+        {%- assign i = forloop.index0 -%}
+        {%- if visit_day_counts[i] == 0 -%}
+          <li><a class="place-days-trip" href="{{ post.url | relative_url }}">{{ visit_trips[i] | escape }}</a></li>
+          {%- continue -%}
+        {%- endif -%}
+        <li><span class="place-days-trip">{{ visit_trips[i] | escape }}</span><ul>
+        {%- for day in day_posts -%}
+          {%- if day_visits[forloop.index0] == i -%}
+            <li><a href="{{ day.url | relative_url }}">{{ day.title | escape }}</a> <span class="place-days-date">· {{ day.date | date: "%b %-d, %Y" }}</span></li>
+          {%- endif -%}
+        {%- endfor -%}
+        </ul></li>
+      {%- endfor -%}
+      </ul>
+    {%- endif -%}
+  {%- endcapture -%}
+  {%- capture row -%}{{ country_key }} {{ place_slug }}|~|{{ country }}|~|{{ entry[0] }}|~|{{ item_html }}{%- endcapture -%}
   {%- assign place_rows = place_rows | push: row -%}
 {%- endfor -%}
 {%- assign place_rows = place_rows | sort -%}
@@ -79,12 +111,30 @@ night, see [Countries]({{ '/countries/' | relative_url }}).
 <h2 id="{{ current | slugify: 'latin' }}">{% if hub %}<a href="{{ hub.url | relative_url }}">{{ current | escape }}</a>{% else %}{{ current | escape }}{% endif %}</h2>
 <ul>
   {%- endif %}
-  <li><strong>{{ parts[2] | escape }}</strong> — {{ parts[3] }}</li>
+  <li class="place">{{ parts[3] }}</li>
 {%- endfor -%}
 {%- unless current == "" %}
 </ul>
 {%- endunless %}
 </div>
+
+<script>
+// Collapse each place's day list and show its toggle (both start in the open
+// state so the lists read without JavaScript).
+document.querySelectorAll(".place-toggle").forEach(function (button) {
+  var list = document.getElementById(button.getAttribute("aria-controls"));
+  if (!list) return;
+  var icon = button.querySelector(".place-toggle-icon");
+  list.hidden = true;
+  button.hidden = false;
+  button.addEventListener("click", function () {
+    var open = button.getAttribute("aria-expanded") !== "true";
+    button.setAttribute("aria-expanded", open ? "true" : "false");
+    list.hidden = !open;
+    icon.textContent = open ? "▾" : "▸";
+  });
+});
+</script>
 
 <script type="application/ld+json">
 {

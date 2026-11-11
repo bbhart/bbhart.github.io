@@ -123,6 +123,57 @@
   }
 }
 
+// Places page: per-place toggle and day list ---------------------------
+
+.place-toggle {
+  margin: 0 0.3em 0 0;
+  padding: 0 0.15em;
+  border: 0;
+  background: none;
+  color: var(--muted);
+  font: inherit;
+  line-height: 1;
+  cursor: pointer;
+
+  &:hover { color: var(--accent); }
+
+  &:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+}
+
+.place-days {
+  list-style: none;
+  margin: 0.35rem 0 0.9rem;
+  padding-left: 1.25rem;
+  font-size: 0.95em;
+
+  ul {
+    list-style: none;
+    margin: 0.1rem 0 0.5rem;
+    padding-left: 1rem;
+  }
+
+  li { margin-bottom: 0.15em; }
+}
+
+.place-days-trip {
+  font-family: var(--font-ui);
+  font-size: var(--step-small);
+  font-weight: 600;
+  color: var(--muted);
+}
+
+a.place-days-trip { color: var(--accent); }
+
+.place-days-date {
+  color: var(--muted);
+  font-size: 0.9em;
+  white-space: nowrap;
+}
+
 // Previous / next -------------------------------------------------------
 
 .post-nav {
