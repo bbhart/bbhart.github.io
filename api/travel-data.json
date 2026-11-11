@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T00:29:56Z",
-  "total_posts": 171,
+  "generated_at": "2026-11-11T01:04:21Z",
+  "total_posts": 172,
   "trips": [
     {
       "rollup_key": "2007eu",
@@ -12170,7 +12170,9 @@
     "Paris, France",
     "Pflach",
     "Ponta Delgada",
+    "Ponta Delgada, Azores, Portugal",
     "Port Canaveral",
+    "Port Canaveral, Florida",
     "Portimão",
     "Portimão, Portugal",
     "Porto (Leixões), Portugal",
@@ -12188,6 +12190,7 @@
     "Rome",
     "Rome, Italy",
     "Royal Naval Dockyard",
+    "Royal Naval Dockyard, Bermuda",
     "Royal Palace (Oslo)",
     "San Francisco",
     "San Francisco, California, USA",
@@ -12231,6 +12234,7 @@
     "Vatican City",
     "Vigeland Park",
     "Vigo",
+    "Vigo, Spain",
     "Vik",
     "Visp",
     "Voss gondola (Hangurstoppen)",
@@ -25442,6 +25446,43 @@
         }
       ],
       "companions": [
+        "solo"
+      ]
+    },
+    {
+      "title": "Transatlantic Crossing in 2026",
+      "date": "2026-11-01 00:00:00 -0400",
+      "url": "/travel/rollup/2026/Transatlantic-Crossing-recap.html",
+      "subtitle": "England, Spain, Portugal and Bermuda, and an Atlantic crossing",
+      "categories": [
+        "travel",
+        "rollup"
+      ],
+      "tags": [],
+      "rollup_key": null,
+      "trip_type": "rollup",
+      "trip_duration": "October 15 - October 31, 2026",
+      "trip_duration_days": 17,
+      "locations_visited": [
+        "Southampton, England",
+        "Vigo, Spain",
+        "Lisbon, Portugal",
+        "Ponta Delgada, Azores, Portugal",
+        "Royal Naval Dockyard, Bermuda",
+        "Port Canaveral, Florida"
+      ],
+      "countries_visited": [
+        "England",
+        "Spain",
+        "Portugal",
+        "Bermuda"
+      ],
+      "transport": [
+        "Delta flights",
+        "National Express coach",
+        "Celebrity Apex cruise"
+      ],
+      "travel_companions": [
         "solo"
       ]
     }

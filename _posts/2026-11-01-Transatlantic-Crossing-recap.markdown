@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Transatlantic Crossing in 2026
-subtitle: TODO
+subtitle: England, Spain, Portugal and Bermuda, and an Atlantic crossing
 date:  2026-11-01
-published: false
+published: true
 categories: travel rollup
+background: '/assets/20261030-at-sea-sunset-ocean-rail-bg.jpg'
 destination: england
 trip_type: rollup
 trip_duration: October 15 - October 31, 2026
@@ -28,6 +29,8 @@ transport:
   - National Express coach
   - Celebrity Apex cruise
 ---
+
+A last-minute cruise booking that had me exploring Southampton, England, for two nights, before boarding the Celebrity Apex for a transatlantic trip with stops in Vigo (Spain), Lisbon, the Azores, and Bermuda. 
 
 {% assign sorted_posts = site.posts | where: "rollup_key", "2026transatlantic" | sort: 'date' %}
 
