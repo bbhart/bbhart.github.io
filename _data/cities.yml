@@ -4,268 +4,396 @@
 # `stays` is trip key to nights slept; 0 means a cruise port or shore excursion.
 # An entry is pinned only for trips in `stays`, so a new stay needs a line here,
 # and a post tagged with a new city shows no pin until the city is added.
+# `country` heads the Places page, `day_trips` lists trips with a land day trip
+# there (no pin), and `excursion: true` marks a `stays` 0 as a shore excursion.
 # Coordinates are [lat, lng].
 
 Akureyri:
   coords: [65.683, -18.110]
+  country: Iceland
   stays: {2024icelandcruise: 0}
   aliases: ["Akureyri, Iceland"]
 Amelia Island:
   coords: [30.560, -81.440]
+  country: United States
   stays: {2025springbreak: 3}
 Amsterdam:
   coords: [52.370, 4.895]
+  country: Netherlands
   stays: {2007eu: 0}
   aliases: ["Amsterdam, Netherlands"]
 Appenzell:
   coords: [47.331, 9.410]
+  country: Switzerland
   stays: {2025chde: 1}
   aliases: ["Appenzell, Switzerland"]
 Balestrand:
   coords: [61.207, 6.534]
+  country: Norway
   stays: {2025norway: 2}
   aliases: ["Balestrand, Norway", "Balestrand town"]
 Barcelona:
   coords: [41.385, 2.173]
+  country: Spain
   stays: {2007eu: 2, 2026iberia: 0}
   aliases: ["Barcelona, Spain"]
 Bayonne:
   coords: [40.669, -74.114]
+  country: United States
   stays: {2024icelandcruise: 0}
   aliases: ["Bayonne, New Jersey, USA"]
 Bengaluru:
   coords: [12.972, 77.594]
+  country: India
   stays: {2019india: 7}
   aliases: ["Bengaluru, India"]
 Bergen:
   coords: [60.391, 5.322]
+  country: Norway
   stays: {2025norway: 2}
   aliases: ["Bergen, Norway", "Downtown Bergen"]
 Bettmeralp:
   coords: [46.392, 8.064]
+  country: Switzerland
   stays: {2024ch: 2}
 Bilbao:
   coords: [43.263, -2.935]
+  country: Spain
   stays: {2007eu: 0, 2026iberia: 0}
   aliases: ["Bilbao, Spain"]
 Blankenberge:
   coords: [51.313, 3.132]
+  country: Belgium
   stays: {2007eu: 0}
+  excursion: true
+Borgarnes:
+  coords: [64.538, -21.921]
+  country: Iceland
+  day_trips: [2023iceland]
+Bregenz:
+  coords: [47.503, 9.747]
+  country: Austria
+  day_trips: [2025chde]
 Brig:
   coords: [46.317, 7.988]
+  country: Switzerland
   stays: {2024ch: 2}
 Brugge:
   coords: [51.209, 3.225]
+  country: Belgium
   stays: {2007eu: 0}
+  excursion: true
   aliases: ["Brugge, Belgium"]
 Cartagena:
   coords: [37.606, -0.986]
+  country: Spain
   stays: {2026romesilversea: 0}
   aliases: ["Cartagena, Spain"]
 Chamonix-Mont-Blanc:
   coords: [45.924, 6.869]
+  country: France
   stays: {2019switzerland: 2}
 Civitavecchia:
   coords: [42.094, 11.794]
+  country: Italy
   stays: {2026romesilversea: 0}
 Copenhagen:
   coords: [55.676, 12.568]
+  country: Denmark
   stays: {2025norway: 2}
   aliases: ["Copenhagen, Denmark", "Downtown Copenhagen", "Copenhagen city center", "Copenhagen streets"]
 Dubai:
   coords: [25.204, 55.271]
+  country: United Arab Emirates
   stays: {2019india: 1}
   aliases: ["Dubai, United Arab Emirates"]
 Fort Lauderdale:
   coords: [26.122, -80.137]
+  country: United States
   stays: {2024wintercaribbean: 1}
 Füssen:
   coords: [47.571, 10.701]
+  country: Germany
   stays: {2025chde: 1}
   aliases: ["Füssen, Germany"]
 Garmisch-Partenkirchen:
   coords: [47.492, 11.095]
+  country: Germany
   stays: {2025chde: 3}
   aliases: ["Garmisch-Partenkirchen, Germany"]
 Geneva:
   coords: [46.204, 6.143]
+  country: Switzerland
   stays: {2019switzerland: 6}
 Gibraltar:
   coords: [36.140, -5.353]
+  country: Gibraltar
   stays: {2007eu: 0}
 Halifax:
   coords: [44.649, -63.575]
+  country: Canada
   stays: {2024icelandcruise: 0}
   aliases: ["Halifax, Nova Scotia, Canada"]
 Húsafell:
   coords: [64.700, -20.867]
+  country: Iceland
   stays: {2023iceland: 3}
 Ibiza:
   coords: [38.907, 1.433]
+  country: Spain
   stays: {2026iberia: 0}
   aliases: ["Ibiza, Spain"]
 Interlaken:
   coords: [46.686, 7.863]
+  country: Switzerland
   stays: {2019switzerland: 1}
 Ísafjörður:
   coords: [66.075, -23.135]
+  country: Iceland
   stays: {2024icelandcruise: 0}
   aliases: ["Ísafjörður, Iceland"]
 Jersey City:
   coords: [40.728, -74.078]
+  country: United States
   stays: {2024icelandcruise: 1}
 Kamakura:
   coords: [35.319, 139.547]
+  country: Japan
   stays: {2024japan: 2}
 Kralendijk:
   coords: [12.150, -68.268]
+  country: Bonaire
   stays: {2024wintercaribbean: 0}
 Kyoto:
   coords: [35.011, 135.768]
+  country: Japan
   stays: {2024japan: 3}
 La Coruña:
   coords: [43.362, -8.411]
+  country: Spain
   stays: {2026iberia: 0}
   aliases: ["La Coruña, Spain"]
 La Rochelle:
   coords: [46.160, -1.151]
+  country: France
   stays: {2007eu: 0}
   aliases: ["La Rochelle, France"]
+Lauterbrunnen:
+  coords: [46.594, 7.908]
+  country: Switzerland
+  day_trips: [2025chde]
+  aliases: ["Lauterbrunnen, Switzerland"]
 Le Havre:
   coords: [49.494, 0.107]
+  country: France
   stays: {2007eu: 0}
   aliases: ["Le Havre, France"]
 Lisbon:
   coords: [38.722, -9.139]
+  country: Portugal
   stays: {2007eu: 0, 2026romesilversea: 0, 2026iberia: 0, 2026transatlantic: 0}
   aliases: ["Lisbon, Portugal"]
 Livorno:
   coords: [43.548, 10.311]
+  country: Italy
   stays: {2026romesilversea: 0}
   aliases: ["Livorno, Italy"]
 London:
   coords: [51.507, -0.128]
+  country: United Kingdom
   stays: {2007eu: 1, 2026iberia: 2}
   aliases: ["London, England", "London, United Kingdom"]
 Málaga:
   coords: [36.721, -4.421]
+  country: Spain
   stays: {2026iberia: 0}
   aliases: ["Málaga, Spain"]
+Manhattan:
+  coords: [40.758, -73.985]
+  country: United States
+  day_trips: [2024icelandcruise]
 Matosinhos:
   coords: [41.184, -8.696]
+  country: Portugal
   stays: {2026iberia: 0}
   aliases: ["Matosinhos, Portugal", "Leixões", "Porto (Leixões), Portugal"]
 Munich:
   coords: [48.135, 11.582]
+  country: Germany
   stays: {2025chde: 3}
   aliases: ["Munich, Germany"]
+Mürren:
+  coords: [46.559, 7.892]
+  country: Switzerland
+  day_trips: [2024ch]
 Oranjestad:
   coords: [12.524, -70.027]
+  country: Aruba
   stays: {2024wintercaribbean: 0}
 Oslo:
   coords: [59.913, 10.752]
+  country: Norway
   stays: {2025norway: 1}
   aliases: ["Oslo, Norway", "Downtown Oslo", "Downtown Oslo malls"]
 Palma de Mallorca:
   coords: [39.570, 2.650]
+  country: Spain
   stays: {2026iberia: 0}
   aliases: ["Palma de Mallorca, Spain"]
 Paris:
   coords: [48.857, 2.352]
+  country: France
   stays: {2007eu: 0}
+  excursion: true
   aliases: ["Paris, France"]
 Ponta Delgada:
   coords: [37.740, -25.668]
+  country: Portugal
   stays: {2026transatlantic: 0}
   aliases: ["Ponta Delgada, Azores, Portugal"]
 Port Canaveral:
   coords: [28.410, -80.618]
+  country: United States
   stays: {2026transatlantic: 0}
   aliases: ["Port Canaveral, Florida"]
 Portimão:
   coords: [37.138, -8.537]
+  country: Portugal
   stays: {2026romesilversea: 0}
   aliases: ["Portimão, Portugal"]
 Puerto Plata:
   coords: [19.793, -70.689]
+  country: Dominican Republic
   stays: {2024wintercaribbean: 0}
 Qaqortoq:
   coords: [60.719, -46.036]
+  country: Greenland
   stays: {2024icelandcruise: 0}
   aliases: ["Qaqortoq, Greenland"]
 Reykholt:
   coords: [64.170, -20.450]
+  country: Iceland
   stays: {2023iceland: 3}
   aliases: ["Laugarvatn", "Laugarvatn area"]
 Reykjavik:
   coords: [64.146, -21.942]
+  country: Iceland
   stays: {2023iceland: 2, 2024icelandcruise: 0, 2024icelandonland: 1}
   aliases: ["Reykjavik, Iceland"]
+Riederalp:
+  coords: [46.382, 8.026]
+  country: Switzerland
+  day_trips: [2024ch]
 Rome:
   coords: [41.903, 12.496]
+  country: Italy
   stays: {2026romesilversea: 3}
   aliases: ["Rome, Italy"]
 Royal Naval Dockyard:
   coords: [32.327, -64.834]
+  country: Bermuda
   stays: {2026transatlantic: 0}
   aliases: ["Royal Naval Dockyard, Bermuda"]
 San Juan:
   coords: [18.466, -66.106]
+  country: Puerto Rico
   stays: {2024wintercaribbean: 0}
+Schwangau:
+  coords: [47.577, 10.739]
+  country: Germany
+  day_trips: [2025chde]
+Selfoss:
+  coords: [63.933, -20.997]
+  country: Iceland
+  day_trips: [2023iceland, 2024icelandonland]
+  aliases: ["Selfoss, Iceland"]
 Silves:
   coords: [37.189, -8.439]
+  country: Portugal
   stays: {2026romesilversea: 0}
+  excursion: true
   aliases: ["Silves, Portugal"]
 Southampton:
   coords: [50.904, -1.404]
+  country: United Kingdom
   stays: {2007eu: 0, 2026iberia: 0, 2026transatlantic: 2}
   aliases: ["Southampton, England", "Southampton, United Kingdom"]
+Spiez:
+  coords: [46.688, 7.680]
+  country: Switzerland
+  day_trips: [2024ch]
 St. John's:
   coords: [47.561, -52.713]
+  country: Canada
   stays: {2024icelandcruise: 0}
   aliases: ["St. John's, Newfoundland, Canada"]
 Steinar:
   coords: [63.540, -19.720]
+  country: Iceland
   stays: {2024icelandonland: 2}
   aliases: ["Steinar, South Iceland"]
 Tangier:
   coords: [35.759, -5.834]
+  country: Morocco
   stays: {2007eu: 0}
   aliases: ["Tangier, Morocco"]
 Thun:
   coords: [46.758, 7.628]
+  country: Switzerland
   stays: {2024ch: 1}
 Tokyo:
   coords: [35.676, 139.650]
+  country: Japan
   stays: {2024japan: 3}
 València:
   coords: [39.470, -0.376]
+  country: Spain
   stays: {2026romesilversea: 0}
   aliases: ["València, Spain"]
+Vatican City:
+  coords: [41.904, 12.453]
+  country: Vatican City
+  day_trips: [2026romesilversea]
 Vigo:
   coords: [42.240, -8.727]
+  country: Spain
   stays: {2026transatlantic: 0}
   aliases: ["Vigo, Spain"]
+Vík:
+  coords: [63.419, -19.006]
+  country: Iceland
+  day_trips: [2024icelandonland]
+  aliases: ["Vik", "Vík, Iceland"]
 Voss:
   coords: [60.628, 6.418]
+  country: Norway
   stays: {2025norway: 2}
   aliases: ["Voss, Norway", "Downtown Voss", "Voss town center"]
 Wengen:
   coords: [46.608, 7.922]
+  country: Switzerland
   stays: {2024ch: 2, 2025chde: 2}
   aliases: ["Wengen, Switzerland"]
 Willemstad:
   coords: [12.109, -68.934]
+  country: Curaçao
   stays: {2024wintercaribbean: 0}
+Winchester:
+  coords: [51.063, -1.308]
+  country: United Kingdom
+  day_trips: [2026transatlantic]
 Zeebrugge:
   coords: [51.333, 3.207]
+  country: Belgium
   stays: {2007eu: 0}
   aliases: ["Zeebrugge, Belgium"]
 Zermatt:
   coords: [46.020, 7.749]
+  country: Switzerland
   stays: {2024ch: 2, 2025chde: 3}
   aliases: ["Zermatt, Switzerland"]
 Zurich:
   coords: [47.377, 8.542]
+  country: Switzerland
   stays: {2024ch: 2}
   aliases: ["Zurich, Switzerland"]
