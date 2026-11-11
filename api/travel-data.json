@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:04:21Z",
+  "generated_at": "2026-11-11T15:01:55Z",
   "total_posts": 172,
   "trips": [
     {
@@ -11277,8 +11277,21 @@
           "accommodations": [
             {
               "name": "Moxy Southampton",
+              "type": "hotel",
               "location": "Southampton",
               "night": "1 of 2"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Heathrow Airport Central Bus Station",
+              "type": "bus_station",
+              "location": "London Heathrow"
+            },
+            {
+              "name": "Westquay",
+              "type": "shopping_centre",
+              "location": "Southampton"
             }
           ],
           "transport": [
@@ -11291,7 +11304,22 @@
             {
               "type": "coach",
               "provider": "National Express",
-              "route": "Heathrow → Southampton"
+              "route": "Heathrow → Southampton",
+              "departure_time": "1:22pm",
+              "notes": "Scheduled for 1:30pm but left eight minutes early; ~90 minute ride"
+            }
+          ],
+          "activities": [
+            "National Express coach from Heathrow to Southampton",
+            "Wandering Westquay",
+            "Southampton old town walls and the Bargate"
+          ],
+          "dining": [
+            {
+              "venue": "Thaikhun",
+              "meal": "lunch",
+              "location": "Westquay, Southampton",
+              "dishes": "Pad thai"
             }
           ],
           "companions": [
@@ -11330,6 +11358,7 @@
           "accommodations": [
             {
               "name": "Moxy Southampton",
+              "type": "hotel",
               "location": "Southampton",
               "night": "2 of 2"
             }
@@ -11356,6 +11385,13 @@
           "activities": [
             "SeaCity Museum Titanic exhibits",
             "Afternoon trip to Winchester"
+          ],
+          "dining": [
+            {
+              "venue": "Moxy Southampton hotel bar",
+              "meal": "dinner",
+              "location": "Southampton"
+            }
           ],
           "companions": [
             "solo"
@@ -12437,6 +12473,7 @@
     "Muster station safety drill in the Show Lounge",
     "Málaga Cathedral and the Museo Picasso, seen from outside",
     "Mürren to Grütschalp hike",
+    "National Express coach from Heathrow to Southampton",
     "Navigating Copenhagen public transit systems",
     "Navigating baggage tag confusion at Southwest check-in",
     "Navigating departures and Schengen-exit border control at LIS",
@@ -12509,6 +12546,7 @@
     "Solo lunch at Burger King",
     "Solo morning walk down La Rambla",
     "Solo time in historic church",
+    "Southampton old town walls and the Bargate",
     "Spanish Steps visit",
     "Special occasion dinner",
     "St. James's Park",
@@ -12593,6 +12631,7 @@
     "Walking visit through the Roman Forum and Palatine Hill",
     "Wandering Cartagena's central market on my own",
     "Wandering Las Ramblas",
+    "Wandering Westquay",
     "Wandering the medina",
     "Watching Norwegian fjords from deck",
     "Watching the kids play a game of chess",
@@ -24733,8 +24772,21 @@
       "accommodations": [
         {
           "name": "Moxy Southampton",
+          "type": "hotel",
           "location": "Southampton",
           "night": "1 of 2"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Heathrow Airport Central Bus Station",
+          "type": "bus_station",
+          "location": "London Heathrow"
+        },
+        {
+          "name": "Westquay",
+          "type": "shopping_centre",
+          "location": "Southampton"
         }
       ],
       "transport": [
@@ -24747,7 +24799,22 @@
         {
           "type": "coach",
           "provider": "National Express",
-          "route": "Heathrow → Southampton"
+          "route": "Heathrow → Southampton",
+          "departure_time": "1:22pm",
+          "notes": "Scheduled for 1:30pm but left eight minutes early; ~90 minute ride"
+        }
+      ],
+      "activities": [
+        "National Express coach from Heathrow to Southampton",
+        "Wandering Westquay",
+        "Southampton old town walls and the Bargate"
+      ],
+      "dining": [
+        {
+          "venue": "Thaikhun",
+          "meal": "lunch",
+          "location": "Westquay, Southampton",
+          "dishes": "Pad thai"
         }
       ],
       "companions": [
@@ -24786,6 +24853,7 @@
       "accommodations": [
         {
           "name": "Moxy Southampton",
+          "type": "hotel",
           "location": "Southampton",
           "night": "2 of 2"
         }
@@ -24812,6 +24880,13 @@
       "activities": [
         "SeaCity Museum Titanic exhibits",
         "Afternoon trip to Winchester"
+      ],
+      "dining": [
+        {
+          "venue": "Moxy Southampton hotel bar",
+          "meal": "dinner",
+          "location": "Southampton"
+        }
       ],
       "companions": [
         "solo"
