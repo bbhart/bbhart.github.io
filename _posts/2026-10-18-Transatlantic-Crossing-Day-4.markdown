@@ -101,7 +101,7 @@ My home for the next 13 nights:
 
 <img src="/assets/20261018-southampton-stateroom.jpg" alt="View from the foot of the bed in a cruise ship stateroom, with a white duvet, a teal runner, and teal and grey throw pillows. Grey curtains frame a sliding glass door onto the veranda, where a large circular cutout in the white bulkhead frames the colorful buildings of the Southampton waterfront. A wall-mounted television is on the right" width="100%" />
 
-This is stateroom 6102 onboard the Celebrity Apex. It's a category P2 (Deluxe Porthole View with Veranda) which, if I'm being honest, I wasn't aware was a thing.
+This is stateroom 6102 onboard the Celebrity Apex. It's a category P2 (Deluxe Porthole View with Veranda) which I, if I'm being honest, wasn't aware was a thing.
 
 <figure>
     <img src="/assets/20261018-celebrity-apex-deluxe-porthole-veranda.jpg" alt="Celebrity Cruises listing for the P2 Deluxe Porthole View with Veranda category. A promotional photo shows a stateroom with a bed made in white and navy linens facing a sliding door onto a veranda, where a large round porthole cutout in the bulkhead frames the open sea. A grey sofa with navy cushions and a large red abstract print sits on the left, and a desk with a marble-based lamp sits on the right, over a grey carpet with a geometric pattern. Below the photo, text reads: 'Located at either end of the ship, in the Deluxe Porthole View with Veranda you'll have the choice to relax in your spacious living area, or step outside to enjoy morning coffee and evening sunsets.'" width="100%"/>
