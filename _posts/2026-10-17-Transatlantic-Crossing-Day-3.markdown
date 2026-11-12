@@ -89,5 +89,3 @@ Tomorrow: the cruise begins!
 **Footnotes:**
 
 [^1]: I would've preferred an electronic ticket. The quality of my cell coverage was conspiring against me, however. I keep buying and then being disappointed by the providers that Airalo has chosen to contract with. 
-
-{% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

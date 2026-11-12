@@ -39,5 +39,3 @@ The worst night of them all:
 <img src="/assets/20261030-at-sea-luggage-out-hallway.jpg" alt="A long stateroom corridor on the last night of the cruise, with tagged suitcases set outside cabin doors for overnight collection: a navy Samsonite and an olive bag in the foreground, a silver hard-shell case and a laden luggage cart farther down, under green emergency exit signs and over grey carpet with a red-and-grey geometric pattern" width="100%" />
 
 See you in the morning. 
-
-{% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

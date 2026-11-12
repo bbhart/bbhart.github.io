@@ -128,8 +128,6 @@ Our hotel is just steps away from the [Tate Modern](https://www.tate.org.uk/visi
 
 <img src="/assets/20260731-tate-modern-lichtenstein-painting.jpg" alt="A large Roy Lichtenstein painting of a bedroom interior hanging on a white gallery wall at Tate Modern, rendered in his comic-book style with heavy black outlines and Ben-Day dots, showing a made bed with a striped valance, a chest of drawers, framed pictures, and table lamps in pastel pinks, greens, and blues. A teenage boy in a black t-shirt and grey sweatpants stands with his back to the camera looking at it, behind a low stanchion barrier" width="100%" />
 
-{% assign iberia_recap = site.posts | where_exp: "p", "p.path contains 'England-and-Iberia-recap'" | first %}{% if iberia_recap %}*Part of the [England and Iberia 2026 trip]({{ iberia_recap.url }}).*{% endif %}
-
 We got a late start at the Tate and weren't able to see as much as I would've liked. We made our way back to the hotel.
 
 <img src="/assets/20260731-bankside-illuminated-sign.jpg" alt="Large freestanding letters spelling BANKSIDE, each studded with round bulbs, set up on a paved plaza outside a modern brick and glass building whose entrance canopy is hung with strings of warm fairy lights. Three people pose among the letters and a passerby walks by on the right beside an orange bollard covered in stickers" width="100%" />

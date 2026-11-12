@@ -39,5 +39,3 @@ Here we are somewhere in the middle of the Atlantic.
 For dinner, four of us from the solo travelers group decided to peel off and try the [Fine Cut Steakhouse](https://www.celebritycruises.com/things-to-do-onboard/eat-and-drink/restaurants-and-cafes/fine-cut-steakhouse-restaurant). It was great! Not only was it a nice change of pace from main dining, but the food and service really did feel elevated. I'll spare you from all the low light food photos of my crabcakes and Filet Mignon but I have to include the cheesecake:
 
 <img src="/assets/20261025-at-sea-strawberry-cheesecake.jpg" alt="A wedge of New York-style cheesecake on a graham cracker crust, topped with a dollop of whipped cream and a halved strawberry and drizzled with glossy strawberry sauce that pools on a large white plate, set on a dark wooden table with woven placemats, a wine glass, and another dessert plate in the background under dim dinner lighting" width="100%" />
-
-{% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

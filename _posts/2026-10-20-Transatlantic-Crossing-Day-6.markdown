@@ -81,6 +81,3 @@ I took the long way back to the ship, wandering one of the main market streets.
 <img src="/assets/20261020-vigo-pink-floyd-tribute-poster.jpg" alt="A street poster in Vigo for 'Im-Pulse Pink Floyd Tribute 2026' with the Dark Side of the Moon prism logo, listing shows on 24 Octubre 21:00h in Lugo at the Auditorio Gustavo Freire and 25 Octubre 20:00h in Vigo at Teatro A Fundación, pasted over a larger blue-and-white AFG photography exhibition poster" width="100%" />
 
 <video src="/assets/20261020-vigo-ria-ferry-sailaway.mp4" width="100%" controls playsinline muted></video>
-
-
-{% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

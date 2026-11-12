@@ -48,5 +48,3 @@ It rained in the afternoon.
 <img src="/assets/20261029-at-sea-rainy-balcony-kindle.jpg" alt="Reading a Kindle with bare feet propped up on a small white side table on a covered balcony, beside a grey woven chair. A large rounded window opening is beaded with raindrops and looks out on rain pooling on a blue-painted deck ledge and a grey, fog-shrouded sea" width="100%" />
 
 The outside temperature was warm on this second half of the trip so it was a shame to lose a whole day to rain. Unavoidable, but still. 
-
-{% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

@@ -20,6 +20,34 @@ layout: default
   <div class="page-body container">
     <div class="prose">
       {{ content }}
+      {%- comment -%}
+        Recap breadcrumb for day posts. Rendered here, after {{ content }}, so it
+        lands below kramdown's footnote list instead of between the "Footnotes"
+        label and the notes. The recap is the post whose slug is the trip's
+        _data/trips.yml key; nothing shows until that recap is published.
+      {%- endcomment -%}
+      {%- if page.rollup_key -%}
+        {%- assign crumb_key = nil -%}
+        {%- assign crumb_trip = nil -%}
+        {%- for t in site.data.trips -%}
+          {%- if t[1].rollup_key == page.rollup_key -%}
+            {%- assign crumb_key = t[0] -%}
+            {%- assign crumb_trip = t[1] -%}
+            {%- break -%}
+          {%- endif -%}
+        {%- endfor -%}
+        {%- if crumb_key -%}
+          {%- assign crumb_recap = site.posts | where: "slug", crumb_key | first -%}
+          {%- if crumb_recap and crumb_recap.url != page.url -%}
+            {%- if crumb_trip.label and crumb_trip.year -%}
+              {%- capture crumb_name -%}{{ crumb_trip.label }} {{ crumb_trip.year }} trip{%- endcapture -%}
+            {%- else -%}
+              {%- assign crumb_name = crumb_recap.title -%}
+            {%- endif %}
+      <p class="trip-breadcrumb"><em>Part of the <a href="{{ crumb_recap.url | relative_url }}">{{ crumb_name }}</a>.</em></p>
+          {%- endif -%}
+        {%- endif -%}
+      {%- endif %}
     </div>
 
     {% if page.rollup_key %}

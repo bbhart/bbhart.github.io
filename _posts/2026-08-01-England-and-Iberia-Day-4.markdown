@@ -157,5 +157,3 @@ The rest of the day was uneventful -- regular cruise stuff.
 <img src="/assets/20260801-southampton-port-from-ship.jpg" alt="Elevated view from the ship over the Port of Southampton. In the foreground, a long grey warehouse with a navy sign reading Welcome to the PORT OF SOUTHAMPTON, Gateway to the World, beside an empty concrete quay marked with yellow lines. Behind it, a multi-story car park stacked with hundreds of new cars, rows of yellow construction machinery lined up on the dock, a white marquee tent, and a grey naval supply ship moored at a wharf. Beyond the water lies the far shore with a road bridge, wooded hills, and waterfront apartment blocks. Partly cloudy sky." width="100%" />
 
 <video src="/assets/20260801-southampton-water-sailaway-pool-deck.mp4" width="100%" controls playsinline muted></video>
-
-{% assign iberia_recap = site.posts | where_exp: "p", "p.path contains 'England-and-Iberia-recap'" | first %}{% if iberia_recap %}*Part of the [England and Iberia 2026 trip]({{ iberia_recap.url }}).*{% endif %}

@@ -35,5 +35,3 @@ For no reason, here are two photos from the buffet:
 And a place I found to read my book -- [Emperor of Nothing: The Making of Larry David – The Definitive Authorized Biography of Seinfeld's Legendary Co-Creator](https://www.amazon.com/Emperor-Nothing-Definitive-Authorized-Co-Creator-ebook/dp/B0GHRN1R1K/) by [Blake J. Harris](https://www.harpercollins.com/blogs/authors/blake-j-harris-2014428838993) (Quick review: ⭐️⭐️⭐️⭐️⭐️) 
 
 <img src="/assets/20261027-at-sea-lounge-kindle.jpg" alt="Reading a Kindle in a quiet ship lounge, with bare legs crossed beside a round white marble side table. A long cream crushed-velvet banquette with navy bolster cushions wraps around a wall of dark navy upholstered panels, cream armchairs are grouped around more marble tables, and a potted plant stands by a wood-clad column under a curved cream ceiling" width="100%" />
-
-{% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

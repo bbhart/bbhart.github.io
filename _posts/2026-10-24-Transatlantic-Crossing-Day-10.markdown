@@ -42,5 +42,3 @@ On sea days they open the [Eden Cafe](https://www.celebritycruises.com/things-to
 I dined at the solo travelers' table in the evening and treated myself to the Coquilles Saint-Jacques, a favorite from our August cruise. 
 
 <img src="/assets/20261024-at-sea-normandie-menu.jpg" alt="Close-up of a cream dinner menu headed 'Normandie' in widely spaced capitals, with a 'Starters' section listing a terrine and radish carpaccio with pickles, grain Dijon mustard, and petit mache salad; Coquilles Saint-Jacques with Pinot Blanc sauce, crème fraiche, Gruyere, and crispy breadcrumb, marked with an asterisk; and baked Brie cheese with caramelized apples and port wine syrup, marked with a leaf symbol. The heading of the next section, 'Tuscan,' is cut off at the bottom" width="100%" />
-
-{% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

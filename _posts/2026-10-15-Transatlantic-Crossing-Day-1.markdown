@@ -56,8 +56,6 @@ The boarding process aside, the vibes once onboard were decent, and I liked my s
 
 ... but these redeyes that depart at midnight and land at noon are a special kind of hell. I need to start doing the 7pm->7am ones instead, and then just eat the price of a destination hotel room the night before.
 
-{% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}
-
 **Footnotes**:
 
 [^1]: Mine was up-to-date in the Delta app.

@@ -29,6 +29,3 @@ The ship was rocking! There was a lot of front-to-back movement (where you feel 
 I tried to capture the ship motion. It's no easy thing.
 
 <video src="/assets/20261026-at-sea-ship-motion-lifeboats.mp4" width="100%" controls playsinline muted></video>
-
-
-{% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

@@ -124,5 +124,3 @@ Note to self for next time: rent a car and tour on your own. The roads and signs
 **Footnotes**:
 
 [^1]: OK so the ship isn't "done" when you sail away from the shipyard, but there's a schedule so off you go.
-
-{% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

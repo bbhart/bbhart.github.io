@@ -118,7 +118,3 @@ By 9pm we were all physically destroyed. Not only had we not slept, we'd each ra
 <img src="/assets/20260730-buckingham-palace-facade.jpg" alt="The east front of Buckingham Palace photographed from across the empty forecourt on an overcast day, showing the full symmetrical stone facade with its central pediment and the Union Flag flying from the roof. A Royal Collection Trust A-board in the foreground reads 'Buckingham Palace — Scan to find out when you can visit and the top things to do near Buckingham Palace' with a QR code" width="100%" />
 
 <img src="/assets/20260730-south-bank-bfi-cinema.jpg" alt="The BFI Southbank cinema in London tucked beneath the concrete underside of Waterloo Bridge, its frontage lit by a bright magenta illuminated panel with black lettering reading 'Cinema' and 'BFI Southbank'. Potted plants and green planters edge an outdoor seating area where people sit at tables, and pedestrians walk across the paved terrace in the foreground" width="100%" />
-
-{% assign iberia_recap = site.posts | where_exp: "p", "p.path contains 'England-and-Iberia-recap'" | first %}{% if iberia_recap %}*Part of the [England and Iberia 2026 trip]({{ iberia_recap.url }}).*{% endif %}
-
-

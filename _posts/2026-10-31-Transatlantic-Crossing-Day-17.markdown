@@ -88,5 +88,3 @@ End of trip.
 **Footnotes**:
 
 [^1]: I checked with an airlines person I know and they said the person-travels-with-bag rule is more for international flights and that domestic bags might be expedited to ensure the bags make their connections. 
-
-{% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

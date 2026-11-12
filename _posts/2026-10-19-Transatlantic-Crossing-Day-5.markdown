@@ -43,5 +43,3 @@ Besides the environmental controls, you can also control the TV... but that's le
 So now you know.
 
 Overall: an average sea day.
-
-{% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

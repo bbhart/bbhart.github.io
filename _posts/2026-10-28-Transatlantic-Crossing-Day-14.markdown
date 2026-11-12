@@ -84,5 +84,3 @@ These little EVs are cute, though at the price point I'd probably rent something
 <img src="/assets/20261028-dockyard-current-rental-sign.jpg" alt="A white A-frame sandwich board on asphalt advertising Current electric car rentals, with a yellow arrow and the Current logo on a magenta background above illustrations of the XEV Yoyo Pro at $190 per day and the XEV Yoyo at $175 per day, each with range and feature notes, and the tagline 'Explore Bermuda in style with the lowest rental rates in Dockyard.' Two people walk away across the parking area behind it" width="100%" />
 
 Somehow the rain held off all day until a few minutes after we cast off ropes! And then it rained, and it rained, and it rained.
-
-{% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

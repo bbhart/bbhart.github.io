@@ -101,6 +101,3 @@ The rest of the day was spent wandering around and trying to stay ahead of jet l
 <img src="/assets/20261016-southampton-paddington-bench.jpg" alt="A carved wooden Paddington Bear statue in a blue duffle coat and red hat, holding a marmalade sandwich, seated at one end of a wooden bench with a green plaque, set on a grassy bank below a tall round medieval stone tower in Southampton's old town walls. Planters with heather flank the bench under a clear blue sky" width="100%" />
 
 <img src="/assets/20261016-southampton-bargate-selfie.jpg" alt="Selfie in front of the Bargate, the medieval stone gatehouse of Southampton's old town walls, lit golden by late afternoon sun, wearing a navy henley. The gate's battlemented parapet, carved heraldic panels, and a stone lion statue frame the dark arched passage, with a flag flying from the roof and a pedestrian walking past on the left" width="100%" />
-
-
-{% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

@@ -68,5 +68,3 @@ I walked up the hill to [Castelo de São Jorge](https://castelodesaojorge.pt/en/
 And for the second time in as many months I found myself sailing under the [Ponte 25 de Abril bridge](https://en.wikipedia.org/wiki/25_de_Abril_Bridge). 
 
 <video src="/assets/20261021-lisbon-sailaway-25-de-abril-bridge.mp4" width="100%" controls playsinline muted></video>
-
-{% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}

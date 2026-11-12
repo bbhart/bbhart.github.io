@@ -121,5 +121,3 @@ I went to the top deck to watch sailaway. Neither of this year's sailaways from 
 I finished the day with some cruise ship pizza and a book. 
 
 <img src="/assets/20261018-oceanview-pizza-and-kindle.jpg" alt="Reading a Kindle at night in the ship's Oceanview Café buffet, with a bare knee and the glowing e-reader page in the foreground and a white marble table holding a plate with the last scraps of a meal and a fork at left. A yellow 'Take Care, Watch Your Step' sign stands on the floor beside a curving black-and-cream scalloped carpet, and beyond it a chef in whites works at a lit serving station framed by a navy wall with a gold geometric pattern. A few diners sit at tables along the curved windows under copper pendant lamps and a round recessed ceiling" width="100%" />
-
-{% assign ta_recap = site.posts | where_exp: "p", "p.path contains 'Transatlantic-Crossing-recap'" | first %}{% if ta_recap %}*Part of the [Transatlantic Crossing 2026 trip]({{ ta_recap.url }}).*{% endif %}
