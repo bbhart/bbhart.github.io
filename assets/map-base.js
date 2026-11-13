@@ -1,7 +1,10 @@
 // Shared by the home city map and the /trips/ route map: the Leaflet setup,
 // vector basemap, pins, and the numbered bubbles overlapping pins fold into.
-// items: [{ id, at: [lat, lng], label (HTML), title, name }]
+// items: [{ id, at: [lat, lng], label (HTML), title, name, labelZoom, rank }]
 //   name: the short name used in bubble tooltips.
+//   labelZoom (optional): from this zoom the label shows without hovering, when
+//   it fits. rank: lower places its label first. Items without labelZoom only
+//   show their label on hover, focus or selection.
 // opts: { onSelect: function (id), maxZoom }
 (function () {
   window.createAtlas = function (el, items, opts) {
@@ -61,9 +64,9 @@
     var pins = {};
     var active = null;
 
-    function pinIcon(item, on) {
+    function pinIcon(item, on, labelled) {
       return L.divIcon({
-        className: "trip-pin" + (on ? " is-active" : ""),
+        className: "trip-pin" + (on ? " is-active" : "") + (labelled ? " is-labelled" : ""),
         html: '<span class="trip-pin__dot"></span><span class="trip-pin__label">' + item.label + "</span>",
         iconSize: [HIT, HIT],
         iconAnchor: [HIT / 2, HIT / 2]
@@ -156,15 +159,59 @@
         .on("keypress", onEnter(zoomToGroup))
         .addTo(groups);
     }
-    map.on("zoomend", regroup);
-    regroup();
+    // Permanent labels: from its labelZoom a pin shows its name without
+    // hovering, unless the label would overlap a label placed before it (in
+    // rank order) or a bubble. Labels sit at fixed offsets from their pins, so
+    // panning keeps every overlap as it was and only zooming needs this.
+    var labelled = items.filter(function (i) { return i.labelZoom != null; })
+      .sort(function (a, b) { return (a.rank || 0) - (b.rank || 0); })
+      .map(function (i) { return pins[i.id]; });
+    function labelRect(p) {
+      return p.marker.getElement().querySelector(".trip-pin__label").getBoundingClientRect();
+    }
+    function overlaps(a, b) {
+      return a.left < b.right && b.left < a.right && a.top < b.bottom && b.top < a.bottom;
+    }
+    function relabel() {
+      if (!labelled.length) return;
+      var zoom = map.getZoom();
+      // Measure everything first, then write, so the browser lays out once.
+      // A hidden label is still laid out (opacity 0), so it can be measured.
+      var taken = [];
+      groups.eachLayer(function (g) { taken.push(g.getElement().getBoundingClientRect()); });
+      // The selected pin's label always shows: keep others clear of it.
+      if (active && pins[active] && map.hasLayer(pins[active].marker)) taken.push(labelRect(pins[active]));
+      var shown = labelled.map(function (p) {
+        if (!map.hasLayer(p.marker) || zoom < p.item.labelZoom) return false;
+        if (p.item.id === active) return true;
+        var r = labelRect(p);
+        if (taken.some(function (t) { return overlaps(r, t); })) return false;
+        taken.push(r);
+        return true;
+      });
+      labelled.forEach(function (p, i) {
+        p.labelled = shown[i];
+        var el = p.marker.getElement();
+        if (el) el.classList.toggle("is-labelled", shown[i]);
+      });
+    }
+
+    function refresh() {
+      regroup();
+      relabel();
+    }
+    map.on("zoomend", refresh);
+    refresh();
+    // Label widths change once the web font arrives.
+    if (document.fonts) document.fonts.ready.then(relabel);
 
     function setActive(id) {
-      if (active && pins[active]) pins[active].marker.setIcon(pinIcon(pins[active].item, false));
+      // Keep is-labelled across the icon swap so a labelled pin doesn't blink.
+      if (active && pins[active]) pins[active].marker.setIcon(pinIcon(pins[active].item, false, pins[active].labelled));
       active = id;
-      if (id && pins[id]) pins[id].marker.setIcon(pinIcon(pins[id].item, true));
+      if (id && pins[id]) pins[id].marker.setIcon(pinIcon(pins[id].item, true, pins[id].labelled));
       // The active pin stays out of bubbles, so fold it back in once released.
-      if (id === null) regroup();
+      if (id === null) refresh(); else relabel();
     }
 
     return {

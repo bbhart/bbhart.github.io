@@ -231,6 +231,11 @@
   .trip-pin__label { opacity: 1; }
 }
 
+// A city label shown without hovering once the map is zoomed in far enough
+// (see relabel() in assets/map-base.js). It keeps pointer-events: none, so it
+// never blocks a click on a pin underneath.
+.trip-pin.is-labelled .trip-pin__label { opacity: 1; }
+
 .trip-pin.is-active .trip-pin__dot {
   background: var(--ink);
   box-shadow: 0 0 0 1px var(--ink), 0 0 0 8px color-mix(in srgb, var(--accent) 30%, transparent);

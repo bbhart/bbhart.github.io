@@ -1,6 +1,7 @@
 {%- comment -%}
   Builds the home page city index from _data/cities.yml and post locations.
   Sets city_rows (array of JSON strings, one per city with posts) and city_count.
+  Each row also carries labelZoom, nights (total) and trips for map labels.
   One card per trip: see docs/plans/2026-11-09-city-map-design.md. Card
   selection lives in city_visits.html, shared with the Places page.
 {%- endcomment -%}
@@ -18,7 +19,25 @@
     {%- assign cards = cards | push: card -%}
   {%- endfor -%}
 
-  {%- capture row -%}{"name":{{ entry[0] | jsonify }},"coords":{{ entry[1].coords | jsonify }},"cards":[{{ cards | join: "," }}]}{%- endcapture -%}
+  {%- comment -%}
+    Label zoom: the zoom from which the map shows the city's name without
+    hovering. See docs/plans/2026-11-13-map-labels-design.md. Nights and trips
+    count published visits only; `label_zoom:` on the entry overrides.
+  {%- endcomment -%}
+  {%- assign ci_nights = 0 -%}
+  {%- for n in visit_nights -%}{%- assign ci_nights = ci_nights | plus: n -%}{%- endfor -%}
+  {%- if ci_nights >= 5 or visit_count >= 3 -%}
+    {%- assign ci_label_zoom = 4 -%}
+  {%- elsif ci_nights >= 2 or visit_count >= 2 -%}
+    {%- assign ci_label_zoom = 6 -%}
+  {%- elsif ci_nights >= 1 -%}
+    {%- assign ci_label_zoom = 8 -%}
+  {%- else -%}
+    {%- assign ci_label_zoom = 10 -%}
+  {%- endif -%}
+  {%- if entry[1].label_zoom != nil -%}{%- assign ci_label_zoom = entry[1].label_zoom -%}{%- endif -%}
+
+  {%- capture row -%}{"name":{{ entry[0] | jsonify }},"coords":{{ entry[1].coords | jsonify }},"cards":[{{ cards | join: "," }}],"labelZoom":{{ ci_label_zoom | jsonify }},"nights":{{ ci_nights | jsonify }},"trips":{{ visit_count | jsonify }}}{%- endcapture -%}
   {%- assign city_rows = city_rows | push: row -%}
 {%- endfor -%}
 {%- assign city_count = city_rows.size -%}

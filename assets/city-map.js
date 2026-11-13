@@ -9,10 +9,17 @@
   var byName = {};
   cities.forEach(function (c) { byName[c.name] = c; });
 
+  // Label placement order: earliest label zoom first, then more nights, then
+  // more trips, then name.
+  var rank = {};
+  cities.slice().sort(function (a, b) {
+    return a.labelZoom - b.labelZoom || b.nights - a.nights || b.trips - a.trips || a.name.localeCompare(b.name);
+  }).forEach(function (c, i) { rank[c.name] = i; });
+
   // Zoom further than the route map: towns a few kilometres apart can't
   // separate at zoom 6, and would be stuck inside a bubble.
   var atlas = window.createAtlas(el, cities.map(function (c) {
-    return { id: c.name, at: c.coords, label: c.name, title: c.name, name: c.name };
+    return { id: c.name, at: c.coords, label: c.name, title: c.name, name: c.name, labelZoom: c.labelZoom, rank: rank[c.name] };
   }), { onSelect: select, maxZoom: 12 });
 
   var panel = document.getElementById("city-card");
