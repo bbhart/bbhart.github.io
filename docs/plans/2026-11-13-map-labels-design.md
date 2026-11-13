@@ -26,9 +26,15 @@ need nothing. Day-trip-only entries aren't on the map and are unaffected.
 ## Rank
 
 Labels are placed in rank order: lower label zoom first, then more total
-nights, then more trips, then name. A label that would overlap an
-already-placed label, or a bubble, is hidden. Hover, keyboard focus and the
-selected pin show a label regardless.
+nights, then more trips, then name. A label is blocked where it would overlap
+an already-placed label, a bubble, or the dot of any other visible pin (the
+dot itself, not the larger touch target). A label blocked on its usual right
+side tries the mirror position on the left of its pin; if that is blocked too,
+it is hidden. The side is chosen afresh on every placement.
+
+Hover, keyboard focus and the selected pin show a label regardless. A pin
+without a permanent label shows it on the right, as before; a pin labelled on
+the left keeps its label there while hovered or selected, so it doesn't jump.
 
 ## Mechanics
 
@@ -36,9 +42,11 @@ selected pin show a label regardless.
   city.
 - `assets/map-base.js` accepts optional `labelZoom` and `rank` on items. After
   every regroup (zoomend), it resets permanent labels, then walks unbundled
-  pins in rank order, shows each eligible label, and keeps it only if its
-  rectangle doesn't intersect a kept label or a bubble.
-- A class on the marker turns the label on; same style as the hover label.
+  pins in rank order, and keeps each eligible label on the right, else on the
+  left, only where its rectangle doesn't intersect a kept label, a bubble or
+  another visible pin's dot.
+- A class on the marker turns the label on (`is-labelled`); same style as the
+  hover label. `is-labelled-left` mirrors it to the left of the pin.
 - The /trips/ map passes no `labelZoom`, so its behaviour is unchanged.
 
 ## Verification

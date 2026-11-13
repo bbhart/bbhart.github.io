@@ -64,9 +64,11 @@
     var pins = {};
     var active = null;
 
+    // labelled: false, "right" or "left" (see relabel()).
     function pinIcon(item, on, labelled) {
       return L.divIcon({
-        className: "trip-pin" + (on ? " is-active" : "") + (labelled ? " is-labelled" : ""),
+        className: "trip-pin" + (on ? " is-active" : "") + (labelled ? " is-labelled" : "") +
+          (labelled === "left" ? " is-labelled-left" : ""),
         html: '<span class="trip-pin__dot"></span><span class="trip-pin__label">' + item.label + "</span>",
         iconSize: [HIT, HIT],
         iconAnchor: [HIT / 2, HIT / 2]
@@ -161,16 +163,28 @@
     }
     // Permanent labels: from its labelZoom a pin shows its name without
     // hovering, unless the label would overlap a label placed before it (in
-    // rank order) or a bubble. Labels sit at fixed offsets from their pins, so
-    // panning keeps every overlap as it was and only zooming needs this.
+    // rank order), a bubble, or another pin's dot. A label blocked on the right
+    // tries the mirror position on the left of its pin. Labels sit at fixed
+    // offsets from their pins, so panning keeps every overlap as it was and
+    // only zooming needs this. p.labelled is false, "right" or "left".
     var labelled = items.filter(function (i) { return i.labelZoom != null; })
       .sort(function (a, b) { return (a.rank || 0) - (b.rank || 0); })
       .map(function (i) { return pins[i.id]; });
-    function labelRect(p) {
-      return p.marker.getElement().querySelector(".trip-pin__label").getBoundingClientRect();
-    }
     function overlaps(a, b) {
       return a.left < b.right && b.left < a.right && a.top < b.bottom && b.top < a.bottom;
+    }
+    // The label's rect on one side of its pin's dot. The left position mirrors
+    // the right one about the dot's centre (see .is-labelled-left in _home.scss),
+    // so both come from one measurement, whichever side the label is on now.
+    function labelRects(el, dot) {
+      var r = el.querySelector(".trip-pin__label").getBoundingClientRect();
+      var twice = dot.left + dot.right;
+      var other = { left: twice - r.right, right: twice - r.left, top: r.top, bottom: r.bottom };
+      return el.classList.contains("is-labelled-left") ? { right: other, left: r } : { right: r, left: other };
+    }
+    function setSide(el, side) {
+      el.classList.toggle("is-labelled", !!side);
+      el.classList.toggle("is-labelled-left", side === "left");
     }
     function relabel() {
       if (!labelled.length) return;
@@ -179,20 +193,31 @@
       // A hidden label is still laid out (opacity 0), so it can be measured.
       var taken = [];
       groups.eachLayer(function (g) { taken.push(g.getElement().getBoundingClientRect()); });
-      // The selected pin's label always shows: keep others clear of it.
-      if (active && pins[active] && map.hasLayer(pins[active].marker)) taken.push(labelRect(pins[active]));
-      var shown = labelled.map(function (p) {
-        if (!map.hasLayer(p.marker) || zoom < p.item.labelZoom) return false;
-        if (p.item.id === active) return true;
-        var r = labelRect(p);
+      var dots = {};
+      Object.keys(pins).forEach(function (id) {
+        if (map.hasLayer(pins[id].marker)) dots[id] = pins[id].marker.getElement().querySelector(".trip-pin__dot").getBoundingClientRect();
+      });
+      function clear(r, id) {
         if (taken.some(function (t) { return overlaps(r, t); })) return false;
-        taken.push(r);
-        return true;
+        return !Object.keys(dots).some(function (k) { return k !== id && overlaps(r, dots[k]); });
+      }
+      // The selected pin's label always shows, on the side it already has:
+      // keep others clear of it.
+      var act = active && pins[active] && dots[active] ? pins[active] : null;
+      if (act) taken.push(labelRects(act.marker.getElement(), dots[active])[act.labelled || "right"]);
+      var sides = labelled.map(function (p) {
+        var id = p.item.id;
+        if (!dots[id] || zoom < p.item.labelZoom) return false;
+        if (p === act) return p.labelled || "right";
+        var rects = labelRects(p.marker.getElement(), dots[id]);
+        var side = clear(rects.right, id) ? "right" : clear(rects.left, id) ? "left" : false;
+        if (side) taken.push(rects[side]);
+        return side;
       });
       labelled.forEach(function (p, i) {
-        p.labelled = shown[i];
+        p.labelled = sides[i];
         var el = p.marker.getElement();
-        if (el) el.classList.toggle("is-labelled", shown[i]);
+        if (el) setSide(el, sides[i]);
       });
     }
 
@@ -206,7 +231,8 @@
     if (document.fonts) document.fonts.ready.then(relabel);
 
     function setActive(id) {
-      // Keep is-labelled across the icon swap so a labelled pin doesn't blink.
+      // Keep the label and its side across the icon swap so a labelled pin
+      // doesn't blink or jump.
       if (active && pins[active]) pins[active].marker.setIcon(pinIcon(pins[active].item, false, pins[active].labelled));
       active = id;
       if (id && pins[id]) pins[id].marker.setIcon(pinIcon(pins[id].item, true, pins[id].labelled));
