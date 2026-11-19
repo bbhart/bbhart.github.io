@@ -2,10 +2,10 @@
 layout: post
 title: Iceland Visit 2024 Day 2
 subtitle: South coast of Iceland
-date:  2024-09-21
+date:  2024-08-17
 categories: travel iceland
 tags: [reykjavik, iceland]
-background: '/assets/20240817-iceland-vista.jpg'
+background: '/assets/20240817-south-coast-waterfall-bg.jpg'
 rollup_key: 2024icelandonland
 trip_day: 2
 day_type: rest_day
@@ -51,8 +51,6 @@ challenges:
   - Low on food at the Airbnb
   - Travel weariness after more than two weeks away, with the family craving home
 ---
-
-Documenting **August 17, 2024**.
 
 This is day two staying on the south coast of Iceland.
 

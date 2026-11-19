@@ -95,8 +95,6 @@ Iceland-Visit-2024-recap:
   year: 2024
   start: 2024-08-16
   end: 2024-08-19
-  # The day posts went up September 3-22, after the trip.
-  posted_until: 2024-09-22
   pin: [63.419, -19.006]
   stops:
     - [Reykjavik, 64.146, -21.942]

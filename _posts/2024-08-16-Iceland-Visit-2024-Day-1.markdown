@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Iceland Visit 2024 Day 1
-subtitle: South coast of Iceland
-date:  2024-09-03
+subtitle: Off the ship and down the south coast
+date:  2024-08-16
 categories: travel iceland
 tags: [reykjavik, iceland]
-background: '/assets/20240816-selja2.jpg'
+background: '/assets/20240816-seljalandsfoss-bg.jpg'
 rollup_key: 2024icelandonland
 redirect_from:
 - /travel/2024iceland/2024/09/03/Iceland-Visit-2024-Day-1.html
@@ -101,8 +101,6 @@ challenges:
 companions:
   - family (Sherri, Rowan, and the girls)
 ---
-
-Documenting **August 16, 2024**.
 
 The tl;dr for today is that we:
 - Disembarked from the ship

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T17:45:38Z",
+  "generated_at": "2026-11-19T18:06:17Z",
   "total_posts": 184,
   "trips": [
     {
@@ -4770,9 +4770,9 @@
       "posts": [
         {
           "title": "Iceland Visit 2024 Day 1",
-          "date": "2024-09-03 00:00:00 -0400",
+          "date": "2024-08-16 00:00:00 -0400",
           "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-1.html",
-          "subtitle": "South coast of Iceland",
+          "subtitle": "Off the ship and down the south coast",
           "categories": [
             "travel",
             "iceland"
@@ -4920,7 +4920,7 @@
         },
         {
           "title": "Iceland Visit 2024 Day 2",
-          "date": "2024-09-21 00:00:00 -0400",
+          "date": "2024-08-17 00:00:00 -0400",
           "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-2.html",
           "subtitle": "South coast of Iceland",
           "categories": [
@@ -4999,7 +4999,7 @@
         },
         {
           "title": "Iceland Visit 2024 Day 3",
-          "date": "2024-09-22 00:00:00 -0400",
+          "date": "2024-08-18 00:00:00 -0400",
           "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-3.html",
           "subtitle": "Old Charm Reykjavik",
           "categories": [
@@ -5109,7 +5109,7 @@
         },
         {
           "title": "Iceland Visit 2024 Day 4",
-          "date": "2024-09-22 00:00:00 -0400",
+          "date": "2024-08-19 00:00:00 -0400",
           "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-4.html",
           "subtitle": "17 days of travel come to an end",
           "categories": [
@@ -18383,44 +18383,10 @@
       ]
     },
     {
-      "title": "Our cruise voyage from New York to Iceland in 2024",
-      "date": "2024-08-31 00:00:00 -0400",
-      "url": "/travel/rollup/2024/Iceland-Cruise-2024-recap.html",
-      "subtitle": "A rugged, chilly vacation sailing from New York to Iceland via Canada and Greenland",
-      "categories": [
-        "travel",
-        "rollup"
-      ],
-      "tags": [],
-      "rollup_key": null,
-      "trip_type": "rollup",
-      "trip_duration": "August 4-16, 2024",
-      "trip_duration_days": 12,
-      "locations_visited": [
-        "Bayonne, New Jersey, USA",
-        "Halifax, Nova Scotia, Canada",
-        "St. John's, Newfoundland, Canada",
-        "Qaqortoq, Greenland",
-        "Akureyri, Iceland",
-        "Ísafjörður, Iceland",
-        "Reykjavik, Iceland"
-      ],
-      "countries_visited": [
-        "USA",
-        "Canada",
-        "Greenland",
-        "Iceland"
-      ],
-      "transport": [
-        "Celebrity Eclipse cruise ship (Bayonne, NJ to Reykjavik, Iceland)",
-        "flights (Raleigh-Durham to the New York area)"
-      ]
-    },
-    {
       "title": "Iceland Visit 2024 Day 1",
-      "date": "2024-09-03 00:00:00 -0400",
+      "date": "2024-08-16 00:00:00 -0400",
       "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-1.html",
-      "subtitle": "South coast of Iceland",
+      "subtitle": "Off the ship and down the south coast",
       "categories": [
         "travel",
         "iceland"
@@ -18568,7 +18534,7 @@
     },
     {
       "title": "Iceland Visit 2024 Day 2",
-      "date": "2024-09-21 00:00:00 -0400",
+      "date": "2024-08-17 00:00:00 -0400",
       "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-2.html",
       "subtitle": "South coast of Iceland",
       "categories": [
@@ -18647,7 +18613,7 @@
     },
     {
       "title": "Iceland Visit 2024 Day 3",
-      "date": "2024-09-22 00:00:00 -0400",
+      "date": "2024-08-18 00:00:00 -0400",
       "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-3.html",
       "subtitle": "Old Charm Reykjavik",
       "categories": [
@@ -18757,7 +18723,7 @@
     },
     {
       "title": "Iceland Visit 2024 Day 4",
-      "date": "2024-09-22 00:00:00 -0400",
+      "date": "2024-08-19 00:00:00 -0400",
       "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-4.html",
       "subtitle": "17 days of travel come to an end",
       "categories": [
@@ -18815,6 +18781,40 @@
         "family (Sherri, Rowan, and the girls)"
       ],
       "travel_sentiment": "Ready to be home after 17 days of travel, tired and still a little sick and homesick"
+    },
+    {
+      "title": "Our cruise voyage from New York to Iceland in 2024",
+      "date": "2024-08-31 00:00:00 -0400",
+      "url": "/travel/rollup/2024/Iceland-Cruise-2024-recap.html",
+      "subtitle": "A rugged, chilly vacation sailing from New York to Iceland via Canada and Greenland",
+      "categories": [
+        "travel",
+        "rollup"
+      ],
+      "tags": [],
+      "rollup_key": null,
+      "trip_type": "rollup",
+      "trip_duration": "August 4-16, 2024",
+      "trip_duration_days": 12,
+      "locations_visited": [
+        "Bayonne, New Jersey, USA",
+        "Halifax, Nova Scotia, Canada",
+        "St. John's, Newfoundland, Canada",
+        "Qaqortoq, Greenland",
+        "Akureyri, Iceland",
+        "Ísafjörður, Iceland",
+        "Reykjavik, Iceland"
+      ],
+      "countries_visited": [
+        "USA",
+        "Canada",
+        "Greenland",
+        "Iceland"
+      ],
+      "transport": [
+        "Celebrity Eclipse cruise ship (Bayonne, NJ to Reykjavik, Iceland)",
+        "flights (Raleigh-Durham to the New York area)"
+      ]
     },
     {
       "title": "Iceland post-cruise visit 2024",
