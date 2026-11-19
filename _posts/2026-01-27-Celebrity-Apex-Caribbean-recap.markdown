@@ -3,8 +3,9 @@ layout: post
 title: Celebrity Apex Caribbean in 2026
 subtitle: Puerto Plata, San Juan and St. Kitts aboard the Celebrity Apex, with a few extra days in Tampa
 date:  2026-01-27
-published: false
+published: true
 categories: travel rollup
+background: '/assets/20260121-timothy-hill-overlook-bg.jpg'
 destination: caribbean
 trip_type: cruise
 trip_duration: January 16 - January 26, 2026

@@ -3,10 +3,11 @@ layout: post
 title: Celebrity Apex Caribbean Day 6
 subtitle: A taxi tour around St. Kitts
 date:  2026-01-21
-published: false
+published: true
 categories: travel caribbean
 rollup_key: 2026apexcaribbean
 tags: [january2026]
+background: '/assets/20260121-brimstone-hill-citadel-bg.jpg'
 locations:
   - name: Basseterre
     type: port_city
@@ -53,7 +54,7 @@ _P.S. One big lesson learned from that trip: don't sign up for biking excursions
 
 ---
 
-Back to present day, we wanted to get out into the countryside, so I booked the [St. Kitts Good Time Tour](https://www.viator.com/tours/St-Kitts/Island-Tours-and-Transfers/d930-186665P1) with Shane through Viator. As you'll recall from two days ago in the DR, we booked and had a solid experience with Viator there, so I was a little less stressed about logistics going into this one.
+Back to present day, we wanted to get out into the countryside, so I booked the [St. Kitts Good Times Tour](https://www.viator.com/tours/St-Kitts/Island-Tours-and-Transfers/d930-186665P1) with Shane through Viator. As you'll recall from two days ago in the DR, we booked and had a solid experience with Viator there, so I was a little less stressed about logistics going into this one.
 
 For future readers thinking of visiting St. Kitts, I'd highly recommend this tour. Shane is a smart, funny, and engaging tour guide. His connections and our group size let us experience the island in a way you just can't get on a minibus excursion.
 

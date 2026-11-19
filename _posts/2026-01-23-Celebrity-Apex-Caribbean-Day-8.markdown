@@ -3,10 +3,11 @@ layout: post
 title: Celebrity Apex Caribbean Day 8
 subtitle: Last sea day
 date:  2026-01-23
-published: false
+published: true
 categories: travel caribbean
 rollup_key: 2026apexcaribbean
 tags: [january2026]
+background: '/assets/20261024-at-sea-apex-wake-bg.jpg'
 locations:
   - name: Atlantic Ocean
     type: ocean
@@ -24,5 +25,7 @@ companions:
 
 - **Start of day:** At sea
 - **End of day:** At sea
+
+Another sea day. I don't know what to say, so here's my daughter posing with some art.
 
 <img src="/assets/20260123-apex-art-portrait.jpg" alt="Brian's daughter in a white dress, holding a bundle of sweatshirts and her phone, standing beside a large framed painting on the ship of a woman's face partly hidden behind wavy peach-colored cutout stripes" width="100%" />

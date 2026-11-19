@@ -3,10 +3,11 @@ layout: post
 title: Celebrity Apex Caribbean Day 5
 subtitle: Walking the walls of Old San Juan, Puerto Rico
 date:  2026-01-20
-published: false
+published: true
 categories: travel caribbean
 rollup_key: 2026apexcaribbean
 tags: [january2026]
+background: '/assets/20260120-el-morro-sailaway-bg.jpg'
 locations:
   - name: San Juan
     type: port_city
@@ -16,6 +17,9 @@ accommodations:
     type: cruise_ship
     night: 4 of 7
 venues:
+  - name: Castillo San Felipe del Morro
+    type: fortress
+    location: San Juan National Historic Site
   - name: Paseo de la Princesa
     type: promenade
     location: Old San Juan
@@ -64,7 +68,7 @@ We then walked through town for a while before making our way back onto the ship
 
 Here's another shot of [Resilient Lady](https://www.virginvoyages.com/ships/resilient-lady), the same ship shown yesterday approaching Puerto Plata in the Dominican Republic. 
 
-<img src="/assets/20260120-san-juan-virgin-ship-dusk.jpg" alt="A Virgin Voyages ship docked at a San Juan pier beside a white-roofed terminal, seen from the deck of the Celebrity Apex at dusk under heavy clouds" width="100%" />
+<img src="/assets/20260120-san-juan-virgin-ship-dusk.jpg" alt="Virgin Voyages' Resilient Lady docked at a San Juan pier beside a white-roofed terminal, seen from the deck of the Celebrity Apex at dusk under heavy clouds" width="100%" />
 
 I always love the sailaway from San Juan passing the Castillo.
 <img src="/assets/20260120-el-morro-sailaway.jpg" alt="Castillo San Felipe del Morro seen from the Celebrity Apex at sailaway, the fort and its lighthouse catching warm evening light on a green headland above a rocky shore, with calm grey water in the foreground and pale clouds over the Atlantic" width="100%" />

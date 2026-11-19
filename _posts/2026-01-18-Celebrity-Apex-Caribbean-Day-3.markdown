@@ -3,10 +3,11 @@ layout: post
 title: Celebrity Apex Caribbean Day 3
 subtitle: Sea day
 date:  2026-01-18
-published: false
+published: true
 categories: travel caribbean
 rollup_key: 2026apexcaribbean
 tags: [january2026]
+background: '/assets/20261024-at-sea-apex-wake-bg.jpg'
 locations:
   - name: Atlantic Ocean
     type: ocean

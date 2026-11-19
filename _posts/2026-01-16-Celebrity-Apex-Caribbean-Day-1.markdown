@@ -3,10 +3,11 @@ layout: post
 title: Celebrity Apex Caribbean Day 1
 subtitle: Driving down I-95 to Yulee
 date:  2026-01-16
-published: false
+published: true
 categories: travel caribbean
 rollup_key: 2026apexcaribbean
 tags: [january2026]
+background: '/assets/20260116-florence-bucees-parking-lot-bg.jpg'
 locations:
   - name: Holly Springs
     type: town
@@ -27,6 +28,15 @@ transport:
   - type: car
     route: Holly Springs, NC → Yulee, FL
     notes: I-95 south, with a Buc-ee's stop in Florence, SC
+dining:
+  - venue: Buc-ee's
+    meal: lunch
+    location: Florence, SC
+    dishes: Chopped brisket sandwich
+  - venue: Anejo Mexican Restaurant
+    meal: dinner
+    location: Yulee, FL
+    dishes: Taco salad
 trip_stage: pre-cruise
 companions:
   - wife
@@ -37,7 +47,7 @@ companions:
 - **Start of day:** Home in North Carolina
 - **End of day:** Yulee, Florida
 
-**Surprise cruise!** Through a lot of luck, a gap in the kids' school schedule was created due to them not having to take exams for their classes. We realized we'd have more than a week of time out of school. Naturally, we started looking for cruises and found a great last minute deal. 
+**Surprise cruise!** Through a lot of luck, a gap in the kids' school schedule was created due to them not having to take exams for their classes. We realized we'd have more than a week of time out of school. Naturally, we started looking for cruises and found a great last-minute deal. 
 
 We had to leave the next day in order to make it down to Florida in time _and_ we were too late to fly without taking out a second mortgage, so we hit I-95.
 
@@ -53,6 +63,6 @@ Then another charging stop... somewhere...
 
 We stayed the night at the [Best Western Plus First Coast Inn & Suites in Yulee](https://www.bestwestern.com/en-us/book/rooms/10395), in two rooms divided between the boys and the girls. This hotel was a great value: clean, friendly front desk staff, and a decent breakfast in the morning. 
 
-The others weren't hungry for a dinner so I hit the [Anejo Mexican Restaurant](https://anejococinamexicana.com/) restaurant just up the street for some taco salad action, which was fine. This shopping plaza has a Tesla Supercharger around back, too, so I used the opportunity to give the car a big charge. 
+The others weren't hungry for a dinner so I hit [Anejo Mexican Restaurant](https://anejococinamexicana.com/) just up the street for some taco salad action, which was fine. This shopping plaza has a Tesla Supercharger around back, too, so I used the opportunity to give the car a big charge. 
 
 <img src="/assets/20260116-yulee-taco-salad.jpg" alt="A taco salad in a fried tortilla bowl, filled with seasoned ground beef, lettuce, pico de gallo, avocado, a dollop of sour cream and shredded cheese, on a speckled plate at a bar, with a bowl of red salsa, a basket of tortilla chips, a Cuervo bar mat and a backlit cooler of drinks behind" width="100%" />

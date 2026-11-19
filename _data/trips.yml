@@ -158,17 +158,14 @@ Celebrity-Apex-Caribbean-recap:
   year: 2026
   start: 2026-01-16
   end: 2026-01-26
-  # Uncomment on publish day. Left commented while the posts are unpublished:
-  # the /trips/ page counts stop names from every entry here, so live stops
-  # would change the production "places" count before the trip is public.
-  # pin: [18.466, -66.106]
-  # stops:
-  #   - [Yulee, 30.632, -81.606, 1]
-  #   - [Port Canaveral, 28.410, -80.618]
-  #   - [Puerto Plata, 19.793, -70.689]
-  #   - [San Juan, 18.466, -66.106]
-  #   - [Basseterre, 17.296, -62.725]
-  #   - [Tampa, 27.932, -82.493, 2]
+  pin: [18.466, -66.106]
+  stops:
+    - [Yulee, 30.632, -81.606, 1]
+    - [Port Canaveral, 28.410, -80.618]
+    - [Puerto Plata, 19.793, -70.689]
+    - [San Juan, 18.466, -66.106]
+    - [Basseterre, 17.296, -62.725]
+    - [Tampa, 27.932, -82.493, 2]
 
 Rome-and-Silversea-recap:
   rollup_key: 2026romesilversea
