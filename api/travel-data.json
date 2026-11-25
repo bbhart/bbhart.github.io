@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:33:24Z",
+  "generated_at": "2026-11-25T23:49:21Z",
   "total_posts": 184,
   "trips": [
     {
@@ -678,6 +678,11 @@
               "name": "Airbnb apartment",
               "location": "Dubai, United Arab Emirates",
               "type": "accommodation"
+            },
+            {
+              "name": "The Leela Palace Bengaluru",
+              "location": "Bengaluru, India",
+              "type": "hotel"
             }
           ],
           "transport": [
@@ -724,18 +729,24 @@
         {
           "title": "Leaving India",
           "date": "2019-01-26 21:49:14 -0500",
-          "url": "/2019/@bbhart_ca-jan-26-2019-367672cb4a50.html",
+          "url": "/travel/india/2019/@bbhart_ca-jan-26-2019-367672cb4a50.html",
           "subtitle": "Sick for the last few days, and some candid feedback overheard at the airport",
-          "categories": [],
+          "categories": [
+            "travel",
+            "india"
+          ],
           "tags": [],
           "rollup_key": "2019india"
         },
         {
           "title": "End of third trip to India",
           "date": "2019-01-28 21:10:16 -0500",
-          "url": "/2019/@bbhart_ca-jan-28-2019-aef1f258765f.html",
+          "url": "/travel/india/2019/@bbhart_ca-jan-28-2019-aef1f258765f.html",
           "subtitle": "Jet lag and mental fog",
-          "categories": [],
+          "categories": [
+            "travel",
+            "india"
+          ],
           "tags": [],
           "rollup_key": "2019india"
         }
@@ -767,8 +778,9 @@
             "Laugarvatn area"
           ],
           "accommodation": {
-            "name": "Private Cottage",
+            "name": "Birna's Cottage",
             "location": "Near Laugarvatn",
+            "nights": 3,
             "amenities": [
               "geothermal hot tub",
               "sauna",
@@ -817,8 +829,7 @@
             "No jetway arrival at KEF",
             "Neverending summer sunlight",
             "Forgot CPAP hose"
-          ],
-          "weather": "Not specified"
+          ]
         },
         {
           "title": "Iceland 2023 Day 2",
@@ -840,7 +851,7 @@
               "name": "Geysir",
               "country": "Iceland",
               "type": "Geothermal area",
-              "notes": "Active geysers, main geyser erupts every 10-15 minutes",
+              "notes": "Active geysers, Strokkur geyser erupts every 10-15 minutes",
               "visited": true,
               "url": "https://www.south.is/en/place/geysir-geothermal-area"
             },
@@ -850,7 +861,7 @@
               "type": "Waterfall",
               "notes": "Glacial river waterfall, access road 600m from cottage",
               "visited": true,
-              "url": "https://www.earthtrekkers.com/how-to-visit-bruarfoss-waterfall/"
+              "url": "https://www.south.is/en/place/bruara"
             },
             {
               "name": "Laugarvatn",
@@ -933,7 +944,7 @@
             },
             {
               "type": "Equipment",
-              "description": "Missing CPAP headgear",
+              "description": "Missing CPAP hose",
               "impact": "Sleep apnea issues compounded by jet lag",
               "attempted_solution": "Contacted pharmacies without success"
             },
@@ -1013,7 +1024,7 @@
               "type": "sightseeing",
               "name": "Gullfoss visit",
               "location": "Gullfoss",
-              "time": "Around 6:30pm",
+              "time": "Evening",
               "notes": "No photo or video can capture the spectacle"
             },
             {
@@ -1150,7 +1161,7 @@
               "region": "West Iceland",
               "type": "natural-attraction",
               "notes": "Just a few minutes from Húsafell",
-              "url": "https://guidetoiceland.is/travel-iceland/drive/hraunfossar"
+              "url": "https://www.ust.is/english/visiting-iceland/protected-areas/west/hraunfossar-borgarbyggd"
             },
             {
               "name": "Húsafell Hotel Bistro",
@@ -1229,7 +1240,7 @@
               "name": "Húsafell Hotel Bistro",
               "location": "Húsafell",
               "meal": "Lunch",
-              "time": "~1:00pm",
+              "time": "~2:00pm",
               "food": "Split meat lovers pizza, tempura shrimp",
               "cost_category": "moderate",
               "notes": "3 of us split pizza, Siena had shrimp"
@@ -1295,7 +1306,7 @@
               ],
               "notes": "Hot spring area, next to Krauma",
               "visited": true,
-              "url": "https://guidetoiceland.is/travel-iceland/drive/deildartunguhver"
+              "url": "https://www.west.is/en/place/deildartunguhver-thermal-spring"
             },
             {
               "name": "Reykholt",
@@ -1445,7 +1456,7 @@
             "type": "lodging"
           },
           "end_location": {
-            "name": "Old Reykjavik Charm",
+            "name": "Old Charm Reykjavik",
             "type": "lodging",
             "city": "Reykjavik",
             "alternate_name": "Old Charm Reykjavik",
@@ -1462,6 +1473,17 @@
             }
           ],
           "days_at_location": 1,
+          "accommodation": [
+            {
+              "name": "Old Charm Reykjavik",
+              "location": "Reykjavik, Iceland",
+              "type": "apartment",
+              "nights": 2,
+              "checkin": true,
+              "checkout": false,
+              "url": "https://oldreykjavik.is/"
+            }
+          ],
           "venues": [
             {
               "name": "Tesla Supercharger",
@@ -1529,8 +1551,8 @@
           ],
           "rollup_key": "2023iceland",
           "trip_day": 8,
-          "start_location": "Old Reykjavik Charm, Reykjavik",
-          "end_location": "Old Reykjavik Charm, Reykjavik",
+          "start_location": "Old Charm Reykjavik, Reykjavik",
+          "end_location": "Old Charm Reykjavik, Reykjavik",
           "locations": [
             {
               "name": "Reykjavik",
@@ -1543,7 +1565,7 @@
               "country": "Iceland",
               "type": "landmark",
               "visited": true,
-              "url": "https://guidetoiceland.is/travel-iceland/drive/sun-voyager"
+              "url": "https://en.wikipedia.org/wiki/S%C3%B3lfar"
             },
             {
               "name": "Icelandic Punk Museum",
@@ -1563,7 +1585,7 @@
           "days_at_location": 2,
           "accommodation": [
             {
-              "name": "Old Reykjavik Charm",
+              "name": "Old Charm Reykjavik",
               "location": "Reykjavik, Iceland",
               "type": "apartment",
               "nights": 2,
@@ -1611,7 +1633,7 @@
               "name": "Punk Museum visit",
               "location": "Icelandic Punk Museum",
               "date": "2023-06-18",
-              "notes": "Near Prime Minister's house"
+              "notes": "Near Prime Minister's office"
             },
             {
               "type": "cultural",
@@ -1669,7 +1691,7 @@
             },
             {
               "name": "Home cooking",
-              "location": "Old Reykjavik Charm",
+              "location": "Old Charm Reykjavik",
               "meal": "Dinner (Brian's meal)",
               "date": "2023-06-18",
               "food": "Ham sandwiches",
@@ -1718,7 +1740,7 @@
           ],
           "rollup_key": "2023iceland",
           "trip_day": 9,
-          "start_location": "Old Reykjavik Charm, Reykjavik",
+          "start_location": "Old Charm Reykjavik, Reykjavik",
           "end_location": "Home, United States",
           "locations": [
             {
@@ -1741,7 +1763,7 @@
           "days_at_location": 0,
           "accommodation": [
             {
-              "name": "Old Reykjavik Charm",
+              "name": "Old Charm Reykjavik",
               "location": "Reykjavik, Iceland",
               "type": "apartment",
               "nights": 2,
@@ -1755,7 +1777,7 @@
               "name": "KEF check-in area",
               "type": "airport-facility",
               "notes": "Self-service machines for boarding passes and bag tags, minimal staff presence",
-              "tips": "Arrive early if more than 3 hours before flight as check-in may be locked"
+              "tips": "Check-in may be locked if you arrive more than 3 hours before your flight"
             },
             {
               "name": "KEF luggage tag machines",
@@ -1789,7 +1811,7 @@
           "transport": [
             {
               "type": "private-car",
-              "route": "Old Reykjavik Charm to KEF",
+              "route": "Old Charm Reykjavik to KEF",
               "pickup": "11:00am",
               "arrival": "11:45am",
               "duration": "45 minutes",
@@ -1845,10 +1867,7 @@
               "type": "airport-experience",
               "description": "Overcrowded D Terminal with limited seating"
             }
-          ],
-          "weather": {
-            "conditions": "departure day"
-          }
+          ]
         }
       ]
     },
@@ -13307,7 +13326,7 @@
     "{\"type\"=>\"cultural\", \"name\"=>\"Bookstore visit\", \"location\"=>\"Hús máls og menningar\", \"date\"=>#<Date: 2023-06-18 ((2460114j,0s,0n),+0s,2299161j)>, \"participants\"=>\"Brian and Siena\", \"notes\"=>\"Iconic bookstore with bar and live music venue\"}",
     "{\"type\"=>\"cultural\", \"name\"=>\"Neuschwanstein Castle guided tour\", \"location\"=>\"Neuschwanstein Castle\", \"time\"=>\"5:50pm\", \"url\"=>\"https://www.fuessen.de/en/culture/castles-museums/\", \"notes\"=>\"No photography allowed inside, tickets must be purchased in advance\"}",
     "{\"type\"=>\"cultural\", \"name\"=>\"Old stone house and cemetery exploration\", \"location\"=>\"Reykholt\", \"date\"=>#<Date: 2023-06-16 ((2460112j,0s,0n),+0s,2299161j)>, \"time\"=>\"afternoon\", \"features\"=>[\"church-tower\", \"historic-buildings\", \"cemetery\", \"informational-signs\"]}",
-    "{\"type\"=>\"cultural\", \"name\"=>\"Punk Museum visit\", \"location\"=>\"Icelandic Punk Museum\", \"date\"=>#<Date: 2023-06-18 ((2460114j,0s,0n),+0s,2299161j)>, \"notes\"=>\"Near Prime Minister's house\"}",
+    "{\"type\"=>\"cultural\", \"name\"=>\"Punk Museum visit\", \"location\"=>\"Icelandic Punk Museum\", \"date\"=>#<Date: 2023-06-18 ((2460114j,0s,0n),+0s,2299161j)>, \"notes\"=>\"Near Prime Minister's office\"}",
     "{\"type\"=>\"cultural\", \"name\"=>\"Rainbow street viewing\", \"location\"=>\"Reykjavik rainbow road\", \"date\"=>#<Date: 2023-06-18 ((2460114j,0s,0n),+0s,2299161j)>, \"notes\"=>\"Iconic rainbow-painted street\"}",
     "{\"type\"=>\"cultural\", \"name\"=>\"Swiss National Day celebrations\", \"location\"=>\"Zermatt\", \"date\"=>#<Date: 2025-08-01 ((2460889j,0s,0n),+0s,2299161j)>}",
     "{\"type\"=>\"dining\", \"description\"=>\"Meals at Marché Burette and Falcon's Nest restaurants\", \"location\"=>\"Omni Amelia Island Resort\"}",
@@ -13339,7 +13358,7 @@
     "{\"type\"=>\"sightseeing\", \"name\"=>\"Exploring Garmisch town center\", \"location\"=>\"Garmisch-Partenkirchen\"}",
     "{\"type\"=>\"sightseeing\", \"name\"=>\"Geysir visit\", \"location\"=>\"Geysir\", \"time_of_day\"=>\"midday\", \"notes\"=>\"Busy tourist area, visitors center, main geyser viewing\"}",
     "{\"type\"=>\"sightseeing\", \"name\"=>\"Gornergrat visit\", \"location\"=>\"Gornergrat\", \"url\"=>\"https://zermatt.swiss/en/p/riffelalp-trail-nr-20-01tVj000005EwXaIAK\"}",
-    "{\"type\"=>\"sightseeing\", \"name\"=>\"Gullfoss visit\", \"location\"=>\"Gullfoss\", \"time\"=>\"Around 6:30pm\", \"notes\"=>\"No photo or video can capture the spectacle\"}",
+    "{\"type\"=>\"sightseeing\", \"name\"=>\"Gullfoss visit\", \"location\"=>\"Gullfoss\", \"time\"=>\"Evening\", \"notes\"=>\"No photo or video can capture the spectacle\"}",
     "{\"type\"=>\"sightseeing\", \"name\"=>\"Lake Constance visit\", \"location\"=>\"Bregenz, Austria\"}",
     "{\"type\"=>\"sightseeing\", \"name\"=>\"Photo walk\", \"location\"=>\"Zermatt\"}",
     "{\"type\"=>\"sightseeing\", \"name\"=>\"Scenic train ride\", \"location\"=>\"Pflach to Garmisch-Partenkirchen\", \"duration\"=>\"1h 15m\", \"notes\"=>\"One of the most beautiful train rides, comparable to Goldenpass Express\"}",
@@ -14069,6 +14088,11 @@
           "name": "Airbnb apartment",
           "location": "Dubai, United Arab Emirates",
           "type": "accommodation"
+        },
+        {
+          "name": "The Leela Palace Bengaluru",
+          "location": "Bengaluru, India",
+          "type": "hotel"
         }
       ],
       "transport": [
@@ -14115,18 +14139,24 @@
     {
       "title": "Leaving India",
       "date": "2019-01-26 21:49:14 -0500",
-      "url": "/2019/@bbhart_ca-jan-26-2019-367672cb4a50.html",
+      "url": "/travel/india/2019/@bbhart_ca-jan-26-2019-367672cb4a50.html",
       "subtitle": "Sick for the last few days, and some candid feedback overheard at the airport",
-      "categories": [],
+      "categories": [
+        "travel",
+        "india"
+      ],
       "tags": [],
       "rollup_key": "2019india"
     },
     {
       "title": "End of third trip to India",
       "date": "2019-01-28 21:10:16 -0500",
-      "url": "/2019/@bbhart_ca-jan-28-2019-aef1f258765f.html",
+      "url": "/travel/india/2019/@bbhart_ca-jan-28-2019-aef1f258765f.html",
       "subtitle": "Jet lag and mental fog",
-      "categories": [],
+      "categories": [
+        "travel",
+        "india"
+      ],
       "tags": [],
       "rollup_key": "2019india"
     },
@@ -14361,8 +14391,9 @@
         "Laugarvatn area"
       ],
       "accommodation": {
-        "name": "Private Cottage",
+        "name": "Birna's Cottage",
         "location": "Near Laugarvatn",
+        "nights": 3,
         "amenities": [
           "geothermal hot tub",
           "sauna",
@@ -14411,8 +14442,7 @@
         "No jetway arrival at KEF",
         "Neverending summer sunlight",
         "Forgot CPAP hose"
-      ],
-      "weather": "Not specified"
+      ]
     },
     {
       "title": "Iceland 2023 Day 2",
@@ -14434,7 +14464,7 @@
           "name": "Geysir",
           "country": "Iceland",
           "type": "Geothermal area",
-          "notes": "Active geysers, main geyser erupts every 10-15 minutes",
+          "notes": "Active geysers, Strokkur geyser erupts every 10-15 minutes",
           "visited": true,
           "url": "https://www.south.is/en/place/geysir-geothermal-area"
         },
@@ -14444,7 +14474,7 @@
           "type": "Waterfall",
           "notes": "Glacial river waterfall, access road 600m from cottage",
           "visited": true,
-          "url": "https://www.earthtrekkers.com/how-to-visit-bruarfoss-waterfall/"
+          "url": "https://www.south.is/en/place/bruara"
         },
         {
           "name": "Laugarvatn",
@@ -14527,7 +14557,7 @@
         },
         {
           "type": "Equipment",
-          "description": "Missing CPAP headgear",
+          "description": "Missing CPAP hose",
           "impact": "Sleep apnea issues compounded by jet lag",
           "attempted_solution": "Contacted pharmacies without success"
         },
@@ -14607,7 +14637,7 @@
           "type": "sightseeing",
           "name": "Gullfoss visit",
           "location": "Gullfoss",
-          "time": "Around 6:30pm",
+          "time": "Evening",
           "notes": "No photo or video can capture the spectacle"
         },
         {
@@ -14744,7 +14774,7 @@
           "region": "West Iceland",
           "type": "natural-attraction",
           "notes": "Just a few minutes from Húsafell",
-          "url": "https://guidetoiceland.is/travel-iceland/drive/hraunfossar"
+          "url": "https://www.ust.is/english/visiting-iceland/protected-areas/west/hraunfossar-borgarbyggd"
         },
         {
           "name": "Húsafell Hotel Bistro",
@@ -14823,7 +14853,7 @@
           "name": "Húsafell Hotel Bistro",
           "location": "Húsafell",
           "meal": "Lunch",
-          "time": "~1:00pm",
+          "time": "~2:00pm",
           "food": "Split meat lovers pizza, tempura shrimp",
           "cost_category": "moderate",
           "notes": "3 of us split pizza, Siena had shrimp"
@@ -14889,7 +14919,7 @@
           ],
           "notes": "Hot spring area, next to Krauma",
           "visited": true,
-          "url": "https://guidetoiceland.is/travel-iceland/drive/deildartunguhver"
+          "url": "https://www.west.is/en/place/deildartunguhver-thermal-spring"
         },
         {
           "name": "Reykholt",
@@ -15039,7 +15069,7 @@
         "type": "lodging"
       },
       "end_location": {
-        "name": "Old Reykjavik Charm",
+        "name": "Old Charm Reykjavik",
         "type": "lodging",
         "city": "Reykjavik",
         "alternate_name": "Old Charm Reykjavik",
@@ -15056,6 +15086,17 @@
         }
       ],
       "days_at_location": 1,
+      "accommodation": [
+        {
+          "name": "Old Charm Reykjavik",
+          "location": "Reykjavik, Iceland",
+          "type": "apartment",
+          "nights": 2,
+          "checkin": true,
+          "checkout": false,
+          "url": "https://oldreykjavik.is/"
+        }
+      ],
       "venues": [
         {
           "name": "Tesla Supercharger",
@@ -15123,8 +15164,8 @@
       ],
       "rollup_key": "2023iceland",
       "trip_day": 8,
-      "start_location": "Old Reykjavik Charm, Reykjavik",
-      "end_location": "Old Reykjavik Charm, Reykjavik",
+      "start_location": "Old Charm Reykjavik, Reykjavik",
+      "end_location": "Old Charm Reykjavik, Reykjavik",
       "locations": [
         {
           "name": "Reykjavik",
@@ -15137,7 +15178,7 @@
           "country": "Iceland",
           "type": "landmark",
           "visited": true,
-          "url": "https://guidetoiceland.is/travel-iceland/drive/sun-voyager"
+          "url": "https://en.wikipedia.org/wiki/S%C3%B3lfar"
         },
         {
           "name": "Icelandic Punk Museum",
@@ -15157,7 +15198,7 @@
       "days_at_location": 2,
       "accommodation": [
         {
-          "name": "Old Reykjavik Charm",
+          "name": "Old Charm Reykjavik",
           "location": "Reykjavik, Iceland",
           "type": "apartment",
           "nights": 2,
@@ -15205,7 +15246,7 @@
           "name": "Punk Museum visit",
           "location": "Icelandic Punk Museum",
           "date": "2023-06-18",
-          "notes": "Near Prime Minister's house"
+          "notes": "Near Prime Minister's office"
         },
         {
           "type": "cultural",
@@ -15263,7 +15304,7 @@
         },
         {
           "name": "Home cooking",
-          "location": "Old Reykjavik Charm",
+          "location": "Old Charm Reykjavik",
           "meal": "Dinner (Brian's meal)",
           "date": "2023-06-18",
           "food": "Ham sandwiches",
@@ -15312,7 +15353,7 @@
       ],
       "rollup_key": "2023iceland",
       "trip_day": 9,
-      "start_location": "Old Reykjavik Charm, Reykjavik",
+      "start_location": "Old Charm Reykjavik, Reykjavik",
       "end_location": "Home, United States",
       "locations": [
         {
@@ -15335,7 +15376,7 @@
       "days_at_location": 0,
       "accommodation": [
         {
-          "name": "Old Reykjavik Charm",
+          "name": "Old Charm Reykjavik",
           "location": "Reykjavik, Iceland",
           "type": "apartment",
           "nights": 2,
@@ -15349,7 +15390,7 @@
           "name": "KEF check-in area",
           "type": "airport-facility",
           "notes": "Self-service machines for boarding passes and bag tags, minimal staff presence",
-          "tips": "Arrive early if more than 3 hours before flight as check-in may be locked"
+          "tips": "Check-in may be locked if you arrive more than 3 hours before your flight"
         },
         {
           "name": "KEF luggage tag machines",
@@ -15383,7 +15424,7 @@
       "transport": [
         {
           "type": "private-car",
-          "route": "Old Reykjavik Charm to KEF",
+          "route": "Old Charm Reykjavik to KEF",
           "pickup": "11:00am",
           "arrival": "11:45am",
           "duration": "45 minutes",
@@ -15439,14 +15480,11 @@
           "type": "airport-experience",
           "description": "Overcrowded D Terminal with limited seating"
         }
-      ],
-      "weather": {
-        "conditions": "departure day"
-      }
+      ]
     },
     {
       "title": "Iceland 2023 - our first family trip to Iceland",
-      "date": "2023-06-30 00:00:00 -0400",
+      "date": "2023-06-20 00:00:00 -0400",
       "url": "/travel/rollup/2023/Iceland-trip-2023-recap.html",
       "subtitle": "Our first trip to Iceland and the kids' first real trip to Europe",
       "categories": [

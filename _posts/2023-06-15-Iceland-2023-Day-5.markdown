@@ -25,7 +25,7 @@ locations:
     region: West Iceland
     type: natural-attraction
     notes: Just a few minutes from Húsafell
-    url: https://guidetoiceland.is/travel-iceland/drive/hraunfossar
+    url: https://www.ust.is/english/visiting-iceland/protected-areas/west/hraunfossar-borgarbyggd
   - name: Húsafell Hotel Bistro
     country: Iceland
     region: West Iceland
@@ -74,7 +74,7 @@ dining:
   - name: Húsafell Hotel Bistro
     location: Húsafell
     meal: Lunch
-    time: ~1:00pm
+    time: ~2:00pm
     food: Split meat lovers pizza, tempura shrimp
     cost_category: moderate
     notes: 3 of us split pizza, Siena had shrimp
@@ -102,7 +102,7 @@ Good morning from the Húsafell cottage.
 
 ## Lava tube adventure
 
-We left for the lava tube around 12:10. Amazing cave tour! Lots of photos. Rowan liked it especially.
+We left for the [Víðgelmir lava tube](https://thecave.is/) around 12:10. Amazing cave tour! Lots of photos. Rowan liked it especially.
 
 <img src="/assets/20230615-husafell-lava-field.jpg" width="100%" alt="Person standing on ancient lava field with dramatic rock formations under partly cloudy sky near Húsafell">
 
@@ -119,21 +119,21 @@ We left for the lava tube around 12:10. Amazing cave tour! Lots of photos. Rowan
 <img src="/assets/20230615-vidgelmir-tour-group.jpg" width="100%" alt="Large tour group wearing helmets gathered outside Víðgelmir cave tour building before descent">
 
 
-After lava tube we came over to the Hùsafell Hotel bistro place -- 3 of us split a meat lovers pizza and Siena had tempura shrimp. 
+After lava tube we came over to the [Húsafell Hotel bistro](https://www.husafell.com/dining) place -- 3 of us split a meat lovers pizza and Siena had tempura shrimp. 
 
 <img src="/assets/20230615-husafell-pizza-menu.jpg" width="100%" alt="Húsafell Hotel Bistro pizza menu featuring Bistro Húsafell Pizza branding with various pizza options">
 
 <img src="/assets/20230615-husafell-restaurant-dining.jpg" width="100%" alt="Interior of Húsafell Hotel Bistro dining room with wooden tables, black chairs, and large windows">
 
-We relaxed back at the cottage for awhile, and set out to try to find some hiking trails which were supposed to start on property.
+We relaxed back at the cottage for a while, and set out to try to find some hiking trails which were supposed to start on property.
 
 ## The trails that couldn't be found
 
-There are elaborate hiking trail maps but we couldn't find any of them. We really tried. They have printed maps, we asked a staff members, we scoped it out with the car. We could. Not. Find. Them. 
+There are [elaborate hiking trail maps](https://www.husafell.com/activities/hiking) but we couldn't find any of them. We really tried. They have printed maps, we asked a staff member, we scoped it out with the car. We could. Not. Find. Them. 
 
 <img src="/assets/20230615-husafell-sign.jpg" width="100%" alt="Person reading Húsafell information sign along scenic path with mountains in background">
 
-We bailed on that, grabbed the car, and headed to [Hraunfossar Waterfall](https://guidetoiceland.is/travel-iceland/drive/hraunfossar), which is just a few minutes away. 
+We bailed on that, grabbed the car, and headed to [Hraunfossar Waterfall](https://www.ust.is/english/visiting-iceland/protected-areas/west/hraunfossar-borgarbyggd), which is just a few minutes away. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YUWquYAT2k0?si=iBFF_z4Ue-1JyO_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

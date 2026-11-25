@@ -22,7 +22,7 @@ locations:
   - name: Geysir
     country: Iceland
     type: Geothermal area
-    notes: Active geysers, main geyser erupts every 10-15 minutes
+    notes: Active geysers, Strokkur geyser erupts every 10-15 minutes
     visited: true
     url: https://www.south.is/en/place/geysir-geothermal-area
   - name: Brúarfoss
@@ -30,7 +30,7 @@ locations:
     type: Waterfall
     notes: Glacial river waterfall, access road 600m from cottage
     visited: true
-    url: https://www.earthtrekkers.com/how-to-visit-bruarfoss-waterfall/
+    url: https://www.south.is/en/place/bruara
   - name: Laugarvatn
     country: Iceland
     type: Town
@@ -84,7 +84,7 @@ challenges:
     duration: All day until 9pm
     treatment: Ibuprofen (insufficient)
   - type: Equipment
-    description: Missing CPAP headgear
+    description: Missing CPAP hose
     impact: Sleep apnea issues compounded by jet lag
     attempted_solution: Contacted pharmacies without success
   - type: Navigation
@@ -120,7 +120,7 @@ Here's our shower. There is no shower indoors at this rental. This ends up not b
 
 ## Attempting to find Brúarfoss
 
-We set out mid-day to try to find [Brúarfoss](https://www.earthtrekkers.com/how-to-visit-bruarfoss-waterfall/) but couldn't find where you turn in, so went to [Geysir](https://www.south.is/en/place/geysir-geothermal-area) instead. We found a good charger there and managed to get the Tesla up to 98% charge, which should eliminate range anxiety for a few days. The visitors center was busy and touristy (and smelled like fish). We walked around the geysirs area -- there's one 'main' one where everyone stands around videoing themselves for 10-15 minutes until it finally goes off, plus a few smaller ones that don't 'geysir'. There's a hike up a hill here that might be worth trying but we weren't equipped for it… I had my 'hangover' and one of the kids wasn't into it.
+We set out mid-day to try to find [Brúarfoss](https://www.south.is/en/place/bruara) but couldn't find where you turn in, so went to [Geysir](https://www.south.is/en/place/geysir-geothermal-area) instead. We found a good charger there and managed to get the Tesla up to 98% charge, which should eliminate range anxiety for a few days. The visitors center was busy and touristy (and smelled like fish). We walked around the geysirs area -- there's one 'main' one where everyone stands around videoing themselves for 10-15 minutes until it finally goes off, plus a few smaller ones that don't 'geysir'. There's a hike up a hill here that might be worth trying but we weren't equipped for it… I had my 'hangover' and one of the kids wasn't into it.
 
 <img src="/assets/20230612-geyser-crowds.jpg" alt="Crowds of tourists gathered around Geysir watching the active geyser erupt with steam" width="100%">
 
@@ -145,7 +145,7 @@ The kids bounced some after dinner...
 
 ... then we came back to the cottage. 
 
-As I mentioned yesterday, I forgot a critical piece for my CPAP machine. First time for everything, I suppose, I just wish it wasn't when traveling internationally for two weeks. I tried to reach out to several pharmacies but I'll make a long story short and say I didn't have any luck. Let's throw obstructive sleep apnea on top of jet lag and endless days where the sun never sets! 
+As I [mentioned yesterday]({% post_url 2023-06-11-Iceland-2023-Day-1 %}), I forgot a critical piece for my CPAP machine. First time for everything, I suppose, I just wish it wasn't when traveling internationally for over a week. I tried to reach out to several pharmacies but I'll make a long story short and say I didn't have any luck. Let's throw obstructive sleep apnea on top of jet lag and endless days where the sun never sets! 
 
 Oh, and we figured out why the rental Tesla's trunk was having problems closing. Quite the genius design by Tesla. 
 

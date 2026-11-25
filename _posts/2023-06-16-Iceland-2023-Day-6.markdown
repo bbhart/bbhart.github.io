@@ -37,7 +37,7 @@ locations:
     coordinates: [64.663, -21.393]
     notes: Hot spring area, next to Krauma
     visited: true
-    url: https://guidetoiceland.is/travel-iceland/drive/deildartunguhver
+    url: https://www.west.is/en/place/deildartunguhver-thermal-spring
   - name: Reykholt
     country: Iceland
     region: West Iceland
@@ -142,7 +142,7 @@ We went to [Sturlureykir Horse Farm](https://www.west.is/en/service/sturlureykir
 
 ## Hot springs and hot dogs
 
-Since we were in the area, we went to [Deildartunguhver](https://guidetoiceland.is/travel-iceland/drive/deildartunguhver) (next to [Krauma](https://www.krauma.is/en), which I had previously staked out), which was steamy. 
+Since we were in the area, we went to [Deildartunguhver](https://www.west.is/en/place/deildartunguhver-thermal-spring) (next to [Krauma](https://www.krauma.is/en), which I had previously staked out), which was steamy. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f9P6dWTkEXs?si=xzxl6DYUD9qDP1HF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -150,7 +150,7 @@ Since we were in the area, we went to [Deildartunguhver](https://guidetoiceland.
 
 I had my first (and only, so far) Icelandic hot dog and it was much better than I could've expected… to the point where I want them all the time now. The crunchy onions really make it.
 
-After that we stopped by Reykholt and checked out an old stone house and cemetery.
+After that we stopped by [Reykholt](https://www.snorrastofa.is/en) and checked out an old stone house and cemetery.
 
 <img src="/assets/20230616-reykholt-church-tower.jpg" width="100%" alt="White church tower and bell tower at Reykholt with information map" />
 
@@ -164,7 +164,7 @@ After that we stopped by Reykholt and checked out an old stone house and cemeter
 
 ## Back to Húsafell
 
-Then finally back to Husafell, where we stopped by the Bistro again, this time me getting the buffet (which was… not good), and the other three splitting the meat lovers pizza (which was quite good). Live and learn.
+Then finally back to Húsafell, where we stopped by the Bistro again, this time me getting the buffet (which was… not good), and the other three splitting the meat lovers pizza (which was quite good). Live and learn.
 
 Since we were into the weekend now, Friday night and all, the campground was hopping… lots of activity there, plus lots of kids around at the jump pillow. Rowan begged to go back over there at 10:30pm, but honestly… I was done. It was a busy day!
 

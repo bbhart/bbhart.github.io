@@ -16,11 +16,19 @@ start_location:
   name: "Húsafell Cottage"
   type: "lodging"
 end_location:
-  name: "Old Reykjavik Charm"
+  name: "Old Charm Reykjavik"
   type: "lodging"
   city: "Reykjavik"
   alternate_name: "Old Charm Reykjavik"
   url: "https://oldreykjavik.is/"
+accommodation:
+  - name: Old Charm Reykjavik
+    location: Reykjavik, Iceland
+    type: apartment
+    nights: 2
+    checkin: true
+    checkout: false
+    url: https://oldreykjavik.is/
 transport:
   - type: "car_rental"
     provider: "Hertz"
@@ -61,15 +69,15 @@ days_at_location: 1
 ---
 
 - **Start of day:** Húsafell Cottage
-- **End of day:** Old Reykjavik Charm, Reykjavik
+- **End of day:** Old Charm Reykjavik, Reykjavik
 
 Moving day! We had some timing issues to work through. Though our Hertz reservation said we could drop by 4pm, the office itself at Reykjavik Domestic airport closed at 3pm. In one place I read it said I could do a key drop; somewhere else it said I absolutely could not do a key drop. Easiest bet was to just have the car there by 3pm. We could check in to our lodging at 2pm. We also needed to budget time for Supercharging so the car was returned near 80%.
 
 ## Car logistics
 
-We drove direct from Husafell to the Supercharger on the north side of Reykjavik -- and were lucky that nobody was there, though 2 car showed up directly after us, and another car ended up having to wait at least 15 minutes.[^1] We made it to 83%, then set out to find our Reykjavik home for the next few nights. We found without much trouble, dropped the bags, then I was off to drop the car, trying my best to understand and follow Reykjavik driving laws and etiquette.
+We drove direct from Húsafell to the Supercharger on the north side of Reykjavik -- and were lucky that nobody was there, though 2 cars showed up directly after us, and another car ended up having to wait at least 15 minutes.[^1] We made it to 83%, then set out to find our Reykjavik home for the next few nights. We found it without much trouble, dropped the bags, then I was off to drop the car, trying my best to understand and follow Reykjavik driving laws and etiquette.
 
-We'd brushed some bushes back near Laugarvatn that made a scratch but I think I successfully distracted the Hertz guy by volunteering a scratch on the inside drivers side seat that was pre-existing. No additional charges, and I was on my way to walk the 2.2km from the airport back to our rental. "What's the best way to get from here back over to the old town?" "Just look for the Church." Good idea, thanks Hertz guy.
+We'd brushed some bushes back near Laugarvatn that made a scratch but I think I successfully distracted the Hertz guy by volunteering a scratch on the inside driver's-side seat that was pre-existing. No additional charges, and I was on my way to walk the 2.2km from the airport back to our rental. "What's the best way to get from here back over to the old town?" "Just look for the Church." Good idea, thanks Hertz guy.
 
 These were my photos from fast-walking back from the Hertz at the domestic airport:
 <img src="/assets/20230617-reykjavik-hertz-rental-return.jpg" width="100%" alt="White Tesla rental car at Hertz return location in Reykjavik" />
@@ -82,7 +90,7 @@ These were my photos from fast-walking back from the Hertz at the domestic airpo
 
 The weather today was cooler and more overcast than previous days. 
 
-First stop was back to the obligatory [Hallgrimskirkja](https://www.hallgrimskirkja.is/) for a closer look, which is both larger and smaller than in the photos; Siena and I checked out the inside while Rowan and Sherri stayed outside. 
+First stop was back to the obligatory [Hallgrímskirkja](https://www.hallgrimskirkja.is/) for a closer look, which is both larger and smaller than in the photos; Siena and I checked out the inside while Rowan and Sherri stayed outside. 
 
 <img src="/assets/20230617-reykjavik-hallgrimskirkja-leif-statue.jpg" width="100%" alt="Leif Erikson statue in front of Hallgrímskirkja church with person posing" />
 
@@ -95,7 +103,7 @@ First stop was back to the obligatory [Hallgrimskirkja](https://www.hallgrimskir
 <img src="/assets/20230617-reykjavik-hallgrimskirkja-lawn.jpg" width="100%" alt="Person standing on lawn in front of Hallgrímskirkja church tower" />
 
 
-Then there was [swinging on the swings out front](https://youtube.com/shorts/nMAPfpuB3ew?si=TTV0uPhi9h976hNt). We took photos on the rainbow road and just wandered around the town.
+Then there was [swinging on the swings out front](https://youtube.com/shorts/nMAPfpuB3ew). We took photos on the rainbow road and just wandered around the town.
 
 <img src="/assets/20230617-reykjavik-rainbow-street.jpg" width="100%" alt="Crowds walking on rainbow-painted street in downtown Reykjavik with church in background" />
 
@@ -105,16 +113,16 @@ I was starving by this point and found a nice place for fish & chips.
 
 <img src="/assets/20230617-reykjavik-fish-and-chips.jpg" width="100%" alt="Fish and chips meal with lemon and tartar sauce and Coca-Cola" />
 
-After coming back to the rental for a bit, Siena and I went down to the water to the Sun Voyager art installation. 
+After coming back to the rental for a bit, Siena and I went down to the water to the [Sun Voyager](https://en.wikipedia.org/wiki/S%C3%B3lfar) art installation. 
 
 <img src="/assets/20230617-reykjavik-sun-voyager-sculpture.jpg" width="100%" alt="Person standing at the Sun Voyager sculpture by the Reykjavik waterfront" />
 
-Wanting to head back up the church but not wanting to walk the hill, we rented a Zolo scooter and zipped up the hill (1.2mi).
+Wanting to head back up to the church but not wanting to walk the hill, we rented a Zolo scooter and zipped up the hill (1.2mi).
 
 For dinner all of us ate at a touristy Italian place [Rossopomodoro](https://rossopomodoro.is/) up the hill from Old Charm. It was fine. Then back 'home' for the night, with a quick pop-in to a convenience store for ice cream.
 
-A note on our Reykjavik lodging. We stayed at [Old Charm Reykjavik](https://oldreykjavik.is/). Writing this two years later, it's the second time now we've stayed there, and would definitely recommend it if you're looking for that experience between a full service hotel and an Airbnb. It worked great for our family of four.
+A note on our Reykjavik lodging. We stayed at [Old Charm Reykjavik](https://oldreykjavik.is/). Writing this two years later, it's the [second time]({% post_url 2024-08-18-Iceland-Visit-2024-Day-3 %}) now we've stayed there, and would definitely recommend it if you're looking for that experience between a full service hotel and an Airbnb. It worked great for our family of four.
 
 **Footnotes**
 
-[^1]: We'd have a similar experience when revisiting Iceland again, where we rolled into the charger at just the right time. If you're renting a Tesla and have a certain time you **need** to drop it off by, I'd budget an hour here for waiting+charge, with the hope you get our earlier. 
+[^1]: We'd have a similar experience when [revisiting Iceland again]({% post_url 2024-08-18-Iceland-Visit-2024-Day-3 %}), where we rolled into the charger at just the right time. If you're renting a Tesla and have a certain time you **need** to drop it off by, I'd budget an hour here for waiting+charge, with the hope you get out earlier. 

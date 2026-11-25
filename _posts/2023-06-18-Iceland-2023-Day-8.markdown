@@ -9,11 +9,11 @@ tags: [june2023]
 background: '/assets/20230618-reykjavik-rainbow-street-pavement.jpg'
 published: true
 trip_day: 8
-start_location: Old Reykjavik Charm, Reykjavik
-end_location: Old Reykjavik Charm, Reykjavik
+start_location: Old Charm Reykjavik, Reykjavik
+end_location: Old Charm Reykjavik, Reykjavik
 days_at_location: 2
 accommodation:
-  - name: Old Reykjavik Charm
+  - name: Old Charm Reykjavik
     location: Reykjavik, Iceland
     type: apartment
     nights: 2
@@ -29,7 +29,7 @@ locations:
     country: Iceland
     type: landmark
     visited: true
-    url: https://guidetoiceland.is/travel-iceland/drive/sun-voyager
+    url: https://en.wikipedia.org/wiki/S%C3%B3lfar
   - name: Icelandic Punk Museum
     country: Iceland
     type: museum
@@ -65,7 +65,7 @@ activities:
     name: Punk Museum visit
     location: Icelandic Punk Museum
     date: 2023-06-18
-    notes: Near Prime Minister's house
+    notes: Near Prime Minister's office
   - type: cultural
     name: Rainbow street viewing
     location: Reykjavik rainbow road
@@ -114,7 +114,7 @@ dining:
     notes: Quick and predictable option
     cost_level: budget
   - name: Home cooking
-    location: Old Reykjavik Charm
+    location: Old Charm Reykjavik
     meal: Dinner (Brian's meal)
     date: 2023-06-18
     food: Ham sandwiches
@@ -141,19 +141,19 @@ next_day_logistics:
   - NYC trip planned for following day
 ---
 
-- **Start of day:** Old Reykjavik Charm, Reykjavik
-- **End of day:** Old Reykjavik Charm, Reykjavik
+- **Start of day:** Old Charm Reykjavik, Reykjavik
+- **End of day:** Old Charm Reykjavik, Reykjavik
 
-At the bottom of the hill, near the [Sun Voyager](https://guidetoiceland.is/travel-iceland/drive/sun-voyager) sculpture, is a little bakery. I found a spot in the corner, had a coffee and croissant, and caught up on some news.
+At the bottom of the hill, near the [Sun Voyager](https://en.wikipedia.org/wiki/S%C3%B3lfar) sculpture, is a little bakery. I found a spot in the corner, had a coffee and croissant, and caught up on some news.
 
 <img src="/assets/20230618-reykjavik-croissant-coffee.jpg" width="100%" alt="Fresh croissant on a plate with coffee at a cafe table by the window">
 
 <img src="/assets/20230618-reykjavik-restaurant-menu.jpg" width="100%" alt="Newspaper showing sections for Reykjavik fish, be marinated, be bold sports, and icelandic air">
 
 
-Today was a wet, chilly day, with mostly light rain with some heavier at times. Not the best day to be taking in the sites. I was thankful for my Columbia rain jacket.
+Today was a wet, chilly day, with mostly light rain with some heavier at times. Not the best day to be taking in the sights. I was thankful for my Columbia rain jacket.
 
-There's a punk museum over by the Prime Minister's house:
+There's a [punk museum](https://en.wikipedia.org/wiki/Icelandic_Punk_Museum) over by the Prime Minister's office:
 <img src="/assets/20230618-reykjavik-punk-museum-entrance.jpg" width="100%" alt="Icelandic Punk Museum entrance with black and white punk rock photo display on pavement">
 
 Reykjavik's iconic rainbow road:
@@ -178,4 +178,4 @@ Tomorrow we need to be out by 11am, so I have a car arranged and I really hope t
 
 <img src="/assets/20230618-reykjavik-vatnsstugur-apartments.jpg" width="100%" alt="Modern Vatnsstígur apartment building exterior with gray facade and glass windows">
 
-<img src="/assets/20230618-reykjavik-black-building-entrance.jpg" width="100%" alt="Entrance to Old Reykjavik Charm apartment with cream-colored door on black corrugated siding">
+<img src="/assets/20230618-reykjavik-black-building-entrance.jpg" width="100%" alt="Entrance to Old Charm Reykjavik apartment with cream-colored door on black corrugated siding">
