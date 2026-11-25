@@ -4,7 +4,7 @@ title: Iceland Cruise Day 4
 subtitle: Between NYC and Halifax, the first of many sea days we'd have on this voyage
 date:  2024-08-05
 categories: travel cruise iceland
-tags: [celebrity, celebrity eclipse]
+tags: [celebrity, celebrityeclipse]
 rollup_key: 2024icelandcruise
 background: '/assets/20240804-fog.jpg'
 redirect_from:

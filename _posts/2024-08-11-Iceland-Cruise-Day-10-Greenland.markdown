@@ -27,7 +27,7 @@ transport:
     to: Qaqortoq, Greenland
     notes: Tendered to shore in Qaqortoq
 venues:
-  - name: Coffee shop near Sermilik Lake
+  - name: Coffee shop near Lake Tasersuaq
     type: cafe
     location: Qaqortoq, Greenland
     notes: Reached by 9am but found closed to those not on a tour
@@ -55,7 +55,7 @@ points_of_interest:
     location: Southern Greenland
     notes: Planned scenic sailing that weather conditions did not allow
 challenges:
-  - Coffee shop near Sermilik Lake was closed to guests not on a tour
+  - Coffee shop near Lake Tasersuaq was closed to guests not on a tour
   - Language barrier at the grocery store, with no Greenlandic language pack downloaded for Google Translate
   - Not prepared with weather-appropriate shoes for the cold rain
   - Storm conditions and rough seas expected overnight
@@ -65,7 +65,7 @@ notable_events:
 
 Something funny about the ship wifi: if you don't pay for a package, they still allow app notifications to leak through. I haven't decided yet whether this is a technical oversight (unlikely), clever bait, and/or a dark pattern. It means you end up with badges on many of your apps (e.g. 30 unread emails, 8 unread Facebook notifications, etc.), which can make a certain personality type anxious 🙄. They do allow for Google Maps updates to come through for free.
 
-Since Rowan's birthday was yesterday, he could see he had lots of (presumably) Happy Birthday messages waiting for him on Snapchat, which a 24 hour expiration. Thus he was keen to get moving in the morning and get off the ship, since our plan was to head directly to a coffee shop up by Sermilik Lake which supposedly offered Internet service. We managed to tender, trek through the chilly rain, and arrive at the coffee shop by 9am... only to be informed by the person inside that the shop was closed to those not on a tour. Ok. On the one hand, I get why they'd want a group in there paying $120pp (or whatever) for a "tasting" instead of our $50... but it was still pretty disappointing to be told sorry, go away. Our only other interaction with a Greenlander was at the grocery store, where again we'd hope to be able to buy some things and use the Internet, but they didn't speak English and for reasons I can't fathom because I'm usually super on top of these things I hadn't downloaded the Greenland language pack for Google Translate. 
+Since Rowan's birthday was yesterday, he could see he had lots of (presumably) Happy Birthday messages waiting for him on Snapchat, which have a 24-hour expiration. Thus he was keen to get moving in the morning and get off the ship, since our plan was to head directly to a coffee shop up by Lake Tasersuaq which supposedly offered Internet service. We managed to tender, trek through the chilly rain, and arrive at the coffee shop by 9am... only to be informed by the person inside that the shop was closed to those not on a tour. Ok. On the one hand, I get why they'd want a group in there paying $120pp (or whatever) for a "tasting" instead of our $50... but it was still pretty disappointing to be told sorry, go away. Our only other interaction with a Greenlander was at the grocery store, where again we'd hoped to be able to buy some things and use the Internet, but they didn't speak English and for reasons I can't fathom because I'm usually super on top of these things I hadn't downloaded the Greenland language pack for Google Translate. 
 
 We walked up a hill in the spitting rain, took some photos of the ship, then tendered back. That was the sum total of our experience on land in Greenland. I was disappointed, but mostly with myself for not being better prepared with things like the Google language pack and more weather-appropriate shoes.
 
@@ -75,13 +75,13 @@ We walked up a hill in the spitting rain, took some photos of the ship, then ten
 
 <img src="/assets/20240811-greenland3.jpg" width="100%" alt="View of Celebrity Eclipse cruise ship anchored in Qaqortoq harbor from hillside vantage point, showing green houses, rocky terrain, and overcast Arctic weather in Greenland">
 
-On the departure from Qaqortoq, the Captain and pilots took the ship near an iceberg and performed a few 360's for plenty of photos and videos.
+On the departure from [Qaqortoq](https://visitgreenland.com/destinations/qaqortoq/), the Captain and pilots took the ship near an iceberg and performed a few 360's for plenty of photos and videos.
 
 <img src="/assets/20240811-ice1.jpg" width="100%" alt="Large white iceberg floating in dark waters near Greenland coast, viewed from Celebrity Eclipse cruise ship performing circles for passenger photos">
 
 <img src="/assets/20240811-ice2.jpg" width="100%" alt="Massive angular iceberg with dramatic sculptured surfaces in ocean waters off Greenland coast, photographed during ship's departure from Qaqortoq">
 
-We did cake and singing at main dining tonight, since we were out at a specialty restaurant last night:
+We did cake and singing at main dining tonight, since we were out at a [specialty restaurant last night]({% post_url 2024-08-10-Iceland-Cruise-Day-9 %}):
 
 <img src="/assets/20240811-birthday.jpg" width="100%" alt="Teen boy's birthday celebration at cruise ship dining table with birthday cake, cruise staff singing, family members celebrating the special occasion">
 
@@ -89,7 +89,7 @@ The Captain informed us that weather conditions would not allow for us to sail [
 
 Anyway, tomorrow will turn into a sea day, with another sea day following. We are then arriving earlier than expected into Akureyri to allow for more time to enjoy that town.
 
-No sunset photo tonight, so you'll have to make due with an elevator one instead.
+No sunset photo tonight, so you'll have to make do with an elevator one instead.
 
 <img src="/assets/20240811-elevator.jpg" width="100%" alt="Modern cruise ship elevator interior with brushed metal walls, digital floor display, and reflective surfaces on Celebrity Eclipse">
 

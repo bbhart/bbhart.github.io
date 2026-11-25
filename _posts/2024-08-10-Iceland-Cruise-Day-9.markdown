@@ -4,7 +4,7 @@ title: Iceland Cruise Day 9
 subtitle: A special birthday sea day off the coast of Greenland!
 date:  2024-08-10
 categories: travel cruise iceland
-tags: [celebrity, celebrity eclipse]
+tags: [celebrity, celebrityeclipse]
 rollup_key: 2024icelandcruise
 background: '/assets/20240810-dinner3.jpg'
 redirect_from:
@@ -56,12 +56,12 @@ Sea day 2 between St. John's and Greenland.
 
 **Today is Rowan's birthday!**  We had a great dinner at [Le Petit Chef](https://www.celebritycruises.com/things-to-do-onboard/eat-and-drink/restaurants-and-cafes/le-petit-chef-at-qsine) to celebrate. Before the first course they put on a show about the history of tomatoes, and then presented a tomato-oriented appetizer. Next, a show about the history of art, followed by a shrimp and cucumber thing (ok so that one doesn't match). Then the main course and dessert. The show part was clever, truly. The food was main restaurant quality, with the main course being a step up. Rowan sucked down three Shirley Temples and then a (chalky) chocolate birthday cake. 
 
-<img src="/assets/20240810-dinner1.jpg" width="100%">
+<img src="/assets/20240810-dinner1.jpg" width="100%" alt="Selfie of a man in a checked dress shirt and a teen boy in a white shirt seated on a banquette at Le Petit Chef, with a row of brightly lit projection tables stretching back past other diners">
 
-<img src="/assets/20240810-dinner2.jpg" width="100%">
+<img src="/assets/20240810-dinner2.jpg" width="100%" alt="Le Petit Chef table set with white plates and orange-striped glasses, the tabletop projected as a wooden kitchen counter with animated vegetables, pots and a tiny chef figure standing on each plate">
 
-<img src="/assets/20240810-dinner3.jpg" width="100%">
+<img src="/assets/20240810-dinner3.jpg" width="100%" alt="Le Petit Chef table covered in a swirling blue-and-yellow projection in the style of Van Gogh's The Starry Night, with plated dishes, glasses and cutlery on top">
 
-<a href="https://youtu.be/ophJI1wx8s4"><img src="/assets/20240810-happybirthday.png" width="100%"></a>
+<a href="https://youtu.be/ophJI1wx8s4"><img src="/assets/20240810-happybirthday.png" width="100%" alt="Video still titled 'Rowan's 15th birthday dinner' showing a teen boy in a white shirt seated at a glowing projection table in Le Petit Chef, with other diners in the background"></a>
 
 Frankly I can't recall much else about the day, as I try to write this the day after. The sea days are running together. Fortunately the kids have some friends now. Sherri and I don't, but that's status quo.

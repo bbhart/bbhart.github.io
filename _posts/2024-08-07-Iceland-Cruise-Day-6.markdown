@@ -4,7 +4,7 @@ title: Iceland Cruise Day 6
 subtitle: Sea day between Halifax and St. John's, NL
 date:  2024-08-07
 categories: travel cruise iceland
-tags: [celebrity, celebrity eclipse]
+tags: [celebrity, celebrityeclipse]
 rollup_key: 2024icelandcruise
 background: '/assets/20240807-sunset.jpg'
 redirect_from:
@@ -49,7 +49,7 @@ days_at_location:
 
 Sea day == sleep in day
 
-I managed 9 hours of sleep according to my CPAP. Sherri and I started our wanderings around 8:30 this morning, grabbing a light breakfast and then finding chairs to read on for awhile. We finally convinced the kids to get up around noon, then we headed for lunch. 
+I managed 9 hours of sleep according to my CPAP. Sherri and I started our wanderings around 8:30 this morning, grabbing a light breakfast and then finding chairs to read on for a while. We finally convinced the kids to get up around noon, then we headed for lunch. 
 
 It's another overcast, gray day. Winds aren't too bad and temperatures are in the mid-60's. After the heat of NYC and Holly Springs, I don't mind. It would be good to see the sun again, though.
 

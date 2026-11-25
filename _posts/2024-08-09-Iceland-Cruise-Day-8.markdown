@@ -4,7 +4,7 @@ title: Iceland Cruise Day 8
 subtitle: Sea day 1 between St. John's and Greenland
 date:  2024-08-09
 categories: travel cruise iceland
-tags: [celebrity, celebrity eclipse]
+tags: [celebrity, celebrityeclipse]
 rollup_key: 2024icelandcruise
 background: '/assets/20240809-sunset.jpg'
 redirect_from:
@@ -75,11 +75,11 @@ We're around 1/3 of the way there:
 
 <img src="/assets/20240809-enroute.jpg" width="100%" alt="Navigation map showing cruise ship's route from St. John's to Qaqortoq, Greenland across the Labrador Sea, with ship icon approximately one-third of the way to destination">
 
-We learned today from the Captain's announcement that after we leave Akureyri, Iceland, we'll briefly head north and cross the Arctic Circle. He kind of made this sound like a big deal that had been planned as a favor based on passenger request... but the Arctic Circle is only 100 miles north of Akureyri, and we typically sail at least a few dozen miles off the coast anyway, so I'm not buying that it was some special accommodation. Regardless: pretty cool. 
+We learned today from the Captain's announcement that after we leave Akureyri, Iceland, we'll briefly head north and cross the Arctic Circle. He kind of made this sound like a big deal that had been planned as a favor based on passenger request... but the Arctic Circle is only about 60 miles north of Akureyri, and we typically sail at least a few dozen miles off the coast anyway, so I'm not buying that it was some special accommodation. Regardless: pretty cool. 
 
 <img src="/assets/20240809-arctic-brian.jpg" width="100%" alt="Certificate commemorating crossing of the Arctic Circle and Polar Waters on Celebrity Eclipse cruise, showing 3333 nautical miles sailed from Cape Liberty, NY to Reykjavik, Iceland">
 
-In the evening we left the kids to their own devices (figuratively) and went to the Tuscan Grille specialty restaurant. We had an excellent view of the back of the ship as we made our way through the Labrador Sea. Food quality was definitely a step up from the main dining room, though still a step behind what you'd find at a higher end Italian restaurant. 
+In the evening we left the kids to their own devices (figuratively) and went to the [Tuscan Grille](https://www.celebritycruises.com/things-to-do-onboard/eat-and-drink/restaurants-and-cafes/tuscan-grille) specialty restaurant. We had an excellent view of the back of the ship as we made our way through the Labrador Sea. Food quality was definitely a step up from the main dining room, though still a step behind what you'd find at a higher end Italian restaurant. 
 
 Once back in the room we found out the kids had decided to go to the main dining by themselves, though 20 minutes late. Oh, and they finally -- here on day 8 -- managed to make some friends from the Teen Lounge that we've been pushing them to visit since the first few hours of being onboard. They stayed out to past midnight playing ship-wide Hide & Seek. 
 

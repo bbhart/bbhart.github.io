@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T18:06:17Z",
+  "generated_at": "2026-11-25T23:24:27Z",
   "total_posts": 184,
   "trips": [
     {
@@ -3680,7 +3680,8 @@
           "weather": "Clear and sunny morning, hot and humid, with severe storms arriving in the afternoon",
           "companions": [
             "Sherri",
-            "Siena"
+            "Siena",
+            "Rowan"
           ]
         },
         {
@@ -3697,7 +3698,7 @@
             "new york city",
             "jersey city",
             "celebrity",
-            "celebrity eclipse"
+            "celebrityeclipse"
           ],
           "rollup_key": "2024icelandcruise",
           "day_type": "travel_day",
@@ -3781,7 +3782,7 @@
             {
               "day": 3,
               "type": "sightseeing",
-              "description": "Stormy sailaway viewing Statue of Liberty, lower Manhattan, and Verrazano Bridge",
+              "description": "Stormy sailaway viewing Statue of Liberty, lower Manhattan, and Verrazzano Bridge",
               "time": "4:00pm",
               "location": "New York Harbor"
             },
@@ -3812,7 +3813,7 @@
           ],
           "tags": [
             "celebrity",
-            "celebrity eclipse"
+            "celebrityeclipse"
           ],
           "rollup_key": "2024icelandcruise",
           "day_type": "sea_day",
@@ -3872,7 +3873,7 @@
           "tags": [
             "halifax",
             "celebrity",
-            "celebrity eclipse"
+            "celebrityeclipse"
           ],
           "rollup_key": "2024icelandcruise",
           "day_type": "port_day",
@@ -3921,7 +3922,7 @@
               "location": "Spring Garden Road, Halifax"
             },
             {
-              "name": "McNab's Island",
+              "name": "McNabs Island",
               "type": "landmark",
               "location": "Halifax Harbor",
               "notes": "Visible during sailaway"
@@ -3998,7 +3999,7 @@
             {
               "day": 5,
               "type": "sightseeing",
-              "description": "Sailaway viewing McNab's and Georges Islands from 200 feet up",
+              "description": "Sailaway viewing McNabs and Georges Islands from 200 feet up",
               "time": "Afternoon",
               "location": "Halifax Harbor departure"
             },
@@ -4036,7 +4037,7 @@
           ],
           "tags": [
             "celebrity",
-            "celebrity eclipse"
+            "celebrityeclipse"
           ],
           "rollup_key": "2024icelandcruise",
           "day_type": "sea_day",
@@ -4107,7 +4108,7 @@
           "tags": [
             "st johns",
             "celebrity",
-            "celebrity eclipse"
+            "celebrityeclipse"
           ],
           "rollup_key": "2024icelandcruise",
           "day_type": "port_day",
@@ -4250,7 +4251,7 @@
           ],
           "tags": [
             "celebrity",
-            "celebrity eclipse"
+            "celebrityeclipse"
           ],
           "rollup_key": "2024icelandcruise",
           "day_type": "sea_day",
@@ -4346,7 +4347,7 @@
           ],
           "tags": [
             "celebrity",
-            "celebrity eclipse"
+            "celebrityeclipse"
           ],
           "rollup_key": "2024icelandcruise",
           "trip_day": 9,
@@ -4440,7 +4441,7 @@
           ],
           "venues": [
             {
-              "name": "Coffee shop near Sermilik Lake",
+              "name": "Coffee shop near Lake Tasersuaq",
               "type": "cafe",
               "location": "Qaqortoq, Greenland",
               "notes": "Reached by 9am but found closed to those not on a tour"
@@ -4494,7 +4495,7 @@
             "Rowan's birthday celebration at main dining"
           ],
           "challenges": [
-            "Coffee shop near Sermilik Lake was closed to guests not on a tour",
+            "Coffee shop near Lake Tasersuaq was closed to guests not on a tour",
             "Language barrier at the grocery store, with no Greenlandic language pack downloaded for Google Translate",
             "Not prepared with weather-appropriate shoes for the cold rain",
             "Storm conditions and rough seas expected overnight"
@@ -4518,7 +4519,7 @@
           ],
           "tags": [
             "celebrity",
-            "celebrity eclipse"
+            "celebrityeclipse"
           ],
           "rollup_key": "2024icelandcruise",
           "trip_day": "11-12",
@@ -4629,7 +4630,7 @@
           ],
           "notable_experiences": [
             "Only booked shore excursion of the trip",
-            "Akureyri, Iceland's second most populous city, felt like a place worth returning to on a Ring Road trip"
+            "Akureyri, the largest town in Iceland outside the Reykjavík capital area, felt like a place worth returning to on a Ring Road trip"
           ],
           "challenges": [
             "Brian was still sick during the excursion",
@@ -4645,7 +4646,7 @@
           "title": "Iceland Cruise Day 14",
           "date": "2024-08-15 00:00:00 -0400",
           "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-14-Isafjordur.html",
-          "subtitle": "Isafjordur, Iceland",
+          "subtitle": "Ísafjörður, Iceland",
           "categories": [
             "travel",
             "cruise",
@@ -4694,7 +4695,7 @@
           ],
           "notable_mentions": [
             "Spotted a Tesla Cybertruck in town",
-            "Isafjordur reminded Brian of photos of the Scottish Highlands"
+            "Ísafjörður reminded Brian of photos of the Scottish Highlands"
           ],
           "challenges": [
             "Brian at the tail end of being sick while Sherri began coming down with the same illness"
@@ -13230,7 +13231,7 @@
     "{\"day\"=>3, \"type\"=>\"recreation\", \"description\"=>\"Morning walk on Jersey City riverwalk with Starbucks breakfast\", \"location\"=>\"Jersey City\"}",
     "{\"day\"=>3, \"type\"=>\"relaxation\", \"description\"=>\"Wandered ship, listened to music, admired holiday decorations\", \"location\"=>\"Celebrity Eclipse\"}",
     "{\"day\"=>3, \"type\"=>\"sightseeing\", \"description\"=>\"Early morning visit to Senso-Ji Temple without crowds\", \"location\"=>\"Senso-Ji, Asakusa\", \"time\"=>\"5:30am\"}",
-    "{\"day\"=>3, \"type\"=>\"sightseeing\", \"description\"=>\"Stormy sailaway viewing Statue of Liberty, lower Manhattan, and Verrazano Bridge\", \"time\"=>\"4:00pm\", \"location\"=>\"New York Harbor\"}",
+    "{\"day\"=>3, \"type\"=>\"sightseeing\", \"description\"=>\"Stormy sailaway viewing Statue of Liberty, lower Manhattan, and Verrazzano Bridge\", \"time\"=>\"4:00pm\", \"location\"=>\"New York Harbor\"}",
     "{\"day\"=>3, \"type\"=>\"sightseeing\", \"description\"=>\"Walking tour and visit to Tokyo National Museum\", \"location\"=>\"Tokyo National Museum, Ueno\", \"distance\"=>\"2km walk\"}",
     "{\"day\"=>3, \"type\"=>\"travel\", \"description\"=>\"Embarkation at Bayonne cruise terminal\", \"location\"=>\"Bayonne, NJ\"}",
     "{\"day\"=>4, \"type\"=>\"dining\", \"description\"=>\"Coffee at CAFÉ Mori no Terrace\", \"location\"=>\"Meiji Shrine area, Tokyo\"}",
@@ -13255,7 +13256,7 @@
     "{\"day\"=>5, \"type\"=>\"shopping\", \"description\"=>\"Shopping in Oranjestad\", \"location\"=>\"Oranjestad, Aruba\"}",
     "{\"day\"=>5, \"type\"=>\"shore_excursion\", \"description\"=>\"Sailing and snorkeling trip on catamaran La Tigre\", \"duration\"=>\"3 hours\", \"location\"=>\"Aruba waters\", \"participants\"=>\"Father and daughter\"}",
     "{\"day\"=>5, \"type\"=>\"sightseeing\", \"description\"=>\"Disembarked and walked Halifax waterfront meeting family members\", \"time\"=>\"10:00am\", \"location\"=>\"Halifax waterfront\"}",
-    "{\"day\"=>5, \"type\"=>\"sightseeing\", \"description\"=>\"Sailaway viewing McNab's and Georges Islands from 200 feet up\", \"time\"=>\"Afternoon\", \"location\"=>\"Halifax Harbor departure\"}",
+    "{\"day\"=>5, \"type\"=>\"sightseeing\", \"description\"=>\"Sailaway viewing McNabs and Georges Islands from 200 feet up\", \"time\"=>\"Afternoon\", \"location\"=>\"Halifax Harbor departure\"}",
     "{\"day\"=>5, \"type\"=>\"sightseeing\", \"name\"=>\"Hraunfossar Waterfall visit\", \"location\"=>\"Hraunfossar, Near Húsafell\", \"duration\"=>\"30 minutes\", \"notes\"=>\"Series of waterfalls flowing from lava field\"}",
     "{\"day\"=>5, \"type\"=>\"social\", \"description\"=>\"Met with Ann, Greg, Shane, Katie, Will, and Sam at the wave landmark\", \"time\"=>\"10:45am\", \"location\"=>\"Halifax waterfront\"}",
     "{\"day\"=>5, \"type\"=>\"social\", \"description\"=>\"Sherri connected with Aunts Betty, Dorothy, and Kay\", \"location\"=>\"Halifax\"}",
@@ -17299,7 +17300,8 @@
       "weather": "Clear and sunny morning, hot and humid, with severe storms arriving in the afternoon",
       "companions": [
         "Sherri",
-        "Siena"
+        "Siena",
+        "Rowan"
       ]
     },
     {
@@ -17316,7 +17318,7 @@
         "new york city",
         "jersey city",
         "celebrity",
-        "celebrity eclipse"
+        "celebrityeclipse"
       ],
       "rollup_key": "2024icelandcruise",
       "day_type": "travel_day",
@@ -17400,7 +17402,7 @@
         {
           "day": 3,
           "type": "sightseeing",
-          "description": "Stormy sailaway viewing Statue of Liberty, lower Manhattan, and Verrazano Bridge",
+          "description": "Stormy sailaway viewing Statue of Liberty, lower Manhattan, and Verrazzano Bridge",
           "time": "4:00pm",
           "location": "New York Harbor"
         },
@@ -17431,7 +17433,7 @@
       ],
       "tags": [
         "celebrity",
-        "celebrity eclipse"
+        "celebrityeclipse"
       ],
       "rollup_key": "2024icelandcruise",
       "day_type": "sea_day",
@@ -17491,7 +17493,7 @@
       "tags": [
         "halifax",
         "celebrity",
-        "celebrity eclipse"
+        "celebrityeclipse"
       ],
       "rollup_key": "2024icelandcruise",
       "day_type": "port_day",
@@ -17540,7 +17542,7 @@
           "location": "Spring Garden Road, Halifax"
         },
         {
-          "name": "McNab's Island",
+          "name": "McNabs Island",
           "type": "landmark",
           "location": "Halifax Harbor",
           "notes": "Visible during sailaway"
@@ -17617,7 +17619,7 @@
         {
           "day": 5,
           "type": "sightseeing",
-          "description": "Sailaway viewing McNab's and Georges Islands from 200 feet up",
+          "description": "Sailaway viewing McNabs and Georges Islands from 200 feet up",
           "time": "Afternoon",
           "location": "Halifax Harbor departure"
         },
@@ -17655,7 +17657,7 @@
       ],
       "tags": [
         "celebrity",
-        "celebrity eclipse"
+        "celebrityeclipse"
       ],
       "rollup_key": "2024icelandcruise",
       "day_type": "sea_day",
@@ -17726,7 +17728,7 @@
       "tags": [
         "st johns",
         "celebrity",
-        "celebrity eclipse"
+        "celebrityeclipse"
       ],
       "rollup_key": "2024icelandcruise",
       "day_type": "port_day",
@@ -17869,7 +17871,7 @@
       ],
       "tags": [
         "celebrity",
-        "celebrity eclipse"
+        "celebrityeclipse"
       ],
       "rollup_key": "2024icelandcruise",
       "day_type": "sea_day",
@@ -17965,7 +17967,7 @@
       ],
       "tags": [
         "celebrity",
-        "celebrity eclipse"
+        "celebrityeclipse"
       ],
       "rollup_key": "2024icelandcruise",
       "trip_day": 9,
@@ -18059,7 +18061,7 @@
       ],
       "venues": [
         {
-          "name": "Coffee shop near Sermilik Lake",
+          "name": "Coffee shop near Lake Tasersuaq",
           "type": "cafe",
           "location": "Qaqortoq, Greenland",
           "notes": "Reached by 9am but found closed to those not on a tour"
@@ -18113,7 +18115,7 @@
         "Rowan's birthday celebration at main dining"
       ],
       "challenges": [
-        "Coffee shop near Sermilik Lake was closed to guests not on a tour",
+        "Coffee shop near Lake Tasersuaq was closed to guests not on a tour",
         "Language barrier at the grocery store, with no Greenlandic language pack downloaded for Google Translate",
         "Not prepared with weather-appropriate shoes for the cold rain",
         "Storm conditions and rough seas expected overnight"
@@ -18137,7 +18139,7 @@
       ],
       "tags": [
         "celebrity",
-        "celebrity eclipse"
+        "celebrityeclipse"
       ],
       "rollup_key": "2024icelandcruise",
       "trip_day": "11-12",
@@ -18248,7 +18250,7 @@
       ],
       "notable_experiences": [
         "Only booked shore excursion of the trip",
-        "Akureyri, Iceland's second most populous city, felt like a place worth returning to on a Ring Road trip"
+        "Akureyri, the largest town in Iceland outside the Reykjavík capital area, felt like a place worth returning to on a Ring Road trip"
       ],
       "challenges": [
         "Brian was still sick during the excursion",
@@ -18264,7 +18266,7 @@
       "title": "Iceland Cruise Day 14",
       "date": "2024-08-15 00:00:00 -0400",
       "url": "/travel/cruise/iceland/2024/Iceland-Cruise-Day-14-Isafjordur.html",
-      "subtitle": "Isafjordur, Iceland",
+      "subtitle": "Ísafjörður, Iceland",
       "categories": [
         "travel",
         "cruise",
@@ -18313,7 +18315,7 @@
       ],
       "notable_mentions": [
         "Spotted a Tesla Cybertruck in town",
-        "Isafjordur reminded Brian of photos of the Scottish Highlands"
+        "Ísafjörður reminded Brian of photos of the Scottish Highlands"
       ],
       "challenges": [
         "Brian at the tail end of being sick while Sherri began coming down with the same illness"

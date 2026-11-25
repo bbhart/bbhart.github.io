@@ -28,6 +28,7 @@ weather: Clear and sunny morning, hot and humid, with severe storms arriving in 
 companions:
   - Sherri
   - Siena
+  - Rowan
 accommodations:
   - name: Hyatt House Jersey City
     type: hotel
@@ -116,11 +117,11 @@ So we made it to Newark.
 
 "Luckily" we could go directly to our hotel room at the [Hyatt House Jersey City](https://www.hyatt.com/hyatt-house/en-US/lgaxj-hyatt-house-jersey-city), since we'd already paid for it for last night. I'll tangent here for a moment and say that, despite it being 2024, hotels still can't figure out reliable digital keys. I don't know why I expected ours would work. Also, this Hyatt's elevators are weird. Anyway.
 
-We dropped our stuff, suncreened up, and hit the 10:10am ferry from Paulus Hook, about a two minute walk from our hotel, over to Brookfield Place in lower Manhattan. 
+We dropped our stuff, sunscreened up, and hit the 10:10am ferry from Paulus Hook, about a two minute walk from our hotel, over to [Brookfield Place](https://bfplny.com/) in lower Manhattan. 
 
 <img src="/assets/20240803-ferry.jpg" width="100%" alt="Ferry from Paulus Hook terminal in Jersey City crossing Hudson River to Manhattan">
 
-The terminal is adjacent to Brookfield Place mall, so Sher and Siena grabbed crepes. We then sat outside the One World Trade Center entrance before our 11:30am reservation to go to the top. 
+The terminal is adjacent to Brookfield Place mall, so Sher and Siena grabbed crepes. We then sat outside the [One World Trade Center](https://www.oneworldobservatory.com/) entrance before our 11:30am reservation to go to the top. 
 
 They do a good job with the whole WTC experience. There's an interesting-ish queue in the basement for the elevators. 
 
@@ -131,7 +132,7 @@ In the elevator itself, all the walls are displays that show what NYC would've l
 <img src="/assets/20240803-wtc1.jpg" width="100%" alt="Spectacular aerial view of New York City skyline from One World Trade Center observation deck on clear sunny day">
 <img src="/assets/20240803-wtc2.jpg" width="100%" alt="Panoramic view from One World Trade Center showing downtown Manhattan, rivers, and bridges">
 
-We made our way back down to ground level, then over to the connected Oculus mall/station. 
+We made our way back down to ground level, then over to the connected [Oculus](https://wtc.com/thingstodo/westfield-shops-and-dining-at-the-oculus/) mall/station. 
 
 <img src="/assets/20240803-oculus.jpg" width="100%" alt="Interior of the Oculus transportation hub and mall with distinctive white ribbed architecture and natural light">
 

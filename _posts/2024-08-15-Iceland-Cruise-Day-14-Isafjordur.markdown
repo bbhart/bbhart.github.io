@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Iceland Cruise Day 14
-subtitle: Isafjordur, Iceland
+subtitle: Ísafjörður, Iceland
 date:  2024-08-15
 categories: travel cruise iceland
 tags: [isafjordur, iceland, celebrity, celebrityeclipse]
@@ -38,7 +38,7 @@ activities:
     location: Ísafjörður, Iceland
 notable_mentions:
   - Spotted a Tesla Cybertruck in town
-  - Isafjordur reminded Brian of photos of the Scottish Highlands
+  - Ísafjörður reminded Brian of photos of the Scottish Highlands
 challenges:
   - Brian at the tail end of being sick while Sherri began coming down with the same illness
 ---
@@ -53,9 +53,9 @@ The rain (mostly) stopped by midmorning, so Sher and I left the kids onboard to 
 
 <img src="/assets/20240815-trailer.jpg" width="100%" alt="A weathered metal snowmobile trailer stenciled 'ski-doo' parked on wet gravel beside a white industrial building at the foot of a steep mossy mountain in Ísafjörður, with a black SUV and other vehicles nearby and puddles from recent rain">
 
-I'm at the tail end of being sick and starting to get my bounce back, just in time to end the cruise. Unfortunately, Sherri feels like she's starting to come down with it. We still have 5 more days before our long flight, so I'm very much hoping everyone is in decent shape by then. 
+I'm at the tail end of being sick and starting to get my bounce back, just in time to end the cruise. Unfortunately, Sherri feels like she's [starting to come down with it]({% post_url 2024-08-16-Iceland-Visit-2024-Day-1 %}). We still have 4 more days before our long flight, so I'm very much hoping everyone is in decent shape by then. 
 
-Isafjordur reminds me of photos I've seen of the Scottish Highlands. 
+[Ísafjörður](https://www.westfjords.is/en/destinations/towns/isafjordur) reminds me of photos I've seen of the Scottish Highlands. 
 
 My view as I work on my journal:
 <img src="/assets/20240815-laptop.jpg" width="100%" alt="A laptop open on the cruise ship's wooden deck in the foreground, with an orange Celebrity Eclipse life ring mounted on the railing and a towering green-and-gray fjord mountainside rising across the calm water under low cloud">

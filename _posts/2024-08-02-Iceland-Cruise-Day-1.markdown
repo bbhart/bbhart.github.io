@@ -41,7 +41,7 @@ Well that's certainly unfortunate.
 
 Any other reasonable flights today on Delta? No.
 Any other reasonable flights today on any airline into Newark? No.
-Any other reasonable flights today into any of the 3 NYC airports today? No.
+Any other reasonable flights into any of the 3 NYC airports today? No.
 
 Our first instinct was to plan to drive from RDU to Jersey City instead. I even made a reservation at Avis. On further consideration, our leaving the Raleigh area at 2pm would put us driving up the eastern seaboard on a Friday afternoon with severe weather in the area. Given we still had a solid 48 hours to make it to the ship in Bayonne, NJ, I opted for a 7am United flight the next morning. We'll keep driving as a last resort for now.
 
