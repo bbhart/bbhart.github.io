@@ -18,11 +18,11 @@ countries_visited: [Japan]
 <h2>Contents</h2>
 <ul>
 {% for post in sorted_posts %}
-<li/><strong><a href="{{ post.url }}">{{ post.title }}</a></strong> ({{ post.date | date: "%D" }}): {{ post.subtitle }}
+<li><strong><a href="{{ post.url }}">{{ post.title }}</a></strong> ({{ post.date | date: "%D" }}): {{ post.subtitle }}</li>
 {% endfor %}
 </ul>
 
-<p/>
+<p></p>
 
 {% for post in sorted_posts %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
