@@ -24,7 +24,7 @@ venues:
     location: Kyoto, Japan
 transport:
   - type: train
-    from: Yokohama
+    from: Shin-Yokohama
     to: Kyoto
     line: Shinkansen
     notes: High-speed bullet train
@@ -40,11 +40,11 @@ transport:
     from: Kyoto Imperial Palace
     to: Kyoto Station
 activities:
-  - day: 8
+  - day: 7
     type: travel
-    description: Shinkansen train journey from Yokohama to Kyoto
-    location: Yokohama to Kyoto
-  - day: 8
+    description: Shinkansen train journey from Shin-Yokohama to Kyoto
+    location: Shin-Yokohama to Kyoto
+  - day: 7
     type: dining
     description: Late lunch at mall restaurant in Kyoto Station
     location: Kyoto Station
@@ -106,17 +106,17 @@ next_day_logistics: Bullet train to Shinagawa Station, then a local train to Han
  
 **Kyoto**
 
-I took the Shinkansen high speed train from Yokohama station to Kyoto’s central station. The Shinkansen experience will get its own post. 
+I took the [Shinkansen](https://global.jr-central.co.jp/en/) high speed train from Shin-Yokohama station to Kyoto’s central station. The Shinkansen experience [will get its own post]({% post_url 2024-03-18-Shinkansen %}). 
  
 When planning my trip, I waffled a lot on where to stay in Kyoto. Do I want to be on the fringes of the city in a residential neighborhood? Might I want to try to stay in a ryokan, which is a traditional Japanese style inn with tatami floors and communal baths? If I stay over here in this hotel, do I want to then spend an hour on transit getting to these tourist attractions? Etc. 
  
-I ended up staying at the Kyoto train station at Hotel Granvia Kyoto. Being above the train station meant I’d be more centrally located for getting around, and there was an extensive mall complex wrapped through the station which was convenient for finding food or even just killing time walking around out of the cold. 
+I ended up staying at the Kyoto train station at [Hotel Granvia Kyoto](https://jrwest-hotels.jp/en/granvia-kyoto/). Being above the train station meant I’d be more centrally located for getting around, and there was an extensive mall complex wrapped through the station which was convenient for finding food or even just killing time walking around out of the cold. 
 
 After getting checked in and settled, I grabbed a late lunch in the mall downstairs. 
 
 <img src="/assets/2024-kyoto-tempura.jpg" width="75%" alt="Tempura set meal in Kyoto Station mall featuring crispy fried shrimp and vegetables served with rice, miso soup, and traditional accompaniments on a black tray">
 
-The next morning I set out walking north from the hotel intending to check out Nijo-jo Castle and Kyoto Imperial Palace. It was a healthy 3.6km walk to Nijo-jo. 
+The next morning I set out walking north from the hotel intending to check out [Nijo-jo Castle](https://nijo-jocastle.city.kyoto.lg.jp/?lang=en) and [Kyoto Imperial Palace](https://kyoto-gosho.kunaicho.go.jp/en). It was a healthy 3.6km walk to Nijo-jo. 
 
 <img src="/assets/2024-kyoto-nijo1.jpg" width="75%" alt="Exterior view of Nijo-jo Castle in Kyoto showing traditional Japanese castle architecture with stone walls, white buildings with dark roofs, and bare winter trees">
 
@@ -127,13 +127,13 @@ Kamakura was where I first started to feel more at ease with being in Japan, and
 <img src="/assets/2024-kyoto-nijo2.jpg" width="75%" alt="Serene winter landscape at Nijo-jo Castle grounds featuring a traditional Japanese garden with a pond, stone lanterns, bare trees, and castle buildings in the background">
 The grounds of Nijo-jo
 
-From here Kyoto Imperial Palace is a relatively short 1.4km walk. I made my way from the south entrance to the grounds north toward the Palace but about half way there I hit a (metaphorical) wall. I was cold, tired of walking, and rain was threatening. I subway’d back home to the Kyoto train station, then hit the mall underneath for tonkatsu. I’m pretty sure I didn’t eat it right. 
+From here Kyoto Imperial Palace is a relatively short 1.4km walk. I made my way from the south entrance to the grounds north toward the Palace but about halfway there I hit a (metaphorical) wall. I was cold, tired of walking, and rain was threatening. I subway’d back home to the Kyoto train station, then hit the mall underneath for tonkatsu. I’m pretty sure I didn’t eat it right. 
 
 <img src="/assets/2024-kyoto-tonkatsu.jpg" width="75%" alt="Tonkatsu meal set at Kyoto Station showing breaded and fried pork cutlet with shredded cabbage, rice, miso soup, pickles, and dipping sauce in traditional Japanese presentation">
 
 **Kiyomizu-dera**
 
-The next morning I made an early start to see Kiyomizu-dera before the crowds hit this popular tourist spot.
+The next morning I made an early start to see [Kiyomizu-dera](https://www.kiyomizudera.or.jp/en/) before the crowds hit this popular tourist spot.
 
 <img src="/assets/20240209-kyoto-temple.jpg" width="75%" alt="Kiyomizu-dera Temple's iconic vermillion main hall with three-tiered pagoda against clear blue winter sky, stone stairs leading up to entrance, bare trees framing the historic Kyoto temple">
 <img src="/assets/2024-kiyo2.jpg" width="75%" alt="Interior view of Kiyomizu-dera Temple in Kyoto showing traditional wooden architecture with visitors walking through covered corridors and viewing platforms">
@@ -146,4 +146,4 @@ This was my last night in Kyoto and in Japan. I finished the day with some shopp
 
 Tomorrow I take the bullet train to Shinagawa station and then a local to Haneda airport. It will be a day of travel. 
 
-For next time in Kyoto I would want to stay in a different, less urban part of the city. I’d like to get the feel for a Kyoto neighborhood, versus the built-up area around the main train station. I’d also plan to visit Osaka (probably as a day trip) and Nara Park. 
+For next time in Kyoto I would want to stay in a different, less urban part of the city. I’d like to get the feel for a Kyoto neighborhood, versus the built-up area around the main train station. I’d also plan to visit Osaka (probably as a day trip) and [Nara Park](https://www.visitnara.jp/destinations/area/nara-park/). 

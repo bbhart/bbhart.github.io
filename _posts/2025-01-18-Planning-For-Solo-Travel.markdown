@@ -59,7 +59,7 @@ The next step is to go to booking.com and search up places to stay. I read revie
 
 With some actual lodging booked and ideas about where to stay the other nights, I can now pay attention to smaller details. In Switzerland, that means pricing out train trips between the proposed towns and seeing if the math on a [Swiss Half Fare Card](https://www.sbb.ch/en/tickets-offers/tickets/guests-abroad/swiss-halffare-card.html) makes sense[^3]. In Japan, that means Google Streetviewing the walk from my Asakusa subway station to my hotel. You get the idea; now we're in to the fun part of the planning. 
 
-Once on the ground, as the trip progresses, there's plenty of slack to adapt to changing interests or conditions. On my Japan trip, I swapped Kamakura for Osaka. On my last Switzerland trip, I opted for an overnight in Thun instead of another night in Zurich. Zero regrets about either choice.
+Once on the ground, as the trip progresses, there's plenty of slack to adapt to changing interests or conditions. On my Japan trip, I swapped Osaka for Kamakura. On my last Switzerland trip, I opted for an overnight in Thun instead of another night in Zurich. Zero regrets about either choice.
 
 The next solo trip I plan I'll try to do it in the open here on the blog, and then go back and compare after the trip is done. Now... where to go?
 

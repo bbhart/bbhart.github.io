@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:24:27Z",
+  "generated_at": "2026-11-25T23:33:24Z",
   "total_posts": 184,
   "trips": [
     {
@@ -1859,7 +1859,7 @@
           "title": "Japan Planning",
           "date": "2024-01-23 07:31:47 -0500",
           "url": "/travel/japan/2024/Japan-Planning.html",
-          "subtitle": "Where Brian realizes he probably shouldn't try to YOLO a 12 day trip to Japan",
+          "subtitle": "Where Brian realizes he probably shouldn't try to YOLO an 11 night trip to Japan",
           "categories": [
             "travel",
             "japan"
@@ -2003,14 +2003,14 @@
               "from": "Raleigh (RDU)",
               "to": "Minneapolis",
               "duration": "3 hours",
-              "airline": "Unknown"
+              "airline": "Delta"
             },
             {
               "type": "flight",
               "from": "Minneapolis",
               "to": "Tokyo-Haneda",
               "duration": "13.5 hours",
-              "airline": "Unknown"
+              "airline": "Delta"
             },
             {
               "type": "train",
@@ -2559,7 +2559,7 @@
           "transport": [
             {
               "type": "train",
-              "from": "Yokohama",
+              "from": "Shin-Yokohama",
               "to": "Kyoto",
               "line": "Shinkansen",
               "notes": "High-speed bullet train"
@@ -2585,13 +2585,13 @@
           "next_day_logistics": "Bullet train to Shinagawa Station, then a local train to Haneda Airport",
           "activities": [
             {
-              "day": 8,
+              "day": 7,
               "type": "travel",
-              "description": "Shinkansen train journey from Yokohama to Kyoto",
-              "location": "Yokohama to Kyoto"
+              "description": "Shinkansen train journey from Shin-Yokohama to Kyoto",
+              "location": "Shin-Yokohama to Kyoto"
             },
             {
-              "day": 8,
+              "day": 7,
               "type": "dining",
               "description": "Late lunch at mall restaurant in Kyoto Station",
               "location": "Kyoto Station"
@@ -2758,7 +2758,7 @@
             {
               "type": "train",
               "line": "Shinkansen",
-              "from": "Tokyo",
+              "from": "Shin-Yokohama",
               "to": "Kyoto",
               "duration": "2 hours",
               "class": "Green Car (business)",
@@ -2768,7 +2768,7 @@
           "activities": [
             {
               "type": "travel",
-              "description": "High-speed bullet train journey from Tokyo to Kyoto",
+              "description": "High-speed bullet train journey from Shin-Yokohama to Kyoto",
               "location": "Shinkansen"
             }
           ],
@@ -13272,6 +13272,7 @@
     "{\"day\"=>6, \"type\"=>\"sightseeing\", \"description\"=>\"Explored Dutch Colonial architecture and waterfront\", \"location\"=>\"Willemstad\"}",
     "{\"day\"=>6, \"type\"=>\"sightseeing\", \"description\"=>\"Post-snow storm temple visits to Sugimotodera and Hokokuji\", \"location\"=>\"Kamakura\", \"distance\"=>\"1 mile walk\"}",
     "{\"day\"=>7, \"type\"=>\"dining\", \"description\"=>\"Dinner in main dining room, daughter had two crème brûlées\", \"time\"=>\"Evening\", \"location\"=>\"Celebrity Eclipse\"}",
+    "{\"day\"=>7, \"type\"=>\"dining\", \"description\"=>\"Late lunch at mall restaurant in Kyoto Station\", \"location\"=>\"Kyoto Station\"}",
     "{\"day\"=>7, \"type\"=>\"dining\", \"description\"=>\"Lunch at sushi restaurant, bento box and sushi\", \"time\"=>\"Midday\", \"location\"=>\"St. John's Main Street\"}",
     "{\"day\"=>7, \"type\"=>\"dining\", \"description\"=>\"Premium dining at Murano French restaurant celebrating milestone\", \"location\"=>\"Celebrity Eclipse\"}",
     "{\"day\"=>7, \"type\"=>\"hiking\", \"description\"=>\"Hiked from ship up to Signal Hill summit via road\", \"time\"=>\"10:15am departure\", \"location\"=>\"St. John's to Signal Hill\"}",
@@ -13282,9 +13283,9 @@
     "{\"day\"=>7, \"type\"=>\"sightseeing\", \"description\"=>\"Walked back into town through colorful neighborhoods\", \"location\"=>\"St. John's\"}",
     "{\"day\"=>7, \"type\"=>\"sightseeing\", \"description\"=>\"Walking tour through downtown Kralendijk\", \"location\"=>\"Kralendijk, Bonaire\", \"participants\"=>\"Three family members (son stayed aboard with friend)\"}",
     "{\"day\"=>7, \"type\"=>\"sightseeing\", \"description\"=>\"Watched locals wave farewell from Signal Hill during sailaway\", \"time\"=>\"Afternoon\", \"location\"=>\"St. John's Harbor\"}",
+    "{\"day\"=>7, \"type\"=>\"travel\", \"description\"=>\"Shinkansen train journey from Shin-Yokohama to Kyoto\", \"location\"=>\"Shin-Yokohama to Kyoto\"}",
     "{\"day\"=>7, \"type\"=>\"walking\", \"description\"=>\"2km walk back to hotel from Kotoku-in\", \"location\"=>\"Kamakura\"}",
     "{\"day\"=>8, \"type\"=>\"dining\", \"description\"=>\"Kids went to main dining room 20 minutes late by themselves\", \"time\"=>\"Evening\", \"location\"=>\"Celebrity Eclipse\"}",
-    "{\"day\"=>8, \"type\"=>\"dining\", \"description\"=>\"Late lunch at mall restaurant in Kyoto Station\", \"location\"=>\"Kyoto Station\"}",
     "{\"day\"=>8, \"type\"=>\"dining\", \"description\"=>\"Parents dined at Tuscan Grille specialty restaurant\", \"time\"=>\"Evening\", \"location\"=>\"Celebrity Eclipse\"}",
     "{\"day\"=>8, \"type\"=>\"dining\", \"description\"=>\"Tonkatsu dinner at Kyoto Station mall\", \"location\"=>\"Kyoto Station\"}",
     "{\"day\"=>8, \"type\"=>\"relaxation\", \"description\"=>\"First of two sea days between St. John's and Greenland\", \"location\"=>\"Celebrity Eclipse\"}",
@@ -13293,7 +13294,6 @@
     "{\"day\"=>8, \"type\"=>\"sightseeing\", \"description\"=>\"Partial walk toward Kyoto Imperial Palace\", \"location\"=>\"Kyoto Imperial Palace grounds\", \"distance\"=>\"1.4km\"}",
     "{\"day\"=>8, \"type\"=>\"sightseeing\", \"description\"=>\"Walking tour to Nijo-jo Castle\", \"location\"=>\"Nijo-jo, Kyoto\", \"distance\"=>\"3.6km walk\"}",
     "{\"day\"=>8, \"type\"=>\"social\", \"description\"=>\"Kids finally made friends at Teen Lounge and played shipwide Hide & Seek past midnight\", \"time\"=>\"Evening\", \"location\"=>\"Celebrity Eclipse\"}",
-    "{\"day\"=>8, \"type\"=>\"travel\", \"description\"=>\"Shinkansen train journey from Yokohama to Kyoto\", \"location\"=>\"Yokohama to Kyoto\"}",
     "{\"day\"=>9, \"type\"=>\"celebration\", \"description\"=>\"Celebrated Rowan's birthday with Shirley Temples and a chocolate birthday cake\", \"time\"=>\"Evening\", \"location\"=>\"Le Petit Chef, Celebrity Eclipse\"}",
     "{\"day\"=>9, \"type\"=>\"dining\", \"description\"=>\"Birthday dinner for Rowan at Le Petit Chef, with projection shows on the history of tomatoes and the history of art before the courses\", \"time\"=>\"Evening\", \"location\"=>\"Celebrity Eclipse\"}",
     "{\"day\"=>9, \"type\"=>\"shopping\", \"description\"=>\"Shopping and 7-Eleven meal\", \"location\"=>\"Kyoto\"}",
@@ -13346,7 +13346,7 @@
     "{\"type\"=>\"sightseeing\", \"name\"=>\"Staubbach Falls\", \"location\"=>\"Lauterbrunnen\"}",
     "{\"type\"=>\"sightseeing\", \"name\"=>\"Thingvellir National Park visit\", \"location\"=>\"Thingvellir National Park\"}",
     "{\"type\"=>\"sightseeing\", \"name\"=>\"Walking tour of Appenzell town center\", \"location\"=>\"Appenzell\"}",
-    "{\"type\"=>\"travel\", \"description\"=>\"High-speed bullet train journey from Tokyo to Kyoto\", \"location\"=>\"Shinkansen\"}",
+    "{\"type\"=>\"travel\", \"description\"=>\"High-speed bullet train journey from Shin-Yokohama to Kyoto\", \"location\"=>\"Shinkansen\"}",
     "{\"type\"=>\"travel\", \"name\"=>\"Departure from Iceland\", \"location\"=>\"KEF\", \"date\"=>#<Date: 2023-06-19 ((2460115j,0s,0n),+0s,2299161j)>, \"time\"=>\"afternoon/evening\", \"flight_time\"=>\"4:45pm\", \"flight_duration\"=>\"6.5 hours\", \"arrival_time\"=>\"7:30pm EDT\", \"carrier\"=>\"Icelandair\", \"notes\"=>\"International departure back to United States\"}",
     "{\"type\"=>\"walking\", \"name\"=>\"Walking around Reykjavik\", \"location\"=>\"Reykjavik\", \"date\"=>#<Date: 2023-06-18 ((2460114j,0s,0n),+0s,2299161j)>, \"participants\"=>\"Brian and Siena\", \"duration\"=>\"Approximately 2.5 miles\", \"notes\"=>\"Exploring in the rain\"}"
   ],
@@ -15469,7 +15469,7 @@
       "title": "Japan Planning",
       "date": "2024-01-23 07:31:47 -0500",
       "url": "/travel/japan/2024/Japan-Planning.html",
-      "subtitle": "Where Brian realizes he probably shouldn't try to YOLO a 12 day trip to Japan",
+      "subtitle": "Where Brian realizes he probably shouldn't try to YOLO an 11 night trip to Japan",
       "categories": [
         "travel",
         "japan"
@@ -15613,14 +15613,14 @@
           "from": "Raleigh (RDU)",
           "to": "Minneapolis",
           "duration": "3 hours",
-          "airline": "Unknown"
+          "airline": "Delta"
         },
         {
           "type": "flight",
           "from": "Minneapolis",
           "to": "Tokyo-Haneda",
           "duration": "13.5 hours",
-          "airline": "Unknown"
+          "airline": "Delta"
         },
         {
           "type": "train",
@@ -16169,7 +16169,7 @@
       "transport": [
         {
           "type": "train",
-          "from": "Yokohama",
+          "from": "Shin-Yokohama",
           "to": "Kyoto",
           "line": "Shinkansen",
           "notes": "High-speed bullet train"
@@ -16195,13 +16195,13 @@
       "next_day_logistics": "Bullet train to Shinagawa Station, then a local train to Haneda Airport",
       "activities": [
         {
-          "day": 8,
+          "day": 7,
           "type": "travel",
-          "description": "Shinkansen train journey from Yokohama to Kyoto",
-          "location": "Yokohama to Kyoto"
+          "description": "Shinkansen train journey from Shin-Yokohama to Kyoto",
+          "location": "Shin-Yokohama to Kyoto"
         },
         {
-          "day": 8,
+          "day": 7,
           "type": "dining",
           "description": "Late lunch at mall restaurant in Kyoto Station",
           "location": "Kyoto Station"
@@ -16368,7 +16368,7 @@
         {
           "type": "train",
           "line": "Shinkansen",
-          "from": "Tokyo",
+          "from": "Shin-Yokohama",
           "to": "Kyoto",
           "duration": "2 hours",
           "class": "Green Car (business)",
@@ -16378,7 +16378,7 @@
       "activities": [
         {
           "type": "travel",
-          "description": "High-speed bullet train journey from Tokyo to Kyoto",
+          "description": "High-speed bullet train journey from Shin-Yokohama to Kyoto",
           "location": "Shinkansen"
         }
       ],

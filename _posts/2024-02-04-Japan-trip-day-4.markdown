@@ -95,7 +95,7 @@ Moving on…
 
 **Day 4**
 
-Today I wanted to explore other parts of Tokyo. I set my sights on Meiji Shrine, since it was in a different "neighborhood" / city, and it would take me to Shibuya. You possibly know Shibuya -- this famous crossing:
+Today I wanted to explore other parts of Tokyo. I set my sights on [Meiji Shrine](https://www.meijijingu.or.jp/en/), since it was in a different "neighborhood" / city, and it would take me to Shibuya. You possibly know Shibuya -- this famous crossing:
 
 <img src="/assets/2024-tokyo-crossing.jpg" width="75%" alt="Aerial view of Shibuya Scramble Crossing in Tokyo showing hundreds of pedestrians crossing the busy intersection in all directions, surrounded by bright commercial buildings, shops, and iconic signage including TSUTAYA and IKEA">
 
@@ -105,11 +105,11 @@ The train ride from Asakusa to Shibuya took about an hour (that orange line) on 
 
 <img src="/assets/2024-tokyo-subwayride.jpg" width="75%" alt="Tokyo subway map showing transit route from Asakusa to Shibuya City highlighted in orange, with estimated travel time of 1 hour 10 minutes displayed, showing the vast expanse of Tokyo's metro system">
 
-This is when I started to get an appreciation for how massive Tokyo is! I did the obligatory walk across the Shibuya Scramble Crossing and then wandered around a bit, soaking up the culture. It’s busy and noisy, so I just kind of meandered through the shopping area in the direction of the temple, which took around half an hour. 
+This is when I started to get an appreciation for how massive Tokyo is! I did the obligatory walk across the [Shibuya Scramble Crossing](https://www.gotokyo.org/en/spot/78/index.html) and then wandered around a bit, soaking up the culture. It’s busy and noisy, so I just kind of meandered through the shopping area in the direction of the shrine, which took around half an hour. 
 
 <img src="/assets/2024-tokyo-usbrands.jpg" width="75%" alt="Bustling Shibuya street scene showing mix of Western brands including British Pub, IKEA, and Burger King alongside traditional Japanese establishments, with pedestrians on cobblestone walkway">
 
-Outside the entrance to the temple there's a little cafe called [CAFÉ Mori no Terrace](https://www.meijikinenkan.gr.jp/forestterrace-en/facility/moricafe.html). I paused at to have a coffee, warm up from the chilly walk, and to people watch, after which I made my way into the park. 
+Outside the entrance to the shrine there's a little cafe called [CAFÉ Mori no Terrace](https://www.meijikinenkan.gr.jp/forestterrace-en/facility/moricafe.html). I paused there to have a coffee, warm up from the chilly walk, and to people watch, after which I made my way into the park. 
 
 <img src="/assets/2024-tokyo-bhshrine.jpg" width="75%" alt="Selfie at Meiji Shrine entrance with traditional wooden torii gate in background, surrounded by mature trees and other visitors, overcast winter day in Tokyo">
 
@@ -119,4 +119,4 @@ There was even this one area with a few restaurants that reminded me very much o
 
 <img src="/assets/2024-tokyo-shrine3.jpg" width="75%" alt="Modern glass-fronted cafe and restaurant buildings nestled among lush trees near Meiji Shrine, with visitors walking past directional signage, creating a Northern California-like atmosphere in Tokyo">
 
-After my time at the park and the temple, I hopped the subway and made my way back to Asakusa. Again I had sushi at the restaurant across from my hotel, wandered the neighborhood for a bit, then called it an early night. Tomorrow: taking the train to Kamakura, plus a snow storm! 
+After my time at the park and the shrine, I hopped the subway and made my way back to Asakusa. I had sushi at the restaurant across from my hotel, wandered the neighborhood for a bit, then called it an early night. Tomorrow: [taking the train to Kamakura]({% post_url 2024-02-07-Japan-trip-days-5-6-and-7 %}), plus a snow storm! 

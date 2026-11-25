@@ -120,7 +120,7 @@ notable_experiences:
 
 **Thank You**
 
-One of the confusing language things I ran across was how to express thanks. I don’t feel that Duolingo or Pimsleur prepared me for what would be one of the most common phrases I’d need. I don’t feel I ever nailed matching the formality for the situation. How should I thank the person who sold me a croissant? Who checked me in to the hotel? Who helped me understand the Shinkansen tickets need to be put into the turnstile both at the same time (which is unhinged)? 
+One of the confusing language things I ran across was how to express thanks. I don’t feel that Duolingo or Pimsleur prepared me for what would be one of the most common phrases I’d need. I don’t feel I ever nailed matching the formality for the situation. How should I thank the person who sold me a croissant? Who checked me in to the hotel? Who helped me understand both Shinkansen tickets need to go into the turnstile at the same time (which is unhinged)? 
  
 > Domo, domo arigato, domo arigato gozaimasu, arigato, arigato gozaimasu, arigato gozaimashita… 
  
@@ -130,7 +130,7 @@ I’m sure I left a 7-Eleven with the cashier thinking, “Wow, that gaijin was 
 
 Before I left for Japan, I knew I wanted to try to get out of the big cities for part of the trip but faced an abundance of choices that left me with decision paralysis. A former colleague suggested Kamakura: 
 
-> "You can cover the highlights in a day, like Tsurugaoka Hachimangu shrine and the ~35' tall bronze Great Buddha, but I enjoyed walking around the central area getting a feel for the town, which is on the smaller side. There are some beaches, and there are hiking trails in the hills that connect a number of temples."
+> "You can cover the highlights in a day, like [Tsurugaoka Hachimangu](https://www.hachimangu.or.jp/en/) shrine and the ~35' tall bronze Great Buddha, but I enjoyed walking around the central area getting a feel for the town, which is on the smaller side. There are some beaches, and there are hiking trails in the hills that connect a number of temples."
 
 That all sounded pretty good to me, plus it’s close to Tokyo. 
 
@@ -142,7 +142,7 @@ A light rain/sleet mix started when I was standing outside in Yokohama waiting f
 
 I think the severity of the snow storm took many by surprise. As the day went on the weather (and weather forecasts) became worse. The fact it was an icy snowy mix meant the sidewalks were all pretty slippery and it wasn’t easy to get around, so I mostly hunkered in my room and caught up on some jetlag sleep and writing. I did venture out mid-afternoon to grab some 7-Eleven lunch. 
 
-My room at the Hotel Metropolitan Kamakura. I loved this room! It overlooked one of the main streets of Kamakura.
+My room at the [Hotel Metropolitan Kamakura](https://kamakura.hotel-metropolitan.com/). I loved this room! It overlooked one of the main streets of Kamakura.
 
 <img src="/assets/2024-kamakura-hotel1.jpg" width="75%" alt="Modern hotel room at Hotel Metropolitan Kamakura with large window overlooking main street, featuring a bed, desk area, and contemporary furnishings">
 
@@ -154,17 +154,17 @@ Still snowing, though less now.
 
 <img src="/assets/2024-kamakura-snow.jpg" width="75%" alt="Snowy street scene in Kamakura with snow-covered trees, traditional Japanese buildings, and a lone pedestrian walking through the winter storm">
 
-I was heading to a tonkatsu place across the street but they ended up shoo’ing me away saying they were closing early due to storm.
+I was heading to a tonkatsu place across the street but they ended up shoo’ing me away saying they were closing early due to the storm.
 
 **Temples**
 
-As my colleague mentioned, there are a number of temples within walking distance of the downtown. On day 2 in Kamakura (day 6 overall), on my first morning after the snow storm I walked a mile to Sugimotodera. This was the smallest temple I would visit during my trip to Japan. It was also my favorite. There was another temple nearby, Hokokuji, so I walked over to that and had a visit. And then a nice walk on side streets back to my hotel. In the evening I walked down the street from my hotel to Tsurugaoka Hachimangu Shinto shrine. 
+As my colleague mentioned, there are a number of temples within walking distance of the downtown. On day 2 in Kamakura (day 6 overall), on my first morning after the snow storm I walked a mile to [Sugimoto-dera](https://en.wikipedia.org/wiki/Sugimoto-dera). This was the smallest temple I would visit during my trip to Japan. It was also my favorite. There was another temple nearby, [Hokokuji](https://visitkanagawa.jp/destination/hokoku-ji-temple/162), so I walked over to that and had a visit. And then a nice walk on side streets back to my hotel. In the evening I walked down the street from my hotel to Tsurugaoka Hachimangu Shinto shrine. 
 
-Day 3 here was sunny and warmer. I got an early start and took a short train ride over to Kotoku-in, happy to be in that place with nice weather and no crowds. I casually walked the 2km back to my hotel, checked out, and headed to the train station. Please enjoy 
+Day 3 here was sunny and warmer. I got an early start and took a [short train ride](https://www.enoden.co.jp/en/) over to [Kotoku-in](https://www.kotoku-in.jp/en/), happy to be in that place with nice weather and no crowds. I casually walked the 2km back to my hotel, checked out, and headed to the train station. Please enjoy 
 [my photos of Kamakura temples](https://photos.google.com/share/AF1QipMfjRVDWijkQQbaVU79hHeLEWjkg7TG4E7I4a0NGWA_tmfJG0lDiwgDSEgFQafzuA?key=VjYxYnAxUE9OOW1xbnRwOHBjUXF6WWFYVGNqLUxR).
 
 ***
  
 I was happy with my choice to visit Kamakura, and would definitely visit again… in warmer weather. It did end up being the right size for me — small enough for me not to be overwhelmed by buildings and people, but large enough for there to be plenty to see and do. This is where I started to become a little more comfortable (or a little less uncomfortable) with the overwhelming differentness of the language and culture. I wasn’t any better at reading signs or speaking Japanese, but I was at least less bothered by that fact, if that makes sense. 
 
-Next: I travel to Kyoto, including my first time on the Shinkansen bullet train, and trying to use the worst automated ticket machine ever invented. 
+Next: [I travel to Kyoto]({% post_url 2024-02-09-Japan-trip-days-8-and-9 %}), including [my first time on the Shinkansen]({% post_url 2024-03-18-Shinkansen %}) bullet train, and trying to use the worst automated ticket machine ever invented. 

@@ -9,14 +9,14 @@ categories: travel japan
 transport:
   - type: train
     line: Shinkansen
-    from: Tokyo
+    from: Shin-Yokohama
     to: Kyoto
     duration: 2 hours
     class: Green Car (business)
     cost: ~$100 USD
 activities:
   - type: travel
-    description: High-speed bullet train journey from Tokyo to Kyoto
+    description: High-speed bullet train journey from Shin-Yokohama to Kyoto
     location: Shinkansen
 locations:
   - name: Tokyo
@@ -46,11 +46,11 @@ The ticket machine is the worst automated kiosk I've ever encountered. Ever. I'v
 
 <img src="/assets/2024-shinkansen2.jpg" width="75%" alt="Shinkansen ticket kiosk screen requesting to insert tickets or Suica card, demonstrating the confusing 'enter ticket to buy ticket' requirement">
 
-**Why are you asking for a ticket if I’m trying to buy a ticket!** I do have a [Suica transit card](https://www.jreast.co.jp/multi/en/wsmlp/) — I’ve been using it for subways and at 7-Eleven for a week now — but it’s in my mobile wallet on my phone, and there’s no place to tap for that. Friends: I even watched YouTube videos the day before so I would know how to buy tickets from this cursed machine, but they never showed this screen. 
+**Why are you asking for a ticket if I’m trying to buy a ticket!** I do have a [Suica transit card](https://en.wikipedia.org/wiki/Suica) — I’ve been using it for subways and at 7-Eleven for a week now — but it’s in my mobile wallet on my phone, and there’s no place to tap for that. Friends: I even watched YouTube videos the day before so I would know how to buy tickets from this cursed machine, but they never showed this screen. 
 
 I ended up being able to make the machine spit out a physical ticket for me for the 11:31am train, but when I tried to use it on the turnstile of course it blared at me and flashed a red error message. I needed two tickets, one for the fare and one for the seat. For that I had to go around the corner and down this hall and did I mention this is happening at 11:25am and I’ve paid for a ticket on the 11:31am train? Fortunately the customer service line is moving (relatively) fast. The agent immediately recognizes what has happened, asks some version of “mobile card?”, I confirm yes, and they scan my mobile pass a few times for reasons that are opaque to me and then hand me two physical tickets. I’m to put these two tickets one on top of the other when I enter the turnstile. 
  
-From what I can gather, if you've opted to use a mobile train pass for your Japan trip, because it's the year 2024 after all, then the automated kiosks are closed to you. You have to either 1) register and use the SmartEx app to buy your tickets online, 2) buy your physical tickets online and have them hand-delivered to your hotel in a day or two (!!), which this is considered very normal here, 3) get a physical Suica transit card (and possibly load funds on it?), or 4) stand in line to buy physical tickets. 
+From what I can gather, if you've opted to use a mobile train pass for your Japan trip, because it's the year 2024 after all, then the automated kiosks are closed to you. You have to either 1) register and use the [smart EX app](https://smart-ex.jp/en/) to buy your tickets online, 2) buy your physical tickets online and have them hand-delivered to your hotel in a day or two (!!), which is considered very normal here, 3) get a physical Suica transit card (and possibly load funds on it?), or 4) stand in line to buy physical tickets. 
 
 When buying your ticket, be mindful of your luggage[^2]. Certain seats are designated for those who are traveling with a lot of luggage. If you’re traveling lighter — I had a smaller backpack plus a hiking-sized backpack about the size of a rollaboard — then you should have no problems finding space overhead and won’t need one of the special seats. 
 
@@ -79,7 +79,7 @@ This gets its own section. There are, of course, decent bathrooms onboard the tr
 
 **Conclusion**
 
-It’s cheaper to fly from Tokyo to Osaka than to take the shinkansen, but once you factor in the overall experience, I’m a fan of the high speed train. 
+It’s cheaper to fly from Tokyo to Osaka than to take the Shinkansen, but once you factor in the overall experience, I’m a fan of the high speed train. 
 
  **Footnotes**
 
