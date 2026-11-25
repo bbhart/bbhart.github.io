@@ -8,13 +8,15 @@ description: >-
   Last day in India. Low-grade sickness has kicked my ass the past few days.
   It’s something I picked up somewhere on the way to India, and…
 date: '2019-01-27T02:49:14.126Z'
-categories: []
+categories: travel india
+redirect_from:
+  - /2019/@bbhart_ca-jan-26-2019-367672cb4a50.html
 background: '/assets/20190124-leela-palace-gardens.jpg'
 keywords: []
 slug: /@bbhart_ca/jan-26-2019-367672cb4a50
 ---
 
-Last day in India. Low-grade sickness has kicked my ass the past few days. It’s something I picked up somewhere on the way to India, and then I haven’t been able to overcome it. The constant sore throat and sinus drip made it tough to sleep; my average has been 4 1/2–5 hours a night. Friday I surrendered to the cold and lack of sleep and didn’t leave the hotel room all day. Today (Saturday) I feel a little bit better. Today is also the day I start the long journey back to the States. I accomplished what I needed to here in Bangalore, I only wish I had felt better in the process.
+Last day in India. Low-grade sickness has kicked my ass the past few days. It’s something I picked up somewhere [on the way to India]({% post_url 2019-01-22-Jan-22-2019-253e7bce1806 %}), and then I haven’t been able to overcome it. The constant sore throat and sinus drip made it tough to sleep; my average has been 4 1/2–5 hours a night. Friday I surrendered to the cold and lack of sleep and didn’t leave the hotel all day. Today (Saturday) I feel a little bit better. Today is also the day I start the long journey back to the States. I accomplished what I needed to here in Bangalore, I only wish I had felt better in the process.
 
 <img src="/assets/20190124-leela-palace-gardens.jpg" alt="Sunlit gardens at The Leela Palace in Bengaluru on a hazy morning: a manicured lawn crossed by long palm shadows, a stand of tall coconut and fan palms heavy with fruit, dense tropical shrubs, a curving stone path at lower right, a pot of red and pink petunias in the corner, and the edge of a domed building visible through the fronds" width="100%" />
 
