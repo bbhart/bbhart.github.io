@@ -6,7 +6,7 @@ date: 2007-05-02
 categories: travel europe
 rollup_key: 2007eu
 tags: [april2007]
-# background: TBD — awaiting media
+background: '/assets/2007-europe-tangier-ship-from-tender-bg.jpg'
 author: Brian Hart
 description: Day 13 — the third and final sea day, given the coverage it deserves.
 locations:

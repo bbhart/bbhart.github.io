@@ -35,14 +35,14 @@ My triumphant return to Belgium after many years.
 
 Besides chocolate and lace, Belgium is known for waffles. And devil beer. In fact, I needed two waffles that day, they were so delicious. But I'm getting ahead of myself.
 
-We arrived in the busy port of Zeebrugge and boarded a shuttle bus that took us to Blankenberge. After some walking, a bloody finger, and a shared waffle, we hopped a train for Brugge. We managed to run into friends Dave and Pat (from yesterday's Paris trip) on the train — a happy accident — so we spent the day with them. One member of our party swears that during the train ride they saw a cow sitting down. I am skeptical.
+We arrived in the busy port of Zeebrugge and boarded a shuttle bus that took us to Blankenberge. After some walking, a bloody finger, and a shared waffle, we hopped a train for Brugge. We managed to run into friends Dave and Pat (from [yesterday's Paris trip]({% post_url 2007-04-22-europe-2007-day-3 %})) on the train — a happy accident — so we spent the day with them. One member of our party swears that during the train ride they saw a cow sitting down. I am skeptical.
 
 <figure>
     <img src="/assets/2007-europe-brugge-chocolats.jpg" alt="Brian, in a dark red polo and cargo shorts, stands on a cobbled Brugge street in front of a shop with a burgundy awning reading 'chocolats'; a Belgian flag and old stone buildings behind him." width="100%"/>
     <figcaption style="text-align: center; font-style:italic;">Brian outside a chocolate shop in Brugge, Belgium.</figcaption>
 </figure>
 
-If there's a poster child for the quaint European town, Brugge is it.
+If there's a poster child for the quaint European town, [Brugge](https://www.visitbruges.be/en) is it.
 
 <figure>
     <img src="/assets/2007-europe-brugge-canal.jpg" alt="A Brugge canal lined with medieval brick buildings and stepped gables; a small open tour boat full of passengers glides along the green water under an overcast sky." width="100%"/>

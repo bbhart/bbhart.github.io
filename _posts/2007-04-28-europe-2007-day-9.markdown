@@ -6,7 +6,7 @@ date: 2007-04-28
 categories: travel europe
 rollup_key: 2007eu
 tags: [april2007]
-# background: TBD — awaiting media
+background: '/assets/2007-europe-tangier-ship-from-tender-bg.jpg'
 author: Brian Hart
 description: Day 9 — the second sea day, faithfully reported in full.
 locations:

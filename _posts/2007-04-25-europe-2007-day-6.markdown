@@ -6,7 +6,7 @@ date: 2007-04-25
 categories: travel europe
 rollup_key: 2007eu
 tags: [april2007]
-# background: TBD — awaiting media
+background: '/assets/2007-europe-tangier-ship-from-tender-bg.jpg'
 author: Brian Hart
 description: Day 6 — the first sea day, the first formal night, and a last-minute rescue when the ship's shops turn out to sell the dress shirt I'd failed to find in Paris, Belgium, or Amsterdam.
 locations:
@@ -21,7 +21,7 @@ travel_sentiment: bored but tidy
 + **When**: Wednesday, April 25, 2007
 + **Where**: At sea
 
-I lied in the last post. I thought I'd skip right to La Rochelle, but I might as well mention sea day.
+I lied in [the last post]({% post_url 2007-04-24-europe-2007-day-5 %}). I thought I'd skip right to La Rochelle, but I might as well mention sea day.
 
 What can I say… it's a sea day. Sleep in late, annoy the housekeeping staff, try to find a free table in the buffeteria, read, pop by the casino, hope for better weather.
 

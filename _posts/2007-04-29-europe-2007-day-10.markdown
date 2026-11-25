@@ -27,7 +27,7 @@ travel_sentiment: warmed up over the day
 
 No tours planned for today. Technically this is my second visit to Portugal (we stopped in the Azores when I worked for Disney Cruise Line) but this was my first trip to the mainland.
 
-It took some time for Lisbon to grow on me. We started out around 10am, early for us, at the "bottom" of the city, near the water.
+It took some time for [Lisbon](https://www.visitlisboa.com/en) to grow on me. We started out around 10am, early for us, at the "bottom" of the city, near the water.
 
 <figure>
     <img src="/assets/2007-europe-lisbon-stepped-street-brian.jpg" alt="Brian, in a striped polo and sunglasses, stands on a steep stepped Lisbon street lined with pink and yellow buildings and café tables; the hilltop Castelo de São Jorge is visible across the city behind him." width="100%"/>
@@ -41,9 +41,9 @@ The city was still sleepy and it was chilly. There wasn't much going on at this 
     <figcaption style="text-align: center; font-style:italic;">The arcades of Praça do Comércio, Lisbon.</figcaption>
 </figure>
 
-It's hillier in Lisbon than I expected, but also I'd done no research. There's an elevator that will save you some uphill walking. We walked along what I perceived to be their Champs-Élysées.
+It's hillier in Lisbon than I expected, but also I'd done no research. There's an [elevator](https://en.wikipedia.org/wiki/Santa_Justa_Lift) that will save you some uphill walking. We walked along what I perceived to be their Champs-Élysées.
 
-Relaxed in a square for awhile.
+Relaxed in a square for a while.
 
 <figure>
     <img src="/assets/2007-europe-lisbon-camoes-square.jpg" alt="Lisbon's Praça Luís de Camões, a plaza with the bronze statue of Luís de Camões atop a stone pedestal ringed by smaller figures, surrounded by yellow and white buildings; people cross the square in the sun." width="100%"/>
@@ -59,7 +59,7 @@ We finally found an Internet cafe (our first of the trip, not counting the $.65/
 
 Then finally stopped around 2pm for an excellent lunch at Locanda Italiana.
 
-All in all it was a fun day and a neat city. BTW, Lisbon is the site of a sister bridge to the Golden Gate in SF, called the 25 de Abril Bridge:
+All in all it was a fun day and [a neat city]({% post_url 2026-08-04-England-and-Iberia-Day-7 %}). BTW, Lisbon is the site of a bridge often compared to the Golden Gate in SF, called the [25 de Abril Bridge](https://en.wikipedia.org/wiki/25_de_Abril_Bridge):
 
 <figure>
     <img src="/assets/2007-europe-lisbon-bridge-brian.jpg" alt="Brian, in a striped polo, stands on a broad concrete waterfront with the red 25 de Abril suspension bridge and the hilltop Cristo Rei statue across the Tagus river behind him." width="100%"/>

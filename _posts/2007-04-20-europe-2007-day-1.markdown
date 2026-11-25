@@ -6,9 +6,9 @@ date: 2007-04-20
 categories: travel europe
 rollup_key: 2007eu
 tags: [april2007]
-# background: TBD — awaiting media
+background: '/assets/2007-europe-london-eye-thames-bg.jpg'
 author: Brian Hart
-description: Day 1 of a 17-day transatlantic cruise trip with Sherri — the pre-trip scramble in New Jersey, an unwelcome wake-up call, and the overnight flight from Newark to London-Gatwick.
+description: Day 1 of a 17-day European cruise trip with Sherri — the pre-trip scramble in New Jersey, an unwelcome wake-up call, and the overnight flight from Newark to London-Gatwick.
 locations:
   - name: New Jersey
     country: United States
@@ -36,7 +36,7 @@ So now I'm up.
 
 Haircut at 11am so I'm looking wash-and-wear all day. Sherri arrives home from work a little after 1pm. We leave for Newark. Vacation has begun.
 
-The drive to Newark is mostly uneventful. I say mostly. The previous day our car vibrated in a weird way as I was heading to work… enough so that I pulled over to make sure I didn't have a flat. It went away shortly thereafter, but we felt some more vibrating on the NJ Turnpike on the way to catch our plane for our 15-day vacation. Fortunately FSM smiled a big noodly grin upon us and we were delivered safely to Newark.
+The drive to Newark is mostly uneventful. I say mostly. The previous day our car vibrated in a weird way as I was heading to work… enough so that I pulled over to make sure I didn't have a flat. It went away shortly thereafter, but we felt some more vibrating on the NJ Turnpike on the way to catch our plane for our 17-day vacation. Fortunately FSM smiled a big noodly grin upon us and we were delivered safely to Newark.
 
 Hooray! Economy parking was full! Even though we clearly saw empty spaces in the economy parking lot, we didn't argue when the Port Authority Lady gave us a voucher so we could park in monorail parking for economy rates. This is a good thing. I like the way things are shaping up so far. We even get a sweet parking spot along the fence.
 

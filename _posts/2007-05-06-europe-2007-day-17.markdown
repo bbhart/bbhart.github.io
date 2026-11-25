@@ -6,7 +6,7 @@ date: 2007-05-06
 categories: travel europe
 rollup_key: 2007eu
 tags: [april2007]
-# background: TBD — awaiting media
+background: '/assets/2007-europe-london-eye-thames-bg.jpg'
 author: Brian Hart
 description: Day 17 — an early start and a business-class glide past the wall of Gatwick lines, a quick flight home, and an easy reunion with luggage and car in Newark before the drive home. Seventeen days done.
 locations:

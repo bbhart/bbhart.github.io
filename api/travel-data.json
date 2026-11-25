@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:49:21Z",
+  "generated_at": "2026-11-25T23:59:01Z",
   "total_posts": 184,
   "trips": [
     {
@@ -371,7 +371,7 @@
           "locations": [
             {
               "name": "Gibraltar",
-              "country": "United Kingdom"
+              "country": "Gibraltar"
             }
           ],
           "transport": [
@@ -13736,7 +13736,7 @@
       "locations": [
         {
           "name": "Gibraltar",
-          "country": "United Kingdom"
+          "country": "Gibraltar"
         }
       ],
       "transport": [
@@ -14007,7 +14007,7 @@
       "title": "European Vacation 2007",
       "date": "2007-05-07 00:00:00 -0400",
       "url": "/travel/rollup/2007/europe-2007.html",
-      "subtitle": "A 14-night cruise with Sherri, plus two nights in Barcelona and one in London -- a trip spanning France, England, Belgium, the Netherlands, Spain, Portugal, Gibraltar, and Morocco.",
+      "subtitle": "A 12-night cruise with Sherri, plus two nights in Barcelona and one in London -- a trip spanning France, England, Belgium, the Netherlands, Spain, Portugal, Gibraltar, and Morocco.",
       "categories": [
         "travel",
         "rollup"
