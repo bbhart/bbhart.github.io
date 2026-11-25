@@ -7,7 +7,6 @@ categories: travel norway denmark
 rollup_key: 2025norway
 tags: [may2025]
 background: '/assets/20250518-copenhagen2.jpg'
-#background: '/assets/20250517-copenhagen-bg.jpg'
 trip_day: 11
 location_start: Copenhagen, Denmark
 location_end: Copenhagen, Denmark

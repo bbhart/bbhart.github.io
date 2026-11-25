@@ -61,11 +61,11 @@ weather: Clear and comfortable (high 50s F), beautiful fjord views
 - **Start of day:** Bergen, Norway ([Hotel Park](https://www.hotelpark.no/))
 - **End of day:** Balestrand, Norway ([Kviknes Hotel](https://en.kviknes.no/))
 
-This morning I woke up at 6am, beating my alarm clock by 45 minutes, after a night of broken sleep. This is the day I move from Bergen to Balestrand, still in Norway. 
+This morning I woke up at 6am, beating my alarm clock by 45 minutes, after a night of broken sleep. This is the day I move from Bergen to [Balestrand](https://www.fjordnorway.com/en/attractions/balestrand), still in Norway. 
 
 There were two departure options for the express ferry: 8:00am or 4:30pm. I waffled a lot on which one to take, weighing pros and cons of spending another day in Bergen vs being on my way. I felt I'd seen what I wanted to see in Bergen and was ready to experience small town Norway, so 8:00am was decided.
 
-The hotel reception desk wasn't open yet so I left my key next to their keyboard and grabbed an Uber. I'd debated hoofing the 1.3km from hotel to ferry terminal with my luggage but instead opted for an (expensive) Uber instead.[^1] 
+The hotel reception desk wasn't open yet so I left my key next to their keyboard and grabbed an Uber. I'd debated hoofing the 1.3km from hotel to ferry terminal with my luggage but opted for an (expensive) Uber instead.[^1] 
 
 The [ferry website](https://www.norled.no/en/express-boat-ferry/) is a little tricky to use but I was able to book the ticket the night before. We boarded at 7:35am and left promptly at 8:00am. 
 
@@ -73,15 +73,15 @@ The [ferry website](https://www.norled.no/en/express-boat-ferry/) is a little tr
 
 I don't think I realized how very "express" the express ferry was. Once we're out of the Bergen harbor, they gun it. Per my GPS we were hauling it at 37mph through these fjords, slowing for the occasional No Wake zones. If their paperwork didn't show anyone with a certain town as a stop, and there wasn't anybody waiting shoreside, they skipped the stop. We made perfect time to Balestrand.
 
-There's no way for me to adequately describe how amazing the trip was. Even my videos won't do it justice. Thirty minutes in and I'm thinking to myself "This might be the best $100 I've ever spent."
+There's no way for me to adequately describe how amazing the trip was. Even [my videos]({% post_url 2025-05-11-VIDEO-Bergen-to-Balestrand %}) won't do it justice. Thirty minutes in and I'm thinking to myself "This might be the best $100 I've ever spent."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-D4g7_tVOEo?si=5u0RwWY9OfzaiCiZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **One note for future Express Ferry travelers:** when you're nearing the stop, be sure you're ready to leave! This means fetching your bag from the aft storage and making your way to the front of the ferry. They aren't wasting a lot of time at each stop! Unfortunately I got stuck behind someone whose approach to problem-solving was to stand in the aisle and hope that everything worked out. I had to play my Loud American card, which I do sparingly.
 
-Regardless, I made it off, barely, and made the 100m walk to the [Hotel Kviknes](https://www.kviknes.no/), my home for the next two nights. There are two sections to the Kviknes: the historic part, with 25 rooms, and the modern (1960's) part with 165 rooms. I'm in the modern part, with the main reason being I wanted a nice, affordable balcony. It is not an attractive building, though; it's at odds with its surroundings. Frankly, it looks like one of the budget accommodations you'd find somewhere like Daytona Beach. But the room itself is nice, the view from the balcony is undeniable, and the staff is friendly. I relax in my room for a bit, then set out around 2pm for some lunch.
+Regardless, I made it off, barely, and made the 100m walk to the [Kviknes Hotel](https://en.kviknes.no/), my home for the next two nights. There are two sections to the Kviknes: the historic part, with 25 rooms, and the modern (1960's) part with 165 rooms. I'm in the modern part, with the main reason being I wanted a nice, affordable balcony. It is not an attractive building, though; it's at odds with its surroundings. Frankly, it looks like one of the budget accommodations you'd find somewhere like Daytona Beach. But the room itself is nice, the view from the balcony is undeniable, and the staff is friendly. I relax in my room for a bit, then set out around 2pm for some lunch.
 
-I don't have to go far. I find [Pearl by Harbor](https://www.instagram.com/pearl_by_harbor/) just outside the hotel. The grilled salmon, mashed potatoes, and grilled vegetables with teriyaki sauce exceeds all expectations! 
+I don't have to go far. I find [Pearl by Harbor](https://www.instagram.com/pearl_by_harbor/) just outside the hotel. The grilled salmon, mashed potatoes, and grilled vegetables with teriyaki sauce exceed all expectations! 
 
 <img src="/assets/20250511-pearl-lunch.jpg" alt="A meal is served on a small wooden outdoor table under a beige patio umbrella on a waterfront terrace in Balestrand, Norway. The dish features grilled salmon topped with a lemon slice, placed on mashed potatoes, accompanied by sautéed vegetables including zucchini and red bell pepper, and sprinkled with white and black sesame seeds. A glass of water and a carafe sit nearby on a white patterned plate. The setting includes more wooden tables and umbrellas, with a view of the Sognefjord, green forested hills, and a snow-capped mountain peak under a clear blue sky. A traditional Norwegian-style building and a flag with red, white, and blue colors are visible in the background." />
 

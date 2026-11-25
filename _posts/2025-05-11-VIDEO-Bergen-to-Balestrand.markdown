@@ -23,7 +23,7 @@ notable_experiences:
   - Teaching myself video editing techniques in DaVinci Resolve
 ---
 
-I used this voyage to teach myself editing techniques as well as DaVinci Resolve. 
+I used [this voyage]({% post_url 2025-05-11-Norway-and-Denmark-Day-4 %}) to teach myself editing techniques as well as [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eiEKrTF6Lws?si=eS7SB32nr-iC-cSN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

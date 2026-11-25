@@ -46,11 +46,11 @@ weather: Clear and sunny, blue sky
 
 I start the day after a **huge** sleep, logging almost 9 hours on the CPAP. One would like to believe my jet lag has been remedied and my internal clock has been reset. [Spoiler: nope.]
 
-As I mentioned at the end of yesterday, I intentionally booked a walking tour for this first full day in Bergen, to get me up and moving earlier than perhaps my body wanted to. I skipped hotel breakfast and casually made my way through downtown Bergen:
+As I mentioned [at the end of yesterday]({% post_url 2025-05-09-Norway-and-Denmark-Day-2 %}), I intentionally booked a walking tour for this first full day in Bergen, to get me up and moving earlier than perhaps my body wanted to. I skipped hotel breakfast and casually made my way through downtown Bergen:
 
 <img src="/assets/20250510-bergen1.jpg" alt="The image shows a picturesque town square with cobblestone pavement, surrounded by colorful historic buildings with European architectural styles. In the center of the square is a statue of a person standing on a pedestal, enclosed by a decorative green fence. The buildings display signs for various businesses, including an optician ('Briller-Kontaktlinser') and other shops. In the background, there is a green, tree-covered hillside dotted with small houses. The sky is clear and blue, and a few people are walking in the square, along with a white van parked nearby. The scene is bright and sunny." />
 
-Arriving at over to the [Bryggens Museum](https://bymuseet.no/museum/bryggens-museum/?lang=en) next to the waterfront for my scheduled tour:
+Arriving at the [Bryggens Museum](https://bymuseet.no/museum/bryggens-museum/?lang=en) next to the waterfront for my scheduled tour:
 
 <img src="/assets/20250510-bergen3.jpg" alt="The image shows the entrance to Bryggens Museum, a museum dedicated to medieval archaeological collections, as indicated by the large text on the building's exterior wall. The building is modern, with textured concrete walls and large windows. In front of the entrance, there are two display signs: one is a tall black pillar with museum information, and the other is a red sandwich board welcoming visitors in multiple languages, including Norwegian, English, French, Spanish, Italian, Arabic, and others. A small potted plant is placed near the glass entrance doors. The surrounding area is clean, with brick paving and some greenery in the background. The sky is clear and blue." />
 
@@ -72,7 +72,7 @@ The tour itself was fascinating! Not to spoil it for you but: there were lots of
 
 <img src="/assets/20250510-bergen10.jpg" alt="Narrow wooden alley lined with historic wooden buildings in the Bryggen area of Bergen, Norway, a UNESCO World Heritage site. The buildings have colorful facades in shades of brown, gray, and yellow, with overhanging upper stories and small windows. The alley is made of wooden planks, and the structures lean slightly inward, creating a cozy, old-world atmosphere. A few shop signs and decorations are visible, and the passage extends into the distance, ending in a brighter open area." />
 
-After the tour I wandered around the museum some on my own, after which I strolled over to the top of the harbour where they have a bunch of outside stalls selling mostly seafood (raw and prepared). I enjoyed this very fresh salmon sandwich and people-watched:
+After the tour I wandered around the museum some on my own, after which I strolled over to the top of the harbour where they have a bunch of [outside stalls selling mostly seafood](https://en.visitbergen.com/things-to-do/fish-market-in-bergen-p822253) (raw and prepared). I enjoyed this very fresh salmon sandwich and people-watched:
 
 <img src="/assets/20250510-bergen9.jpg" alt="A close-up of a table at an outdoor restaurant in Bergen, Norway, near the harbor. On the table is a silver tray holding a burger with lettuce, a patty, sprouts, and pickled onions. Beside it is a glass, a fork with a napkin, and a bottle of Coca-Cola. The restaurant area is under a red canopy with string lights, and outside, people are walking along the harbor with colorful historic buildings and a green hillside in the background under a clear blue sky." />
 
@@ -80,10 +80,10 @@ The rest of the afternoon I wandered aimlessly. I did have to stop in an "apothe
 
 <img src="/assets/20250510-sunscreen.jpg" alt="Several tubes of Cliniderm Caring Protection Sun Lotion SPF 25 are displayed on a store shelf. The white tubes have a simple design with the brand name and a circular logo at the top, an orange circle indicating Big Size, and text highlighting medium protection with UVA and UVB coverage. A shelf label below shows a 30% discount when buying two or more, with the price listed as 419.90 Norwegian kroner." />
 
-For dinner I opted for another bento box, this one from a place at the main train station.
+For dinner I opted for another bento box, this one from a place at the [main train station](https://en.wikipedia.org/wiki/Bergen_Station).
 
 <img src="/assets/20250510-bento.jpg" alt="The image shows a Japanese-style bento box containing a variety of foods. The box is divided into five compartments: 1. Top left: Slices of white fish sashimi placed on shredded daikon radish 2. Top right: Two grilled meat skewers topped with sesame seeds, served over a mixed salad containing edamame beans, cherry tomatoes, radish slices, and pink pickled vegetables. 3. Bottom left: Four pieces of sushi rolls filled with salmon and avocado, next to a row of peeled shrimp. Also included are a portion of seaweed salad, a small pile of pickled ginger, and a dollop of wasabi. 4. Bottom right: Pieces of tempura, possibly shrimp or vegetables, topped with a creamy sauce and a drizzle of sweet sauce. The meal is neatly arranged and colorful, offering a combination of raw, cooked, and fried elements typical of a Japanese bento." />
 
-With a 7:50am express ferry in the morning, I call it an early night.
+With a 8:00am express ferry in the morning, I call it an early night.
 
 [^1]: My understanding is this tour accommodates up to 25 people and can sell out in the summer.

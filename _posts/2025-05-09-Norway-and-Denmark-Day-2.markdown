@@ -83,7 +83,7 @@ Our flight was smooth, and how about this landing?
 
 On the ground, I wonder if I'll see my luggage come out on the carousel. It does! Off we go.
 
-The light rail from Bergen airport to my stop, called Nonneseter, takes around 45 minutes, after which I have an 800m or so walk (the last 200m very uphill) to my hotel. This was the first of several hotels which would end up being cool about me checking in early.
+The [light rail](https://en.wikipedia.org/wiki/Bergen_Light_Rail) from [Bergen airport](https://www.avinor.no/en/airport/bergen/) to my stop, called Nonneseter, takes around 45 minutes, after which I have an 800m or so walk (the last 200m very uphill) to my hotel. This was the first of several hotels which would end up being cool about me checking in early.
 
 The room is small but serviceable, a theme that would persist (by design) through the trip.
 
@@ -91,19 +91,19 @@ The room is small but serviceable, a theme that would persist (by design) throug
 
 <img src="/assets/20250509-park-hotel-2.jpg" alt="Another angle of small hotel room, this image showing a closed bathroom door and a window." />
 
-Instead of succumbing to my jet lag, I decide to summit a nearby mountain. By which I mean I paid ~$7.50 for a train to take me to the top. The base of the funicular is right in downtown Bergen, an easy 20 walk from the hotel. 
+Instead of succumbing to my jet lag, I decide to summit a nearby mountain. By which I mean I paid ~$7.50 for a train to take me to the top. The base of the [funicular](https://www.floyen.no/en) is right in downtown Bergen, an easy 20-minute walk from the hotel. 
 
 <img src="/assets/20250509-funicular.jpeg" alt="Fløibanen funicular train, showing the train traversing a steep hill." />
 
 <img src="/assets/20250509-floibanen-top.jpg" alt="Brian at the top of Fløyen with a view of downtown Bergen in the background." />
 
-The hike down Fløyen is beautiful, and no photo I'm able to take captures it well. 
+The hike down [Fløyen](https://en.wikipedia.org/wiki/Fl%C3%B8yen) is beautiful, and no photo I'm able to take captures it well. 
 
 <img src="/assets/20250509-hikedown.jpg" alt="Forested hiking trail." />
 
 It's around 300m of downhill, which my legs are not calibrated for. I do it, but the front of my quads and my shins are feeling jelly-adjacent. Meanwhile, I had at least one guy jog past me going up and then pass me going back down, and multiple other hikers and runners going uphill dressed for a casual walk. Mountain people are built different.
 
-I ended the day with some thin-noodles pad Thai near the hotel:
+I ended the day with some thin-noodle pad Thai near the hotel:
 
 <img src="/assets/20250509-padthai.jpg" alt="Dish of pad thai with thinner than average noodles." />
 
