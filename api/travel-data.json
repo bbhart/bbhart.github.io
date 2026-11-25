@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T15:01:55Z",
-  "total_posts": 172,
+  "generated_at": "2026-11-19T18:06:17Z",
+  "total_posts": 184,
   "trips": [
     {
       "rollup_key": "2007eu",
@@ -4770,9 +4770,9 @@
       "posts": [
         {
           "title": "Iceland Visit 2024 Day 1",
-          "date": "2024-09-03 00:00:00 -0400",
+          "date": "2024-08-16 00:00:00 -0400",
           "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-1.html",
-          "subtitle": "South coast of Iceland",
+          "subtitle": "Off the ship and down the south coast",
           "categories": [
             "travel",
             "iceland"
@@ -4920,7 +4920,7 @@
         },
         {
           "title": "Iceland Visit 2024 Day 2",
-          "date": "2024-09-21 00:00:00 -0400",
+          "date": "2024-08-17 00:00:00 -0400",
           "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-2.html",
           "subtitle": "South coast of Iceland",
           "categories": [
@@ -4999,7 +4999,7 @@
         },
         {
           "title": "Iceland Visit 2024 Day 3",
-          "date": "2024-09-22 00:00:00 -0400",
+          "date": "2024-08-18 00:00:00 -0400",
           "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-3.html",
           "subtitle": "Old Charm Reykjavik",
           "categories": [
@@ -5109,7 +5109,7 @@
         },
         {
           "title": "Iceland Visit 2024 Day 4",
-          "date": "2024-09-22 00:00:00 -0400",
+          "date": "2024-08-19 00:00:00 -0400",
           "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-4.html",
           "subtitle": "17 days of travel come to an end",
           "categories": [
@@ -8391,6 +8391,526 @@
             "Bag reclaim and recheck in Detroit",
             "Domestic flight from Detroit to Raleigh-Durham",
             "Arrival home in Holly Springs"
+          ]
+        }
+      ]
+    },
+    {
+      "rollup_key": "2026apexcaribbean",
+      "posts": [
+        {
+          "title": "Celebrity Apex Caribbean Day 1",
+          "date": "2026-01-16 00:00:00 -0500",
+          "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-1.html",
+          "subtitle": "Driving down I-95 to Yulee",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
+          "tags": [
+            "january2026"
+          ],
+          "rollup_key": "2026apexcaribbean",
+          "trip_stage": "pre-cruise",
+          "locations": [
+            {
+              "name": "Holly Springs",
+              "type": "town",
+              "country": "United States"
+            },
+            {
+              "name": "Florence, South Carolina",
+              "type": "town",
+              "country": "United States"
+            },
+            {
+              "name": "Yulee",
+              "type": "town",
+              "country": "United States"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Best Western Plus First Coast Inn & Suites",
+              "type": "hotel",
+              "location": "Yulee, FL",
+              "night": "1 of 1",
+              "notes": "Two rooms, split boys and girls"
+            }
+          ],
+          "transport": [
+            {
+              "type": "car",
+              "route": "Holly Springs, NC → Yulee, FL",
+              "notes": "I-95 south, with a Buc-ee's stop in Florence, SC"
+            }
+          ],
+          "dining": [
+            {
+              "venue": "Buc-ee's",
+              "meal": "lunch",
+              "location": "Florence, SC",
+              "dishes": "Chopped brisket sandwich"
+            },
+            {
+              "venue": "Anejo Mexican Restaurant",
+              "meal": "dinner",
+              "location": "Yulee, FL",
+              "dishes": "Taco salad"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
+          ]
+        },
+        {
+          "title": "Celebrity Apex Caribbean Day 2",
+          "date": "2026-01-17 00:00:00 -0500",
+          "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-2.html",
+          "subtitle": "Embarkation day at Port Canaveral",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
+          "tags": [
+            "january2026"
+          ],
+          "rollup_key": "2026apexcaribbean",
+          "trip_stage": "embarkation",
+          "locations": [
+            {
+              "name": "Port Canaveral",
+              "type": "port",
+              "country": "United States"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "1 of 7"
+            }
+          ],
+          "transport": [
+            {
+              "type": "car",
+              "route": "Yulee, FL → Port Canaveral, FL",
+              "notes": "Parked at the port for the week"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
+          ]
+        },
+        {
+          "title": "Celebrity Apex Caribbean Day 3",
+          "date": "2026-01-18 00:00:00 -0500",
+          "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-3.html",
+          "subtitle": "Sea day",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
+          "tags": [
+            "january2026"
+          ],
+          "rollup_key": "2026apexcaribbean",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "Atlantic Ocean",
+              "type": "ocean",
+              "country": "International waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "2 of 7"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
+          ]
+        },
+        {
+          "title": "Celebrity Apex Caribbean Day 4",
+          "date": "2026-01-19 00:00:00 -0500",
+          "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-4.html",
+          "subtitle": "Dominican Republic: ATVs and Taino Bay",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
+          "tags": [
+            "january2026"
+          ],
+          "rollup_key": "2026apexcaribbean",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "Puerto Plata",
+              "type": "port_city",
+              "country": "Dominican Republic"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "3 of 7"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Taino Bay",
+              "type": "cruise_terminal",
+              "location": "Puerto Plata"
+            }
+          ],
+          "activities": [
+            "ATV excursion with a river swim and lunch stop",
+            "Taino Bay lazy river"
+          ],
+          "dining": [
+            {
+              "venue": "ATV tour lunch stop",
+              "meal": "lunch",
+              "location": "Puerto Plata countryside",
+              "dishes": "Home-cooked Dominican specialties"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
+          ]
+        },
+        {
+          "title": "Celebrity Apex Caribbean Day 5",
+          "date": "2026-01-20 00:00:00 -0500",
+          "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-5.html",
+          "subtitle": "Walking the walls of Old San Juan, Puerto Rico",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
+          "tags": [
+            "january2026"
+          ],
+          "rollup_key": "2026apexcaribbean",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "San Juan",
+              "type": "port_city",
+              "country": "Puerto Rico"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "4 of 7"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Castillo San Felipe del Morro",
+              "type": "fortress",
+              "location": "San Juan National Historic Site"
+            },
+            {
+              "name": "Paseo de la Princesa",
+              "type": "promenade",
+              "location": "Old San Juan"
+            },
+            {
+              "name": "Paseo del Morro",
+              "type": "trail",
+              "location": "San Juan National Historic Site"
+            },
+            {
+              "name": "Santa María Magdalena de Pazzis Cemetery",
+              "type": "cemetery",
+              "location": "Old San Juan"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
+          ]
+        },
+        {
+          "title": "Celebrity Apex Caribbean Day 6",
+          "date": "2026-01-21 00:00:00 -0500",
+          "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-6.html",
+          "subtitle": "A taxi tour around St. Kitts",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
+          "tags": [
+            "january2026"
+          ],
+          "rollup_key": "2026apexcaribbean",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "Basseterre",
+              "type": "port_city",
+              "country": "Saint Kitts and Nevis"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "5 of 7"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Romney Manor",
+              "type": "historic_site",
+              "location": "Old Road, St. Kitts"
+            },
+            {
+              "name": "Brimstone Hill Fortress",
+              "type": "fortress",
+              "location": "St. Kitts"
+            },
+            {
+              "name": "Timothy Hill",
+              "type": "viewpoint",
+              "location": "St. Kitts"
+            }
+          ],
+          "activities": [
+            "Taxi tour of the island",
+            "Romney Manor and Caribelle Batik",
+            "Brimstone Hill Fortress",
+            "Lunch at a beach bar in Sandy Point",
+            "Timothy Hill overlook"
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
+          ]
+        },
+        {
+          "title": "Celebrity Apex Caribbean Day 7",
+          "date": "2026-01-22 00:00:00 -0500",
+          "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-7.html",
+          "subtitle": "Sea day",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
+          "tags": [
+            "january2026"
+          ],
+          "rollup_key": "2026apexcaribbean",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "Atlantic Ocean",
+              "type": "ocean",
+              "country": "International waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "6 of 7"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
+          ]
+        },
+        {
+          "title": "Celebrity Apex Caribbean Day 8",
+          "date": "2026-01-23 00:00:00 -0500",
+          "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-8.html",
+          "subtitle": "Last sea day",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
+          "tags": [
+            "january2026"
+          ],
+          "rollup_key": "2026apexcaribbean",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "Atlantic Ocean",
+              "type": "ocean",
+              "country": "International waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Apex",
+              "type": "cruise_ship",
+              "night": "7 of 7"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
+          ]
+        },
+        {
+          "title": "Celebrity Apex Caribbean Day 9",
+          "date": "2026-01-24 00:00:00 -0500",
+          "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-9.html",
+          "subtitle": "Disembarkation, Celebration, and on to Tampa",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
+          "tags": [
+            "january2026"
+          ],
+          "rollup_key": "2026apexcaribbean",
+          "trip_stage": "post-cruise",
+          "locations": [
+            {
+              "name": "Port Canaveral",
+              "type": "port",
+              "country": "United States"
+            },
+            {
+              "name": "Celebration",
+              "type": "town",
+              "country": "United States"
+            },
+            {
+              "name": "Tampa",
+              "type": "city",
+              "country": "United States"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Airbnb rental",
+              "type": "rental",
+              "location": "Tampa, FL",
+              "night": "1 of 2"
+            }
+          ],
+          "transport": [
+            {
+              "type": "car",
+              "route": "Port Canaveral → Celebration → Tampa"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
+          ]
+        },
+        {
+          "title": "Celebrity Apex Caribbean Day 10",
+          "date": "2026-01-25 00:00:00 -0500",
+          "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-10.html",
+          "subtitle": "A quiet day in Tampa",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
+          "tags": [
+            "january2026"
+          ],
+          "rollup_key": "2026apexcaribbean",
+          "trip_stage": "post-cruise",
+          "locations": [
+            {
+              "name": "Tampa",
+              "type": "city",
+              "country": "United States"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Airbnb rental",
+              "type": "rental",
+              "location": "Tampa, FL",
+              "night": "2 of 2"
+            }
+          ],
+          "dining": [
+            {
+              "venue": "4 Rivers Smokehouse",
+              "meal": "dinner",
+              "location": "Tampa, FL",
+              "notes": "Take-out"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
+          ]
+        },
+        {
+          "title": "Celebrity Apex Caribbean Day 11",
+          "date": "2026-01-26 00:00:00 -0500",
+          "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-11.html",
+          "subtitle": "The long drive home",
+          "categories": [
+            "travel",
+            "caribbean"
+          ],
+          "tags": [
+            "january2026"
+          ],
+          "rollup_key": "2026apexcaribbean",
+          "trip_stage": "return_travel",
+          "locations": [
+            {
+              "name": "Tampa",
+              "type": "city",
+              "country": "United States"
+            },
+            {
+              "name": "Florence, South Carolina",
+              "type": "town",
+              "country": "United States"
+            },
+            {
+              "name": "Holly Springs",
+              "type": "town",
+              "country": "United States"
+            }
+          ],
+          "transport": [
+            {
+              "type": "car",
+              "route": "Tampa, FL → Holly Springs, NC",
+              "notes": "Stops at a Stuckey's in Santee and Buc-ee's in Florence, SC"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter"
           ]
         }
       ]
@@ -12054,6 +12574,8 @@
     "Baltimore-Washington Airport (BWI)",
     "Barcelona",
     "Barcelona, Spain",
+    "Basseterre",
+    "Basseterre, Saint Kitts and Nevis",
     "Baulan",
     "Bay of Biscay",
     "Bayonne",
@@ -12087,6 +12609,8 @@
     "Carnaby Street",
     "Cartagena",
     "Cartagena, Spain",
+    "Celebration",
+    "Celebration, Florida",
     "Chamonix-Mont-Blanc",
     "Chichester",
     "Civitavecchia",
@@ -12110,6 +12634,7 @@
     "Elgiganten electronics store",
     "English Channel",
     "Farringdon",
+    "Florence, South Carolina",
     "Fløyen Mountain",
     "Fort Lauderdale",
     "Füssen",
@@ -12213,6 +12738,7 @@
     "Portimão, Portugal",
     "Porto (Leixões), Portugal",
     "Puerto Plata",
+    "Puerto Plata, Dominican Republic",
     "Qaqortoq",
     "Qaqortoq, Greenland",
     "Raleigh",
@@ -12231,6 +12757,7 @@
     "San Francisco",
     "San Francisco, California, USA",
     "San Juan",
+    "San Juan, Puerto Rico",
     "Sandsstølen viewpoint",
     "Schwangau",
     "Selfoss",
@@ -12257,6 +12784,8 @@
     "Sturlureykir Visiting Horse Farm",
     "Sun Voyager sculpture",
     "Sunnegga",
+    "Tampa",
+    "Tampa, Florida",
     "Tangier",
     "Tangier, Morocco",
     "Thingvellir National Park",
@@ -12285,6 +12814,8 @@
     "Willemstad",
     "Winchester",
     "Yokohama",
+    "Yulee",
+    "Yulee, Florida",
     "Zeebrugge",
     "Zeebrugge, Belgium",
     "Zermatt",
@@ -12304,6 +12835,7 @@
     "75 minutes waiting on sunny train platform",
     "A failed attempt at El Salón de Mi Casa, a cat café that never answered the bell",
     "A solo lunch at a local cafe",
+    "ATV excursion with a river swim and lunch stop",
     "Aerial photography of Greenland",
     "After-dinner drinks in the Panorama Lounge",
     "Afternoon RIB boat tour of the Algarve sea caves, including Benagil",
@@ -12329,6 +12861,7 @@
     "Breakfast",
     "Breakfast and coffee in the Centurion Lounge",
     "Breakfast at El Chef Urbano in Monte Alto",
+    "Brimstone Hill Fortress",
     "Brunch in Southwark",
     "Buffet lunch",
     "Bus journey through winter wonderland landscape",
@@ -12457,6 +12990,7 @@
     "Lunch at La Terrazza",
     "Lunch at Locanda Italiana",
     "Lunch at Romoletto on Campo de' Fiori",
+    "Lunch at a beach bar in Sandy Point",
     "Lunch from a hot dog stand outside the museum",
     "Lunch inside the La Boqueria market",
     "Lunch split between McDonald's and Taco Bell",
@@ -12519,6 +13053,7 @@
     "Riding Fløibanen funicular to Fløyen summit",
     "River walk promenade",
     "Rocky gorge trail with handrails",
+    "Romney Manor and Caribelle Batik",
     "Rooftop hotel views",
     "Sagrada Família",
     "Sailaway past the Getxo breakwater lighthouse",
@@ -12564,7 +13099,9 @@
     "Swimming at Bains des Paquis",
     "Switching to the Underground at Hatton Cross after Terminal 3 closed to car traffic",
     "TSA PreCheck",
+    "Taino Bay lazy river",
     "Tapas",
+    "Taxi tour of the island",
     "Terminal T to Terminal E connection in Atlanta",
     "Terminal check-in and boarding by arrival order",
     "The Guggenheim Museum Bilbao from the outside",
@@ -12572,6 +13109,7 @@
     "Time in Eden watching the wake",
     "Time in the spa binge-watching Widow's Bay",
     "Time-lapse of the Livorno sailaway from the dinner window",
+    "Timothy Hill overlook",
     "Tiramisu and people-watching at the Pantheon piazza",
     "Tomato festival",
     "Total solar eclipse from the top deck at sea",
@@ -17845,44 +18383,10 @@
       ]
     },
     {
-      "title": "Our cruise voyage from New York to Iceland in 2024",
-      "date": "2024-08-31 00:00:00 -0400",
-      "url": "/travel/rollup/2024/Iceland-Cruise-2024-recap.html",
-      "subtitle": "A rugged, chilly vacation sailing from New York to Iceland via Canada and Greenland",
-      "categories": [
-        "travel",
-        "rollup"
-      ],
-      "tags": [],
-      "rollup_key": null,
-      "trip_type": "rollup",
-      "trip_duration": "August 4-16, 2024",
-      "trip_duration_days": 12,
-      "locations_visited": [
-        "Bayonne, New Jersey, USA",
-        "Halifax, Nova Scotia, Canada",
-        "St. John's, Newfoundland, Canada",
-        "Qaqortoq, Greenland",
-        "Akureyri, Iceland",
-        "Ísafjörður, Iceland",
-        "Reykjavik, Iceland"
-      ],
-      "countries_visited": [
-        "USA",
-        "Canada",
-        "Greenland",
-        "Iceland"
-      ],
-      "transport": [
-        "Celebrity Eclipse cruise ship (Bayonne, NJ to Reykjavik, Iceland)",
-        "flights (Raleigh-Durham to the New York area)"
-      ]
-    },
-    {
       "title": "Iceland Visit 2024 Day 1",
-      "date": "2024-09-03 00:00:00 -0400",
+      "date": "2024-08-16 00:00:00 -0400",
       "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-1.html",
-      "subtitle": "South coast of Iceland",
+      "subtitle": "Off the ship and down the south coast",
       "categories": [
         "travel",
         "iceland"
@@ -18030,7 +18534,7 @@
     },
     {
       "title": "Iceland Visit 2024 Day 2",
-      "date": "2024-09-21 00:00:00 -0400",
+      "date": "2024-08-17 00:00:00 -0400",
       "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-2.html",
       "subtitle": "South coast of Iceland",
       "categories": [
@@ -18109,7 +18613,7 @@
     },
     {
       "title": "Iceland Visit 2024 Day 3",
-      "date": "2024-09-22 00:00:00 -0400",
+      "date": "2024-08-18 00:00:00 -0400",
       "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-3.html",
       "subtitle": "Old Charm Reykjavik",
       "categories": [
@@ -18219,7 +18723,7 @@
     },
     {
       "title": "Iceland Visit 2024 Day 4",
-      "date": "2024-09-22 00:00:00 -0400",
+      "date": "2024-08-19 00:00:00 -0400",
       "url": "/travel/iceland/2024/Iceland-Visit-2024-Day-4.html",
       "subtitle": "17 days of travel come to an end",
       "categories": [
@@ -18277,6 +18781,40 @@
         "family (Sherri, Rowan, and the girls)"
       ],
       "travel_sentiment": "Ready to be home after 17 days of travel, tired and still a little sick and homesick"
+    },
+    {
+      "title": "Our cruise voyage from New York to Iceland in 2024",
+      "date": "2024-08-31 00:00:00 -0400",
+      "url": "/travel/rollup/2024/Iceland-Cruise-2024-recap.html",
+      "subtitle": "A rugged, chilly vacation sailing from New York to Iceland via Canada and Greenland",
+      "categories": [
+        "travel",
+        "rollup"
+      ],
+      "tags": [],
+      "rollup_key": null,
+      "trip_type": "rollup",
+      "trip_duration": "August 4-16, 2024",
+      "trip_duration_days": 12,
+      "locations_visited": [
+        "Bayonne, New Jersey, USA",
+        "Halifax, Nova Scotia, Canada",
+        "St. John's, Newfoundland, Canada",
+        "Qaqortoq, Greenland",
+        "Akureyri, Iceland",
+        "Ísafjörður, Iceland",
+        "Reykjavik, Iceland"
+      ],
+      "countries_visited": [
+        "USA",
+        "Canada",
+        "Greenland",
+        "Iceland"
+      ],
+      "transport": [
+        "Celebrity Eclipse cruise ship (Bayonne, NJ to Reykjavik, Iceland)",
+        "flights (Raleigh-Durham to the New York area)"
+      ]
     },
     {
       "title": "Iceland post-cruise visit 2024",
@@ -21778,6 +22316,560 @@
             "getting_around_reykjavik"
           ]
         }
+      ]
+    },
+    {
+      "title": "Celebrity Apex Caribbean Day 1",
+      "date": "2026-01-16 00:00:00 -0500",
+      "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-1.html",
+      "subtitle": "Driving down I-95 to Yulee",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
+      "tags": [
+        "january2026"
+      ],
+      "rollup_key": "2026apexcaribbean",
+      "trip_stage": "pre-cruise",
+      "locations": [
+        {
+          "name": "Holly Springs",
+          "type": "town",
+          "country": "United States"
+        },
+        {
+          "name": "Florence, South Carolina",
+          "type": "town",
+          "country": "United States"
+        },
+        {
+          "name": "Yulee",
+          "type": "town",
+          "country": "United States"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Best Western Plus First Coast Inn & Suites",
+          "type": "hotel",
+          "location": "Yulee, FL",
+          "night": "1 of 1",
+          "notes": "Two rooms, split boys and girls"
+        }
+      ],
+      "transport": [
+        {
+          "type": "car",
+          "route": "Holly Springs, NC → Yulee, FL",
+          "notes": "I-95 south, with a Buc-ee's stop in Florence, SC"
+        }
+      ],
+      "dining": [
+        {
+          "venue": "Buc-ee's",
+          "meal": "lunch",
+          "location": "Florence, SC",
+          "dishes": "Chopped brisket sandwich"
+        },
+        {
+          "venue": "Anejo Mexican Restaurant",
+          "meal": "dinner",
+          "location": "Yulee, FL",
+          "dishes": "Taco salad"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
+      ]
+    },
+    {
+      "title": "Celebrity Apex Caribbean Day 2",
+      "date": "2026-01-17 00:00:00 -0500",
+      "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-2.html",
+      "subtitle": "Embarkation day at Port Canaveral",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
+      "tags": [
+        "january2026"
+      ],
+      "rollup_key": "2026apexcaribbean",
+      "trip_stage": "embarkation",
+      "locations": [
+        {
+          "name": "Port Canaveral",
+          "type": "port",
+          "country": "United States"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "1 of 7"
+        }
+      ],
+      "transport": [
+        {
+          "type": "car",
+          "route": "Yulee, FL → Port Canaveral, FL",
+          "notes": "Parked at the port for the week"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
+      ]
+    },
+    {
+      "title": "Celebrity Apex Caribbean Day 3",
+      "date": "2026-01-18 00:00:00 -0500",
+      "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-3.html",
+      "subtitle": "Sea day",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
+      "tags": [
+        "january2026"
+      ],
+      "rollup_key": "2026apexcaribbean",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "Atlantic Ocean",
+          "type": "ocean",
+          "country": "International waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "2 of 7"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
+      ]
+    },
+    {
+      "title": "Celebrity Apex Caribbean Day 4",
+      "date": "2026-01-19 00:00:00 -0500",
+      "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-4.html",
+      "subtitle": "Dominican Republic: ATVs and Taino Bay",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
+      "tags": [
+        "january2026"
+      ],
+      "rollup_key": "2026apexcaribbean",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "Puerto Plata",
+          "type": "port_city",
+          "country": "Dominican Republic"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "3 of 7"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Taino Bay",
+          "type": "cruise_terminal",
+          "location": "Puerto Plata"
+        }
+      ],
+      "activities": [
+        "ATV excursion with a river swim and lunch stop",
+        "Taino Bay lazy river"
+      ],
+      "dining": [
+        {
+          "venue": "ATV tour lunch stop",
+          "meal": "lunch",
+          "location": "Puerto Plata countryside",
+          "dishes": "Home-cooked Dominican specialties"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
+      ]
+    },
+    {
+      "title": "Celebrity Apex Caribbean Day 5",
+      "date": "2026-01-20 00:00:00 -0500",
+      "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-5.html",
+      "subtitle": "Walking the walls of Old San Juan, Puerto Rico",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
+      "tags": [
+        "january2026"
+      ],
+      "rollup_key": "2026apexcaribbean",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "San Juan",
+          "type": "port_city",
+          "country": "Puerto Rico"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "4 of 7"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Castillo San Felipe del Morro",
+          "type": "fortress",
+          "location": "San Juan National Historic Site"
+        },
+        {
+          "name": "Paseo de la Princesa",
+          "type": "promenade",
+          "location": "Old San Juan"
+        },
+        {
+          "name": "Paseo del Morro",
+          "type": "trail",
+          "location": "San Juan National Historic Site"
+        },
+        {
+          "name": "Santa María Magdalena de Pazzis Cemetery",
+          "type": "cemetery",
+          "location": "Old San Juan"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
+      ]
+    },
+    {
+      "title": "Celebrity Apex Caribbean Day 6",
+      "date": "2026-01-21 00:00:00 -0500",
+      "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-6.html",
+      "subtitle": "A taxi tour around St. Kitts",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
+      "tags": [
+        "january2026"
+      ],
+      "rollup_key": "2026apexcaribbean",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "Basseterre",
+          "type": "port_city",
+          "country": "Saint Kitts and Nevis"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "5 of 7"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Romney Manor",
+          "type": "historic_site",
+          "location": "Old Road, St. Kitts"
+        },
+        {
+          "name": "Brimstone Hill Fortress",
+          "type": "fortress",
+          "location": "St. Kitts"
+        },
+        {
+          "name": "Timothy Hill",
+          "type": "viewpoint",
+          "location": "St. Kitts"
+        }
+      ],
+      "activities": [
+        "Taxi tour of the island",
+        "Romney Manor and Caribelle Batik",
+        "Brimstone Hill Fortress",
+        "Lunch at a beach bar in Sandy Point",
+        "Timothy Hill overlook"
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
+      ]
+    },
+    {
+      "title": "Celebrity Apex Caribbean Day 7",
+      "date": "2026-01-22 00:00:00 -0500",
+      "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-7.html",
+      "subtitle": "Sea day",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
+      "tags": [
+        "january2026"
+      ],
+      "rollup_key": "2026apexcaribbean",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "Atlantic Ocean",
+          "type": "ocean",
+          "country": "International waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "6 of 7"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
+      ]
+    },
+    {
+      "title": "Celebrity Apex Caribbean Day 8",
+      "date": "2026-01-23 00:00:00 -0500",
+      "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-8.html",
+      "subtitle": "Last sea day",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
+      "tags": [
+        "january2026"
+      ],
+      "rollup_key": "2026apexcaribbean",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "Atlantic Ocean",
+          "type": "ocean",
+          "country": "International waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Apex",
+          "type": "cruise_ship",
+          "night": "7 of 7"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
+      ]
+    },
+    {
+      "title": "Celebrity Apex Caribbean Day 9",
+      "date": "2026-01-24 00:00:00 -0500",
+      "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-9.html",
+      "subtitle": "Disembarkation, Celebration, and on to Tampa",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
+      "tags": [
+        "january2026"
+      ],
+      "rollup_key": "2026apexcaribbean",
+      "trip_stage": "post-cruise",
+      "locations": [
+        {
+          "name": "Port Canaveral",
+          "type": "port",
+          "country": "United States"
+        },
+        {
+          "name": "Celebration",
+          "type": "town",
+          "country": "United States"
+        },
+        {
+          "name": "Tampa",
+          "type": "city",
+          "country": "United States"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Airbnb rental",
+          "type": "rental",
+          "location": "Tampa, FL",
+          "night": "1 of 2"
+        }
+      ],
+      "transport": [
+        {
+          "type": "car",
+          "route": "Port Canaveral → Celebration → Tampa"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
+      ]
+    },
+    {
+      "title": "Celebrity Apex Caribbean Day 10",
+      "date": "2026-01-25 00:00:00 -0500",
+      "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-10.html",
+      "subtitle": "A quiet day in Tampa",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
+      "tags": [
+        "january2026"
+      ],
+      "rollup_key": "2026apexcaribbean",
+      "trip_stage": "post-cruise",
+      "locations": [
+        {
+          "name": "Tampa",
+          "type": "city",
+          "country": "United States"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Airbnb rental",
+          "type": "rental",
+          "location": "Tampa, FL",
+          "night": "2 of 2"
+        }
+      ],
+      "dining": [
+        {
+          "venue": "4 Rivers Smokehouse",
+          "meal": "dinner",
+          "location": "Tampa, FL",
+          "notes": "Take-out"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
+      ]
+    },
+    {
+      "title": "Celebrity Apex Caribbean Day 11",
+      "date": "2026-01-26 00:00:00 -0500",
+      "url": "/travel/caribbean/2026/Celebrity-Apex-Caribbean-Day-11.html",
+      "subtitle": "The long drive home",
+      "categories": [
+        "travel",
+        "caribbean"
+      ],
+      "tags": [
+        "january2026"
+      ],
+      "rollup_key": "2026apexcaribbean",
+      "trip_stage": "return_travel",
+      "locations": [
+        {
+          "name": "Tampa",
+          "type": "city",
+          "country": "United States"
+        },
+        {
+          "name": "Florence, South Carolina",
+          "type": "town",
+          "country": "United States"
+        },
+        {
+          "name": "Holly Springs",
+          "type": "town",
+          "country": "United States"
+        }
+      ],
+      "transport": [
+        {
+          "type": "car",
+          "route": "Tampa, FL → Holly Springs, NC",
+          "notes": "Stops at a Stuckey's in Santee and Buc-ee's in Florence, SC"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
+      ]
+    },
+    {
+      "title": "Celebrity Apex Caribbean in 2026",
+      "date": "2026-01-27 00:00:00 -0500",
+      "url": "/travel/rollup/2026/Celebrity-Apex-Caribbean-recap.html",
+      "subtitle": "Puerto Plata, San Juan and St. Kitts aboard the Celebrity Apex, with a few extra days in Tampa",
+      "categories": [
+        "travel",
+        "rollup"
+      ],
+      "tags": [],
+      "rollup_key": null,
+      "trip_type": "cruise",
+      "trip_duration": "January 16 - January 26, 2026",
+      "trip_duration_days": 11,
+      "locations_visited": [
+        "Yulee, Florida",
+        "Port Canaveral, Florida",
+        "Puerto Plata, Dominican Republic",
+        "San Juan, Puerto Rico",
+        "Basseterre, Saint Kitts and Nevis",
+        "Celebration, Florida",
+        "Tampa, Florida"
+      ],
+      "countries_visited": [
+        "United States",
+        "Dominican Republic",
+        "Puerto Rico",
+        "Saint Kitts and Nevis"
+      ],
+      "transport": [
+        "Car",
+        "Celebrity Apex cruise"
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter"
       ]
     },
     {

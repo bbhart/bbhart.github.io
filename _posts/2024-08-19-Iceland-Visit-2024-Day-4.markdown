@@ -2,11 +2,11 @@
 layout: post
 title: Iceland Visit 2024 Day 4
 subtitle: 17 days of travel come to an end
-date:  2024-09-22
+date:  2024-08-19
 categories: travel iceland
 tags: [reykjavik, iceland]
 rollup_key: 2024icelandonland
-background: '/assets/20240819-iceland-outside-apartment.jpg'
+background: '/assets/20240819-reykjavik-apartment-street-bg.jpg'
 trip_day: 4
 day_type: travel_day
 trip_stage: post-cruise
@@ -39,8 +39,6 @@ challenges:
   - Killing about four hours at the airport with luggage in tow
   - A not-great Uber experience from RDU
 ---
-
-Documenting **August 19, 2024**.
 
 Today we say goodbye to our apartment and Iceland.
 

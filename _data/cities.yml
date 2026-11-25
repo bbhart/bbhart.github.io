@@ -37,6 +37,11 @@ Barcelona:
   country: Spain
   stays: {2007eu: 2, 2026iberia: 0}
   aliases: ["Barcelona, Spain"]
+Basseterre:
+  coords: [17.296, -62.725]
+  country: Saint Kitts and Nevis
+  stays: {2026apexcaribbean: 0}
+  aliases: ["Basseterre, Saint Kitts and Nevis"]
 Bayonne:
   coords: [40.669, -74.114]
   country: United States
@@ -85,6 +90,11 @@ Cartagena:
   country: Spain
   stays: {2026romesilversea: 0}
   aliases: ["Cartagena, Spain"]
+Celebration:
+  coords: [28.317, -81.541]
+  country: United States
+  day_trips: [2026apexcaribbean]
+  aliases: ["Celebration, Florida"]
 Chamonix-Mont-Blanc:
   coords: [45.924, 6.869]
   country: France
@@ -250,7 +260,7 @@ Ponta Delgada:
 Port Canaveral:
   coords: [28.410, -80.618]
   country: United States
-  stays: {2026transatlantic: 0}
+  stays: {2026transatlantic: 0, 2026apexcaribbean: 0}
   aliases: ["Port Canaveral, Florida"]
 Portimão:
   coords: [37.138, -8.537]
@@ -260,7 +270,7 @@ Portimão:
 Puerto Plata:
   coords: [19.793, -70.689]
   country: Dominican Republic
-  stays: {2024wintercaribbean: 0}
+  stays: {2024wintercaribbean: 0, 2026apexcaribbean: 0}
 Qaqortoq:
   coords: [60.719, -46.036]
   country: Greenland
@@ -293,7 +303,7 @@ Royal Naval Dockyard:
 San Juan:
   coords: [18.466, -66.106]
   country: Puerto Rico
-  stays: {2024wintercaribbean: 0}
+  stays: {2024wintercaribbean: 0, 2026apexcaribbean: 0}
 Schwangau:
   coords: [47.577, 10.739]
   country: Germany
@@ -323,6 +333,11 @@ Steinar:
   country: Iceland
   stays: {2024icelandonland: 2}
   aliases: ["Steinar, South Iceland"]
+Tampa:
+  coords: [27.932, -82.493]
+  country: United States
+  stays: {2026apexcaribbean: 2}
+  aliases: ["Tampa, Florida"]
 Tangier:
   coords: [35.759, -5.834]
   country: Morocco
@@ -373,6 +388,11 @@ Winchester:
   coords: [51.063, -1.308]
   country: United Kingdom
   day_trips: [2026transatlantic]
+Yulee:
+  coords: [30.632, -81.606]
+  country: United States
+  stays: {2026apexcaribbean: 1}
+  aliases: ["Yulee, Florida"]
 Zeebrugge:
   coords: [51.333, 3.207]
   country: Belgium

@@ -95,8 +95,6 @@ Iceland-Visit-2024-recap:
   year: 2024
   start: 2024-08-16
   end: 2024-08-19
-  # The day posts went up September 3-22, after the trip.
-  posted_until: 2024-09-22
   pin: [63.419, -19.006]
   stops:
     - [Reykjavik, 64.146, -21.942]
@@ -151,6 +149,21 @@ Switzerland-and-Germany-recap:
     - [Füssen, 47.571, 10.701, 1]
     - [Garmisch-Partenkirchen, 47.492, 11.095, 3]
     - [Munich, 48.135, 11.582, 3]
+
+Celebrity-Apex-Caribbean-recap:
+  rollup_key: 2026apexcaribbean
+  label: Celebrity Apex Caribbean
+  year: 2026
+  start: 2026-01-16
+  end: 2026-01-26
+  pin: [18.466, -66.106]
+  stops:
+    - [Yulee, 30.632, -81.606, 1]
+    - [Port Canaveral, 28.410, -80.618]
+    - [Puerto Plata, 19.793, -70.689]
+    - [San Juan, 18.466, -66.106]
+    - [Basseterre, 17.296, -62.725]
+    - [Tampa, 27.932, -82.493, 2]
 
 Rome-and-Silversea-recap:
   rollup_key: 2026romesilversea

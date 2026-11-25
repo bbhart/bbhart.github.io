@@ -2,11 +2,11 @@
 layout: post
 title: Iceland Visit 2024 Day 3
 subtitle: Old Charm Reykjavik
-date:  2024-09-22
+date:  2024-08-18
 categories: travel iceland
 tags: [reykjavik, iceland]
 rollup_key: 2024icelandonland
-background: '/assets/20240818-iceland-park.jpg'
+background: '/assets/20240818-reykjavik-sun-voyager-bg.jpg'
 trip_day: 3
 day_type: road_trip
 trip_stage: post-cruise
@@ -71,8 +71,6 @@ challenges:
   - Rowan still too sick to get out and about
   - Reykjavik Supercharger nearly full; grabbed the last spot just before another car had to wait
 ---
-
-Documenting **August 18, 2024**.
 
 Today we're on the South Coast of Iceland and in Reykjavik proper.
 
