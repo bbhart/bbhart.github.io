@@ -46,7 +46,7 @@ companions:
 
 Our 3:19 PM flight was delayed by more than 4 hours. 
 
-<img src="/assets/20250628-rdu-gate-d17-delay.jpg" alt="Gate D17 at Raleigh-Durham International Airport, where an overhead screen shows United Flight 1891 to Newark, scheduled for 3:19 PM, with the status reading 'Now 7:44' while the current time in the corner reads 6:29 PM. Two passengers stand at the gate counter talking with a United agent in a blue jacket, beside a 'Need travel assistance?' sign, a 'Welcome! Please have a seat until your group is called' boarding-lane sign, and a black rolling suitcase" width="100%" />
+<img src="/assets/20250628-rdu-gate-d17-delay.jpg" alt="Gate D17 at Raleigh-Durham International Airport, where an overhead screen shows United Flight 1891 to Newark, scheduled for 3:19 PM, with the status reading 'Now 7:44' while the current time in the corner reads 6:29 PM. Two passengers stand at the gate counter talking with a United agent in a blue jacket, beside a 'Need travel assistance?' sign, a 'Welcome! Please have a seat until your group is called' boarding-lane sign, and a black rolling suitcase. A white-framed zoomed-in inset in the lower right enlarges the gate screen so the 3:19 PM scheduled time, the red 'Now 7:44' status, and the 6:29 PM current time are easy to read" width="100%" />
 
 At some point during a delay like that, you start to question whether the flight will go off at all, and what your contingencies might be. With six people, we don't have a large enough car for everyone, so I started browsing the rental car agency website to see what was available. 
 
