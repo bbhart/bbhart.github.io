@@ -2,7 +2,7 @@
 layout: post
 title: Norway and Denmark in 2025
 subtitle: Exploring Bergen, Balestrand, Voss, Oslo, and Copenhagen
-date:  2025-07-03
+date:  2025-05-19
 categories: travel rollup
 destination: norway
 background: '/assets/20250512-hike7-bg.jpeg'
