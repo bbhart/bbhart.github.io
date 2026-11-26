@@ -3,7 +3,6 @@ layout: post
 title: Celebrity Silhouette Bermuda Day 4
 subtitle: Canada Day at sea
 date:  2025-07-01
-published: false
 categories: travel bermuda
 rollup_key: 2025silhouettebermuda
 tags: [july2025]

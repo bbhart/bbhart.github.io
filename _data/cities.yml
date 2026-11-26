@@ -45,7 +45,7 @@ Basseterre:
 Bayonne:
   coords: [40.669, -74.114]
   country: United States
-  stays: {2024icelandcruise: 0}
+  stays: {2024icelandcruise: 0, 2025silhouettebermuda: 0}
   aliases: ["Bayonne, New Jersey, USA"]
 Bengaluru:
   coords: [12.972, 77.594]
@@ -140,6 +140,11 @@ Halifax:
   country: Canada
   stays: {2024icelandcruise: 0}
   aliases: ["Halifax, Nova Scotia, Canada"]
+Hamilton:
+  coords: [32.293, -64.782]
+  country: Bermuda
+  day_trips: [2025silhouettebermuda]
+  aliases: ["Hamilton, Bermuda"]
 Húsafell:
   coords: [64.700, -20.867]
   country: Iceland
@@ -298,7 +303,7 @@ Rome:
 Royal Naval Dockyard:
   coords: [32.327, -64.834]
   country: Bermuda
-  stays: {2026transatlantic: 0}
+  stays: {2025silhouettebermuda: 0, 2026transatlantic: 0}
   aliases: ["Royal Naval Dockyard, Bermuda"]
 San Juan:
   coords: [18.466, -66.106]

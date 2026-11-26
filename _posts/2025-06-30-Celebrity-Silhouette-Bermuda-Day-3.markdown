@@ -3,7 +3,6 @@ layout: post
 title: Celebrity Silhouette Bermuda Day 3
 subtitle: Sea day - breakfast at the Spa Café and lunch at Sushi on Five
 date:  2025-06-30
-published: false
 categories: travel bermuda
 rollup_key: 2025silhouettebermuda
 tags: [june2025]

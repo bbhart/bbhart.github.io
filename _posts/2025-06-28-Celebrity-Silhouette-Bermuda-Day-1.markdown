@@ -3,7 +3,6 @@ layout: post
 title: Celebrity Silhouette Bermuda Day 1
 subtitle: A very delayed United flight to Newark
 date:  2025-06-28
-published: false
 categories: travel bermuda
 rollup_key: 2025silhouettebermuda
 tags: [june2025]

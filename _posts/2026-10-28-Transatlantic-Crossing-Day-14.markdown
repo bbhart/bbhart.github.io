@@ -41,7 +41,7 @@ companions:
 
 Land ho! Bermuda!
 
-We were here in Bermuda, at the Royal Naval Dockyard, just last year aboard the Celebrity Silhouette with my parents. For that cruise we docked on a Wednesday and stayed until Friday, overnighting 2 nights. This would be a one day visit, with overcast skies all day threatening rain, and sustained winds above 20 knots. I didn't have an excursion planned for today and heard that several were canceled.
+We were here in Bermuda, at the Royal Naval Dockyard, just last year [aboard the Celebrity Silhouette with my parents]({% post_url 2025-07-02-Celebrity-Silhouette-Bermuda-Day-5 %}). For that cruise we docked on a Wednesday and stayed until Friday, overnighting 2 nights. This would be a one day visit, with overcast skies all day threatening rain, and sustained winds above 20 knots. I didn't have an excursion planned for today and heard that several were canceled.
 
 Here's us traversing the channels to get to the port.
 

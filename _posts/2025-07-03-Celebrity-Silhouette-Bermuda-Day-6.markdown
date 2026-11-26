@@ -3,7 +3,6 @@ layout: post
 title: Celebrity Silhouette Bermuda Day 6
 subtitle: In Bermuda, ferry to Hamilton to see Sherri's uncle Bobby
 date:  2025-07-03
-published: false
 categories: travel bermuda
 rollup_key: 2025silhouettebermuda
 tags: [july2025]

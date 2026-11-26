@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T23:59:01Z",
-  "total_posts": 184,
+  "generated_at": "2026-11-26T18:42:30Z",
+  "total_posts": 194,
   "trips": [
     {
       "rollup_key": "2007eu",
@@ -7098,6 +7098,495 @@
       ]
     },
     {
+      "rollup_key": "2025silhouettebermuda",
+      "posts": [
+        {
+          "title": "Celebrity Silhouette Bermuda Day 1",
+          "date": "2025-06-28 00:00:00 -0400",
+          "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-1.html",
+          "subtitle": "A very delayed United flight to Newark",
+          "categories": [
+            "travel",
+            "bermuda"
+          ],
+          "tags": [
+            "june2025"
+          ],
+          "rollup_key": "2025silhouettebermuda",
+          "trip_stage": "pre-cruise",
+          "locations": [
+            {
+              "name": "Holly Springs",
+              "type": "town",
+              "country": "United States"
+            },
+            {
+              "name": "Raleigh-Durham International Airport",
+              "type": "airport",
+              "country": "United States"
+            },
+            {
+              "name": "Newark Liberty International Airport",
+              "type": "airport",
+              "country": "United States"
+            },
+            {
+              "name": "Elizabeth",
+              "type": "city",
+              "country": "United States"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Embassy Suites by Hilton Newark Airport",
+              "type": "hotel",
+              "location": "Elizabeth, NJ",
+              "night": "1 of 1"
+            }
+          ],
+          "transport": [
+            {
+              "type": "flight",
+              "carrier": "United",
+              "route": "RDU → EWR",
+              "notes": "Very delayed"
+            },
+            {
+              "type": "rideshare",
+              "provider": "Uber",
+              "route": "Newark Liberty International Airport → Embassy Suites Newark Airport"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter",
+            "parents"
+          ]
+        },
+        {
+          "title": "Celebrity Silhouette Bermuda Day 2",
+          "date": "2025-06-29 00:00:00 -0400",
+          "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-2.html",
+          "subtitle": "Embarkation and sailing out of New York Harbor",
+          "categories": [
+            "travel",
+            "bermuda"
+          ],
+          "tags": [
+            "june2025"
+          ],
+          "rollup_key": "2025silhouettebermuda",
+          "trip_stage": "embarkation",
+          "locations": [
+            {
+              "name": "Elizabeth",
+              "type": "city",
+              "country": "United States"
+            },
+            {
+              "name": "Bayonne",
+              "type": "port_city",
+              "country": "United States"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Silhouette",
+              "type": "cruise_ship",
+              "night": "1 of 7"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Cape Liberty Cruise Port",
+              "type": "cruise_terminal",
+              "location": "Bayonne, NJ"
+            }
+          ],
+          "transport": [
+            {
+              "type": "rideshare",
+              "provider": "Uber",
+              "route": "Embassy Suites Newark Airport → Cape Liberty Cruise Port",
+              "notes": "About 20 minutes"
+            },
+            {
+              "type": "cruise",
+              "line": "Celebrity Cruises",
+              "vessel": "Celebrity Silhouette",
+              "route": "Cape Liberty, NJ → Royal Naval Dockyard, Bermuda"
+            }
+          ],
+          "dining": [
+            {
+              "venue": "Grand Cuvée",
+              "meal": "dinner",
+              "location": "Celebrity Silhouette, Deck 3",
+              "notes": "Select Dining, late seating at 8:30pm, table 246"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter",
+            "parents"
+          ]
+        },
+        {
+          "title": "Celebrity Silhouette Bermuda Day 3",
+          "date": "2025-06-30 00:00:00 -0400",
+          "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-3.html",
+          "subtitle": "Sea day - breakfast at the Spa Café and lunch at Sushi on Five",
+          "categories": [
+            "travel",
+            "bermuda"
+          ],
+          "tags": [
+            "june2025"
+          ],
+          "rollup_key": "2025silhouettebermuda",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "At sea",
+              "type": "at_sea",
+              "country": "International Waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Silhouette",
+              "type": "cruise_ship",
+              "night": "2 of 7"
+            }
+          ],
+          "dining": [
+            {
+              "venue": "Spa Café",
+              "meal": "breakfast",
+              "location": "Celebrity Silhouette, Solarium"
+            },
+            {
+              "venue": "Sushi on Five",
+              "meal": "lunch",
+              "location": "Celebrity Silhouette"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter",
+            "parents"
+          ]
+        },
+        {
+          "title": "Celebrity Silhouette Bermuda Day 4",
+          "date": "2025-07-01 00:00:00 -0400",
+          "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-4.html",
+          "subtitle": "Canada Day at sea",
+          "categories": [
+            "travel",
+            "bermuda"
+          ],
+          "tags": [
+            "july2025"
+          ],
+          "rollup_key": "2025silhouettebermuda",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "At sea",
+              "type": "at_sea",
+              "country": "International Waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Silhouette",
+              "type": "cruise_ship",
+              "night": "3 of 7"
+            }
+          ],
+          "dining": [
+            {
+              "venue": "Buffet",
+              "meal": "lunch",
+              "location": "Celebrity Silhouette",
+              "dishes": "Poutine and chicken à la king for Canada Day"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter",
+            "parents"
+          ]
+        },
+        {
+          "title": "Celebrity Silhouette Bermuda Day 5",
+          "date": "2025-07-02 00:00:00 -0400",
+          "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-5.html",
+          "subtitle": "Arriving at the Royal Naval Dockyard, Bermuda",
+          "categories": [
+            "travel",
+            "bermuda"
+          ],
+          "tags": [
+            "july2025"
+          ],
+          "rollup_key": "2025silhouettebermuda",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "Royal Naval Dockyard",
+              "type": "port_city",
+              "country": "Bermuda"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Silhouette",
+              "type": "cruise_ship",
+              "night": "4 of 7",
+              "notes": "Docked overnight at Royal Naval Dockyard"
+            }
+          ],
+          "venues": [
+            {
+              "name": "Clocktower Mall",
+              "type": "shopping_centre",
+              "location": "Royal Naval Dockyard"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise",
+              "line": "Celebrity Cruises",
+              "vessel": "Celebrity Silhouette",
+              "route": "Arrival at Royal Naval Dockyard, Bermuda"
+            }
+          ],
+          "activities": [
+            "Wandering the shops of the Clocktower Mall and the Dockyard"
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter",
+            "parents"
+          ]
+        },
+        {
+          "title": "Celebrity Silhouette Bermuda Day 6",
+          "date": "2025-07-03 00:00:00 -0400",
+          "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-6.html",
+          "subtitle": "In Bermuda, ferry to Hamilton to see Sherri's uncle Bobby",
+          "categories": [
+            "travel",
+            "bermuda"
+          ],
+          "tags": [
+            "july2025"
+          ],
+          "rollup_key": "2025silhouettebermuda",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "Royal Naval Dockyard",
+              "type": "port_city",
+              "country": "Bermuda"
+            },
+            {
+              "name": "Hamilton",
+              "type": "city",
+              "country": "Bermuda"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Silhouette",
+              "type": "cruise_ship",
+              "night": "5 of 7",
+              "notes": "Docked overnight at Royal Naval Dockyard"
+            }
+          ],
+          "transport": [
+            {
+              "type": "ferry",
+              "route": "Royal Naval Dockyard → Hamilton"
+            },
+            {
+              "type": "ferry",
+              "route": "Hamilton → Royal Naval Dockyard"
+            }
+          ],
+          "activities": [
+            "Ferry to Hamilton to meet Sherri's uncle Bobby"
+          ],
+          "dining": [
+            {
+              "venue": "Grand Cuvée",
+              "meal": "dinner",
+              "location": "Celebrity Silhouette, Deck 3"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter",
+            "parents"
+          ]
+        },
+        {
+          "title": "Celebrity Silhouette Bermuda Day 7",
+          "date": "2025-07-04 00:00:00 -0400",
+          "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-7.html",
+          "subtitle": "In Bermuda, the National Museum of Bermuda and a Fourth of July party",
+          "categories": [
+            "travel",
+            "bermuda"
+          ],
+          "tags": [
+            "july2025"
+          ],
+          "rollup_key": "2025silhouettebermuda",
+          "trip_stage": "port_call",
+          "locations": [
+            {
+              "name": "Royal Naval Dockyard",
+              "type": "port_city",
+              "country": "Bermuda"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Silhouette",
+              "type": "cruise_ship",
+              "night": "6 of 7"
+            }
+          ],
+          "venues": [
+            {
+              "name": "National Museum of Bermuda",
+              "type": "museum",
+              "location": "Royal Naval Dockyard"
+            }
+          ],
+          "transport": [
+            {
+              "type": "cruise",
+              "line": "Celebrity Cruises",
+              "vessel": "Celebrity Silhouette",
+              "route": "Royal Naval Dockyard, Bermuda → Cape Liberty, NJ"
+            }
+          ],
+          "activities": [
+            "National Museum of Bermuda, including the Commissioner's House",
+            "Fourth of July party in the Grand Foyer"
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter",
+            "parents"
+          ]
+        },
+        {
+          "title": "Celebrity Silhouette Bermuda Day 8",
+          "date": "2025-07-05 00:00:00 -0400",
+          "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-8.html",
+          "subtitle": "Sea day",
+          "categories": [
+            "travel",
+            "bermuda"
+          ],
+          "tags": [
+            "july2025"
+          ],
+          "rollup_key": "2025silhouettebermuda",
+          "trip_stage": "at_sea",
+          "locations": [
+            {
+              "name": "At sea",
+              "type": "at_sea",
+              "country": "International Waters"
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Celebrity Silhouette",
+              "type": "cruise_ship",
+              "night": "7 of 7"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter",
+            "parents"
+          ]
+        },
+        {
+          "title": "Celebrity Silhouette Bermuda Day 9",
+          "date": "2025-07-06 00:00:00 -0400",
+          "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-9.html",
+          "subtitle": "Sunrise in New York Harbor and the flight home",
+          "categories": [
+            "travel",
+            "bermuda"
+          ],
+          "tags": [
+            "july2025"
+          ],
+          "rollup_key": "2025silhouettebermuda",
+          "trip_stage": "disembarkation",
+          "locations": [
+            {
+              "name": "Bayonne",
+              "type": "port_city",
+              "country": "United States"
+            },
+            {
+              "name": "Newark Liberty International Airport",
+              "type": "airport",
+              "country": "United States"
+            },
+            {
+              "name": "Raleigh-Durham International Airport",
+              "type": "airport",
+              "country": "United States"
+            },
+            {
+              "name": "Holly Springs",
+              "type": "town",
+              "country": "United States"
+            }
+          ],
+          "transport": [
+            {
+              "type": "rideshare",
+              "provider": "Uber",
+              "route": "Cape Liberty Cruise Port → Newark Liberty International Airport",
+              "notes": "Easy pickup after self-service disembarkation, ahead of the crowds"
+            },
+            {
+              "type": "flight",
+              "carrier": "United",
+              "route": "EWR → RDU",
+              "notes": "On time"
+            }
+          ],
+          "companions": [
+            "wife",
+            "son",
+            "daughter",
+            "parents"
+          ]
+        }
+      ]
+    },
+    {
       "rollup_key": "2025chde",
       "posts": [
         {
@@ -12652,6 +13141,8 @@
     "Efstidalur II",
     "Efstidalur II Farm & Restaurant",
     "Elgiganten electronics store",
+    "Elizabeth",
+    "Elizabeth, New Jersey, USA",
     "English Channel",
     "Farringdon",
     "Florence, South Carolina",
@@ -12672,6 +13163,8 @@
     "Halifax",
     "Halifax Harbor",
     "Halifax, Nova Scotia, Canada",
+    "Hamilton",
+    "Hamilton, Bermuda",
     "Hartsfield-Jackson Atlanta International Airport",
     "Holly Springs",
     "Holly Springs, NC",
@@ -12952,6 +13445,7 @@
     "Farewell group dinner aboard at S.A.L.T.",
     "Farm visit at Efstidalur II",
     "Feira da Ladra flea market",
+    "Ferry to Hamilton to meet Sherri's uncle Bobby",
     "Filling out Japan customs and immigration form online",
     "Final full sea day of the cruise",
     "Finding EAT HAPPY sushi stall",
@@ -12964,6 +13458,7 @@
     "Flying home",
     "Food truck lunch",
     "Four hour layover in Iceland with wild weather",
+    "Fourth of July party in the Grand Foyer",
     "Gelato at MYO",
     "Geothermal hot tub",
     "Gondola ride to mountain summit (1295m elevation)",
@@ -13028,6 +13523,7 @@
     "Málaga Cathedral and the Museo Picasso, seen from outside",
     "Mürren to Grütschalp hike",
     "National Express coach from Heathrow to Southampton",
+    "National Museum of Bermuda, including the Commissioner's House",
     "Navigating Copenhagen public transit systems",
     "Navigating baggage tag confusion at Southwest check-in",
     "Navigating departures and Schengen-exit border control at LIS",
@@ -13191,6 +13687,7 @@
     "Wandering Las Ramblas",
     "Wandering Westquay",
     "Wandering the medina",
+    "Wandering the shops of the Clocktower Mall and the Dockyard",
     "Watching Norwegian fjords from deck",
     "Watching the kids play a game of chess",
     "Watching the ship pass through the Strait of Gibraltar and past the Rock of Gibraltar",
@@ -20790,6 +21287,36 @@
       "weather": "Rainy and gray"
     },
     {
+      "title": "Norway and Denmark in 2025",
+      "date": "2025-05-19 00:00:00 -0400",
+      "url": "/travel/rollup/2025/Norway-and-Denmark-2025-recap.html",
+      "subtitle": "Exploring Bergen, Balestrand, Voss, Oslo, and Copenhagen",
+      "categories": [
+        "travel",
+        "rollup"
+      ],
+      "tags": [],
+      "rollup_key": null,
+      "trip_type": "rollup",
+      "trip_duration": "May 8-19, 2025",
+      "trip_duration_days": 12,
+      "locations_visited": [
+        "Bergen, Norway",
+        "Balestrand, Norway",
+        "Voss, Norway",
+        "Oslo, Norway",
+        "Copenhagen, Denmark"
+      ],
+      "countries_visited": [
+        "Norway",
+        "Denmark"
+      ],
+      "transport": [
+        "transatlantic flights",
+        "DFDS Nordic Crown ferry (Oslo to Copenhagen)"
+      ]
+    },
+    {
       "title": "Norway and Denmark Day 12",
       "date": "2025-05-19 00:00:00 -0400",
       "url": "/travel/norway/denmark/2025/Norway-and-Denmark-Day-12.html",
@@ -20867,33 +21394,522 @@
       "weather": "Clear and sunny in Copenhagen, clear skies over Greenland"
     },
     {
-      "title": "Norway and Denmark in 2025",
+      "title": "Celebrity Silhouette Bermuda Day 1",
+      "date": "2025-06-28 00:00:00 -0400",
+      "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-1.html",
+      "subtitle": "A very delayed United flight to Newark",
+      "categories": [
+        "travel",
+        "bermuda"
+      ],
+      "tags": [
+        "june2025"
+      ],
+      "rollup_key": "2025silhouettebermuda",
+      "trip_stage": "pre-cruise",
+      "locations": [
+        {
+          "name": "Holly Springs",
+          "type": "town",
+          "country": "United States"
+        },
+        {
+          "name": "Raleigh-Durham International Airport",
+          "type": "airport",
+          "country": "United States"
+        },
+        {
+          "name": "Newark Liberty International Airport",
+          "type": "airport",
+          "country": "United States"
+        },
+        {
+          "name": "Elizabeth",
+          "type": "city",
+          "country": "United States"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Embassy Suites by Hilton Newark Airport",
+          "type": "hotel",
+          "location": "Elizabeth, NJ",
+          "night": "1 of 1"
+        }
+      ],
+      "transport": [
+        {
+          "type": "flight",
+          "carrier": "United",
+          "route": "RDU → EWR",
+          "notes": "Very delayed"
+        },
+        {
+          "type": "rideshare",
+          "provider": "Uber",
+          "route": "Newark Liberty International Airport → Embassy Suites Newark Airport"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter",
+        "parents"
+      ]
+    },
+    {
+      "title": "Celebrity Silhouette Bermuda Day 2",
+      "date": "2025-06-29 00:00:00 -0400",
+      "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-2.html",
+      "subtitle": "Embarkation and sailing out of New York Harbor",
+      "categories": [
+        "travel",
+        "bermuda"
+      ],
+      "tags": [
+        "june2025"
+      ],
+      "rollup_key": "2025silhouettebermuda",
+      "trip_stage": "embarkation",
+      "locations": [
+        {
+          "name": "Elizabeth",
+          "type": "city",
+          "country": "United States"
+        },
+        {
+          "name": "Bayonne",
+          "type": "port_city",
+          "country": "United States"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Silhouette",
+          "type": "cruise_ship",
+          "night": "1 of 7"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Cape Liberty Cruise Port",
+          "type": "cruise_terminal",
+          "location": "Bayonne, NJ"
+        }
+      ],
+      "transport": [
+        {
+          "type": "rideshare",
+          "provider": "Uber",
+          "route": "Embassy Suites Newark Airport → Cape Liberty Cruise Port",
+          "notes": "About 20 minutes"
+        },
+        {
+          "type": "cruise",
+          "line": "Celebrity Cruises",
+          "vessel": "Celebrity Silhouette",
+          "route": "Cape Liberty, NJ → Royal Naval Dockyard, Bermuda"
+        }
+      ],
+      "dining": [
+        {
+          "venue": "Grand Cuvée",
+          "meal": "dinner",
+          "location": "Celebrity Silhouette, Deck 3",
+          "notes": "Select Dining, late seating at 8:30pm, table 246"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter",
+        "parents"
+      ]
+    },
+    {
+      "title": "Celebrity Silhouette Bermuda Day 3",
+      "date": "2025-06-30 00:00:00 -0400",
+      "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-3.html",
+      "subtitle": "Sea day - breakfast at the Spa Café and lunch at Sushi on Five",
+      "categories": [
+        "travel",
+        "bermuda"
+      ],
+      "tags": [
+        "june2025"
+      ],
+      "rollup_key": "2025silhouettebermuda",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "At sea",
+          "type": "at_sea",
+          "country": "International Waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Silhouette",
+          "type": "cruise_ship",
+          "night": "2 of 7"
+        }
+      ],
+      "dining": [
+        {
+          "venue": "Spa Café",
+          "meal": "breakfast",
+          "location": "Celebrity Silhouette, Solarium"
+        },
+        {
+          "venue": "Sushi on Five",
+          "meal": "lunch",
+          "location": "Celebrity Silhouette"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter",
+        "parents"
+      ]
+    },
+    {
+      "title": "Celebrity Silhouette Bermuda Day 4",
+      "date": "2025-07-01 00:00:00 -0400",
+      "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-4.html",
+      "subtitle": "Canada Day at sea",
+      "categories": [
+        "travel",
+        "bermuda"
+      ],
+      "tags": [
+        "july2025"
+      ],
+      "rollup_key": "2025silhouettebermuda",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "At sea",
+          "type": "at_sea",
+          "country": "International Waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Silhouette",
+          "type": "cruise_ship",
+          "night": "3 of 7"
+        }
+      ],
+      "dining": [
+        {
+          "venue": "Buffet",
+          "meal": "lunch",
+          "location": "Celebrity Silhouette",
+          "dishes": "Poutine and chicken à la king for Canada Day"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter",
+        "parents"
+      ]
+    },
+    {
+      "title": "Celebrity Silhouette Bermuda Day 5",
+      "date": "2025-07-02 00:00:00 -0400",
+      "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-5.html",
+      "subtitle": "Arriving at the Royal Naval Dockyard, Bermuda",
+      "categories": [
+        "travel",
+        "bermuda"
+      ],
+      "tags": [
+        "july2025"
+      ],
+      "rollup_key": "2025silhouettebermuda",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "Royal Naval Dockyard",
+          "type": "port_city",
+          "country": "Bermuda"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Silhouette",
+          "type": "cruise_ship",
+          "night": "4 of 7",
+          "notes": "Docked overnight at Royal Naval Dockyard"
+        }
+      ],
+      "venues": [
+        {
+          "name": "Clocktower Mall",
+          "type": "shopping_centre",
+          "location": "Royal Naval Dockyard"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise",
+          "line": "Celebrity Cruises",
+          "vessel": "Celebrity Silhouette",
+          "route": "Arrival at Royal Naval Dockyard, Bermuda"
+        }
+      ],
+      "activities": [
+        "Wandering the shops of the Clocktower Mall and the Dockyard"
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter",
+        "parents"
+      ]
+    },
+    {
+      "title": "Celebrity Silhouette Bermuda Day 6",
       "date": "2025-07-03 00:00:00 -0400",
-      "url": "/travel/rollup/2025/Norway-and-Denmark-2025-recap.html",
-      "subtitle": "Exploring Bergen, Balestrand, Voss, Oslo, and Copenhagen",
+      "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-6.html",
+      "subtitle": "In Bermuda, ferry to Hamilton to see Sherri's uncle Bobby",
+      "categories": [
+        "travel",
+        "bermuda"
+      ],
+      "tags": [
+        "july2025"
+      ],
+      "rollup_key": "2025silhouettebermuda",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "Royal Naval Dockyard",
+          "type": "port_city",
+          "country": "Bermuda"
+        },
+        {
+          "name": "Hamilton",
+          "type": "city",
+          "country": "Bermuda"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Silhouette",
+          "type": "cruise_ship",
+          "night": "5 of 7",
+          "notes": "Docked overnight at Royal Naval Dockyard"
+        }
+      ],
+      "transport": [
+        {
+          "type": "ferry",
+          "route": "Royal Naval Dockyard → Hamilton"
+        },
+        {
+          "type": "ferry",
+          "route": "Hamilton → Royal Naval Dockyard"
+        }
+      ],
+      "activities": [
+        "Ferry to Hamilton to meet Sherri's uncle Bobby"
+      ],
+      "dining": [
+        {
+          "venue": "Grand Cuvée",
+          "meal": "dinner",
+          "location": "Celebrity Silhouette, Deck 3"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter",
+        "parents"
+      ]
+    },
+    {
+      "title": "Celebrity Silhouette Bermuda Day 7",
+      "date": "2025-07-04 00:00:00 -0400",
+      "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-7.html",
+      "subtitle": "In Bermuda, the National Museum of Bermuda and a Fourth of July party",
+      "categories": [
+        "travel",
+        "bermuda"
+      ],
+      "tags": [
+        "july2025"
+      ],
+      "rollup_key": "2025silhouettebermuda",
+      "trip_stage": "port_call",
+      "locations": [
+        {
+          "name": "Royal Naval Dockyard",
+          "type": "port_city",
+          "country": "Bermuda"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Silhouette",
+          "type": "cruise_ship",
+          "night": "6 of 7"
+        }
+      ],
+      "venues": [
+        {
+          "name": "National Museum of Bermuda",
+          "type": "museum",
+          "location": "Royal Naval Dockyard"
+        }
+      ],
+      "transport": [
+        {
+          "type": "cruise",
+          "line": "Celebrity Cruises",
+          "vessel": "Celebrity Silhouette",
+          "route": "Royal Naval Dockyard, Bermuda → Cape Liberty, NJ"
+        }
+      ],
+      "activities": [
+        "National Museum of Bermuda, including the Commissioner's House",
+        "Fourth of July party in the Grand Foyer"
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter",
+        "parents"
+      ]
+    },
+    {
+      "title": "Celebrity Silhouette Bermuda Day 8",
+      "date": "2025-07-05 00:00:00 -0400",
+      "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-8.html",
+      "subtitle": "Sea day",
+      "categories": [
+        "travel",
+        "bermuda"
+      ],
+      "tags": [
+        "july2025"
+      ],
+      "rollup_key": "2025silhouettebermuda",
+      "trip_stage": "at_sea",
+      "locations": [
+        {
+          "name": "At sea",
+          "type": "at_sea",
+          "country": "International Waters"
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Celebrity Silhouette",
+          "type": "cruise_ship",
+          "night": "7 of 7"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter",
+        "parents"
+      ]
+    },
+    {
+      "title": "Celebrity Silhouette Bermuda Day 9",
+      "date": "2025-07-06 00:00:00 -0400",
+      "url": "/travel/bermuda/2025/Celebrity-Silhouette-Bermuda-Day-9.html",
+      "subtitle": "Sunrise in New York Harbor and the flight home",
+      "categories": [
+        "travel",
+        "bermuda"
+      ],
+      "tags": [
+        "july2025"
+      ],
+      "rollup_key": "2025silhouettebermuda",
+      "trip_stage": "disembarkation",
+      "locations": [
+        {
+          "name": "Bayonne",
+          "type": "port_city",
+          "country": "United States"
+        },
+        {
+          "name": "Newark Liberty International Airport",
+          "type": "airport",
+          "country": "United States"
+        },
+        {
+          "name": "Raleigh-Durham International Airport",
+          "type": "airport",
+          "country": "United States"
+        },
+        {
+          "name": "Holly Springs",
+          "type": "town",
+          "country": "United States"
+        }
+      ],
+      "transport": [
+        {
+          "type": "rideshare",
+          "provider": "Uber",
+          "route": "Cape Liberty Cruise Port → Newark Liberty International Airport",
+          "notes": "Easy pickup after self-service disembarkation, ahead of the crowds"
+        },
+        {
+          "type": "flight",
+          "carrier": "United",
+          "route": "EWR → RDU",
+          "notes": "On time"
+        }
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter",
+        "parents"
+      ]
+    },
+    {
+      "title": "Celebrity Silhouette Bermuda in 2025",
+      "date": "2025-07-07 00:00:00 -0400",
+      "url": "/travel/rollup/2025/Celebrity-Silhouette-Bermuda-recap.html",
+      "subtitle": "Two nights docked at Bermuda's Royal Naval Dockyard aboard the Celebrity Silhouette, with my parents along",
       "categories": [
         "travel",
         "rollup"
       ],
       "tags": [],
       "rollup_key": null,
-      "trip_type": "rollup",
-      "trip_duration": "May 8-19, 2025",
-      "trip_duration_days": 12,
+      "trip_type": "cruise",
+      "trip_duration": "June 28 - July 6, 2025",
+      "trip_duration_days": 9,
       "locations_visited": [
-        "Bergen, Norway",
-        "Balestrand, Norway",
-        "Voss, Norway",
-        "Oslo, Norway",
-        "Copenhagen, Denmark"
+        "Elizabeth, New Jersey, USA",
+        "Bayonne, New Jersey, USA",
+        "Royal Naval Dockyard, Bermuda",
+        "Hamilton, Bermuda"
       ],
       "countries_visited": [
-        "Norway",
-        "Denmark"
+        "United States",
+        "Bermuda"
       ],
       "transport": [
-        "transatlantic flights",
-        "DFDS Nordic Crown ferry (Oslo to Copenhagen)"
+        "United flights",
+        "Celebrity Silhouette cruise"
+      ],
+      "companions": [
+        "wife",
+        "son",
+        "daughter",
+        "parents"
       ]
     },
     {

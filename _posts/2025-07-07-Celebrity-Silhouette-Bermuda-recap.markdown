@@ -3,7 +3,6 @@ layout: post
 title: Celebrity Silhouette Bermuda in 2025
 subtitle: Two nights docked at Bermuda's Royal Naval Dockyard aboard the Celebrity Silhouette, with my parents along
 date:  2025-07-07
-published: false
 categories: travel rollup
 background: '/assets/20250703-dockyard-ferry-terminal-bg.jpg'
 destination: bermuda

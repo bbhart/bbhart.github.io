@@ -3,7 +3,6 @@ layout: post
 title: Celebrity Silhouette Bermuda Day 2
 subtitle: Embarkation and sailing out of New York Harbor
 date:  2025-06-29
-published: false
 categories: travel bermuda
 rollup_key: 2025silhouettebermuda
 tags: [june2025]

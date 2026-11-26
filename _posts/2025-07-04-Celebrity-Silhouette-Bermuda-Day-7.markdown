@@ -3,7 +3,6 @@ layout: post
 title: Celebrity Silhouette Bermuda Day 7
 subtitle: In Bermuda, the National Museum of Bermuda and a Fourth of July party
 date:  2025-07-04
-published: false
 categories: travel bermuda
 rollup_key: 2025silhouettebermuda
 tags: [july2025]

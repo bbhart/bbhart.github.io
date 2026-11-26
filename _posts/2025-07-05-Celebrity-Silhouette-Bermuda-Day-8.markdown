@@ -3,7 +3,6 @@ layout: post
 title: Celebrity Silhouette Bermuda Day 8
 subtitle: Sea day
 date:  2025-07-05
-published: false
 categories: travel bermuda
 rollup_key: 2025silhouettebermuda
 tags: [july2025]

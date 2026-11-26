@@ -3,7 +3,6 @@ layout: post
 title: Celebrity Silhouette Bermuda Day 9
 subtitle: Sunrise in New York Harbor and the flight home
 date:  2025-07-06
-published: false
 categories: travel bermuda
 rollup_key: 2025silhouettebermuda
 tags: [july2025]

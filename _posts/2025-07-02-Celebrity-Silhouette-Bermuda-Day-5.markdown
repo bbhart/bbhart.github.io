@@ -3,7 +3,6 @@ layout: post
 title: Celebrity Silhouette Bermuda Day 5
 subtitle: Arriving at the Royal Naval Dockyard, Bermuda
 date:  2025-07-02
-published: false
 categories: travel bermuda
 rollup_key: 2025silhouettebermuda
 tags: [july2025]

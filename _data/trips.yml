@@ -134,22 +134,19 @@ Norway-and-Denmark-2025-recap:
     - [Oslo, 59.913, 10.752, 1]
     - [Copenhagen, 55.676, 12.568, 2]
 
-# Uncomment on publish day. Left commented while the posts are unpublished:
-# home.html counts stop names from every entry here, so a live entry would
-# change the production "places" count before the trip is public.
-# Celebrity-Silhouette-Bermuda-recap:
-#   rollup_key: 2025silhouettebermuda
-#   label: Celebrity Silhouette Bermuda
-#   year: 2025
-#   start: 2025-06-28
-#   end: 2025-07-06
-#   pin: [32.327, -64.834]
-#   stops:
-#     - [Elizabeth, 40.662, -74.177, 1]
-#     - [Bayonne, 40.669, -74.114]
-#     - [Royal Naval Dockyard, 32.327, -64.834]
-#     - [Hamilton, 32.293, -64.782]
-#     - [Bayonne, 40.669, -74.114]
+Celebrity-Silhouette-Bermuda-recap:
+  rollup_key: 2025silhouettebermuda
+  label: Celebrity Silhouette Bermuda
+  year: 2025
+  start: 2025-06-28
+  end: 2025-07-06
+  pin: [32.327, -64.834]
+  stops:
+    - [Elizabeth, 40.662, -74.177, 1]
+    - [Bayonne, 40.669, -74.114]
+    - [Royal Naval Dockyard, 32.327, -64.834]
+    - [Hamilton, 32.293, -64.782]
+    - [Bayonne, 40.669, -74.114]
 
 Switzerland-and-Germany-recap:
   rollup_key: 2025chde
